@@ -1,0 +1,183 @@
+For personal use only
+
+ASX ANNOUNCEMENT
+ASX: SMN
+3rd July 2020
+
+SMS Group Update – Summary of Exceptional Annual Results and Further
+Material Progress to Pivotal STC
+
+Structural Monitoring Systems Plc (“SMS” or “the Company”) (ASX: SMN) is pleased to provide a
+further detailed, and full year-to-date, Group performance summary - as achieved through the
+2019/20 Financial Year. As previously detailed, and despite historically unprecedented global
+headwinds and operational adversity, the SMS Group has not only achieved remarkable
+financial results, but has concurrently logged substantial progress towards the Company’s nearterm aim of realising full commercial, and global, capability for the CVM™ technology platform
+via the attainment of FAA Supplemental Type Certificate (“STC”) status in 2020.
+AEM Full-Year Financial Performance:
+-
+
+Full-year 2020 Sales at $A18.961 million (+10.7% vs FY-2019)
+
+-
+
+Normalised full-year EBITDA at circa-$A4.400 million (+24.6% vs FY-2019)
+
+-
+
+June-20 records $A1.850 million in revenue to close the 2020 financial year
+
+-
+
+Very strong cash generation realized for 2019/20, and during Q2-2020 especially
+
+Wholly-owned SMS subsidiary, Anodyne Electronics Manufacturing Corp (“AEM”), logged
+another very solid month in June, recording $A1.850 million in revenue to close the 2020 financial
+year at $A18.961 million total revenue, an increase of 10.7% over FY-2019.
+
+AEM achieved normalised EBITDA of approximately $A4.400 million for the full year, an increase
+of 24.6% over FY-2019. 1 Cash generation through the final quarter was also extremely pleasing,
+with AEM’s closing cash on-hand balance registering $A1.399 million, (i.e. $A1.213 million in net
+cash generated in Q2-2020 alone). Total year-end SMS Group cash-at-bank thus stood at
+$A2.113 million – an extraordinary outcome given the extreme global environment.
+
+1
+
+These standout preliminary results are based on unaudited management accounts, and are calculated after eliminating intercompany sales and adjusting for SMS R&D costs carried by AEM together with an adjustment to account for the implementation of
+IRFS 16 Leases in July 2019.
+
+For personal use only
+
+ASX ANNOUNCEMENT
+ASX: SMN
+3rd July 2020
+
+The 2020 revenue and profitability achieved by AEM is a remarkable accomplishment particularly in light of the unprecedented challenges present in the global aviation market
+together with the operating impact imposed by COVID-19 on holistic commercial platforms. The
+outcomes achieved by AEM duly reflect the combined and sustained efforts of a very
+experienced, professional and dedicated personnel team in Kelowna, BC, Canada.
+
+Looking forward, AEM will continue to focus on the development of new-generation product
+solutions - primarily focused on the global rotorcraft markets. R&D spend (currently circa-10% of
+sales) will thus rise to circa-13% of sales over the upcoming financial year, as AEM continues to
+add to its pipeline of new products under development - targeting several of the largest global
+aerospace OEMs. The SMS Board and executive management are highly optimistic in regards to
+the significant growth opportunities these new product solutions will provide - particularly given
+the scale of the addressable markets for these products globally.
+Further, AEM’s actual sales orders for the full forthcoming Q3-2020 (i.e. Q1-FY2020/21) are
+already very firm, and measurably ahead of forward orders recorded at the same time last year.
+These early indications, together with the launching of an exciting suite of new AEM-developed
+products (referred to above) later in this calendar year, provides the Company with genuine
+optimism concerning the broad Group outlook over the coming financial year, and beyond.
+CVM™ Commercialisation Update and Outlook:
+The Company’s direct FAA contacts have indicated that the required official feedback to Delta
+Engineering’s (“DE”) initial response pack related to the approved Issue Paper (“IP”) has already
+been prepared and internally submitted within the FAA. Additional required FAA personnel
+responses, if any, have also been gathered – and these will go back to the FAA’s New York
+Aircraft Certification Office (“ACO”). This is expected to be completed within the next two weeks.
+Personnel from the Company’s strategic partners, DE and Sandia National Laboratories
+(“Sandia”), are fully prepared and ready for testing to commence in the coming month, despite
+current COVID-19 restrictions, and a 14-day quarantine requirement after any public
+transportation is utilised prior to arrival at the USAF base in Albuquerque, adjacent to Sandia’s
+New Mexico testing facility. As SMS will require key personnel to witness and oversee all testing
+regimes, the Company has already planned to have our key personnel travel to NM via private
+transport, to avoid this 14-day quarantine requirement.
+Concurrently, the required pre-validation CVM™ installation on a Delta Air Lines (“Delta”) aircraft
+has been discussed in detail (a requirement for the completed STC), and the necessary
+production of CVM™ installation kits is already underway, Similarly, several Delta aircraft have
+
+For personal use only
+
+ASX ANNOUNCEMENT
+ASX: SMN
+3rd July 2020
+
+already been short-listed for the installation, and a final decision for the selected aircraft will be
+made during the month of July.
+Additionally, Sandia and SMS/AEM technical staff continue work on preparing supporting data
+and further analysis of past SMS CVM™ program data to satisfy some of the data requirements
+in the IP. To this end, technical focus is on additional accumulated B737-NG center wing-box
+data (derived from the Company’s prior multi-aircraft Delta B737-NG CVM installation Program).
+This data has now been collected, collated and provided up to, and including, 2020 collection
+points all the way from the Programme’s inception date.
+2ku Wi-Fi Program Specifics:
+All necessary work requirements are proceeding as planned along the STC approval path for the
+2ku Wi-Fi system. The program is on-schedule, and is currently well into Stage III - while some of
+the Stage IV effort has already been submitted to the FAA.
+Over the past month, SMS and DE personnel have completed all required documents and
+analyses, and submitted all information required by the FAA to proceed, as planned, through
+the STC process. SMS is now awaiting routine feedback from the FAA re the Certification Plan,
+the Issue Paper, and the Test Plan. SMS has already submitted the important Failure Modes and
+Effects Analysis (“FMEA”), and continues to compile supporting historical data for the
+Organisation
+Designation
+Authorisation
+(“ODA”)
+and
+the
+FAA,
+as
+required.
+SMS, Sandia and DE have acquired, and collaborated on, the preliminary fatigue testing results
+of test specimens, and utilized those results to further align the stress loads and decision thresholds
+for the upcoming formal performance testing that will begin once the FAA approves the Test
+Plan.
+As mentioned above, production of CVM™ sensors and associated peripheral parts has already
+begun, in anticipation of the inaugural 2ku Wi-Fi installation on a Delta B737-800 aircraft. A
+number of potential installation facilities have been identified throughout the USA, and with all
+candidate aircraft conveniently parked at present, the current timeframe presents an
+opportunity to efficiently complete this pivotal first installation, and the required subsequent STC
+inspection process.
+
+For personal use only
+
+ASX ANNOUNCEMENT
+ASX: SMN
+3rd July 2020
+
+CVM™ Commercialisation Summary:
+As communicated in prior Releases, and despite the extraordinarily arduous global operating
+environment, SMS - and the Company’s key strategic counterparties - remain well on-track to
+deliver a highly significant commercial milestone within the time parameters that have been
+previously communicated, pending a reasonable (and expected) response time from the FAA.
+This would see Stage IV of the IP - and full required ancillary testing - completed in Q3-2020, with
+full STC-approval expected shortly thereafter in Q4-2020.
+This announcement is authorised by the Board.
+Disclaimer
+
+This announcement contains certain forward-looking statements with respect to the financial condition, operations and business of
+the Group and certain plans and objectives of the management of SMS. Forward-looking statements can be identified by the use
+of forward-looking terminology, including, without limitation, the terms “believes”, “estimates”, “anticipates”, “expects, “predicts”,
+“intends”, “plans”, “goals”, “targets”, “aims”, “outlook”, “guidance”, “forecasts”, “may”, “will”, “would”, “could” or “should” or, in
+each case, their negative or other variations or comparable terminology. These forward-looking statements include all matters that
+are not historical facts.
+Such forward looking statements involve known and unknown risks, uncertainties and other factors which because of their nature
+may cause the actual results or performance of the Group to be materially different from the results or performance expressed or
+implied by such forward looking statements. Such forward looking statements are based on numerous assumptions regarding the
+Group’s present and future business strategies and the political and economic environment in which the Group will operate in the
+future, which may not be reasonable, and are not guarantees or predictions of future performance. No representation is made that
+any of these statements or forecasts will come to pass or that any forecast result will be achieved, or that there is a reasonable basis
+for any of these statements or forecasts.
+
+Forward-looking statements speak only as at the date of this presentation and to the full extent permitted by law, SMS, and their
+respective affiliates and related bodies corporate and each of their respective Related Parties and intermediaries disclaim any
+obligation or undertaking to release any updates or revisions to information to reflect any change in any of the information
+contained in this presentation (including, but not limited to, any assumptions or expectations set out in the presentation).
+Financial Information
+Any pro forma and forecast financial information provided in this announcement is for illustrative purposes only and do not represent
+a forecast or expectation as to the Group’s future financial condition and/or performance. This document has been prepared at
+a time where the review of financial information contained in this presentation has not been completed and accordingly, you
+should only rely on any forecast or expectation as to the Group’s future financial condition and/or performance that is contained
+in a prospectus or other offering document which may be issued by SMS in connection with any offer of SMS securities.
+
+For further information, please contact:
+Sam Wright
+Company Secretary
+P: +61 08 6161 7412
+E: sam@straightlines.net.au
+Steve Forman
+Head of Investor Relations
+P: +1 917 319 7291
+E: s.forman@smsystems.com.au
+www.smsystems.com.au
+
+

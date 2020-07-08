@@ -1,0 +1,95 @@
+For personal use only
+
+3 July 2020
+
+ASX ANNOUNCEMENT
+Conversion of convertible securities in Votiro into ordinary shares
+Senetas Corporation Limited (ASX: SEN) (Senetas), today announces that the USD8 million
+convertible notes (Notes) that it previously subscribed for in Votiro Cybersec Global Pty Limited
+(Votiro) have automatically converted into ordinary shares in accordance with the terms of the
+Notes. Senetas also held 3 convertible preference shares which have also converted into ordinary
+shares in Votiro.
+As a result of the above conversions, Senetas will hold 57.4% of shares in Votiro on a fully diluted
+basis if all issued options under the Votiro ESOP were vested and exercised.
+The investment in Votiro is a further expansion of Senetas’s security product suite and represents a
+significant opportunity for growth. Founded in 2010 by former cybersecurity experts in the Israel
+Defence Force, Votiro is a leading CDR (content disarm and reconstruction) company.
+Votiro’s patented CDR technology is designed to protect businesses from sophisticated threats in
+attachments and files from all communications channels.
+The Votiro CDR technology
+automatically scans and sanitises each and every file sent or shared with the organisation. Votiro’s
+primary target markets in the near term are Japan, APAC and North America. The 2020 financial
+year saw the first sales of Votiro’s CDR product in North America, and Votiro expects that market
+will become Votiro’s largest sales market within the next 12-18 months.
+Accordingly to build sales in the North American market Votiro has established a US based sales
+presence, and the team recently welcomed a new Head of Sales.
+Votiro’s R&D team has recently completed an upgrade to its CDR technology to become a rapid
+deployment virtual appliance, further broadening the market opportunity for its products. The first
+deployment of the new product was delivered successfully in the US in May.
+While the impact of COVID-19 has delayed some sales closures in recent months, Votiro has been
+encouraged by ongoing customer interest in its products, including requests for proof of concept
+deployments. Existing customers are also continuing to expand their user bases, with one financial
+services company having now increased its user base for Votiro’s CDR technology to over 30,000
+users.
+This announcement was authorised for release by Andrew Wilson, CEO of Senetas.
+
+END
+For further information please contact:
+Chris Knorr
+Market Eye
+M: +61 417 033 623
+E: chris.knorr@marketeye.com.au
+
+For personal use only
+
+ABOUT SENETAS CORPORATION LIMITED
+Senetas is an Australian listed public company (ASX:SEN) and a leading developer of highperformance encryption security solutions. From certified high-assurance hardware and
+virtualised encryption for data networks, to the most secure file-sharing collaboration application
+providing data sovereignty control; all are based on the Senetas crypto-agile, quantum-ready
+platform.
+Senetas security solutions are trusted to protect business enterprises, governments, defence,
+technology service providers and critical national infrastructure against data breaches and
+cyber-attacks. Leveraging end-to-end encryption and state-of-the-art key management, they
+provide long-term data protection without compromising network and application
+performance, or user experience.
+➢
+
+CN Series Hardware Encryption: Certified, high-assurance and network independent encryption for
+core network and IT infrastructure.
+
+Certified by leading independent authorities (Common Criteria, FIPS and NATO), CN Series highperformance encryptors provide maximum data protection and security for public and private
+networks. Their designed-in agility protects mixed network types and topologies. Operating from
+ultra-fast 100Gbps to modest 10Mbps bandwidths, they feature near-zero latency and
+overheads.
+➢
+
+CV Series Virtualised Encryption: Scalable, flexible and crypto-agile encryption for virtual customer
+premises equipment and wide area networks.
+
+Scalable to hundreds of endpoints, the CV Series is a software version of the trusted Senetas
+encryption platform. Network independent, it delivers concurrent, policy-based multi-Layer
+encryption at up to 5Gbps. It is ideally suited to cloud, distributed and software-defined
+networks. The CV Series enables flexible licence based deployment to ensure data protection to
+the network virtual edge.
+➢
+
+SureDrop Encrypted File-Sharing Collaboration: The secure file-sharing collaboration application with
+100% data sovereignty control and more.
+
+SureDrop has the usability of box-type file sharing and other collaboration tools, with the added
+benefits of end-to-end encryption security and 100% sovereign data location control. It may be
+deployed as an on-premises or service provider SaaS solution. SureDrop is also available with
+Votiro Disarmer; the award-winning file content sanitisation tool. It protects against all types of
+malicious content, malware and zero-day attacks.
+Senetas encryption solutions have been trusted to protect much of the world’s most sensitive
+information for more than 20 years. They are used to protect everything from government and
+defence secrets to intellectual property, financial transactions, citizen privacy to real-time CCTV
+networks and infrastructure SCADA control systems.
+Senetas encryption solutions are used in more than 40 countries. They are distributed and
+supported internationally by Thales, and in Australia and New Zealand by Senetas and its partner
+community.
+www.senetas.com
+
+2
+
+

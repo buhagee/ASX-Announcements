@@ -1,0 +1,595 @@
+For personal use only
+
+ASX RELEASE
+3 July 2020
+
+LORRAINE MINE GOLD DRILLING PROGRAMME UPDATE
+•
+
+Diamond drillhole CM-20-01 targeting gold mineralisation between 310 and 340m downhole was
+at 248m last night.
+
+Chase Mining Corporation Limited (“CML” or “The Company”) provides the following update on the
+progress of the Lorraine Mine Gold Project diamond drill programme targeting the gold (plus copper
+and silver) mineralisation reported from historic sampling and limited drilling associated with the 6-Level
+development of the Lorraine Nickel Mine in Southwestern Quebec (ASX Announcements 9 June and
+1 July 2020).
+Diamond drillhole CM-20-01 targeting gold mineralisation between 310 and 340m downhole was at
+248m at end of shift last night (Figures 1 and 2). Pending no breakdowns, the hole will be completed,
+surveyed and the core visually logged and reported to the ASX on Monday 6 July.
+Competent Person Statements
+The information in this report that relates to Exploration Activities is based on information evaluated by
+Dr Leon Pretorius who is a Fellow of The Australasian Institute of Mining and Metallurgy (FAusIMM)
+and who has sufficient experience relevant to the activity which he is undertaking to qualify as a
+Competent Person as defined in the 2012 Edition of the Australasian Code for Reporting of Exploration
+Results, Mineral Resources and Ore Reserves (JORC Code 2012). Dr Pretorius is the Executive
+Chairman of Chase Mining Corporation Limited and he consents to the inclusion in the report of the
+information in the form and context in which it appears. Dr Pretorius holds shares in Chase Mining
+Corporation Limited.
+Information in this ASX announcement that relates to Exploration Activities is based on information
+compiled by Mr Martin Kavanagh. Mr Kavanagh is a Non-Executive Director of Chase Mining
+Corporation Limited and is a Fellow of the Australasian Institute of Mining and Metallurgy (FAusIMM),
+a Member of the Australian Institute of Geoscientists (MAIG) and a Member of the Canadian Institute
+of Mining, Metallurgy and Petroleum (CIM). Mr Kavanagh has sufficient experience, which is relevant
+to the style of mineralisation and type of deposit under consideration, and to the activities, which he is
+undertaking. This qualifies Mr Kavanagh as a “Competent Person” as defined in the 2012 edition of the
+Australasian Code for Reporting of Exploration Results, Mineral Resources and Ore Reserves (JORC
+Code 2012). Mr Kavanagh consents to the inclusion of information in this announcement in the form
+and context in which it appears. Mr Kavanagh holds shares in Chase Mining Corporation Limited.
+
+CHASE MINING CORPORATION LIMITED
+ABN 12 118 788 846
+
+Level 8, 46 Edward Street, Brisbane QLD 4000
+PO Box 15505, City East QLD 4002
+0439 310 818 | 0419 702 616
+https://www.chasemining.com.au
+
+For personal use only
+
+Figure 1: Hole CM-20-01 in progress
+
+Table 1: Planned Drill Hole Locations – Hole CM-20-01 currently at 248m
+Hole ID
+
+Easting
+(mE)
+
+Northing
+(mN)
+
+Elevation
+(CGVD)*
+
+Azimuth
+
+Dip
+
+Planned Depth
+(m)
+
+CM-20-01
+PLN-CM-20-02
+PLN-CM-20-03
+PLN-CM-20-04
+
+655839
+655839
+655839
+655839
+
+5246820
+5246820
+5246820
+5246820
+
+301
+301
+301
+301
+
+327°
+327°
+319°
+319°
+
+-53°
+-58°
+-57.5°
+-53.5°
+Total
+
+370
+410
+410
+380
+1,570m
+
+Coordinates NAD83 UTM Zone 17N. Azimuth True North. *Canadian Height Datum (m).
+
+For personal use only
+
+Figure 2: Active and Planned Drilling – Mine Section 60E showing the shaft and level development,
+importantly the location of underground hole U-6-76 is shown with the 1m at 53.47g/t Au high-grade
+intercept at ~12m below the 6-Level drift.
+
+This announcement has been authorised for release to the ASX by the Disclosure Committee, on behalf
+of the Board.
+For, and on behalf of, the Board of Directors of Chase Mining Corporation Limited:
+Dr Leon Pretorius
+Executive Chairman
+Chase Mining Corporation Limited
+3 July 2020
+Direct any enquiries to: Martin Kavanagh on 0419 429 974 or Leon Pretorius on 0419 702 616
+
+APPENDIX 2
+JORC Code, 2012 Edition – Table 1 report template
+
+3 July 2020
+
+For personal use only
+
+Section 1 Sampling Techniques and Data
+(Criteria in this section apply to all succeeding sections.)
+
+Criteria
+
+JORC Code explanation
+
+Commentary
+
+Sampling
+techniques
+
+• Nature and quality of sampling (e.g. cut channels, random chips, or
+
+• No visual or assay results from the 2020 drill programme
+are being reported in this ASX announcement.
+
+•
+•
+•
+
+Drilling
+techniques
+
+•
+
+Drill sample
+recovery
+
+•
+•
+•
+
+Logging
+
+•
+
+specific specialised industry standard measurement tools appropriate
+to the minerals under investigation, such as down hole gamma
+sondes, or handheld XRF instruments, etc). These examples should
+not be taken as limiting the broad meaning of sampling.
+Include reference to measures taken to ensure sample representivity
+and the appropriate calibration of any measurement tools or systems
+used.
+Aspects of the determination of mineralisation that are Material to the
+Public Report.
+In cases where ‘industry standard’ work has been done this would be
+relatively simple (e.g. ‘reverse circulation drilling was used to obtain 1
+m samples from which 3 kg was pulverised to produce a 30g charge
+for fire assay’). In other cases, more explanation may be required,
+such as where there is coarse gold that has inherent sampling
+problems. Unusual commodities or mineralisation types (e.g.
+submarine nodules) may warrant disclosure of detailed information.
+Drill type (e.g. core, reverse circulation, open-hole hammer, rotary air
+blast, auger, Bangka, sonic, etc) and details (e.g. core diameter, triple
+or standard tube, depth of diamond tails, face-sampling bit or other
+type, whether core is oriented and if so, by what method, etc).
+Method of recording and assessing core and chip sample recoveries
+and results assessed.
+Measures taken to maximise sample recovery and ensure
+representative nature of the samples.
+Whether a relationship exists between sample recovery and grade
+and whether sample bias may have occurred due to preferential
+loss/gain of fine/coarse material.
+Whether core and chip samples have been geologically and
+geotechnically logged to a level of detail to support appropriate
+Mineral Resource estimation, mining studies and metallurgical
+
+• This ASX relates to the reporting of historic (1960s) data from the then
+operating Lorraine Nickel Mine.
+
+• Information relating to the Lorraine Projects exploration history was
+sourced from company reports lodged with the Quebec Mines
+Department (MERN -Ministère de l’Énergie et des Resources
+naturelles) and compiled by ORIX Geoscience the Company’s
+consultant geologists
+• All of the assessment work has been carried under the supervision of
+the Company’s Competent Persons namely, Directors Dr Leon
+Pretorius and Martin Kavanagh.
+
+• No Drilling, not applicable.
+
+• No Drilling, not applicable.
+
+•
+
+No Drilling, not applicable.
+
+Criteria
+
+JORC Code explanation
+
+For personal use only
+
+•
+
+Sub-sampling
+techniques
+and sample
+preparation
+
+•
+•
+•
+•
+•
+•
+•
+
+Quality of
+assay data
+and
+laboratory
+tests
+
+•
+•
+
+•
+Verification of
+sampling and
+assaying
+
+•
+•
+•
+•
+
+studies.
+Whether logging is qualitative or quantitative in nature. Core (or
+costean, channel, etc) photography.
+The total length and percentage of the relevant intersections logged.
+If core, whether cut or sawn and whether quarter, half or all core
+taken.
+If non-core, whether riffled, tube sampled, rotary split, etc and
+whether sampled wet or dry.
+For all sample types, the nature, quality, and appropriateness of the
+sample preparation technique.
+Quality control procedures adopted for all sub-sampling stages to
+maximise representivity of samples.
+Measures taken to ensure that the sampling is representative of the in
+situ material collected, including for instance results for field
+duplicate/second-half sampling.
+Whether sample sizes are appropriate to the grain size of the material
+being sampled.
+The nature, quality and appropriateness of the assaying and
+laboratory procedures used and whether the technique is considered
+partial or total.
+For geophysical tools, spectrometers, handheld XRF instruments, etc,
+the parameters used in determining the analysis including instrument
+make and model, reading times, calibrations factors applied and their
+derivation, etc.
+Nature of quality control procedures adopted (e.g. standards, blanks,
+duplicates, external laboratory checks) and whether acceptable levels
+of accuracy (i.e. lack of bias) and precision have been established.
+The verification of significant intersections by either independent or
+alternative company personnel.
+The use of twinned holes.
+Documentation of primary data, data entry procedures, data
+verification, data storage (physical and electronic) protocols.
+Discuss any adjustment to assay data.
+
+Commentary
+
+• No Drilling, not applicable.
+
+• No Drilling, not applicable.
+
+• No Drilling, not applicable.
+
+For personal use only
+
+Criteria
+
+JORC Code explanation
+
+Commentary
+
+Location of
+data points
+
+• Accuracy and quality of surveys used to locate drill holes (collar and
+
+• The historic mine grid and all hole collars have been tied into UTM
+
+down-hole surveys), trenches, mine workings and other locations
+used in Mineral Resource estimation.
+• Specification of the grid system used.
+• Quality and adequacy of topographic control.
+
+NAD83 Zone 17 (Northern Hemisphere)
+• The VD shown in Figure 4 are based on the Canadian Height Datum
+(CGVD)
+• Figures 1 to 5 of this ASX show the location of the underground gold
+channel sampling and drilling relative to a reconstructed mine grid
+system which has also been tied into the local UTM grid
+
+Data spacing
+and
+distribution
+
+• Data spacing for reporting of Exploration Results.
+• Whether the data spacing and distribution is sufficient to establish the
+
+• Not Applicable – no resource estimates
+
+Orientation of
+data in
+relation to
+geological
+structure
+
+•
+•
+•
+
+degree of geological and grade continuity appropriate for the Mineral
+Resource and Ore Reserve estimation procedure(s) and
+classifications applied.
+Whether sample compositing has been applied.
+Whether the orientation of sampling achieves unbiased sampling of
+possible structures and the extent to which this is known, considering
+the deposit type.
+If the relationship between the drilling orientation and the orientation
+of key mineralised structures is considered to have introduced a
+sampling bias, this should be assessed and reported if material.
+The measures taken to ensure sample security.
+
+Sample
+security
+
+•
+
+Audits or
+reviews
+
+• The results of any audits or reviews of sampling techniques and data.
+
+• Not Applicable
+
+• Not Applicable
+•
+
+Not Applicable
+
+Section 2 Reporting of Exploration Results
+
+For personal use only
+
+(Criteria listed in the preceding section also apply to this section.)
+Criteria
+
+JORC Code explanation
+
+Commentary
+
+Mineral
+tenement and
+land tenure
+status
+
+• Type, reference name/number, location and ownership including
+
+• The Company holds 100% of the Project tenements in the name of its
+
+Exploration
+done by other
+parties
+
+Geology
+
+agreements or material issues with third parties such as joint
+ventures, partnerships, overriding royalties, native title interests,
+historical sites, wilderness or national park and environmental
+settings.
+• The security of the tenure held at the time of reporting along with any
+known impediments to obtaining a licence to operate in the area.
+• Acknowledgment and appraisal of exploration by other parties.
+
+wholly owned subsidiary Zeus Olympus Sub Corp.
+
+• The Mining Claims are in good standing and no known impediments
+exist
+
+• Information relating to the Lorraine Projects exploration history was
+sourced from company reports lodged with the Quebec Mines
+Department (MERN -Ministère de l’Énergie et des Resources
+naturelles) and compiled by ORIX Geoscience the Company’s
+consultant geologists.
+
+• Deposit type, geological setting and style of mineralisation.
+
+•
+
+•
+•
+
+•
+
+Drill hole
+Information
+
+• A summary of all information material to the understanding of the
+exploration results including a tabulation of the following information
+for all Material drill holes:
+o easting and northing of the drill hole collar
+
+The Company is focused on the exploration for Ni-Cu-Co-PGM
+mineralised gabbro bodies which intrude a sequence of mafic
+volcanic and felsic volcaniclastic sedimentary rocks in the BelleterreAngliers Greenstone Belt. The BAGB contains a number of gold
+deposits
+Gold mineralisation at the Lorraine Mine occurs as shear zone
+hosted quartz-pyrite-chalcopyrite veins footwall to Lorraine Ni-CuPGE massive sulphide body
+The Company’s website and listed ASX Announcements contain
+numerous references to the ‘Bonanza Grade Gold Mineralisation’ at
+the Lorraine Mine and of the Company’s intension to drill the gold
+mineralised zone
+ASX Announcements; 10 September 2018, 9 January 2019, 7
+August 2019, 15 October 2019, 9 December 2019 and 21 January
+2020.
+
+• Only one undergound drill hole is referenced in this ASX
+announcement namely U-6-76.
+
+• The collar location is posted on the mine level plans
+• The hole geology and assays results are taken from a Lorraine
+
+For personal use only
+
+Criteria
+
+JORC Code explanation
+
+•
+
+Data
+aggregation
+methods
+
+•
+•
+
+•
+
+o elevation or RL (Reduced Level – elevation above sea level in
+metres) of the drill hole collar
+o dip and azimuth of the hole
+o down hole length and interception depth
+o hole length.
+If the exclusion of this information is justified on the basis that the
+information is not Material and this exclusion does not detract from
+the understanding of the report, the Competent Person should clearly
+explain why this is the case.
+In reporting Exploration Results, weighting averaging techniques,
+maximum and/or minimum grade truncations (e.g. cutting of high
+grades) and cut-off grades are usually Material and should be stated.
+Where aggregate intercepts incorporate short lengths of high-grade
+results and longer lengths of low-grade results, the procedure used
+for such aggregation should be stated and some typical examples of
+such aggregations should be shown in detail.
+The assumptions used for any reporting of metal equivalent values
+should be clearly stated.
+These relationships are particularly important in the reporting of
+Exploration Results.
+If the geometry of the mineralisation with respect to the drill hole
+angle is known, its nature should be reported.
+If it is not known and only the down hole lengths are reported, there
+should be a clear statement to this effect (e.g. ‘down hole length, true
+width not known’).
+
+Relationship
+between
+mineralisation
+widths and
+intercept
+lengths
+
+•
+
+Diagrams
+
+• Appropriate maps and sections (with scales) and tabulations of
+
+•
+•
+
+intercepts should be included for any significant discovery being
+reported These should include, but not be limited to a plan view of
+drill hole collar locations and appropriate sectional views.
+Balanced
+reporting
+
+Other
+substantive
+
+• Where comprehensive reporting of all Exploration Results is not
+practicable, representative reporting of both low and high grades
+and/or widths should be practiced to avoid misleading reporting of
+Exploration Results.
+• Other exploration data, if meaningful and material, should be reported
+including (but not limited to): geological observations; geophysical
+survey results; geochemical survey results; bulk samples – size and
+method of treatment; metallurgical test results; bulk density,
+
+Commentary
+Mining Company Diamond Drill Log.
+• Information on the 601 W channel sampling was taken from various
+historic reports.
+
+•
+•
+
+The historic data contains no information on the OAQC of the 1960s
+gold sampling and assaying
+The Company has reported factual data from the1960s and as such
+emphasises that modern QAQC procedures and related checks and
+balances are not available in regard the historic database information
+
+• Gold mineralisation at Lorraine Mine is interpreted to be hosted in
+steeply dipping SSE shear zone footwall to the Ni-Cu massive sulphide
+body
+• Refer to Figure 4 in body of text.
+• The intersection is reported as adown hole lengths
+
+• Figures 1 to 5 of this ASX show the location of the underground gold
+channel sampling and drilling relative to a reconstructed mine grid
+system which has also been tied into the local UTM grid
+
+• The Company has reported factual data from the1960s and as such
+emphasises that modern QAQC procedures and related checks and
+balances are not available in regard the historic database information
+
+• The Company’s website (www.chasemining.com.au) details historical
+exploration, geology and mineralisation and geophysical survey data
+tabled in the form of ASX announcements for the Canadian projects.
+
+Criteria
+
+For personal use only
+
+exploration
+data
+Further work
+
+JORC Code explanation
+
+Commentary
+
+groundwater, geotechnical and rock characteristics; potential
+deleterious or contaminating substances.
+
+• The nature and scale of planned further work (e.g. tests for lateral
+extensions or depth extensions or large-scale step-out drilling).
+• Diagrams clearly highlighting the areas of possible extensions,
+including the main geological interpretations and future drilling areas,
+provided this information is not commercially sensitive.
+
+•
+
+Further work at Lorraine will be dependent on results from the
+present 2020 drilling programme and cannot be better defined at
+present.
+
+

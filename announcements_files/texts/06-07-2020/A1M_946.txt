@@ -1,0 +1,796 @@
+For personal use only
+
+Investor Presentation
+July 2020
+
+1
+
+For personal use only
+
+Important Information
+This presentation has been prepared by AIC Mines Limited (“the Company” or “AIC”) to provide summary information about AIC and its activities current as at the date of this presentation, in connection with a capital raising comprising an offer of
+fully paid ordinary shares in the Company (“New Shares”) under an institutional placement (“Placement”) and an entitlement offer (“Entitlement Offer”) to eligible shareholders (together the Placement and Entitlement Offer are referred to as the
+“Offer”).
+The information contained in this presentation is of a general background nature and does not purport to be complete, or contain all the information security holders would require to evaluate their investment in the Company, nor does it contain all
+the information which would be required in a prospectus or product disclosure statement prepared in accordance with the Corporations Act 2001 (Cth) (“Corporations Act”). This presentation should be read in conjunction with AIC’s other periodic
+and continuous disclosure announcements lodged with the Australian Securities Exchange, which are available at www.asx.com.au and www.aicmines.com.au. This presentation contains forecasts and forward looking statements which are not a
+guarantee of future performance and which involve certain risks. Actual results and future outcomes may differ from those outlined herein. The presentation should not be construed as an offer or invitation to subscribe for or purchase securities in
+AIC.
+The information contained in this document has been prepared in good faith by AIC, however no guarantee representation or warranty expressed or implied is or will be made by any person (including AIC and its affiliates and their directors,
+officers, employees, associates, advisers and agents) as to the accuracy, reliability, correctness, completeness or adequacy of any statements, estimates, options, conclusions or other information contained in this document.
+To the maximum extent permitted by law, AIC and its affiliates and their directors, officers employees, associates, advisers and agents each expressly disclaims any and all liability, including, without limitation, any liability arising out of fault or
+negligence, for any loss arising from the use of or reliance on information contained in this document including representations or warranties or in relation to the accuracy or completeness of the information, statements, opinions, forecasts, reports
+or other matters, express or implied, contained in, arising out of or derived from, or for omissions from, this document including, without limitation, any financial information, any estimates or projections and any other financial information derived
+therefrom.
+Statements in this document are made only as of the date of this document unless otherwise stated and the information in this document remains subject to change without notice. No responsibility or liability is assumed by AIC or any of its
+affiliates for updating any information in this document or to inform any recipient of any new or more accurate information or any errors or mis-descriptions of which AIC and any of its affiliates or advisers may become aware.
+No Liability
+Neither AIC nor Argonaut Securities Pty Limited (“Argonaut”), nor their related bodies corporate and other affiliates, and their respective directors, employees, consultants and agents (“Limited Group”) makes any representation or warranty as to
+the accuracy, completeness, timeliness or reliability of the contents of this document or takes any responsibility for any part of this document. Argonaut has not authorised, permitted or caused the issue or lodgement, submission, dispatch or
+provision of this document and there is no statement in this document which is based on any statement made by Argonaut any of member of its Limited Group. To the maximum extent permitted by law, no member of the Limited Group accepts
+any liability (including, without limitation, any liability arising from fault or negligence on the part of any of them) for any loss whatsoever arising from the use of this document or its contents or otherwise arising in connection with it. Further, no
+member of the Limited Group accepts any fiduciary obligations to or relation with any investor or potential investor in connection with the offer of the New Shares, or otherwise, and by accepting this document each recipient expressly disclaims
+any fiduciary relationship and agrees that it is responsible for making its own independent judgements with respect to the New Shares referred to in this document, and any other transaction or other matter arising in connection with this document.
+Conduct of the Offer
+The Placement will be conducted under section 708A of the Corporations Act and will be made available to certain persons who are "professional" or "sophisticated" investors (within the meaning of subsections 708(8) and 708(11) of the
+Corporations Act). The Entitlement Offer will only be made available to certain eligible shareholders in Australia, New Zealand, Hong Kong, Singapore, Indonesia and the United Kingdom and will be conducted in accordance with section 708AA of
+the Corporations Act.
+Determination of eligibility of investors for the purposes of the Offer is determined by reference to a number of matters, including legal and regulatory requirements, logistical and registry constraints and the discretion of the Company and the
+Underwriter/Lead Manager. To the maximum extent permitted by law, the Company and the Underwriter/Lead Manager each disclaim any duty or liability (including for fault or negligence) in respect of the exercise of that discretion or otherwise.
+You acknowledge and agree that your existing holding, if any, of shares in the Company will be estimated by reference to the Company’s beneficial register which shows historical holdings as at the relevant date and is not up to date. There will be
+no verification or reconciliation of the holdings as shown in the historical beneficial register and accordingly this may not truly reflect your actual holding of shares in the Company. The Company and the Underwriter/Lead Manager do not have any
+obligation to reconcile assumed holdings (eg for recent trading or swap positions) when determining allocations nor do they have any obligation to allocate pro rata on the basis of existing security holdings. If you do not reside in a permitted
+jurisdiction you will not be able to participate in the Placement. The Company and the Underwriter/Lead Manager disclaim any duty or liability (including for fault or negligence) in respect of the determination of your allocation using your assumed
+holdings.
+You further acknowledge and agree that allocations are at the sole discretion of the Company and/or the Underwriter/Lead Manager. The Company and the Underwriter/Lead Manager disclaim any duty or liability (including, without limitation, any
+liability arising from fault or negligence) in respect of the exercise or otherwise of that discretion, to the maximum extent permitted by law.
+
+2
+
+For personal use only
+
+Important Information
+Forward looking statements
+This document includes forward looking statements regarding future events, conditions, circumstances and the future financial performance of AIC. Statements contained in this document, including but not limited to those regarding the possible or
+assumed future costs, performance, dividends, returns, revenue, exchange rates, potential growth of AIC, industry growth or other projections and any estimated company earnings are or may be forward looking statements. Forward-looking
+statements can generally be identified by the use of words such as ‘project’, ‘foresee’, ‘plan’, ‘expect’, ‘aim’, ‘intend’, ‘anticipate’, ‘believe’, ‘estimate’, ‘may’, ‘should’, ‘will’ or similar expressions. These statements relate to future events and
+expectations and as such involve known and unknown risks and significant uncertainties, many of which are outside the control of AIC. Actual results, performance, actions and developments of AIC may differ materially from those expressed or
+implied by the forward-looking statements in this document.
+Certain information in this document refers to the intentions of AIC, but these are not intended to be forecasts, forward looking statements or statements about the future matters for the purposes of the Corporations Act or any other applicable law.
+The occurrence of the events in the future are subject to risk, uncertainties and other actions that may cause AIC’s actual results, performance or achievements to differ from those referred to in this document. Accordingly AIC and its affiliates and
+their directors, officers, employees and agents do not give any assurance or guarantee that the occurrence of these events referred to in the document will actually occur as contemplated.
+Such forward-looking statements speak only as of the date of this document. Subject to any continuing obligations under applicable law or any relevant stock exchange listing rules, in providing this information Pilbara Minerals does not undertake
+any obligation to publicly update or revise any of the forward looking statements or to advise of any change in events, conditions or circumstances on which any such statement is based.
+To the maximum extent permitted by law, AIC and any of its affiliates and their directors, officers, employees, agents, associates and advisers:
+• disclaim any obligations or undertaking to release any updates or revisions to the information to reflect any change in expectations or assumptions;
+• do not make any representation or warranty, express or implied, as to the accuracy, reliability or completeness of the information in this document, or likelihood of fulfilment of any forward-looking statement or any event or results expressed or
+implied in any forward-looking statement; and
+• disclaim all responsibility and liability for these forward-looking statements (including, without limitation, liability for negligence).
+Past performance
+Statements about past performance are not necessarily indicative of future performance. Investors should note that historical trading prices for the Company's shares cannot be relied upon as an indicator of (and provides no guidance as to) the
+future trading pride of the Company's shares. The historical information included in this document is, or is based on, information that has previously been released to the market, and is not represented as being indicative of the Company's views
+on its future financial condition and/or performance.
+Risks
+There are a number of risks specific to AIC and of a general nature which may affect the future operating and financial performance of AIC and the value of an investment in AIC including but not limited to economic conditions, stock market
+fluctuations, commodity demand and price movements, access to infrastructure, regulatory and operational risks, reliance on key personnel, reserve and resource estimations, native title and title risks, currency fluctuations and mining
+development, construction, and commissioning risk. These risks are further detailed later in this document. The production guidance contained in this document is subject to risks specific to AIC and of a general nature which may affect the future
+operating and financial performance of the Company.
+Not financial product advice
+This document does not it constitute financial product advice or take into account your investment objectives, taxation situation, financial situation or needs. This document consists purely of factual information and does not involve or imply a
+recommendation of a statement of opinion in respect of whether to buy, sell or hold a financial product. An investment in AIC is considered to be speculative in nature. Before making any investment decision in connection with any acquisition of
+securities, investors should consult their own legal, tax and/or financial advisers in relation to the information in, and action taken on the basis of, this document.
+Effect of rounding
+Unless otherwise stated, all dollar values are in Australian dollars ($ or A$). A number of figures, amounts, percentages, estimates, calculations of value and fractions in this Presentation are subject to the effect of rounding. Accordingly, the actual
+calculation of these figures may differ from the figures set out in this Presentation. All references to financial years appearing in this presentation are to the financial years ended on 30 June of the indicated year, unless stated otherwise.
+No new information or data
+Information relating to the exploration results in respect of the Marymia and Lamil projects is extracted from the ASX announcements released by AIC subsidiary AIC Resources (previously ASX: A1C) titled “Drilling Results from Two Pools and
+Marymia North East” dated 14 January 2019 and released by AIC titled “Costean Sampling Results from 4G Hill Prospect” dated 21 June 2019; “Paterson Province Exploration Joint Venture” dated 22 July 2019; ‘Multiple New Gold-Copper
+Targets Identified at Lamil Project’ dated 6 April 2020; and ‘Marymia Project – Exploration Update’ dated 24 June 2020 and by AIC predecessor company Intrepid Mines (ASX: IAU) ‘Drilling Completed at Doolgunna Station Project’ dated 12 April
+2019. The Company confirms that it is not aware of any new information or data that materially affects the information included in these announcements.
+Authorisation
+This presentation has been approved for issue by, and enquiries regarding this presentation may be directed to, Aaron Colleran, AIC Managing Director – email info@aicmines.com.au
+
+3
+
+For personal use only
+
+Company Overview
+An experienced management team focused on building a new Australian mid-tier gold and
+copper miner through exploration, development and acquisition
+ASX Code
+Share Price1
+Shares on Issue
+Market Capitalisation
+
+A1M
+30.5c
+
+Josef El-Raghy
+
+Chairman
+
+52.0M
+
+Aaron Colleran
+
+Managing Director
+
+Brett Montgomery
+
+Non-Executive Director
+
+Tony Wolfe
+
+Non-Executive Director
+
+$15.9M
+
+Cash2
+
+$4.5M
+
+Listed Investments3
+
+$2.5M
+
+Substantial Shareholders
+Directors
+Brahman Capital
+
+Board of Directors
+
+Share Price – 12 Months to June 2020
+$0.50
+
+Volume
+
+1.0m
+
+Share Price
+
+26.0%
+
+$0.40
+
+0.8m
+
+9.0%
+
+$0.30
+
+0.6m
+
+$0.20
+
+0.4m
+
+$0.10
+
+0.2m
+
+1. As at 2 July 2020
+2. Cash as at 26 June 2020
+3. Listed investments include shares in Kalium Lakes (ASX: KLL), Rumble Resources (ASX: RTR), Ausgold (ASX: AUC)
+and Tesoro Resources (ASX: TSO) valued at 30 June 2020. Does not include the US$4.5M in overdue proceeds from
+the sale of the Kitumba Project to Vulcan Copper Limited. AIC has been unable to resolve the non-payment through
+consultation with Vulcan Copper Limited and is considering all possible actions to recover the US$4.5M.
+
+$0.00
+Jun-19
+
+Aug-19
+
+Oct-19
+
+Dec-19
+
+Feb-20
+
+Apr-20
+
+0.0m
+Jun-20
+
+4
+
+For personal use only
+
+Current Projects
+Lamil Joint Venture
+•
+
+Geophysical, geochemical and structural data all indicative of a Telferstyle target – with no prior drilling
+
+•
+
+Located 30km west of the world-class Telfer Gold-Copper Mine
+
+•
+
+Drilling due to commence in September 2020
+
+•
+
+Joint Venture with Rumble Resources1 – AIC earning up to 65%
+
+Marymia Project
+•
+
+High-grade gold and copper targets to be drill tested
+
+•
+
+Strategically located within trucking distance of the Plutonic Gold Mine
+and the DeGrussa Copper Mine
+
+•
+
+3,600km2 tenement package prospective for gold and copper –
+predominantly 100% owned
+
+1. See ASX announcement released by AIC Mines (A1M) “Paterson Province Exploration Joint Venture” on 22 July 2019.
+
+5
+
+For personal use only
+
+Lamil Joint Venture
+•
+
+The Paterson Province is regarded as one of the most
+highly endowed yet under-explored regions in Australia
+
+•
+
+Exploration activity in the region has increased significantly
+following the recent discovery of the Havieron GoldCopper deposit by the Newcrest-Greatland Gold JV and
+the Winu Copper Deposit by Rio Tinto
+
+•
+
+The region remains under-explored due its remoteness
+and relatively deep cover
+
+•
+
+A recent breakthrough at the Lamil Project, based on a
+detailed airborne magnetic survey and surface passive
+seismic surveys, indicates that the depth of cover to the
+main targets in the Lamil Project area is less than 100m1
+
+•
+
+It was previously thought to be >400m and as a result the
+area has seen minimal previous exploration and no drilling
+
+1. See ASX announcement released by AIC Mines (A1M) “Paterson Province Exploration Joint Venture” on 22 July 2019.
+
+6
+
+For personal use only
+
+Lamil Joint Venture
+•
+
+The main Lamil Dome target area exhibits the key
+structural features required to host a Telfer-style
+deposit:
+•
+
+Orientation of the main axial plane
+
+•
+
+Fold symmetry and vergence
+
+•
+
+Inferred host rocks
+
+•
+
+The project area occupies a prominent regional
+structural ‘hinge zone’ which is clearly defined by a
+significant flexure in major belt parallel structures
+
+•
+
+New geophysical interpretation shows a regional
+scale NE-SW trending structure is traceable from
+the centre of the Telfer deposit through the northern
+margin of the Lamil Dome target1
+
+•
+
+Heritage Surveys to support commencement of this
+work are scheduled for late July - early August
+2020 with drilling anticipated to commence in
+September 2020
+
+1. See ASX announcement released by AIC Mines (A1M) ‘Multiple New Gold-Copper Targets Identified at Lamil Project’ on 6 April 2020
+
+7
+
+For personal use only
+
+Marymia Project
+•
+
+3,600km2 tenement package prospective for
+gold and copper
+
+•
+
+Strategically located within trucking distance
+of the Plutonic Gold Mine and the Degrussa
+Copper Mine
+High-Grade Gold Prospects
+
+• Two Pools – RC Drilling results1:
+• 2m @ 30.18 g/t Au from 95m in hole MRC693
+• 1m @ 47.47 g/t Au from 70m in hole MRC701
+• 2m @ 50.17 g/t Au from 80m in hole MRC703
+
+• 4G Hill – costean sampling results2:
+• 8m grading 47.99 g/t Au
+• 5m grading 33.07 g/t Au
+• 5m grading 57.58 g/t Au
+
+1. See ASX announcement released by AIC Resources (A1C) ‘Drilling Results from Two Pools and Marymia North East’ on 14 January 2019
+2. See ASX announcement released by AIC Mines (A1M) ‘Costean Sampling Results from 4G Hill Prospect’ on 21 June 2019
+
+8
+
+For personal use only
+
+Marymia Project
+•
+
+3,600km2 tenement package prospective for
+gold and copper
+
+•
+
+Strategically located within trucking distance
+of the Plutonic Gold Mine and the Degrussa
+Copper Mine
+
+•
+
+•
+
+Copper Prospects
+Copper Hill – historical drilling results1:
+• 4.6m @ 2.2% Cu from 7.6m in hole PW506
+• 6m @ 1.01% Cu from 16m in hole PW7
+• 10m @ 0.3% Cu from 30m in hole PW8
+Drilling at the Doolgunna JV intersected
+Narracoota and Karalundi Formations – the
+same rocks that host the DeGrussa copper
+deposit2
+
+1. See ASX announcement released by AIC Mines (A1M) ‘Marymia Project – Exploration Update’ on 24 June 2020
+2. See ASX announcement released by Intrepid Mines (IAU) ‘Drilling Completed at Doolgunna Station Project’ on 12 April 2019
+
+9
+
+For personal use only
+
+Growth Strategy
+Build a portfolio of mines through exploration,
+development and acquisition
+•
+
+Our strategy is to target late-stage Australian gold
+and copper projects where we can add value
+through exploration and development
+
+•
+
+Numerous opportunities exist – however discipline
+is required
+Portfolio approach
+
+• Start small
+• Use stepping stones
+• Use the benefits of diversity to deliver reliable
+results
+• Continue to fill the development pipeline
+10
+
+For personal use only
+
+Equity Raising Structure and Timetable
+Structure
+
+Size and
+Structure
+
+Total raising of approximately $4.7m consisting of:
+• $2.6m via two tranche Placement
+• $2.1m via 1 for 7 Non-Renounceable Entitlement Offer
+
+Pricing
+
+Offer price of 28cps represents a discount of 8.2% to AIC’s last close of
+30.5cps (30 June 2020) and an 8.6% discount to the 5-day VWAP of
+30.64cps
+
+Use of
+Proceeds
+
+Proceeds of the Equity Raising will be applied towards funding an
+inaugural drilling program at the Lamil Gold-Copper Project in the
+Paterson Province, drilling and geophysics at the Marymia Project, and
+assessing new opportunities.
+
+Lead
+Manager &
+Underwriter
+
+Argonaut Securities Pty Ltd is acting as Lead Manager to the Equity
+Raising and Argonaut Capital Limited is acting as Underwriter to the
+Entitlement Offer (please see the ‘Summary of Underwriting Agreement’
+section of this presentation for more details). Each of Argonaut Securities
+and Argonaut Capital are entitled to a fee equal to 4.6% of the funds
+raised under the Placement or Entitlement Offer (as applicable)
+
+Disclosure
+and
+Secondary
+Trading
+
+New Shares issued pursuant to the Placement will be qualified for
+secondary trading and the Entitlement Offer will be issued pursuant to a
+disclosure document issue under the Corporations Act.
+New Shares issued under the Equity Raising will be listed on ASX and
+rank pari passu with existing shares (ASX:A1M) and New Shares issued
+pursuant to the Placement will be issued in two tranches, with tranche 1
+consisting of 6,785,714 New Shares issued utilising the Company’s
+available placement capacity under ASX Listing Rule 7.1, and tranche 2
+consisting of 2,500,000 New Shares issued subject to shareholder approval
+
+Indicative Timetable
+Announcement of the Results of the Placement
+
+Monday, 6 July 2020
+
+Entitlement Offer Ex Date
+
+Wednesday, 8 July 2020
+
+Record Date for Determining Entitlements
+
+Thursday, 9 July 2020
+
+Anticipated Tranche 1 Placement DvP Settlement
+Date
+
+Friday, 10 July 2020
+
+Offer Document Sent Out to Eligible Shareholders
+and Offer Opening Date
+
+By Tuesday, 14 July 2020
+
+Entitlement Offer Closing Date
+
+Monday, 27 July 2020
+
+Announcement of Results of Entitlement Offer
+
+Thursday, 30 July 2020
+
+Issue of New Shares Under Entitlement Offer and
+Anticipated Date for Dispatch of Holding Statements
+for New Shares
+
+Friday, 31 July 2020
+
+Anticipated Commencement Date for Trading of
+News Shares on ASX
+
+Monday, 3 August 2020
+
+Anticipated Tranche 2 Placement DvP Settlement
+Date (subject to shareholder approval)
+
+Monday, 3 August 2020
+
+Notes to the Indicative Timetable:
+• These dates are indicative only and are subject to change.
+• Subject to the ASX Listing Rules, the Directors reserve the right to extend the Closing Date for the Offer at their discretion. Should this occur, the extension will have a consequential effect on the anticipated date of issue for the New Shares.
+
+11
+
+For personal use only
+
+Key Risks
+Exploration and mining projects involve a number of inherent general and project specific risks. The following is a summary of the more material matters to be considered.
+Company Specific Risks
+Exploration Risk
+Investors should understand that mineral exploration, mining and development are high risk undertakings and there can be no assurance that the tenements currently held by Intrepid or acquired by
+Intrepid in the future will result in the discovery of an economic ore deposit. If a viable deposit is identified there is also no guarantee it can be commercially developed. There is no certainty that the
+proposed exploration will reveal mineable mineralisation or that such mineralisation will be commercially viable.
+Dependence Upon Key Personnel
+AIC has a core team of executives whose loss could influence AIC’s progress in pursuing its exploration and acquisition programs within the time frames and cost structures envisaged. The impact of
+such loss would be dependent upon the replacement employee’s quality and time of appointment. There is no guarantee that the key personnel of AIC will be successful in their objectives despite
+their considerable experience and previous success.
+Native Title
+Registration of native title claims on land that is the subject of AIC’s licences and permits (or other licences and permits in which AIC has an interest) may result in increased legal and administrative
+costs that have a material adverse affect on the AIC’s profitability. Native title and Aboriginal heritage issues may have a material advance impact on the Merged Group’s activities and may hinder or
+prevent its mining and exploration activities.
+Access to Exploration Projects
+AIC may be required to obtain the consent from the holders of third-party interests which overlay areas within its tenements or future tenements prior to accessing or commencing any exploration or
+mining activities on those tenements. When submitting a program of works for any ground disturbing activities, any underlying stake holders will be notified and AIC will work to minimise disturbance
+in relation to the proposed activities in accordance with applicable law. This may delay commencement of exploration programs or specific areas may not be available for exploration.
+Proceeds from the Sale of the Kitumba Project
+AIC’s predecessor company Intrepid Mines Limited completed a share sale agreement with Vulcan Copper Limited (“Vulcan”) and its parent Consolidated Mining and Investments Ltd (“CMI”) in
+respect of the sale of 100% of the share capital in Intrepid Mines Zambia Limited on 14 February 2019 (“Kitumba Sale Agreement”). Further details regarding the Kitumba Sale Agreement are
+contained in the Notice of Extraordinary General Meeting released to the ASX by Intrepid Mines Limited on 18 October 2018.
+Vulcan failed to make payments due by 30 November 2019, 31 December 2019 and 31 January 2020. The amount outstanding as at 31 March 2020 was US$4.8 million. The AIC Directors made the
+decision to fully write-down the value of the asset in the Financial Statements for the year ended 31 December 2019 given the failure of the counterparty to meet its payment obligations and
+uncertainty in relation to resolution of the matter. In the March 2020 Quarter AIC commenced legal actions against CMI that could lead to the winding-up of CMI or AIC enforcing its security rights over
+Vulcan, if other alternatives prove fruitless. AIC intends to exhaust all available avenues to recover value from this transaction. A number of new parties have expressed interest in the Kitumba Project
+and this interest is being pursued.
+There is a risk that the deferred proceeds from the sale of the Kitumba Project may not be received from Vulcan and CMI in full or at all.
+
+12
+
+For personal use only
+
+Key Risks
+Litigation
+AIC is exposed to possible litigation risks including native title claims, tenure disputes, environmental claims, occupational health and safety claims and employee claims. AIC is currently a party to
+legal proceedings in the Supreme Court of British Columbia. The legal proceedings relate to AIC’s predecessor company Intrepid Mines Limited shareholding in New Nadina Explorations Limited. The
+outcome of such litigation may adversely affect AIC’s financial position. AIC may be involved in disputes with other parties in the future which may result in litigation. Any such claim or dispute if
+proven, may impact adversely on AIC’s operations, financial performance and financial position.
+Commodity Price Risk
+The future revenue of AIC will likely be derived largely from base and precious metals (in particular, gold and copper). Consequently, potential future earnings are likely to be closely tied to the price
+of these commodities. The commodities that are being developed, explored and sold by AIC (in particular, gold and copper) may be subject to price fluctuations which may have a material adverse
+impact upon both the value of AIC’s assets and AIC Shares. These price fluctuations may be affected by a variety of factors outside the control of AIC, such as demand for minerals, forward selling by
+producers, production cost levels in producing regions, inflation, interest rates, and currency exchange rates.
+AIC may suspend or curtail some or all of its future exploration activities if the market price for its minerals (in particular, gold and copper) were to fall below production costs for a sustained period.
+Potential Acquisitions
+As part of its business strategy, AIC may make acquisitions of or significant investments in other resource projects. Any such future transactions would be accompanied by the risks commonly
+encountered in making acquisitions of resource projects.
+Joint Venture Parties
+The Directors are unable to predict the risk of financial failure or default by a participant in any joint venture to which AIC is or may become a party.
+Market Risk
+AIC has investments in a number of listed exploration and development companies. There is a risk that the value of these investments could fall. This could adversely affect AIC’s financial position.
+Authorisation Risk
+Interests in exploration and mining tenements are evidenced by the granting of leases or licences, which are for specific terms and carry annual expenditure and reporting conditions. There is a risk
+that any exploration permit held by the AIC may not be renewed in the future, that any application for a grant may be refused, or that the AIC may be unable to comply with regulatory requirements to
+retain title to its permits or applications. If AIC is unable to renew a licence or permit, AIC may suffer damage and be denied the opportunity to explore and develop mineral resources.
+Failure to observe requirements in regards to minimum expenditure and environment and safety responsibilities could prejudice AIC’s right to maintain a permit for a given tenement.
+
+13
+
+For personal use only
+
+Key Risks
+General Risks
+Additional Requirements for Capital
+Any additional equity financing may be dilutive to the Company's existing Shareholders and any debt financing if available, may involve restrictive covenants, which limit the Company's operations and
+business strategy. The Company's failure to raise capital if and when needed could delay or suspend the Company's business strategy and could have a material adverse effect on the Company's
+activities.
+Future equity offerings by the Company may dilute the percentage ownership of the Company by existing Shareholders. In certain circumstances, Securities issued by the Company in the future may
+have rights, preferences or privileges attached to them that are senior, to or otherwise adversely affect, those attached to the Shares.
+General Economic Conditions
+Changes in the general economic climate in which Company operates may adversely affect the financial performance of Company. Factors that may contribute to that general economic climate
+include the level of direct and indirect competition against the Company, include, but not are but not limited to:
+(i) general economic conditions;
+(ii) changes in Government policies, taxation and other laws;
+(iii) the strength of the equity and share markets in Australia and throughout the world;
+(iv) movement in, or outlook on, exchange rates, interest rates and inflation rates;
+(v) industrial disputes in Australia and overseas;
+(vi) changes in investor sentiment toward particular market sectors;
+(vii) financial failure or default by an entity with which the Company may become involved in a contractual relationship; and
+(viii) natural disasters, social upheaval or war.
+Regulatory Risk
+AIC’s activities in the mining industry are subject to legislation, regulation and various approvals. The introduction of new legislation or regulations, or alteration of current legislation and regulations,
+could have a material adverse effect on the financial performance of and current or proposed activities of AIC.
+AIC holds tenure to minerals exploration, prospecting and mining licences in Western Australia. AIC may require licences and approvals in relation to environmental matters, exploration, development
+and production of minerals. There is a risk that these may not be obtained or that obtaining these may be delayed, which may have a material adverse impact on AIC. Loss of tenure could result
+(amongst other things) in the write down of carrying values of tenements in AIC’s financial statements, loss of profits and termination of agreements.
+The above list of risk factors ought not to be taken as exhaustive of the risks faced by AIC or by investors in the Company. The above factors, and others not specifically referred to above, may in the
+future materially affect the financial performance of the Company and the value of the securities offered under this Offer Document. Therefore, the securities to be issued pursuant to this Offer
+Document carry no guarantee with respect to the payment of dividends, returns of capital or the market value of those securities. Potential investors should consider that the investment in the
+Company is speculative and should consult their professional advisers before deciding whether to apply for securities pursuant to this Offer Document.
+
+14
+
+For personal use only
+
+International Offering Restrictions
+This document does not constitute an offer of New Shares of the Company in any jurisdiction in which it would be unlawful. In particular, this document may not be distributed to any
+person, and the New Shares may not be offered or sold, in any country outside Australia except to the extent permitted below.
+European Union
+This document has not been, and will not be, registered with or approved by any securities regulator in the European Union. Accordingly, this document may not be made available, nor may the New Shares be offered for sale, in the European
+Union except in circumstances that do not require a prospectus under Article 1(4) of Regulation (EU) 2017/1129 of the European Parliament and the Council of the European Union (the "Prospectus Regulation").
+In accordance with Article 1(4)(a) of the Prospectus Regulation, an offer of New Shares in the European Union is limited to persons who are "qualified investors" (as defined in Article 2(e) of the Prospectus Regulation).
+Hong Kong
+WARNING: This document has not been, and will not be, registered as a prospectus under the Companies (Winding Up and Miscellaneous Provisions) Ordinance (Cap. 32) of Hong Kong, nor has it been authorised by the Securities and Futures
+Commission in Hong Kong pursuant to the Securities and Futures Ordinance (Cap. 571) of the Laws of Hong Kong (the "SFO"). No action has been taken in Hong Kong to authorise or register this document or to permit the distribution of this
+document or any documents issued in connection with it. Accordingly, the New Shares have not been and will not be offered or sold in Hong Kong other than to "professional investors" (as defined in the SFO and any rules made under that
+ordinance).
+No advertisement, invitation or document relating to the New Shares has been or will be issued, or has been or will be in the possession of any person for the purpose of issue, in Hong Kong or elsewhere that is directed at, or the contents of
+which are likely to be accessed or read by, the public of Hong Kong (except if permitted to do so under the securities laws of Hong Kong) other than with respect to New Shares that are or are intended to be disposed of only to persons outside
+Hong Kong or only to professional investors. No person allotted New Shares may sell, or offer to sell, such securities in circumstances that amount to an offer to the public in Hong Kong within six months following the date of issue of such
+securities.
+The contents of this document have not been reviewed by any Hong Kong regulatory authority. You are advised to exercise caution in relation to the offer. If you are in doubt about any contents of this document, you should obtain independent
+professional advice.
+Malaysia
+No approval from, or recognition by, the Securities Commission of Malaysia has been or will be obtained in relation to any offer of New Shares. The New Shares may not be offered, sold or issued in Malaysia except pursuant to, and to persons
+prescribed under, Schedules 5 and 6 of the Malaysian Capital Markets and Services Act.
+Singapore
+This document has not been registered as a prospectus with the Monetary Authority of Singapore (“MAS”). Accordingly, the New Shares may not be offered or sold or made the subject of an invitation for subscription or purchase, nor may this
+document and any other document and any other document or material in connection with the offer or sale, or invitation for subscription or purchase, of the New Shares be circulated or distributed, whether directly or indirectly, nor may the New
+Shares be offered or sold, or be made the subject of an invitation for subscription or purchase, whether directly or indirectly, to any person in Singapore other than (i) existing shareholders of record of Shares pursuant to Section 273(1)(cd) of the
+Securities and Futures Act, Chapter 289 of Singapore, as modified or amended from time to time (“SFA”) or (ii) pursuant to, and in accordance with the conditions of any other applicable provision of the SFA.
+Where the Placement Shares are subscribed or purchased under Section 275 of the SFA by a relevant person which is:
+a corporation (which is not an accredited investor (as defined in Section 4A of the SFA)) the sole business of which is to hold investments and the entire share capital of which is owned by one or more individuals, each of whom is an accredited
+investor, or a trust (where the trustee is not an accredited investor) whose sole purpose is to hold investments and each beneficiary is an individual who is an accredited investor,
+securities or securities-based derivatives contracts (each term as defined in Section 2(1) of the SFA) of that corporation or the beneficiaries’ rights and interest (howsoever described) in that trust shall not be transferred within six months after that
+corporation or that trust has acquired the Placement Shares pursuant to an offer made under Section 275 of the SFA except:
+1) to an institutional investor or to a relevant person (as defined in Section 275(2) of the SFA), or to any person arising from an offer referred to in Section 275(1A) or Section 276(4)(i)(B) of the SFA;
+2) where no consideration is or will be given for the transfer;
+3) where the transfer is by operation of law;
+4) as specified in Section 276(7) of the SFA; or
+5) as specified in Regulation 37A of the Securities and Futures (Offers of Investments) (Securities and Securities-based Derivatives Contracts) Regulations 2018 of Singapore.
+Notification under Section 309B(1)(c) of the SFA – In connection with Section 309B of the SFA and the Securities and Futures (Capital Markets Products) Regulations 2018 of Singapore (the “CMP Regulations 2018”), the Issuer has
+determined the classification of the New Shares as prescribed capital markets products (as defined in the CMP Regulations 2018) and Excluded Investment Products (as defined in MAS Notice SFA 04-N12: Notice on the Sale of Investment
+Products and MAS Notice FAA-N16: Notice on Recommendations on Investment Products).
+
+15
+
+For personal use only
+
+International Offering Restrictions
+Canada (British Columbia, Ontario and Quebec provinces)
+This document constitutes an offering of New Shares only in the Provinces of British Columbia, Ontario and Quebec (the "Provinces") and to those persons to whom they may be lawfully distributed in the Provinces, and only by persons permitted
+to sell such New Shares. This document is not, and under no circumstances is to be construed as, an advertisement or a public offering of securities in the Provinces. This document may only be distributed in the Provinces to persons that are
+"accredited investors" within the meaning of NI 45-106 – Prospectus Exemptions, of the Canadian Securities Administrators.
+No securities commission or similar authority in the Provinces has reviewed or in any way passed upon this document, the merits of the New Shares or the offering of New Shares and any representation to the contrary is an offence.
+No prospectus has been, or will be, filed in the Provinces with respect to the offering of New Shares or the resale of such securities. Any person in the Provinces lawfully participating in the offer will not receive the information, legal rights or
+protections that would be afforded had a prospectus been filed and receipted by the securities regulator in the applicable Province. Furthermore, any resale of the New Shares in the Provinces must be made in accordance with applicable
+Canadian securities laws which may require resales to be made in accordance with exemptions from dealer registration and prospectus requirements. These resale restrictions may in some circumstances apply to resales of the New Shares
+outside Canada and, as a result, Canadian purchasers should seek legal advice prior to any resale of the New Shares.
+The Company as well as its directors and officers may be located outside Canada and, as a result, it may not be possible for purchasers to effect service of process within Canada upon the Company or its directors or officers. All or a substantial
+portion of the assets of the Company and such persons may be located outside Canada and, as a result, it may not be possible to satisfy a judgment against the Company or such persons in Canada or to enforce a judgment obtained in Canadian
+courts against the Company or such persons outside Canada.
+Any financial information contained in this document has been prepared in accordance with Australian Accounting Standards and also comply with International Financial Reporting Standards and interpretations issued by the International
+Accounting Standards Board. Unless stated otherwise, all dollar amounts contained in this document are in Australian dollars.
+Statutory rights of action for damages and rescission
+Securities legislation in certain of the Provinces may provide purchasers with, in addition to any other rights they may have at law, rights of rescission or to damages, or both, when an offering memorandum that is delivered to purchasers contains
+a misrepresentation. These rights and remedies must be exercised within prescribed time limits and are subject to the defenses contained in applicable securities legislation. Prospective purchasers should refer to the applicable provisions of the
+securities legislation of their respective Province for the particulars of these rights or consult with a legal adviser.
+The following is a summary of the statutory rights of rescission or to damages, or both, available to purchasers in Ontario. In Ontario, every purchaser of the New Shares purchased pursuant to this document (other than (a) a "Canadian financial
+institution" or a "Schedule III bank" (each as defined in NI 45-106), (b) the Business Development Bank of Canada or (c) a subsidiary of any person referred to in (a) or (b) above, if the person owns all the voting securities of the subsidiary, except
+the voting securities required by law to be owned by the directors of that subsidiary) shall have a statutory right of action for damages and/or rescission against the Company if this document or any amendment thereto contains a misrepresentation.
+If a purchaser elects to exercise the right of action for rescission, the purchaser will have no right of action for damages against the Company. This right of action for rescission or damages is in addition to and without derogation from any other
+right the purchaser may have at law. In particular, Section 130.1 of the Securities Act (Ontario) provides that, if this document contains a misrepresentation, a purchaser who purchases the New Shares during the period of distribution shall be
+deemed to have relied on the misrepresentation if it was a misrepresentation at the time of purchase and has a right of action for damages or, alternatively, may elect to exercise a right of rescission against the Company, provided that (a) the
+Company will not be liable if it proves that the purchaser purchased the New Shares with knowledge of the misrepresentation; (b) in an action for damages, the Company is not liable for all or any portion of the damages that the Company proves
+does not represent the depreciation in value of the New Shares as a result of the misrepresentation relied upon; and (c) in no case shall the amount recoverable exceed the price at which the New Shares were offered.
+Section 138 of the Securities Act (Ontario) provides that no action shall be commenced to enforce these rights more than (a) in the case of any action for rescission, 180 days after the date of the transaction that gave rise to the cause of action or
+(b) in the case of any action, other than an action for rescission, the earlier of (i) 180 days after the purchaser first had knowledge of the fact giving rise to the cause of action or (ii) three years after the date of the transaction that gave rise to the
+cause of action. These rights are in addition to and not in derogation from any other right the purchaser may have.
+Certain Canadian income tax considerations. Prospective purchasers of the New Shares should consult their own tax adviser with respect to any taxes payable in connection with the acquisition, holding or disposition of the New Shares as any
+discussion of taxation related matters in this document is not a comprehensive description and there are a number of substantive Canadian tax compliance requirements for investors in the Provinces.
+Language of documents in Canada. Upon receipt of this document, each investor in Canada hereby confirms that it has expressly requested that all documents evidencing or relating in any way to the sale of the New Shares (including for greater
+certainty any purchase confirmation or any notice) be drawn up in the English language only. Par la réception de ce document, chaque investisseur canadien confirme par les présentes qu’il a expressément exigé que tous les documents faisant
+foi ou se rapportant de quelque manière que ce soit à la vente des valeurs mobilières décrites aux présentes (incluant, pour plus de certitude, toute confirmation d’achat ou tout avis) soient rédigés en anglais seulement.
+
+16
+
+For personal use only
+
+International Offering Restrictions
+Indonesia
+The New Shares have not been, and will not be, registered with the Indonesian Financial Service Authority (Otoritas Jasa Keuangan or “OJK”) and the OJK has not reviewed or declared its approval or disapproval of the issue of the New Shares,
+nor has it made any determination as to the accuracy or adequacy of any of the material underlying this Offer. Therefore, the New Shares may not be offered or sold, and any of the material underlying this Offer has not been distributed, and will
+not be distributed, within Indonesia or to any Indonesian nationals, corporations or residents in a manner which constitutes a public offer under Indonesian Law No.8 of 1995 on Capital Markets. Accordingly, the Managers/Underwriters have
+represented and agreed that they will not, directly or indirectly, expressly or implicitly:
+• offer the New Shares to more than 100, or sell the New Shares to more than 50 parties in Indonesia and/or Indonesian nationals wherever they are resided; and
+• offer the New Shares by way of mass media, including any newspaper, magazine, film, television, radio or other electronic media or any letter, brochure or other printed medium, distributed to more than 100 parties in Indonesia and/or to
+Indonesian nationals wherever they are resided.
+Switzerland
+The New Shares may not be publicly offered in Switzerland and will not be listed on the SIX Swiss Exchange or on any other stock exchange or regulated trading facility in Switzerland. Neither this document nor any other offering or marketing
+material relating to the New Shares constitutes a prospectus or a similar notice, as such terms are understood under art. 35 of the Swiss Financial Services Act or the listing rules of any stock exchange or regulated trading facility in Switzerland.
+Neither this document nor any other offering or marketing material relating to the New Shares may be publicly distributed or otherwise made publicly available in Switzerland. The New Shares will only be offered to investors who qualify as
+"professional clients" (as defined in the Swiss Financial Services Act). This document is personal to the recipient and not for general circulation in Switzerland.
+No offering or marketing material relating to the New Shares has been, nor will be, filed with or approved by any Swiss regulatory authority or authorised review body. In particular, this document will not be filed with, and the offer of New Shares
+will not be supervised by, the Swiss Financial Market Supervisory Authority (FINMA).
+New Zealand
+This document has not been registered, filed with or approved by any New Zealand regulatory authority under the Financial Markets Conduct Act 2013 (the "FMC Act"). The New Shares are not being offered or sold in New Zealand (or allotted
+with a view to being offered for sale in New Zealand) other than to a person who:
+• is an investment business within the meaning of clause 37 of Schedule 1 of the FMC Act;
+• meets the investment activity criteria specified in clause 38 of Schedule 1 of the FMC Act;
+• is large within the meaning of clause 39 of Schedule 1 of the FMC Act;
+• is a government agency within the meaning of clause 40 of Schedule 1 of the FMC Act; or
+• is an eligible investor within the meaning of clause 41 of Schedule 1 of the FMC Act.
+United Kingdom
+Neither this document nor any other document relating to the offer has been delivered for approval to the Financial Conduct Authority in the United Kingdom and no prospectus (within the meaning of section 85 of the Financial Services and
+Markets Act 2000, as amended (“FSMA”) has been published or is intended to be published in respect of the New Shares.
+This document is issued on a confidential basis to “qualified investors” (within the meaning of section 86(7) of the FSMA) in the United Kingdom, and the New Shares may not be offered or sold in the United Kingdom by means of this document,
+any accompanying letter or any other document, except in circumstances which do not require the publication of a prospectus pursuant to section 86(1) of the FSMA. This document should not be distributed, published or reproduced, in whole or
+in part, nor may its contents be disclosed by recipients to any other person in the United Kingdom.
+Any invitation or inducement to engage in investment activity (within the meaning of section 21 of the FSMA) received in connection with the issue or sale of the New Shares has only been communicated or caused to be communicated and will
+only be communicated or caused to be communicated in the United Kingdom in circumstances in which section 21(1) of the FSMA does not apply to the Company.
+In the United Kingdom, this document is being distributed only to, and is directed at, persons (i) who have professional experience in matters relating to investments falling within Article 19(5) (investment professionals) of the Financial Services
+and Markets Act 2000 (Financial Promotion) Order 2005 (“FPO”), (ii) who fall within the categories of persons referred to in Article 49(2)(a) to (d) (high net worth companies, unincorporated associations, etc.) of the FPO or (iii) to whom it may
+otherwise be lawfully communicated (together “relevant persons”). The investments to which this document relates are available only to, and any offer or agreement to purchase will be engaged in only with, relevant persons. Any person who is not
+a relevant person should not act or rely on this document or any of its contents.
+
+17
+
+For personal use only
+
+Summary of Underwriting Agreement
+AIC has entered into an underwriting agreement (“Underwriting Agreement”) with the Argonaut Capital Limited (the “Underwriter”) who has agreed to fully underwrite the Entitlement Offer.
+Key Terms of the Underwriting Agreement
+The Underwriter’s obligation to underwrite the Entitlement Offer is conditional on certain matters, including AIC releasing to ASX an announcement that discloses the Entitlement Offer, as well as AIC providing the Underwriter with written notice
+confirming the status of the agreement and Entitlement Offer. The Underwriter is entitled to a fee of 4.6% of the proceeds under the Entitlement Offer.
+Termination events
+The Underwriter may (in certain circumstances, including having regard to the materiality of the relevant event) terminate the Underwriting Agreement and be released from its obligations under it on the occurrence of certain events, including
+where:
+Part 1 – Non-materiality qualified Events of Termination
+a) misleading Offer Materials: the Underwriter reasonably forms the view that there is a material omission from the Offer Materials, they contain a material statement which is misleading or deceptive, or a material statement has become
+misleading or deceptive;
+b) correcting notice: the Company becomes required to give and does not give a correcting notice under sub-section 708AA(10) of the Corporations Act;
+c) unable to issue Shares: the Company is prevented from issuing the Shares under the Entitlement Offer within the time required by this document, the Corporations Act, the Listing Rules, any statute, regulation or order of a court of
+competent jurisdiction by ASIC, ASX or any court of competent jurisdiction or any governmental or semi governmental agency or authority;
+d) Takeovers Panel: the Takeovers Panel makes a declaration that circumstances in relation to the affairs of the Company are unacceptable circumstances under Pt 6.10 of the Corporations Act;
+e) index changes: the S&P / ASX All Ordinaries Index (ASX Code: XAO) or S&P / ASX Small Resources Index (ASX Code: XSR) / spot gold price in Australian dollars fall more than 10% from the date of this Agreement and remains at that
+level for at least a period of 3 consecutive Business Days;
+f)
+indictable offence: a director of the Company or any Related Corporation is charged with an indictable offence;
+g) return of capital or financial assistance: the Company or a Related Corporation takes any steps to undertake a proposal contemplated under section 257A or passes or takes any steps to pass a resolution under section 260B of the
+Corporations Act, without the prior written consent of the Underwriter;
+Part 2 – Materiality qualified Events of Termination
+a) change in law: any of the following occurs:
+a) the introduction of legislation into the Parliament of the Commonwealth of Australia or of any State or Territory of Australia; or
+b) the public announcement of prospective legislation or policy by the Federal Government, or the Government of any State or Territory; or
+c) the adoption by the ASIC, its delegates, ASX, the Reserve Bank of Australia or any other regulatory authority of any regulations or policy,
+which does or is likely to prohibit, restrict or regulate the principal business of the Company, the Entitlement Offer or the operation of stock markets generally;
+b) failure to comply: the Company or any Related Corporation fails to comply with any of the following:
+a) a provision of its constitution;
+b) any statute;
+c) a requirement, order or request, made by or on behalf of the ASIC or any Governmental Agency; or
+d) any material agreement entered into by it, in relation to the Entitlement Offer;
+c) alteration of capital structure or constitution: except as described in the Offer Document, the Company alters its capital structure or its constitution without the prior written consent of the Underwriter;
+d) hostilities: there is an outbreak of hostilities or a material escalation of hostilities (whether or not war has been declared) after the date of this Agreement involving one or more of Australia, Japan, Russia, the United Kingdom, the United
+States of America, or the Peoples Republic of China, other than hostilities involving Afghanistan or Iraq, any country bordering Afghanistan or Iraq or any Arab country (being a country the majority of whose inhabitants are of Arab ethnicity);
+e) default: the Company is in material default of any of the terms and conditions of this Agreement or materially breaches any warranty or covenant given or made by it under this Agreement;
+f)
+adverse change: any adverse change occurs which materially impacts or is likely to impact the assets, operational or financial position of the Company or a Related Corporation (including but not limited to an administrator, receiver, receiver
+and manager, trustee or similar official being appointed over any of the assets or undertaking of the Company or a Related Corporation);
+g) investigation: any person is appointed under any legislation in respect of companies to investigate the affairs of the Company or a Related Corporation in respect of the Entitlement Offer;
+h) due diligence: there is a material omission from the results of the due diligence questionnaire completed by the Company in respect of the Entitlement Offer or the results of the questionnaire are consequently false or misleading;
+i)
+Prescribed Occurrence: a Prescribed Occurrence occurs in respect of the Company after the date of this Agreement, other than:
+a) as contemplated by this Agreement; or
+b) as permitted with the Underwriter’s consent, whose consent must not be unreasonably withheld;
+j)
+Suspension of debt payments: the Company suspends payment of its debts generally;
+k) Event of Insolvency: an Event of Insolvency occurs in respect of a Related Corporation; or
+l)
+Judgment against a Related Corporation: a judgment in an amount exceeding $200,000 is obtained against the Company or a Related Corporation and is not set aside or satisfied within 7 days.
+
+18
+
+For personal use only
+0125514-0000005 SYO1: 2000359614: 3
+
+www.aicmines.com.au
+
+ABN: 11 060 156 452
+P: +61 (8) 6269 0110
+F: +61 (8) 6230 5176
+E: info@aicmines.com.au
+A: A8, 435 Roberts Rd, Subiaco, WA, 6008
+
+19
+
+

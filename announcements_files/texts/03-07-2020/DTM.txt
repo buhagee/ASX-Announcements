@@ -1,0 +1,3420 @@
+ASX Release
+
+For personal use only
+
+3 July 2020
+
+DART MINING DISCOVERS NEW MINERALISATION STYLES IN HISTORIC
+HIGH-GRADE GOLDFIELDS
+BACKGROUND
+The Sandy Creek and Tallandoon goldfields are known for historical production of
+exceptionally high-grade gold from narrow lodes (up to 3.5 kg/t). Located 60 km south
+of Albury-Wodonga in Northeast Victoria, detailed mapping and sampling by Dart
+Mining geologists have redefined the exploration and mineralisation model for these
+goldfields. Exploration focus has now shifted to higher volume, disseminated goldsulphide mineralisation in altered granites adjacent to high-grade narrow-vein gold
+mineralisation.
+
+ASX Code: DTM
+Key Prospects / Commodities:
+GOLDFIELDS
+Buckland
+Rushworth
+Sandy Creek
+Granite Flat
+Dart
+Mt Elmo
+Saltpetre
+Zulu
+Upper Indi
+LITHIUM / TIN / TANTALUM
+
+HIGHLIGHTS FROM RECENT EXPLORATION
+ Multiple occurrences of disseminated gold-sulphide mineralisation in
+hydrothermally altered granites have been identified at Sandy Creek
+ High-grade gold occurring with antimony-lead-zinc-gold-silver silica-sulphide
+mineralisation identified at Tallandoon
+ Detailed structural mapping has identified an orthogonal fault system that has
+focused gold mineralisation, redefining the exploration model for this area
+ Petrological studies have identified multiple possible mineralisation styles,
+including orogenic lode and intrusion-related styles
+ Chip sampling has identified several zones of high-grade quartz-free gold and
+disseminated sulphide mineralisation associated with altered granites
+Ellis Antimony
+
+0.2m @ 122 g/t Au (silica-sulphide)
+Grab samples @ 6.48% Sb, 23.8 g/t Ag, 0.68% Pb, 0.82% Zn
+
+Shamrock
+
+20.0m @ 4.0 g/t Au (true width unknown; altered granite)
+(including 2.5m @ 12.3 g/t Au [true width; altered granite])
+2.0m @ 6.38 g/t Au,
+(including 1.0m @ 11.55 g/t Au [altered granite])
+
+O’Dell’s
+
+0.8m @ 14.4 g/t Au (altered granite)
+1.0m @ 12.65 g/t Au (altered granite)
+0.5m @ 28.2 g/t Au (gold-silica)
+
+Empress – Li-Sn-Ta
+Eskdale / Mitta – Li-Sn-Ta
+PORPHYRY GOLD / COPPER /
+MOLYBDENUM
+Empress – Au-Cu
+Stacey’s – Au-Cu
+Copper Quarry – Cu+/- Au
+Gentle Annie – Cu
+Morgan Porphyry – Mo-Ag-Au
+Unicorn Porphyry – Mo-Cu-Ag
+
+Investment Data:
+Shares on issue: 74,959,107
+Unlisted Options: 9,070,000
+
+Substantial Shareholders:
+Top 20 Holdings: 60.60 %
+
+Board & Management:
+Managing Director: James Chirnside
+Non-Executive Director: Dr Denis Clarke
+Non-Executive Director: Luke Robinson
+Company Secretary: Julie Edwards
+
+Wildcat
+
+Grab samples at 26.2 g/t, 23.6 g/t & 10.6 g/t Au
+
+Dart Mining NL
+
+Morning Star
+
+Grab sample at 140 g/t Au & 35.1 g/t Ag
+
+ACN 119 904 880
+
+Honeysuckle
+
+10.0m @ 1.07 g/t Au (along strike; altered granite)
+5.0m @ 1.63 g/t Au (along strike; altered granite)
+
+Contact Details:
+
+I.X.L East
+
+14.0m @ 1.46 g/t Au
+
+4 Bryant Street, Corryong
+VIC 3707 Australia
+James Chirnside
+
+Contemporary exploration activities include surface sampling undertaken by Dart. There
+has been no drill testing on the Sandy Creek or Tallandoon Gold Fields.
+
+Email: jchirnside@dartmining.com.au
+Visit our webpage: www.dartmining.com.au
+
+1
+
+EXECUTIVE SUMMARY
+
+For personal use only
+
+Dart Mining NL (ASX:DTM) (“Dart Mining” or “the Company”) is very pleased to report exceptional results from
+recent mapping and sampling activities at the Company’s wholly owned Sandy Creek Gold Project near Eskdale,
+Northeast Victoria. Rock chip and soil sampling has provided evidence for multiple zones of gold mineralisation
+associated with altered granite at structural intersections on the periphery of the Yabba Granite. A workplan has
+been approved for ~1,000m of percussion drilling across five targets at Sandy Creek, to be commenced in
+September this year after the first phase drill program at the company’s Buckland Gold project is complete. This
+document provides a detailed outline of the history, geological setting, and recent work by Dart Mining to
+introduce the Sandy Creek Gold Project to the market. Although technical in nature this report serves to act as
+an “introductory primer” document for all interested parties.
+Introduction
+The Sandy Creek and Tallandoon goldfields jointly cover a 26 by 5km area, hosting gold and minor tin
+mineralisation (Figure 1). Alluvial gold was initially discovered in 1854 along Sandy Creek with approximately
+5km of the creek mined for both tin and gold. Hardrock gold mineralisation was identified and became the focus
+of historic development within the Sandy Creek area in 1879, with 83 recorded historic reef workings.
+Development progressed further south, with the discovery and subsequent development of the Tallandoon
+goldfield in 1896, with 94 recorded gold workings, in addition to three antimony mines and nineteen tin workings
+(Figure 1). Both fields were noted for exceptionally high gold grades within quartz veins and associated felsic
+dykes.
+Previous explorers focused on the narrow quartz vein mineralisation style typical of historic workings of the
+Sandy Creek and Tallandoon goldfields. Dart Mining has revised this approach, conducting prospect mapping
+and sampling across the field demonstrating that gold mineralisation is associated with hydrothermal alteration
+of the Yabba Granite (Figure 2) and extends into a metasedimentary roof pendant above the granite body.
+Detailed structural mapping has identified an orthogonal fault system that has focused gold mineralisation on
+north-south and northwest-southeast oriented structures (Figure 3). Chip sampling across historic mine
+workings have identified several zones of high-grade quartz-free gold (Figure 2a) and disseminated sulphide
+mineralisation associated with altered granites, proximal to the contact with the Yabba Granite (Figure 2b & 2c).
+On this basis, the Sandy Creek Goldfield is interpreted to consist of several zones of altered granite that are
+particularly strongly mineralised along the intersection of orthogonal fault systems.
+Applying results from soil sampling, geological mapping and rock chip sampling, Dart Mining has focused their
+attention on five prospective drill targets in the Sandy Creek field. Preliminary surface sampling and mapping at
+Tallandoon suggests a similar structural control across the distribution of gold-bearing structures, however
+zones of altered granite are less prevalent, and high-grade silica-sulphide gold mineralisation in quartz veins
+appears to be broader, and in association with strongly enriched antimony, silver, lead and zinc (Figure 2d, Table
+1).
+
+2
+
+For personal use only
+
+Figure 1: Location and revised geological mapping of the Sandy Creek and Tallandoon goldfields in Northeast Victoria. The
+names of notable historic mine workings are labelled.
+
+Records indicate that 160,000 oz of gold was produced from 11,000 tonnes of ore between 1877 – 1915 from
+Sandy Creek reefs (Lanzer, 1988). Included amongst this are reported head grades of 3562 g/t from the A1 Lloyds
+mine (Wodonga & Towong Sentinel, 1888), although compiled contemporary newspaper reports indicate
+average grade across the field was 77 g/t. Similarly, the Tallandoon Goldfield is estimated to have produced
+100,000 oz of gold between 1886 – 1915, although it was sporadically worked until 1945, largely for antimony
+production, with 33.5 tons of antimony produced from the Carry On mine (Oppy et al., 1995; Phillips, 2010).
+Included amongst this is a reported crushing of 1470 g/t from the Tallandoon Goldfield (101.5 oz from 5 tons
+ore, Mystery [Tallandoon] Reef; Wodonga & Towong Sentinel, 1911), and the discovery of a 51 oz (1.4kg) gold
+nugget (Quandong Reef; Border Morning Mail & Riverina Express, 1913). The average grade produced from the
+Tallandoon field was 95 g/t Au, as compiled from newspaper reports.
+
+3
+
+For personal use only
+
+Figure 2: Examples of gold mineralisation from quartz veins and hydrothermally altered granite with sulphide-gold
+mineralisation. A) Specimen from O’Dell’s workings showing visible gold in narrow-vein quartz. B) Typical Sandy Creek
+altered granite from mullock at Rainbow Mine, showing abundant arsenopyrite. C) Close up image of an altered granite
+specimen from Conness Reef, showing visible gold amongst arsenopyrite and ex-sulphide vugs. D) Typical example of quartz
+mullock from the Tallandoon Ellis Antimony Mine showing densely mineralised sulphide-quartz containing abundant fine
+arsenopyrite and some sphalerite. Acronyms: Au – free gold, Asp – arsenopyrite, Sl – sphalerite.
+
+EXPLORATION OVERVIEW
+Mapping and Sampling
+Through detailed literature research and a comprehensive field campaign, the Company is confident that the
+detailed mapping program by Dart Mining geologists has identified and located all historical workings in the
+Sandy Creek Goldfield. Mapping and sampling have redefined the mineralisation model for the Sandy Creek
+Goldfield, abandoning the narrow-vein, orogenic gold mineralisation model held by previous explorers in favour
+of a disseminated gold-sulphide mineralisation in a roof-pendant system. Field mapping has determined that
+most mineralisation in the goldfield is directly adjacent or proximal to the contact between the Omeo
+Metamorphic Complex and the Yabba Granite (Figure 3). Gold mineralisation predominantly occurs along NWand NNE-trending faults and becomes particularly enriched where these fault systems intersect, providing
+numerous targets for drill testing.
+Regional soil sampling, chip sampling, and geological mapping of prospects (methodology and analytical
+technique are outlined in Table 1 Appendix 2) have identified multiple drill targets, supporting Dart Mining’s
+belief that Sandy Creek has excellent potential to host substantial gold mineralisation in hydrothermally altered
+granites. The concurrent application of these methods to test the potential for large-scale gold mineralised
+systems has been essential to construct a robust understanding of the mineralisation style present at the Sandy
+Creek Gold Project.
+4
+
+Sandy Creek Goldfield
+
+For personal use only
+
+Rock chip sampling across workings and mineralised structures in the Sandy Creek Goldfield has identified three
+gold mineralisation styles. These include narrow-vein quartz/free gold, disseminated sulphide Au and As (± Sb,
+Pb) with rare free gold in altered granite, and Au (± Ag) mineralisation in sheared pegmatites. Of these
+mineralisation styles, disseminated sulphide-hosted gold is the dominant style, often in occurrence with a
+narrow-vein, heavily mineralised core which has been played out in most instances by historic mining activity.
+The 122 g/t Au chip sample from Ellis Antimony and the 140 g/t Au mullock grab sample from the Morning Star
+working is testament of these narrow-vein quartz grades, in addition to the 0.5m chip sample at 28.2 g/t at
+O’Dell’s. Chip samples indicate that altered granites bearing abundant arsenopyrite commonly assay between
+1–15 g/t, although in some instances can assay at 20+ g/t.
+Petrographic examination of samples from Sandy Creek show that all samples represent variably
+hydrothermally-altered, coarse-grained granites (Ashley, 2020). At least two phases of mineralisation are
+apparent in the geochemistry and the mineralogy of altered granite. All samples sent for petrographic
+examination display moderate to intense hydrothermal alteration effects, with microstructures indicating
+penetrative deformation prior to, or concurrent with hydrothermal alteration (Ashley, 2020). Arsenopyrite is
+locally abundant in samples, forming up to ~24%, with visible gold in two of seven samples (Ashley, 2020).
+Altered granites from Sandy Creek demonstrate characteristics consistent with both orogenic gold systems and
+intrusion-related gold. Dart Mining favours an orogenic, epizonal mineralisation model for primary gold
+mineralisation at Sandy Creek and Tallandoon based on geochemical and structural relationships. However,
+preliminary geochemical and petrographic examination shows the Yabba Granite to be relatively reduced and
+fractionated, with considerable greisen alteration evident in mineralised granite samples, suggesting a possible
+intrusion-related gold affinity, and providing greater scope for expanded exploration of the Sandy Creek project.
+
+5
+
+For personal use only
+
+Figure 3: Detailed geological and structural map of the northern Sandy Creek goldfield showing selected peak gold grades
+from altered granite sampled either in, or around historic workings. A complete compilation of grades from all samples is
+included in Appendix 3. The Conness (513050E, 5979650N) and Wildcat (513935E, 5975650N) workings are just outside the
+boundaries of this map.
+
+The Honeysuckle, I.X.L East, Shamrock and O’Dell’s mines have been identified as the principal exploration
+targets through field mapping, rock chip and soil sampling by Dart Mining geologists (Figure 4). Historically, the
+Honeysuckle Mine was worked to a depth of 60m before flooding became problematic and was abandoned.
+Between 1886 and 1903 the Honeysuckle Mine recorded production of 4267.5 oz from 3395 tons of ore, giving
+an average grade of 39.3 g/t. Very little information is available for the I.X.L East working, as the adit was
+abandoned around 1905 before reaching its target. However, the drive intercepts a considerable thickness of
+sheared, sericite-altered metasediments hosting stringers of altered granite and fine arsenopyrite, providing
+consistent low-grade gold values and generating a composite intercept of 14m @ 1.46 g/t (true width; Figure
+4B).
+Production records for Shamrock are particularly poor, and there was at least 1942 oz produced from 1502 tons
+of ore between 1881 and 1945, giving an average grade 40.4 g/t Au. However, the Shamrock mine is a
+considerably larger development than the other workings considered here, with the lower level being driven in
+the 1930’s–1940’s, yet only a single 8 ton crushing reported. Abundant and considerable lengths of altered
+granite are apparent in the Shamrock, with wall samples along the lower level giving a composite grade of 4.0
+g/t over 20m. However, with few cross-cuts, it is uncertain how deep mineralisation extends. A 2.5m sample at
+12.65 g/t Au indicates that mineralisation extends at least 2+ m into the wall rock.
+6
+
+For personal use only
+
+The O’Dell’s mine was noted as having average head grades of 400–570 g/t Au (Dunn, 1888), and was reopened
+in 1979–1996, generating some renewed interest in exploration of the Sandy Creek and Tallandoon fields.
+Around the end of production from O’Dell’s mine in 1996, grades up to 43.5 g/t and 89.4 g/t remained in wall
+rock, and a representative ore sample assayed at 27 g/t (Wilson, 1996). Altered granite was sampled in an ore
+pass and in the foot of a stope (0.8m @ 14.4 g/t; Fall grab @ 15 g/t; 4.5m @ 5.4 g/t; 1.5m @ 3.64 g/t Au). The
+primary stopes of the O’Dell’s mine had focused on narrow vein quartz and sericite-scorodite altered sediment,
+with samples returning 1.0m 12.65 g/t, 1.5m @ 3.02 g/t, 1.1m @ 2.88 g/t and 0.5 m @ 28.2 g/t Au.
+Multi-element analysis of rock chip samples has demonstrated that As is an appropriate pathfinder element for
+Au in the Sandy Creek area, with a strong correlation between Au and As, both in soils and altered granite.
+Arsenic is applied as the primary pathfinder element in soil sampling, with background values typically between
+5–15 ppm As, and ranging up to 1709 ppm. To date, 1331 soil samples have been collected across the Sandy
+Creek Goldfield. Structural mapping and gridded soil sample transects sampled at 25x10m resolution across the
+O’Dell’s and Shamrock prospects indicate that mineralisation is dominantly developed along NW-oriented
+structures at the O’Dell’s prospect and along NE-oriented faults at the Shamrock prospect.
+
+7
+
+Figure 4: Surveyed level plans of workings with all samples and intersections indicated. A) Honeysuckle shaft, B) I.X.L
+East, C). Shamrock, D) O’Dell’s. Note that samples given in italics are mullock grab samples. Samples in bold text
+represent anomalous gold values (>0.2 g/t) and samples in red are >2.0 g/t. All level plans to the same scale (1:1000).
+
+Tallandoon Goldfield
+
+For personal use only
+
+Preliminary examination of the Tallandoon Goldfield shows that mineralisation is dominantly associated with
+quartz reefs, with abundant arsenopyrite, sphalerite, common galena and occasional stibnite. Like Sandy Creek,
+an orthogonal, NNE and WNW fault system has focused mineralisation on these structures. The Ellis Antimony
+and the Lawrence workings had largely collapsed, however assays from mullock and a small accessible shaft
+show enticing results for gold (including 0.2m @ 122 g/t), silver and base metals (Pb, Sb, Zn), and significant
+workings await further exploration. The Tallandoon and Quandong mines have historically shown that these
+structures are mineralised across widths of up to 1m, to depths more than 200m from surface and across strike
+lengths greater than a kilometre.
+Table 1: Selected peak results for samples from the Ellis Antimony, Wild Horse and the Lawrence mine workings at
+Tallandoon. See Appendix 3 for a complete tabulation of rock sample assays.
+
+Working/Mine
+Site
+
+Ellis Antimony
+
+Wild Horse
+Lawrence
+
+Sample
+No.
+70306
+70307
+70308
+70309
+70310
+70311
+70313
+70314
+69988
+70319
+70320
+
+Sample
+Width
+(m)
+0.2
+4
+0.1
+-
+
+Sample
+Type
+
+Ag
+ppm
+
+As
+ppm
+
+Au
+ppm
+
+Pb
+ppm
+
+Sb
+ppm
+
+Zn
+ppm
+
+GRAB
+GRAB
+GRAB
+GRAB
+CHIP
+GRAB
+GRAB
+GRAB
+CHIP
+CHIP
+GRAB
+
+11.65
+0.9
+7.4
+23.8
+14.2
+14
+2.01
+19.6
+1.86
+1.49
+
+9,210
+575
+2,370
+5,780
+10,200
+9,120
+6,970
+12,250
+8,480
+1,690
+
+6.49
+0.71
+2.86
+7.5
+122
+9.22
+9.64
+5.47
+5.16
+16.6
+24
+
+3,690
+96
+439
+6,030
+2,130
+3,940
+851
+6,790
+193
+381
+
+2,410
+64,800
+7,410
+1,140
+1,910
+776
+943
+1,090
+33
+132
+
+753
+12
+98
+2,470
+288
+6,110
+235
+8,220
+109
+174
+
+Planned Exploration
+Drilling is required to further progress and evaluate the potential mineralisation in the Sandy Creek Goldfield.
+Multiple targets have been identified, and a workplan for 980m of drilling has been approved for first pass RAB
+or RC drilling of the primary targets identified. A preliminary phase of drilling is planned to test the potential size
+distribution of altered granite bodies across O’Dell’s, Shamrock, I.X.L East, Morning Star and Honeysuckle
+prospects. These targets have been identified given their grade, proximity to existing roads and comparatively
+shallow depth to prospective ore bodies. Surface exploration is continuing at Tallandoon, with a focus on
+structural mapping and chip sampling.
+
+8
+
+For personal use only
+
+Competent Person’s Statement
+The information in this report that relates to Exploration Results is based on information compiled by Dr. Ben
+Hines PhD who is a full-time Senior Geologist for Dart Mining, and verified by Mr. Steven Groves BSc, MSc. a
+Competent Person who is a Member of the Australian Institute of Geoscientists. Mr Groves is the exploration
+manager for Dart Mining. Mr Groves has sufficient experience that is relevant to the style of mineralisation and
+type of deposits under consideration and to the activity being undertaken to qualify as a competent person as
+defined in the 2012 Edition of the “Australasian Code for Reporting of Exploration Results, Mineral Resources and
+Ore Reserves”. Mr Groves consents to the inclusion in the report of the matters based on his information in the
+form and context in which it appears.
+
+For more information contact
+James Chirnside
+Managing Director
+jchirnside@dartmining.com.au
+
+Peter Taylor
+Investor Relations
+peter@nwrcommunications.com.au
+0412 036 231
+
+About Dart Mining
+Dart Mining (ASX: DTM) floated on the ASX in May of 2007 with the aim of evaluating and developing several historic
+Goldfields as well as substantiating a new porphyry province in NE Victoria. The area is prospective for precious, base, and
+minor metals. These include Lithium, Gold, Silver, Copper, Molybdenum, Zinc, Tungsten, Tin, Tantalum, and a host of other
+important minerals. Dart Mining has built a strategically gold footprint in the Central and North East Region of Victoria
+where historical surface mining and alluvial gold indicates existence of potentially significant gold endowment.
+
+9
+
+References
+Ashely, P. (2020). Petrography Report on Eighteen Rock Samples from Northeast Victoria. Paul Ashley
+Petrographic and Geological Services. Report No. 1141. June 2020.
+
+For personal use only
+
+Border Morning Mail & Riverina Express. (1913). Quandong Reef, Tallandoon. Border Morning Mail & Riverina
+Express, December 18, 1913.
+Dunn, E. J. (1888). Report on Sandy Creek, Parish of Bogong. Geological Survey of Victoria. 5p.
+Lanzer, L. A. (1988). Sandy Creek Final Report EL1463-1. Tallangalook Pty. Ltd. & Ghana Gold Pty. Ltd. Report BCA
+88-11. Filed with Geological Survey of Victoria. 5p.
+Oppy, I. D., Cayley, R. A. & Caluzzi, J. (1995). The Geology and Prospectivity of the Tallangatta 1:250,000 sheet.
+Victorian Initiative for Minerals and Petroleum Report 10. Department of Agriculture, Energy and
+Minerals. 162p. ISBN 0-7306-7980-2
+Phillips, G. N. (2010). Victorian Gold Province Australia: A contemporary exploration guide. Geoscience Victoria
+Special Publication. 54p. ISBN 978-1-74264-004-4
+Wodonga & Towong Sentinel. (1888). Sandy Creek. Wodonga & Towong Sentinel, December 7, 1888.
+Wodonga & Towong Sentinel. (1911). Canning and Harper on the Blue & White. Wodonga & Towong Sentinel,
+October 27, 1911.
+Wilson, I. (1996). Sandy Creek Project. Exminco EL3574 Annual Report. Exminco Report No. 12. Filed with
+Geological Survey of Victoria. 21p.
+Sampling, geological mapping and reporting prepared by Dr. Benjamin Hines, Senior Exploration Geologist.
+
+10
+
+APPENDIX 1
+TENEMENT STATUS
+All tenement applications continue to pass through the approvals process with the tenements remaining in
+good standing as at 31 May 2020 (Table 1.1 – Figure 4).
+
+For personal use only
+
+Table 1.1. TENEMENT STATUS
+Tenement
+
+Area (km2)
+Name
+
+Number
+
+Tenement Type
+
+Unless
+specified
+
+Interest
+
+Location
+
+EL5315
+
+Mitta Mitta4
+
+Exploration
+
+172
+
+100%
+
+NE Victoria
+
+EL006016
+
+Rushworth
+
+Exploration
+
+60
+
+100%
+
+Central Victoria
+
+EL006277
+
+Empress
+
+Exploration
+
+165
+
+100%
+
+NE Victoria
+
+EL006300
+
+Eskdale3
+
+Exploration
+
+183
+
+100%
+
+NE Victoria
+
+EL006486
+
+Mt Creek
+
+Exploration
+
+142
+
+100%
+
+NE Victoria
+
+EL006764
+
+Cravensville
+
+EL (Application)
+
+170
+
+100%
+
+NE Victoria
+
+EL006861
+
+Buckland
+
+EL (Application)
+
+414
+
+100%
+
+NE Victoria
+
+EL006865
+
+Dart
+
+EL (Application)
+
+567
+
+100%
+
+NE Victoria
+
+EL006866
+
+Cudgewa
+
+EL (Application)
+
+508
+
+100%
+
+NE Victoria
+
+EL006994
+
+Wangara
+
+EL (Application)
+
+190
+
+100%
+
+Central Victoria
+
+EL007007
+
+Union
+
+EL (Application)
+
+3
+
+100%
+
+Central Victoria
+
+EL007008
+
+Buckland West
+
+EL (Application)
+
+344
+
+100%
+
+NE Victoria
+
+EL007099
+
+Sandy Creek
+
+EL (Application)
+
+437
+
+100%
+
+NE Victoria
+
+EL007170
+
+Berringama
+
+EL (Application)
+
+27
+
+100%
+
+NE Victoria
+
+RL006615
+
+Fairley’s2
+
+Retention License Application
+
+340 Ha
+
+100%
+
+NE Victoria
+
+RL006616
+
+Unicorn1&2
+
+Retention License Application
+
+23,243 Ha
+
+100%
+
+NE Victoria
+
+MIN006619
+
+Mt View
+
+Mining License
+
+224 Ha
+
+100%
+
+NE Victoria
+
+2
+
+All tenements remain in good standing at 30 June 2020.
+NOTE 1: Unicorn Project area subject to a 2% NSR Royalty Agreement with Osisko Gold Royalties Ltd dated
+29 April 2013.
+NOTE 2: Areas subject to a 1.5% Founders NSR Royalty Agreement.
+NOTE 3: Areas are subject to a 1.0% NSR Royalty Agreement with Minvest Corporation Pty Ltd (See DTM
+ASX Release 1 June 2016).
+NOTE 4: Areas are subject to a 0.75% Net Smelter Royalty on gold production, payable to Bruce William
+McLennan.
+
+11
+
+12
+
+For personal use only
+
+APPENDIX 2
+
+JORC CODE, 2012 EDITION – TABLE 1
+
+For personal use only
+
+SECTION 1 SAMPLING TECHNIQUES AND DATA
+Criteria
+
+JORC Code explanation
+
+Commentary
+
+Sampling
+techniques
+
+ Nature and quality of
+sampling (e.g. cut channels,
+random chips, or specific
+specialised industry
+standard measurement tools
+appropriate to the minerals
+under investigation, such as
+down hole gamma sondes,
+or handheld XRF
+instruments, etc.). These
+examples should not be
+taken as limiting the broad
+meaning of sampling.
+ Include reference to
+measures taken to ensure
+sample representivity and
+the appropriate calibration of
+any measurement tools or
+systems used.
+ Aspects of the determination
+of mineralisation that are
+Material to the Public
+Report.
+ In cases where ‘industry
+standard’ work has been
+done this would be relatively
+simple (e.g. ‘reverse
+circulation drilling was used
+to obtain 1 m samples from
+which 3 kg was pulverised to
+produce a 30 g charge for
+fire assay’). In other cases
+more explanation may be
+required, such as where
+there is coarse gold that has
+inherent sampling problems.
+Unusual commodities or
+mineralisation types (e.g.
+submarine nodules) may
+warrant disclosure of
+detailed information.
+
+
+
+pXRF soil samples are collected from the
+top of the B-Horizon clay interface and
+sieved to -2mm (dried if necessary).
+Sieved samples are then analysed for As
+using an Olympus Delta portable XRF unit
+and results reported out as a digital text
+file.
+
+
+
+Chip samples are taken continuously
+perpendicular to the general strike of
+mineralised structures in outcrop, and
+large samples (4 – 7kg) are taken where
+possible to provide a more representative
+sample. The chip samples are of
+adequate quality to be indicative of the
+area sampled.
+Grab samples were collected from the
+outcrop over a small area (<1 – 5m in
+diameter). The grab samples are
+generally small (ie. <7kg) and represent
+the local area only, sampling only tests a
+small aerial extent, and are not
+considered as being representative of the
+outcrop. The grab samples are of
+adequate quality to be representative of
+the small area sampled and approximate
+the sampled in situ mineralisation.
+
+ Drill type (e.g. core, reverse
+circulation, open-hole
+hammer, rotary air blast,
+auger, Bangka, sonic, etc.)
+and details (e.g. core
+diameter, triple or standard
+tube, depth of diamond tails,
+face-sampling bit or other
+
+ N/A
+ No drill-related data are available for the
+Sandy Creek area.
+
+Drilling
+techniques
+
+
+
+
+
+Rock samples are dried, crushed and
+whole sample pulverized and riffle split. A
+sample aliquot (25g) is taken for analysis.
+Gold has been analysed by ALS Method
+Au-AA25 – a fire assay technique for total
+digestion.
+
+13
+
+Criteria
+
+For personal use only
+
+Drill sample
+recovery
+
+Logging
+
+Sub-sampling
+techniques
+and sample
+preparation
+
+JORC Code explanation
+
+Commentary
+
+type, whether core is
+oriented and if so, by what
+method, etc.).
+ Method of recording and
+
+assessing core and chip
+
+sample recoveries and
+results assessed.
+ Measures taken to maximise
+sample recovery and ensure
+representative nature of the
+samples.
+ Whether a relationship exists
+between sample recovery
+and grade and whether
+sample bias may have
+occurred due to preferential
+loss/gain of fine/coarse
+material.
+ Whether core and chip
+samples have been
+geologically and
+geotechnically logged to a
+level of detail to support
+appropriate Mineral
+Resource estimation, mining
+studies and metallurgical
+studies.
+ Whether logging is
+qualitative or quantitative in
+nature. Core (or costean,
+channel, etc.) photography.
+ The total length and
+percentage of the relevant
+intersections logged.
+ If core, whether cut or sawn
+and whether quarter, half or
+all core taken.
+ If non-core, whether riffled,
+tube sampled, rotary split,
+etc. and whether sampled
+wet or dry.
+ For all sample types, the
+nature, quality and
+appropriateness of the
+sample preparation
+technique.
+ Quality control procedures
+adopted for all sub-sampling
+stages to maximise
+representivity of samples.
+ Measures taken to ensure
+that the sampling is
+representative of the in situ
+
+N/A
+No drill-related data are available for the
+Sandy Creek area.
+
+ No drill-related data are available for the
+Sandy Creek area.
+ pXRF soil samples are located by GPS and
+notes taken where cultural contamination is
+suspected or adjacent to historic workings.
+ Chip / Grab samples were logged for
+qualitative mineral percentages, mineral
+species and habit and each sample
+location is recorded.
+
+ No drill-related data are available for the
+Sandy Creek area.
+ Soil samples are collected from the top of
+the B-Horizon with a pick and scoop, dried
+and sieved to <2mm prior to analysis.
+pXRF analysis is undertaken on the small
+sample cup of the soil sample and the
+results reported in a digital csv file output
+per sample. Standards and duplicates are
+inserted at regular intervals and reviewed.
+Laboratory follow-up analysis uses the
+same pXRF sieved sample, pulverised prior
+to sub-sampling at the laboratory via riffle
+splitting for a multi-element 4 acid digest
+method ME-MS61 and low detection limit
+gold analysis by method Au-AA22.
+ The sample size is considered
+representative to estimate the local metal
+content of the soil developed above the
+14
+
+For personal use only
+
+Criteria
+
+JORC Code explanation
+material collected, including
+for instance results for field
+duplicate/second-half
+sampling.
+ Whether sample sizes are
+appropriate to the grain size
+of the material being
+sampled.
+
+Quality of
+assay data
+and
+laboratory
+tests
+
+Commentary
+disseminated style of gold mineralisation
+targeted.
+
+ Sampling was conducted at a
+reconnaissance level with regular duplicate
+and CRM samples inserted for analysis by
+pXRF. All results are in line with
+expectations.
+ Individual <7kg chip / grab samples were
+collected from outcrop, individual chips making
+up the sample were <40mm and chipped from
+a random selection of the mineralisation to
+generate a representative average sample of
+the mineralisation targeted.
+ The whole sample was crushed and
+pulverised prior to sub-sampling at the
+laboratory via riffle splitting.
+ Gold chip sampling generally collects <7kg
+of finely chipped rock sample across
+outcrop or underground openings with the
+entire sample sent for whole sample crush
+and grind. The sample size and subsampling method is thought suitable for a
+sulphide / fine gold environment.
+ The nature, quality and
+ No drill-related data are available for the
+appropriateness of the
+Sandy Creek area.
+assaying and laboratory
+ Soil samples were submitted to ALS
+procedures used and
+Chemex and analysed for a suit of trace
+whether the technique is
+elements using ALS Methods ME-MS61
+considered partial or total.
+(A four-acid digest is performed on 0.25g
+of sample to quantitatively dissolve most
+ For geophysical tools,
+spectrometers, handheld
+geological materials). These techniques
+XRF instruments, etc., the
+are appropriate and considered a total
+parameters used in
+extraction technique for key metal As. Au
+determining the analysis
+is analysed by fire assay technique Auincluding instrument make
+AA22.
+and model, reading times,
+ A direct comparison between internal
+calibrations factors applied
+pXRF and laboratory analysis of arsenic
+and their derivation, etc.
+is referenced in the body of the report, a
+high correlation is evident from the
+ Nature of quality control
+procedures adopted (e.g.
+dataset.
+standards, blanks,
+ QAQC procedures were adopted during
+duplicates, external
+the in-house pXRF analysis with regular
+laboratory checks) and
+sample duplicates and CRM inserted,
+whether acceptable levels of
+assay data is within expectation.
+accuracy (i.e. lack of bias)
+Laboratory analysis only uses internal
+and precision have been
+laboratory CRM results.
+established.
+ Chip and Grab samples were submitted to
+ALS Chemex and analysed for Au using
+ALS method Au-AA25 – a fire assay
+technique for total digestion.
+ Due to the reconnaissance nature of the
+sampling, no QAQC procedures were
+adopted other than internal laboratory
+CRM.
+15
+
+For personal use only
+
+Criteria
+
+JORC Code explanation
+
+Commentary
+
+Verification
+of sampling
+and assaying
+
+ The verification of significant
+intersections by either
+independent or alternative
+company personnel.
+ The use of twinned holes.
+ Documentation of primary
+data, data entry procedures,
+data verification, data
+storage (physical and
+electronic) protocols.
+ Discuss any adjustment to
+assay data.
+
+
+
+No verification process or independent
+review of assay data has been carried
+out.
+
+
+
+pXRF analysis requires the manual entry
+into the XRF unit of the Sample number of
+the soil sample. The sample number and
+associated analysis is stored as a digital
+file within the pXRF unit for later export to
+a CSV file. The raw data is edited to
+separate all duplicates and CRM results
+into a QAQC tab in the CSV file and
+reviewed. <LOD results are also deleted
+from the dataset to allow numerical fields
+to be plotted.
+
+
+
+Chip / Grab samples were geologically
+logged and entered into the company
+database from hard copy field sheets for
+long term electronic storage.
+No drill-related data are available for the
+Sandy Creek area.
+The location of the chip / grab / soil
+samples and geological mapping used a
+Garmin GPSMAP 62S GPS using the
+MGA94 Grid Datum (Zone 55) with
+topographic control taken from the GPS.
+Accuracy is variable but maintained <5m
+during the mapping process with constant
+visual quality assessment conducted.
+Mine workings are located using GPS
+control and then tape and compass survey
+for underground development.
+All drill related data are referenced to the
+original ASX report by date published. All
+details appear in the original report.
+Soil sample spacing may be variable and
+is designed to capture variability in the
+key pathfinder element analysed with
+respect to the geological model of the
+mineralisation under review. The regional
+soil program reported uses a nominal
+25m sample spacing as this was
+considered the maximum spacing that
+would capture regional shear structures
+over more than one sample
+Soil pXRF results are used for
+geochemical studies only and are not
+composited.
+Where exposure allows, multiple chip
+samples are collected across mineralised
+structures to assess the continuity of Au
+grade.
+Rock chip sampling is limited by outcrop
+exposure.
+
+Location of
+data points
+
+Data spacing
+and
+distribution
+
+ Accuracy and quality of
+surveys used to locate drill
+holes (collar and down-hole
+surveys), trenches, mine
+workings and other locations
+used in Mineral Resource
+estimation.
+ Specification of the grid
+system used.
+ Quality and adequacy of
+topographic control.
+
+
+
+ Data spacing for reporting of
+Exploration Results.
+ Whether the data spacing
+and distribution is sufficient
+to establish the degree of
+geological and grade
+continuity appropriate for the
+Mineral Resource and Ore
+Reserve estimation
+procedure(s) and
+classifications applied.
+ Whether sample
+compositing has been
+applied.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+16
+
+Criteria
+
+JORC Code explanation
+
+Commentary
+
+For personal use only
+
+
+
+Orientation of  Whether the orientation of
+sampling achieves unbiased
+data in
+sampling of possible
+relation to
+structures and the extent to
+geological
+which this is known,
+structure
+considering the deposit type.
+ If the relationship between
+the drilling orientation and
+the orientation of key
+mineralised structures is
+considered to have
+introduced a sampling bias,
+this should be assessed and
+reported if material.
+
+
+
+
+
+
+
+
+Sample
+security
+
+ The measures taken to
+ensure sample security.
+
+
+
+Audits or
+reviews
+
+ The results of any audits or
+reviews of sampling
+techniques and data.
+
+
+
+Reconnaissance-scale chip / grab
+samples are not presented or considered
+to be representative of the average grade.
+Grab samples only represent the grade at
+a single point within the rock exposure.
+Sample spacing is designed to allow an
+initial assessment of gold mineralisation
+and is not suitable for future resource
+estimation activities.
+All drill related data are referenced to the
+original ASX report by date published. All
+details appear in the original report.
+Regional soil lines are aligned with near
+east-west ridge lines and are
+approximately perpendicular to the strike
+of the interpreted regional shear systems
+hosting disseminated sulphide and gold
+where possible. A small number of lines
+or portions of lines run at a lower angle to
+the interpreted mineralisation trend, this is
+shown graphically in the body of the
+report.
+No significant sample bias is considered to
+be introduced because of the orientation of
+the soil lines without being noted in the
+body of the report.
+Grab samples do not capture any aspect
+of the potential variation in grade in
+relation to the orientation of the
+mineralisation and represents only a single
+point inside the mineralisation. Chip
+samples are collected perpendicular to
+strike where possible to avoid any sample
+bias and only where outcrop or subcrop
+exists. The orientation of rock chip
+samples is recorded and indicated in
+diagrams.
+All samples submitted for analysis are
+placed in sealed plastic bags and
+enclosed in strong plastic boxes, delivered
+to a commercial transport company for
+delivery to the laboratory. Any evidence of
+sample damage or tampering is
+immediately reported by the laboratory to
+the company and a decision made as to
+the integrity of the sample and the
+remaining samples within the damaged /
+tampered bag/s.
+The mapping and sampling methodology
+and results were documented and
+reviewed by an independent expert who
+acts as the competent person for this
+report.
+17
+
+SECTION 2 REPORTING OF EXPLORATION RESULTS
+Criteria
+
+JORC Code explanation
+
+For personal use only
+
+Mineral
+ Type, reference name/number,
+location and ownership including
+tenement and
+agreements or material issues
+land tenure
+with third parties such as joint
+status
+ventures, partnerships,
+overriding royalties, native title
+interests, historical sites,
+wilderness or national park and
+environmental settings.
+ The security of the tenure held at
+the time of reporting along with
+any known impediments to
+obtaining a licence to operate in
+the area.
+
+Commentary
+All tenements remain in good standing at 31 May 2020.
+Tenement
+
+Name
+
+Number
+
+Tenement Type
+4
+
+Area (km2)
+
+Interest
+
+Location
+
+100%
+
+NE Victoria
+
+60
+
+100%
+
+Central Victoria
+
+165
+
+100%
+
+NE Victoria
+
+183
+
+100%
+
+NE Victoria
+
+Exploration
+
+190
+
+100%
+
+NE Victoria
+
+EL (Application)
+
+170
+
+100%
+
+NE Victoria
+
+EL5315
+
+Mitta Mitta
+
+EL006016
+
+Rushworth
+
+Exploration
+
+EL006277
+
+Empress
+
+Exploration
+
+EL006300
+
+Eskdale
+
+3
+
+Exploration
+
+Unless specified
+
+Exploration
+
+172
+
+EL006486
+
+Mt Creek
+
+EL006764
+
+Cravensville
+
+EL006861
+
+Buckland
+
+EL (Application)
+
+414
+
+100%
+
+NE Victoria
+
+EL006865
+
+Dart
+
+EL (Application)
+
+567
+
+100%
+
+NE Victoria
+
+EL006866
+
+Cudgewa
+
+EL (Application)
+
+508
+
+100%
+
+NE Victoria
+
+EL006994
+
+Wangara
+
+EL (Application)
+
+142
+
+100%
+
+Central Victoria
+
+EL007007
+
+Union
+
+EL (Application)
+
+3
+
+100%
+
+Central Victoria
+
+EL007008
+
+Buckland West
+
+EL (Application)
+
+344
+
+100%
+
+NE Victoria
+
+EL007099
+
+Sandy Creek
+
+EL (Application)
+
+437
+
+100%
+
+NE Victoria
+
+EL007170
+
+Berringama
+
+EL (Application)
+
+27
+
+100%
+
+NE Victoria
+
+RL006615
+
+Fairley’s
+
+NE Victoria
+
+RL006616
+
+Unicorn
+
+MIN006619
+
+Mt View
+
+2
+
+Retention License Application
+
+340 Ha
+
+100%
+
+1&2
+
+Retention License Application
+
+23,243 Ha
+
+100%
+
+NE Victoria
+
+2
+
+Mining License
+
+224 Ha
+
+100%
+
+NE Victoria
+
+All tenements remain in good standing at 31 May 2020.
+NOTE 1: Unicorn Project area subject to a 2% NSR Royalty Agreement with Osisko Gold Royalties Ltd
+dated 29 April 2013.
+NOTE 2: Areas subject to a 1.5% Founders NSR Royalty Agreement.
+NOTE 3: Areas are subject to a 1.0% NSR Royalty Agreement with Minvest Corporation Pty Ltd (See
+DTM ASX Release 1 June 2016).
+NOTE 4: Areas are subject to a 0.75% Net Smelter Royalty on gold production, payable to Bruce
+William McLennan.
+
+Exploration
+done by other
+parties
+
+ Acknowledgment and appraisal
+of exploration by other parties.
+
+
+
+Geology
+
+ Deposit type, geological setting
+and style of mineralisation.
+
+
+
+The Sandy Creek and Tallandoon goldfields
+have previously been explored to establish the
+remaining alluvial potential and limited effort to
+review reef style historic mines with surface
+and underground mapping and sampling
+carried out ( EL873, BHP Minerals Ltd, 19801982; EL1463, Tallangalook Ltd, 1984-1988;
+EL3574, Exminco, 1993-1994; EL4039,
+Northern Copper Ltd, 1996-1997; EL4812,
+Goldsearch Ltd, 2004-2008; EL5241, Golden
+Deeps Ltd, 2009-2011). All previous
+exploration efforts have focused on narrowvein quartz potential, with very little focus on
+alteration within the granite and minor
+structural analysis. Dart Mining is the first
+explorer to recognize the roof pendant style of
+mineralisation and assess the structural
+control on the distribution on mineralisation.
+Tallangalook Ltd and Goldsearch Ltd
+undertook some basic geological mapping of
+the Sandy Creek area. Tallangalook Ltd dug &
+sampled costeans across some workings.
+Goldsearch Ltd drilled 3 short diamond drill
+holes, but terminated all before hitting
+mineralisation.
+The Sandy Creek Goldfield was a traditional
+narrow vein, high grade (free gold) reef style
+field with a minor alluvial gold footprint. Dart
+Mining recognized some gold mineralization is
+related to disseminated sulphides in altered
+granites along structurally-controlled
+intersections within a metasedimentary roof
+18
+
+Drill hole
+Information
+
+For personal use only
+
+ A summary of all information
+material to the understanding of
+the exploration results including
+a tabulation of the following
+information for all Material drill
+holes:
+o easting and northing of the
+drill hole collar
+o elevation or RL (Reduced
+Level – elevation above sea
+level in metres) of the drill
+hole collar
+o dip and azimuth of the hole
+o down hole length and
+interception depth
+o hole length.
+ If the exclusion of this
+information is justified on the
+basis that the information is not
+Material and this exclusion does
+not detract from the
+understanding of the report, the
+Competent Person should
+clearly explain why this is the
+case.
+Data
+ In reporting Exploration Results,
+weighting averaging techniques,
+aggregation
+maximum and/or minimum grade
+methods
+truncations (e.g. cutting of high
+grades) and cut-off grades are
+usually Material and should be
+stated.
+ Where aggregate intercepts
+incorporate short lengths of high
+grade results and longer lengths
+of low grade results, the
+procedure used for such
+aggregation should be stated
+and some typical examples of
+such aggregations should be
+shown in detail.
+ The assumptions used for any
+reporting of metal equivalent
+values should be clearly stated.
+Relationship
+ These relationships are
+particularly important in the
+between
+reporting of Exploration Results.
+mineralisation
+ If the geometry of the
+widths and
+mineralisation with respect to the
+intercept
+drill hole angle is known, its
+lengths
+nature should be reported.
+ If it is not known and only the
+down hole lengths are reported,
+there should be a clear
+statement to this effect (e.g.
+
+pendant above the Yabba Granite.
+ N/A
+
+ No drill-related data are available for the Sandy
+Creek area.
+
+ No drill-related data are available for the Sandy
+Creek area.
+
+19
+
+For personal use only
+
+Diagrams
+
+Balanced
+reporting
+
+Other
+substantive
+exploration
+data
+
+Further work
+
+‘down hole length, true width not
+known’).
+ Appropriate maps and sections
+(with scales) and tabulations of
+intercepts should be included for
+any significant discovery being
+reported These should include,
+but not be limited to a plan view
+of drill hole collar locations and
+appropriate sectional views.
+ Where comprehensive reporting
+of all Exploration Results is not
+practicable, representative
+reporting of both low and high
+grades and/or widths should be
+practiced to avoid misleading
+reporting of Exploration Results.
+
+ Other exploration data, if
+meaningful and material, should
+be reported including (but not
+limited to): geological
+observations; geophysical
+survey results; geochemical
+survey results; bulk samples –
+size and method of treatment;
+metallurgical test results; bulk
+density, groundwater,
+geotechnical and rock
+characteristics; potential
+deleterious or contaminating
+substances.
+ The nature and scale of planned
+further work (e.g. tests for lateral
+extensions or depth extensions
+or large-scale step-out drilling).
+ Diagrams clearly highlighting the
+areas of possible extensions,
+including the main geological
+interpretations and future drilling
+areas, provided this information
+is not commercially sensitive.
+
+ No drill-related data are available for the Sandy
+Creek area.
+
+ Soil arsenic values are reported in full as
+graduated symbols for all soil lines, the legend
+provides a guide to soil values. This method of
+reporting is considered to be comprehensive
+and un-biased for early geochemical work.
+ Rock chip gold assay values are reported in
+full as graduated symbols, the legend provides
+a guide to rock values. This method of
+reporting is considered to be comprehensive
+and un-biased for early geochemical work.
+ Any other relevant information is discussed in
+the main body of the report.
+
+ Planned work is discussed in the body of the
+report and is dependent on future company
+direction.
+
+20
+
+Appendix 3 – Rock Chip Assay Data Listing
+
+For personal use only
+
+N.B. -
+
+Type Material Code:
+
+IS – In Situ, SC – Subcrop, FL – Float
+
+Type Sampling Code:
+
+CHIP – Continuous chip sample across strike, GRAB – Grab sample, often point
+source collection of strongly mineralised material or from mullock across <5m
+radius.
+
+Sample MGA94_55
+No.
+Easting
+69697
+514272
+69698
+514265
+69704
+514396
+69705
+512522
+69706
+512518
+69707
+512511
+69708
+512513
+69709
+512510
+69710
+513281
+69711
+512796
+69712
+512867
+69713
+513029
+69714
+514398
+69715
+512662
+69716
+514265
+69717
+514265
+69718
+514268
+69719
+514271
+69720
+514263
+69721
+514264
+69722
+514206
+69723
+514189
+69724
+514177
+69725
+514270
+69726
+514255
+69727
+514255
+69728
+514328
+69729
+514513
+69730
+514320
+69731
+514328
+69732
+514328
+69733
+513762
+69734
+513761
+69735
+513772
+69736
+513771
+69737
+512477
+
+MGA94_55 AHD RL
+Type
+Type
+Type
+Sample
+Au
+Northing
+(m) Category Material Sampling Width (m) (g/t)
+5975048
+680
+R
+IS
+CHIP
+0.8
+14.4
+5975052
+677
+R
+FL
+GRAB
+15
+5974849
+586
+R
+IS
+CHIP
+2
+0.09
+5978108
+566
+R
+FL
+GRAB
+0.01
+5978135
+576
+R
+FL
+GRAB
+0.11
+5978138
+574
+R
+FL
+GRAB
+0.01
+5978156
+576
+R
+FL
+GRAB
+0.5
+5978160
+550
+R
+FL
+GRAB
+0.02
+5977647
+782
+R
+FL
+GRAB
+0.01
+5977187
+673
+R
+FL
+GRAB
+140
+5977389
+719
+R
+FL
+GRAB
+0.01
+5977604
+755
+R
+IS
+CHIP
+0.3
+0.09
+5974851
+586
+R
+FL
+GRAB
+1.1
+5978349
+673
+R
+SC
+GRAB
+0.01
+5975048
+650
+R
+FL
+CHIP
+5
+0.01
+5975044
+650
+R
+FL
+CHIP
+5
+0.01
+5975047
+650
+R
+IS
+CHIP
+6
+0.6
+5975048
+650
+R
+IS
+CHIP
+4.5
+5.54
+5975051
+655
+R
+IS
+CHIP
+5
+0.01
+5975052
+653
+R
+FL
+GRAB
+0.02
+5975069
+650
+R
+IS
+CHIP
+12
+0.01
+5975076
+650
+R
+IS
+CHIP
+6
+0.01
+5975106
+675
+R
+FL
+CHIP
+4
+0.01
+5975031
+718
+R
+FL
+CHIP
+0.1
+3.16
+5975047
+716
+R
+FL
+GRAB
+1.48
+5975045
+712
+R
+FL
+GRAB
+6.46
+5975094
+736
+R
+FL
+GRAB
+0.04
+5975076
+724
+R
+IS
+CHIP
+3
+0.02
+5975075
+728
+R
+IS
+CHIP
+1
+12.65
+5975074
+737
+R
+IS
+CHIP
+0.2
+0.42
+5975073
+737
+R
+IS
+CHIP
+0.5
+0.1
+5977785
+814
+R
+FL
+GRAB
+0.27
+5977787
+814
+R
+FL
+GRAB
+0.32
+5977782
+809
+R
+FL
+GRAB
+0.01
+5977782
+808
+R
+FL
+GRAB
+0.02
+5977452
+608
+R
+FL
+GRAB
+1.69
+
+21
+
+For personal use only
+
+Sample MGA94_55
+No.
+Easting
+69738
+512480
+69739
+512513
+69740
+512514
+69741
+512512
+69742
+512497
+69743
+512521
+69744
+512518
+69745
+512512
+69746
+512516
+69754
+512480
+69764
+514265
+69765
+514267
+69766
+514244
+69769
+513387
+69770
+513385
+69771
+513323
+69772
+513371
+69773
+512512
+69774
+512583
+69775
+512703
+69776
+512719
+69777
+513001
+69778
+514273
+69779
+514269
+69780
+514268
+69781
+514260
+69782
+514262
+69783
+514276
+69784
+514275
+69785
+513379
+69786
+513384
+69787
+513369
+69788
+513373
+69789
+513373
+69790
+513376
+69791
+512992
+69792
+512986
+69793
+513002
+69794
+512965
+69795
+512467
+69796
+512509
+69797
+512495
+69798
+512508
+69803
+513670
+69804
+513640
+69805
+513647
+69806
+513647
+69807
+513516
+69808
+513461
+69809
+513443
+
+MGA94_55 AHD RL
+Type
+Type
+Type
+Sample
+Northing
+(m) Category Material Sampling Width (m)
+5977457
+621
+R
+FL
+GRAB
+5978242
+600
+R
+IS
+CHIP
+4
+5978247
+600
+R
+IS
+CHIP
+5
+5978239
+600
+R
+IS
+CHIP
+0.6
+5978201
+580
+R
+IS
+CHIP
+0.25
+5978251
+580
+R
+IS
+CHIP
+8
+5978247
+580
+R
+FL
+GRAB
+5978241
+580
+R
+IS
+CHIP
+3.5
+5978235
+580
+R
+IS
+CHIP
+0.1
+5977708
+580
+R
+IS
+CHIP
+10
+5975024
+710
+R
+IS
+CHIP
+1.1
+5975026
+710
+R
+IS
+CHIP
+1
+5975053
+677
+R
+IS
+CHIP
+0.7
+5976810
+827
+R
+IS
+CHIP
+1
+5976808
+827
+R
+IS
+CHIP
+3
+5976722
+807
+R
+IS
+GRAB
+5976786
+827
+R
+IS
+GRAB
+5977787
+534
+R
+IS
+CHIP
+5
+5976750
+637
+R
+IS
+GRAB
+5976777
+661
+R
+IS
+CHIP
+1.5
+5976786
+667
+R
+IS
+GRAB
+5977689
+717
+R
+IS
+GRAB
+5975045
+657
+R
+IS
+CHIP
+2
+5975039
+657
+R
+IS
+CHIP
+2
+5975040
+657
+R
+IS
+CHIP
+1.5
+5975032
+657
+R
+IS
+CHIP
+1.5
+5975037
+657
+R
+IS
+CHIP
+0.5
+5975002
+657
+R
+IS
+CHIP
+1.1
+5975003
+657
+R
+IS
+CHIP
+0.5
+5976779
+827
+R
+IS
+CHIP
+1.9
+5976798
+827
+R
+IS
+CHIP
+1
+5976773
+807
+R
+IS
+CHIP
+1
+5976787
+807
+R
+IS
+CHIP
+1.5
+5976808
+807
+R
+IS
+CHIP
+0.5
+5976793
+807
+R
+IS
+CHIP
+2.5
+5977684
+720
+R
+FL
+GRAB
+5977671
+727
+R
+FL
+GRAB
+5977678
+726
+R
+FL
+GRAB
+5977583
+757
+R
+FL
+GRAB
+5977670
+661
+R
+FL
+GRAB
+5977465
+619
+R
+IS
+CHIP
+2
+5977457
+617
+R
+IS
+CHIP
+0.05
+5977463
+617
+R
+IS
+CHIP
+0.5
+5977140
+909
+R
+IS
+CHIP
+2
+5977122
+909
+R
+FL
+GRAB
+5977120
+906
+R
+SC
+CHIP
+10
+5977120
+906
+R
+FL
+GRAB
+5977312
+885
+R
+FL
+GRAB
+5977337
+877
+R
+FL
+GRAB
+5977309
+882
+R
+FL
+GRAB
+-
+
+Au
+(g/t)
+0.02
+1.36
+0.01
+0.37
+1.45
+0.07
+0.01
+0.01
+0.52
+0.01
+3.09
+10.5
+0.59
+0.82
+0.03
+6.5
+0.27
+0.01
+0.04
+0.98
+0.14
+2.97
+0.01
+0.07
+3.64
+3.02
+1.58
+2.88
+28.2
+0.39
+1.48
+2.37
+3
+2.57
+12.3
+3.61
+3.64
+0.29
+8.37
+0.02
+0.01
+0.01
+0.58
+0.05
+0.01
+0.21
+0.01
+0.01
+0.17
+0.01
+
+22
+
+For personal use only
+
+Sample MGA94_55
+No.
+Easting
+69810
+513461
+69811
+513778
+69812
+513807
+69813
+513792
+69814
+513766
+69815
+512849
+69816
+512805
+69817
+512435
+69818
+512486
+69819
+512597
+69820
+512605
+69821
+512602
+69822
+512604
+69823
+512596
+69824
+512600
+69825
+512603
+69826
+512603
+69827
+512607
+69828
+513798
+69829
+512475
+69830
+512482
+69831
+512972
+69832
+512966
+69833
+512958
+69834
+512958
+69835
+512959
+69836
+512958
+69837
+512968
+69838
+512630
+69839
+512628
+69840
+512632
+69851
+512625
+69852
+513741
+69853
+513685
+69854
+513692
+69855
+513696
+69856
+513694
+69857
+513651
+69938
+513349
+69939
+513368
+69940
+513369
+69941
+513370
+69942
+513371
+69943
+513369
+69944
+513370
+69945
+513391
+69946
+513390
+69947
+513381
+69978
+514435
+
+MGA94_55 AHD RL
+Type
+Type
+Type
+Sample
+Au
+Northing
+(m) Category Material Sampling Width (m) (g/t)
+5977337
+877
+R
+FL
+GRAB
+0.02
+5977815
+813
+R
+IS
+CHIP
+0.5
+0.73
+5977769
+775
+R
+IS
+CHIP
+1.4
+0.08
+5977779
+775
+R
+IS
+CHIP
+0.7
+0.02
+5977783
+775
+R
+IS
+CHIP
+0.5
+0.89
+5977318
+711
+R
+IS
+CHIP
+0.6
+0.03
+5977187
+673
+R
+FL
+GRAB
+0.79
+5978083
+552
+R
+FL
+GRAB
+0.18
+5977739
+631
+R
+FL
+GRAB
+2.75
+5977739
+625
+R
+IS
+CHIP
+3
+1.96
+5977761
+626
+R
+IS
+CHIP
+1.6
+0.37
+5977749
+629
+R
+IS
+CHIP
+0.1
+7.41
+5977761
+631
+R
+IS
+CHIP
+0.7
+0.64
+5977737
+616
+R
+IS
+CHIP
+1.5
+1.52
+5977738
+616
+R
+IS
+CHIP
+5
+2.11
+5977743
+616
+R
+IS
+CHIP
+1.5
+0.75
+5977744
+616
+R
+IS
+CHIP
+6
+0.68
+5977747
+616
+R
+IS
+CHIP
+5
+2.24
+5977775
+775
+R
+IS
+CHIP
+5
+0.02
+5978130
+561
+R
+IS
+CHIP
+3.5
+0.8
+5978140
+561
+R
+IS
+CHIP
+8
+0.43
+5977551
+759
+R
+IS
+CHIP
+1
+2.25
+5977545
+759
+R
+IS
+CHIP
+1.5
+0.33
+5977572
+742
+R
+IS
+CHIP
+1.5
+0.38
+5977567
+742
+R
+IS
+CHIP
+0.5
+5.29
+5977567
+742
+R
+IS
+CHIP
+0.5
+0.03
+5977565
+742
+R
+FL
+GRAB
+0.02
+5977580
+758
+R
+FL
+GRAB
+5.16
+5977961
+554
+R
+IS
+CHIP
+10
+1.07
+5977955
+554
+R
+IS
+CHIP
+1
+1.4
+5977958
+554
+R
+IS
+CHIP
+5
+1.63
+5977948
+553
+R
+FL
+GRAB
+3.01
+5977373
+826
+R
+FL
+GRAB
+0.77
+5977293
+834
+R
+IS
+CHIP
+0.2
+0.05
+5977306
+834
+R
+IS
+CHIP
+0.2
+0.06
+5977310
+834
+R
+IS
+CHIP
+6
+0.08
+5977306
+834
+R
+IS
+CHIP
+0.2
+0.02
+5977217
+885
+R
+FL
+GRAB
+0.95
+5976748
+808
+R
+IS
+CHIP
+6
+0.89
+5976770
+809
+R
+IS
+CHIP
+5
+4.31
+5976774
+809
+R
+IS
+CHIP
+5
+2.23
+5976780
+809
+R
+IS
+CHIP
+5
+1.45
+5976784
+809
+R
+IS
+CHIP
+5
+1.74
+5976764
+827
+R
+IS
+CHIP
+5
+1.35
+5976770
+827
+R
+IS
+CHIP
+2
+1.85
+5976814
+830
+R
+IS
+CHIP
+1
+11.55
+5976817
+830
+R
+IS
+CHIP
+2
+6.38
+5976791
+833
+R
+IS
+CHIP
+0.8
+1.03
+5975401
+797
+R
+IS
+CHIP
+1.5
+0.2
+
+23
+
+For personal use only
+
+Sample MGA94_55
+No.
+Easting
+69979
+514431
+69980
+514399
+69981
+513801
+69982
+513850
+69983
+513836
+69984
+513803
+69985
+514322
+69986
+510567
+69987
+510558
+69988
+510462
+69989
+510439
+69990
+510441
+69991
+512606
+69992
+513720
+69993
+513724
+69994
+513780
+69995
+513784
+69996
+513736
+69997
+513491
+69998
+513521
+69999
+513500
+70000
+513802
+70047
+513301
+70060
+512810
+70061
+512819
+70062
+512787
+70063
+513065
+70304
+517902
+70305
+517872
+70306
+517904
+70307
+517934
+70308
+517929
+70309
+517924
+70310
+517940
+70311
+517953
+70312
+518073
+70313
+517970
+70314
+517976
+70315
+518289
+70316
+518399
+70318
+518132
+70319
+517888
+70320
+517911
+70321
+517882
+70322
+517804
+
+MGA94_55 AHD RL
+Type
+Type
+Type
+Sample
+Au
+Northing
+(m) Category Material Sampling Width (m) (g/t)
+5975399
+789
+R
+IS
+CHIP
+0.1
+0.94
+5975427
+770
+R
+FL
+GRAB
+0.04
+5975553
+701
+R
+FL
+GRAB
+26.2
+5975563
+700
+R
+FL
+GRAB
+2.5
+5975562
+700
+R
+IS
+CHIP
+0.5
+0.51
+5975558
+697
+R
+FL
+GRAB
+10.2
+5974854
+684
+R
+IS
+CHIP
+2
+0.01
+5967943
+797
+R
+FL
+GRAB
+1.38
+5967945
+813
+R
+FL
+GRAB
+2.86
+5967759
+763
+R
+IS
+CHIP
+4
+5.16
+5967717
+763
+R
+FL
+GRAB
+2.27
+5967720
+763
+R
+FL
+GRAB
+1.33
+5978630
+739
+R
+IS
+CHIP
+1.2
+22.1
+5978305
+709
+R
+IS
+CHIP
+1.5
+4.56
+5978301
+706
+R
+IS
+CHIP
+5.5
+2.98
+5978333
+681
+R
+FL
+GRAB
+0.03
+5978334
+687
+R
+FL
+GRAB
+2.29
+5978309
+702
+R
+IS
+CHIP
+2
+2.92
+5978231
+802
+R
+IS
+CHIP
+1.5
+0.03
+5978263
+802
+R
+FL
+GRAB
+2.53
+5978198
+826
+R
+SC
+CHIP
+0.6
+2.18
+5975554
+701
+R
+FL
+GRAB
+23.6
+5976857
+818
+R
+IS
+CHIP
+1
+0.13
+5979743
+646
+R
+IS
+CHIP
+1.6
+0.01
+5979738
+647
+R
+SC
+CHIP
+2.5
+18.15
+5979639
+690
+R
+FL
+GRAB
+0.06
+5978629
+809
+R
+FL
+GRAB
+0.01
+5969956
+362
+R
+IS
+CHIP
+1
+0.46
+5969966
+376
+R
+IS
+CHIP
+1.5
+0.01
+5969937
+355
+R
+FL
+GRAB
+6.49
+5969932
+344
+R
+FL
+GRAB
+0.71
+5969952
+348
+R
+FL
+GRAB
+2.86
+5969971
+352
+R
+FL
+GRAB
+7.5
+5969963
+351
+R
+IS
+CHIP
+0.2
+122
+5969965
+343
+R
+FL
+GRAB
+9.22
+5969889
+337
+R
+FL
+GRAB
+1.29
+5969932
+340
+R
+FL
+GRAB
+9.64
+5969932
+339
+R
+FL
+GRAB
+5.47
+5969888
+426
+R
+IS
+CHIP
+0.8
+0.02
+5970004
+507
+R
+IS
+CHIP
+0.2
+0.14
+5970289
+488
+R
+IS
+CHIP
+0.2
+0.03
+5970156
+419
+R
+IS
+CHIP
+0.1
+16.6
+5970170
+406
+R
+FL
+GRAB
+24
+5970187
+418
+R
+FL
+GRAB
+0.35
+5969639
+382
+R
+SC
+GRAB
+0.2
+
+24
+
+

@@ -1,0 +1,104 @@
+For personal use only
+
+ASX RELEASE
+3 July 2020
+
+PROGRESS WITH TOPAZ MULLITE FIBRE RESEARCH AT THE UNSW
+
+Chase Mining Corporation Limited (“CML” or “The Company”) provides the following update on the
+collaborative topaz research project being undertaken with the University of New South Wales (“UNSW”)
+by its wholly owned subsidiary Topfibre Pty Ltd as the industry partner.
+The most recent report from the UNSW contains further evidence of proof-in-concept progress in the
+production of mullite fibre from Topaz project and other advances made, including metal infiltration of
+mullite preforms.
+Attached below is a summary of the report as supplied by Professor Charles C Sorrell and the team of
+researchers of these results.
+Compilation of data for patent application/s is ongoing.
+No further work sitework has been undertaken to progress the MLA due to COVID 19 restrictions.
+
+Authorisation
+The provision of this announcement to ASX has been authorised by the Board of directors of Chase Mining
+Corporation Limited.
+
+Dr Leon Pretorius
+Executive Chairman and CEO
+3 July 2020
+
+Direct any enquiries to:
+Leon Pretorius on 0419 702 616
+
+CHASE MINING CORPORATION LIMITED
+ABN 12 118 788 846
+
+Level 8, 46 Edward Street, Brisbane QLD 4000 PO Box
+15505, City East QLD 4002
+0439 310 818 | 0419 702 616
+https://www.chasemining.com.au
+
+UNSW-CHASE MINING RESEARCH PROGRAM
+SUMMARY PROGRESS REPORT 15
+23 January 2020 – 30 June 2020
+
+For personal use only
+
+Topics
+1) Fabrication of porous mullite preforms
+This work investigated the formation of (a) large-scale porosity with the use of
+three polymers, (b) fine-scale porosity with the use of flake graphite, and (c) no
+filler. This effort was key to the eventual success in achieving essentially full metal
+penetration of the compacts. It also was aimed at examination of the most
+effective means of controlling the porosity so that the preforms alone could be
+manufactured directly for applications in (a) catalytic convertors and (b) filters.
+These applications are feasible because a striking feature about the preforms is
+that, despite having the porosity of loose powder, they are so strong that, as
+shown in the figure to the right, they exhibit the conchoidal fracture characteristic
+of fully dense solids.
+
+2) Metal infiltration of porous mullite preforms
+Preliminary work on the inducement of porosity with the use of tyre rubber and
+polypropylene as fillers confirmed the potential to achieve extensive infiltration of
+mullite preforms. This work was successful, as demonstrated by experimentation:
+1 May 2020 Feasibility of infiltration of mullite preforms
+5 June 2020 Feasibility of extensive infiltration of mullite preforms with largescale porosity
+10 June 2020 Feasibility of extensive infiltration of mullite preforms with finescale porosity
+
+The figure to the right shows the microstructure of the first preform to exhibit extensive infiltration. These
+composites, which consist of interpenetrating networks of both mullite and aluminium alloy, have potential
+applications in friction pads for vehicular transport, impact pads for mining, and body armour for the military.
+
+3) Milling, mixing, and blending of topaz
+This work aimed at controlling the porosity in order to engineer the microstructure so that the preforms
+would be in the form of bulk shapes suitable for (a) liquid metal infiltration and (b) permeability to gases
+and liquids.
+This work confirmed that the porosity and general pore size could be manipulated but the method for
+blending of topaz and fillers was not adequate to allow systematic control of the microstructure.
+Achievement of this goal is likely to require investigation of particle size classification, wet-mixing, and use
+of different calcining temperatures.
+
+Future Work
+For commercialisation purposes, the following parameters must be investigated systematically:
+(a) new Al alloys;
+(b) mixing techniques;
+(c) porosity/pore size distribution;
+(d) calcining temperature*;
+(e) graphite content;
+
+(f) infiltration temperature; and,
+(g) infiltration time.
+
+For personal use only
+
+*The study of calcining temperature will include continuing efforts to coarsen the mullite whiskers into
+fibres.
+
+Prepared by
+
+S.S. Mofarah, M. Mayyas, D.M. Miskovic
+K. Laws, U. Kumar, Y. Yau, P. Koshy, and C.C. Sorrell
+
+School of Materials Science and Engineering
+UNSW Sydney
+Sydney, NSW 2052
+Australia
+
+

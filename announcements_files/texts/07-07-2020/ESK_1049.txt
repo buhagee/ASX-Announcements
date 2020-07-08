@@ -1,0 +1,321 @@
+For personal use only
+
+Etherstack plc | Sydney (GMT+10)
+93A Shepherd Street
+Chippendale, NSW 2008
+Australia
+Email:info.au@etherstack.com
+P: +61 2 8399 7500
+F: +61 2 8399 7507
+
+6 July 2020
+
+Mr Ivan Tatkovich
+The Australian Securities Exchange
+Exchange Centre
+20 Bridge Street, Sydney NSW 2000
+By email
+Dear Mr Tatkovich,
+Re: Aware Query
+Etherstack provides the following response to the questions contained within the letter from ASX Limited (“ASX”)
+titled “Etherstack PLC (‘ESK’): Aware Query” dated 3 July 2020. Terms defined in the ASX Aware Query have the
+same meaning where used in this response.
+1.
+
+Please explain the factors that ESK took into consideration to determine whether or not to flag the
+Announcements as being Market Sensitive.
+
+The two key factors Etherstack took into consideration in flagging the Announcements as Market Sensitive are:
+a)
+
+The strategic value of the partnership with Samsung; and
+
+b) The quantum of revenues that may be derived from the Global Teaming Agreement in the future when
+Samsung and Etherstack together supply technology to Samsung’s customers.
+2.
+
+At what time and date were the terms of the Global Teaming Agreement finalised?
+
+There was no physical meeting at which both parties attended and signed the Global Teaming Agreement. Rather,
+the Global Teaming Agreement was finalised and signed electronically by exchange of email.
+Etherstack sent via email a version of the document containing Etherstack signatures to Samsung on 23 June 2020.
+There was then further telephone and email discussion of the terms set out in this document.
+Samsung responded by email at 7.21pm on 24 June 2020 with the same version of the document as sent by
+Etherstack containing the Samsung signatures.
+It was agreed the parties shall jointly issue a mutually agreeable press release announcing certain terms of the
+Global Teaming Agreement and that Etherstack would not make any release without the prior written approval
+of Samsung.
+Notwithstanding that the release was prepared in draft prior to signing, the release was not settled and
+approved by Samsung until 29 June 2020 at 10.36 am and the announcement was subsequently released preopen on 30 June 2020.
+
+English Registered Company No. 7951056 | ARBN 156 640 532
+London (GMT)
+P: +44 207 734 0200
+info.eu@etherstack.com
+
+Yokohama (GMT +9)
+
+New York (GMT-5)
+
+P: +81 45 342 9050
+
+P: +1 917 661 4110
+
+info.jp@etherstack.com
+
+info.na@etherstack.com
+
+During this time, Etherstack had continually monitored its trading, noting that its shares had not previously
+traded for 11 days prior to the announcement, and did not trade between the signing of the Global Teaming
+Agreement and the announcement, confirming that confidentiality had not been lost.
+
+For personal use only
+
+3.
+
+At what time and date did each party sign the Global Teaming Agreement?
+
+Refer to the response to question 2 set out above.
+4.
+
+If the Global Teaming Agreement was signed by both parties prior to 30 June 2020, please explain in
+detail how ESK satisfied the obligation under Listing Rule 3.1 to release information promptly and
+without delay.
+
+Etherstack was bound to follow the contractual requirements of the Global Teaming Agreement and was not in a
+position to release an announcement until the requisite approval from the counterparty had been received.
+Further, although a trading halt was not requested, Etherstack had continually monitored its trading, noting that
+its shares had not previously trading for 11 days prior to the announcement, and did not trade between the
+signing of the Global Teaming Agreement and the announcement, confirming that confidentiality had not been
+lost.
+5. When did ESK first receive an instruction from the holder of the convertible notes referred to in the Appendices
+2A of their intention to convert the notes into fully paid ordinary shares?
+There were 2 instructions provided by the holder of the convertible notes.
+The first instruction was received on 30 June 2020 at 5.38 pm.
+The second instruction was received on 1 July 2020 at 1.54 pm.
+6. At what time and date were the fully paid ordinary shares which are the subject of the Appendices 2A issued by
+ESK’s share registry?
+The CDIs connected with the first conversion instruction were issued at 12.25 pm on 1st July 2020.
+The CDIs connected with second conversion instruction were issued at 11.16 am on 2 July 2020.
+
+7. Please confirm that ESK is complying with the Listing Rules and, in particular, Listing Rule 3.1.
+The Company confirms it is currently in compliance with the Listing Rules and in particular Listing Rule 3.1.
+8. Please confirm that ESK’s responses to the questions above have been authorised and approved under its
+published continuous disclosure policy or otherwise by its board or an officer of ESK with delegated authority
+from the board to respond to ASX on disclosure matters.
+This response is authorised for release by David Deacon, Chief Executive Officer
+
+Yours sincerely,
+
+David Carter
+Company Secretary
+
+Etherstack plc
+
+2
+
+For personal use only
+
+3 July 2020
+Reference: 20091
+Mr David Carter
+Company Secretary
+Etherstack PLC
+Level 1
+93A Shepherd Street
+Chippendale NSW 2008
+By email:
+Dear Mr Carter
+Etherstack PLC (‘ESK’): Aware Query
+ASX Limited (‘ASX’) refers to:
+A.
+
+ESK’s announcement entitled “Global Teaming Agreement with Samsung re 4G/5G Public Safety”
+released through the ASX Market Announcements Platform (‘MAP’) at 9:28am on Tuesday, 30 June 2020,
+flagged as Market Sensitive.
+
+B.
+
+ESK’s subsequent announcement, entitled “Additional Information – Samsung Global Teaming
+Agreement” released through MAP at 12:18pm on Tuesday, 30 June 2020, also flagged as Market
+Sensitive.
+together, “the Announcements”.
+
+C.
+
+The price of ESK’s securities, which moved from $0.12 prior to the release of the Announcements to a
+high of $3.70 on Wednesday, 1 July 2020
+
+D.
+
+ESK’s Appendix 2A released through MAP at 1:06pm on Wednesday, 1 July 2020.
+
+E.
+
+ESK’s Appendix 2A released through MAP at 1:05pm on Thursday, 2 July 2020.
+together, ‘the Appendices 2A’.
+
+F. Listing Rule 3.1, which requires a listed entity to immediately give ASX any information concerning it that a
+reasonable person would expect to have a material effect on the price or value of the entity’s securities.
+G. The definition of “aware” in Chapter 19 of the Listing Rules, which states that:
+“an entity becomes aware of information if, and as soon as, an officer of the entity (or, in the case of a
+trust, an officer of the responsible entity) has, or ought reasonably to have, come into possession of the
+information in the course of the performance of their duties as an officer of that entity” and section 4.4
+in Guidance Note 8 Continuous Disclosure: Listing Rules 3.1 – 3.1B “When does an entity become
+aware of information.”
+H. Listing Rule 3.1A, which sets out exceptions from the requirement to make immediate disclosure, provided
+that each of the following are satisfied.
+“3.1A
+
+Listing rule 3.1 does not apply to particular information while each of the following is satisfied
+in relation to the information:
+
+3.1A.1 One or more of the following applies:
+
+
+ASX Limited [[Listings]]
+
+It would be a breach of a law to disclose the information;
+
+ASX Customer Service Centre 131 279 | asx.com.au
+
+For personal use only
+
+
+
+The information concerns an incomplete proposal or negotiation;
+
+
+
+The information comprises matters of supposition or is insufficiently definite to
+warrant disclosure;
+
+
+
+The information is generated for the internal management purposes of the entity; or
+
+
+
+The information is a trade secret; and
+
+3.1A.2 The information is confidential and ASX has not formed the view that the information has
+ceased to be confidential; and
+3.1A.3 A reasonable person would not expect the information to be disclosed.”
+I.
+
+ASX’s policy position on the concept of “confidentiality”, which is detailed in section 5.8 of Guidance Note 8
+Continuous Disclosure: Listing Rules 3.1 – 3.1B. In particular, the Guidance Note states that:
+“Whether information has the quality of being confidential is a question of fact, not one of the
+intention or desire of the listed entity. Accordingly, even though an entity may consider
+information to be confidential and its disclosure to be a breach of confidence, if it is in fact
+disclosed by those who know it, then it ceases to be confidential information for the purposes
+of this rule.”
+
+Questions and Request for Information
+In light of the information contained in the Announcements and the Appendices 2A, please respond separately
+to each of the following questions and requests for information:
+1.
+
+Please explain the factors that ESK took into consideration to determine whether or not to flag the
+Announcements as being Market Sensitive.
+
+2.
+
+At what time and date were the terms of the Global Teaming Agreement finalised?
+
+3.
+
+At what time and date did each party sign the Global Teaming Agreement?
+
+4.
+
+If the Global Teaming Agreement was signed by both parties prior to 30 June 2020, please explain in detail
+how ESK satisfied the obligation under Listing Rule 3.1 to release information promptly and without delay.
+
+5.
+
+When did ESK first receive an instruction from the holder of the convertible notes referred to in the
+Appendices 2A of their intention to convert the notes into fully paid ordinary shares?
+
+6.
+
+At what time and date were the fully paid ordinary shares which are the subject of the Appendices 2A
+issued by ESK’s share registry?
+
+7.
+
+Please confirm that ESK is complying with the Listing Rules and, in particular, Listing Rule 3.1.
+
+8.
+
+Please confirm that ESK’s responses to the questions above have been authorised and approved under its
+published continuous disclosure policy or otherwise by its board or an officer of ESK with delegated
+authority from the board to respond to ASX on disclosure matters.
+
+When and where to send your response
+This request is made under Listing Rule 18.7. Your response is required as soon as reasonably possible and, in
+any event, by no later than 9:30am PM AEST Tuesday, 7 July 2020.
+You should note that if the information requested by this letter is information required to be given to ASX
+under Listing Rule 3.1 and it does not fall within the exceptions mentioned in Listing Rule 3.1A, ESK’s obligation
+is to disclose the information “immediately”. This may require the information to be disclosed before the
+deadline set out in the previous paragraph and may require ESK to request a trading halt immediately.
+2/3
+ASX Customer Service Centre 131 279 | asx.com.au
+
+For personal use only
+
+If you wish to request a trading halt, you must tell us:
+
+
+the reasons for the trading halt;
+
+
+
+how long you want the trading halt to last;
+
+
+
+the event you expect to happen that will end the trading halt;
+
+
+
+that you are not aware of any reason why the trading halt should not be granted; and
+
+
+
+any other information necessary to inform the market about the trading halt, or that we ask for.
+
+We require the request for a trading halt to be in writing. The trading halt cannot extend past the
+commencement of normal trading on the second day after the day on which it is granted.
+You can find further information about trading halts in Guidance Note 16 Trading Halts & Voluntary
+Suspensions.
+ASX reserves the right to release a copy of this letter and your response on the ASX Market Announcements
+Platform under Listing Rule 18.7A. Accordingly, your response should be in a form suitable for release to the
+market.
+Your response should be sent to me by e-mail. It should not be sent directly to the ASX Market Announcements
+Office. This is to allow me to review your response to confirm that it is in a form appropriate for release to the
+market, before it is published on the ASX Market Announcements Platform.
+Listing Rules 3.1 and 3.1A
+
+In responding to this letter, you should have regard to ESK’s obligations under Listing Rules 3.1 and 3.1A and
+also to Guidance Note 8 Continuous Disclosure: Listing Rules 3.1 – 3.1B. It should be noted that ESK’s obligation
+to disclose information under Listing Rule 3.1 is not confined to, nor is it necessarily satisfied by, answering the
+questions set out in this letter.
+Suspension
+If you are unable to respond to this letter by the time specified above ASX will likely suspend trading in ESK’s
+securities under Listing Rule 17.3.
+Release of correspondence between ASX and entity
+We reserve the right to release a copy of this letter, your reply and any other related correspondence between
+us to the market under listing rule 18.7A.
+Enquiries
+If you have any queries regarding any of the above, please contact me.
+
+Regards
+
+Ivan Tatkovich
+Adviser, Listings Compliance (Sydney)
+
+3/3
+ASX Customer Service Centre 131 279 | asx.com.au
+
+

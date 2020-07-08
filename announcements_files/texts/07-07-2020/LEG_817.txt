@@ -1,0 +1,977 @@
+ASX:LEG
+
+7 July 2020
+
+ASX Announcement
+
+For personal use only
+
+Assay Results from RKDD015 and RKDD018 at Mawson
+
+
+RKDD018 assays received
+ 19.2m @ 1.69% Ni, 1.23% Cu, 0.09% Co from 97.9m
+Incl. 4.5m @ 3.05% Ni, 2.32% Cu, 0.19% Co from 103.7m
+ 34.65m @ 0.51% Ni, 0.35% Cu, 0.03% Co from 130.7m
+
+
+
+RKDD015 assays received
+ 73.5m @ 0.32% Ni, 0.29% Cu, 0.02% Co from 87.5m
+ 24.3m @ 0.22%, Ni, 0.26% Cu, 0.02% Co from 279.0m
+
+Legend Mining Limited (Legend) is pleased to provide assay results from diamond drillholes
+RKDD015 and RKDD018 at the Mawson prospect within the Rockford Project, Fraser Range,
+Western Australia (see Figure 4). The results are discussed in detail in the body of this
+announcement.
+Legend Managing Director Mr Mark Wilson said: “The grades of the 4.5m intercept of 3% nickel,
+2.3% copper and 0.19% cobalt in hole 18 are the best grades to date at Mawson. The other assays
+for this hole and hole 15 generally add to the robust grades and widths reported at Mawson.
+“As I have previously commented, the mineralisation is open to the southwest, northeast and east
+and requires further analysis of all datasets prior to planning step-out drillholes.”
+
+Coarse grained olivine in supergene sulphide groundmass - “leopard texture”
+(RKDD018, 114.2m HQ core)
+Page1
+Registered Office: Level 1 / 8 Kings Park Road, West Perth WA 6005, Australia
+
+For personal use only
+
+TECHNICAL DISCUSSION
+Assay results have been received from diamond drillholes RKDD015 and RKDD018 at Mawson
+(see Figure 1 & Tables 1 & 2). Both holes were drilled to follow up significant Ni-Cu sulphide
+mineralisation intersected previously in RKDD007 and RKDD008 (see announcements 26 May and
+30 June 2020).
+
+Figure 1: Mawson Diamond Drillhole Locations on Aeromagnetics
+
+Table 1: Mawson Diamond Drillhole Assay Results
+Sulphide Type
+Disseminated, blebby, heavy
+RKDD015
+87.5
+161.0 73.5
+0.32
+0.29
+0.02 disseminated, net-textured
+semi-massive
+RKDD015 279.0 303.3m 24.3
+0.22
+0.26
+0.02 Disseminated
+RKDD018
+97.9
+117.1 19.2
+1.69
+1.23
+0.09 Massive, matrix, disseminated
+Incl.
+103.7 108.2
+4.5
+3.05
+2.32
+0.19 Massive, semi-massive, matrix
+Heavy disseminated, blebby,
+RKDD018 130.7 165.35 34.65 0.51
+0.35
+0.03
+disseminated
+See Appendix 1 for Summary of Sulphide Mode, Type and Percentage
+Hole
+
+From
+
+To
+
+Int
+
+Ni%
+
+Cu%
+
+Co%
+
+Table 2: Mawson Diamond Drillhole Details
+Hole
+RKDD015
+RKDD018
+
+MGA94-East
+638,645
+638,462
+
+MGA94-North
+6,598,600
+6,598,560
+
+RL
+202
+202
+
+Azimuth
+2700
+880
+
+Dip
+-600
+-600
+
+Total Depth
+341.6
+337.1
+
+Page2
+Registered Office: Level 1 / 8 Kings Park Road, West Perth WA 6005, Australia
+
+For personal use only
+
+RKDD018
+RKDD018 was designed to test the eastern extension of sulphide mineralisation in both the upper
+disseminated and lower massive sulphide intervals intersected in RKDD008 (see Figure 2). Assays
+reported a 19.2m interval with 1.69% Ni and 1.23% Cu from 97.9m associated with an upper
+mafic/ultramafic intrusive with massive, brecciated and disseminated sulphides all displaying a
+strong supergene overprint. This interval contains a high grade 4.5m zone returning 3.05% Ni and
+2.32% Cu and 0.19% Co, with maximum values of 4.14% Ni (0.8m) and 5.25% Cu (0.7m) (see
+Table 3).
+A second 34.65m interval of heavy disseminated and blebby/disseminated sulphide occurs at
+130.7m downhole and is associated with the top of the lower mafic intrusive (see Figure 2).
+
+Table 3: RKDD018 – Significant Assay Results
+Hole
+RKDD018
+Incl.
+RKDD018
+
+From
+97.9
+103.7
+130.7
+
+To
+117.1
+108.2
+165.35
+
+Int
+19.2
+4.5
+34.65
+
+Ni%
+1.69
+3.05
+0.51
+
+Cu%
+1.23
+2.32
+0.35
+
+Co%
+0.09
+0.19
+0.03
+
+Figure 2: Section 6,598,560N Showing Diamond Drillholes RKDD008, RKDD010 and RKDD018
+
+Page3
+Registered Office: Level 1 / 8 Kings Park Road, West Perth WA 6005, Australia
+
+For personal use only
+
+RKDD015
+Diamond drillhole RKDD015 was designed to test the northern extension of massive sulphide
+mineralisation in RKDD011 and the eastern extension of the upper sulphide zone in RKDD007 (see
+Figure 3).
+RKDD015 intersected an upper 73.5m sulphide bearing mafic/ultramafic intrusive and returned an
+intersection of 73.5m @ 0.32% Ni and 0.29% Cu from 87.5m. A second intersection of 24.3m @
+0.22% Ni and 0.26% Cu from 279.0m downhole is associated with the lower mafic/ultramafic
+intrusive (see Figure 3).
+
+Figure 3: Drill Section 6,598,600N Showing Diamond Drillholes RKDD007 and RKDD015
+
+Mawson Future Programmes
+ Continue 3,000m RC drilling programme targeting known sulphide mineralisation, geochemical
+anomalies and gravity features.
+ Continue infill aircore drill programme across the greater Mawson area.
+ Ongoing integration of RC, aircore and gravity datasets to assist future diamond drillhole
+planning/design.
+
+Page4
+Registered Office: Level 1 / 8 Kings Park Road, West Perth WA 6005, Australia
+
+For personal use only
+
+Figure 4: Rockford Project – Mawson Location
+
+Authorised by Mark Wilson, Managing Director.
+
+Appendix 1 – Summary of Sulphide Mode, Type and Percentage
+Hole
+
+Interval
+
+Sulphide Mode
+
+Sulphide Type
+
+Disseminated, blebby
+heavy disseminated, Pyrrhotite-chalcopyriteRKDD015 87.5-161.0m
+net-textured and
+pentlandite
+semi-massive
+Pyrrhotite-chalcopyriteRKDD015 279.0-303.3m
+Disseminated
+pentlandite
+Massive, matrix,
+Pyrrhotite-chalcopyriteRKDD018 97.9-117.1m
+disseminated
+pentlandite
+Massive, semiPyrrhotite-chalcopyriteRKDD018 103.70-108.2m
+massive, matrix
+pentlandite
+Heavy disseminated, Pyrrhotite-chalcopyriteRKDD018 130.70-165.35m
+blebby, disseminated pentlandite
+Cautionary Statement: The sulphide percentage is a visual estimate of total sulphide.
+
+Sulphide %
+(Visual Estimate)
+1-5%, 5-20%,
+20-40%,
+>40% to <80%
+1-5%
+>80%, 20-40%,
+1-5%
+>80%, >40-<80%,
+20-40%
+5-20%,
+1-5%
+
+Legend Field Logging Guidelines
+Sulphide Mode
+Disseminated & blebby
+Heavy Disseminated
+Matrix
+Net-Textured
+Semi-Massive
+Massive
+
+Percentage Range
+1-5%
+5-20%
+20-40%
+20-40%
+>40% to <80%
+>80%
+Page5
+
+Registered Office: Level 1 / 8 Kings Park Road, West Perth WA 6005, Australia
+
+For personal use only
+
+Competent Person Statement
+The information in this report that relates to Exploration Results is based on information compiled
+by Mr Derek Waterfield, a Member of the Australian Institute of Geoscientists and a full time
+employee of Legend Mining Limited. Mr Waterfield has sufficient experience that is relevant to the
+styles of mineralisation and types of deposit under consideration, and to the activity being
+undertaken, to qualify as a Competent Person as defined in the 2012 Edition of the “Australasian
+Code for Reporting of Exploration Results, Mineral Resources and Ore Reserves” (JORC Code).
+Mr Waterfield consents to the inclusion in the report of the matters based on his information in the
+form and context in which it appears.
+The information in this report that relates to Legend’s Exploration Results is a compilation of
+previously released to ASX by Legend Mining (26 May 2020, 30 June 2020) and Mr Derek
+Waterfield consents to the inclusion of these Results in this report. Mr Waterfield has advised that
+this consent remains in place for subsequent releases by Legend of the same information in the
+same form and context, until the consent is withdrawn or replaced by a subsequent report and
+accompanying consent. Legend confirms that it is not aware of any new information or data that
+materially affects the information included in the original market announcements and that all material
+assumptions and technical parameters in the market announcements continue to apply and have
+not materially changed. Legend confirms that the form and context in which the Competent Person’s
+findings are presented have not been materially modified from the original market announcements.
+
+COVID-19
+The Company has been proactively managing the potential impact of COVID-19 and has developed
+systems and policies to ensure the health and safety of our employees and contractors, and limiting
+the risk to our operations. These systems and policies have been developed in line with the formal
+guidance of State and Federal health authorities and with the assistance of our contractors.
+To ensure the health and wellbeing of our employees and contractors, the Company has
+implemented a range of measures to minimise the risk of infection and rate of transmission of
+COVID-19. These measures include employees and contractors completing a COVID-19 Exposure
+Questionnaire, increased hygiene practices, restrictions on non-essential travel, establishing strong
+infection control systems and protocols across the business and facilitating remote working
+arrangements, where practicable. The Company will continue to monitor the formal requirements
+and guidance of State and Federal health authorities, and act accordingly.
+
+Visit www.legendmining.com.au for further information and announcements.
+For more information contact:
+Mr Mark Wilson
+Managing Director
+Ph: +61 8 9212 0600
+
+Mr Derek Waterfield
+Executive Director - Technical
+Ph: +61 8 9212 0600
+
+Page6
+Registered Office: Level 1 / 8 Kings Park Road, West Perth WA 6005, Australia
+
+For personal use only
+
+Appendix 2:
+Legend Mining Ltd – Diamond Drilling Programme Mawson Prospect
+JORC Code Edition 2012: Table 1
+Section 1: Sampling Techniques and Data
+Criteria
+Sampling techniques
+
+•
+
+•
+
+•
+
+JORC Code Explanation
+Nature and quality of sampling
+(e.g. cut channels, random
+chips, or specific specialised
+industry standard measurement
+tools appropriate to the minerals
+under investigation, such as
+down hole gamma sondes, or
+handheld XRF instruments,
+etc.). These examples should
+not be taken as limiting the
+broad meaning of sampling.
+Include reference to measures
+taken to ensure sample
+representivity and the
+appropriate calibration of any
+measurement tools or systems
+used.
+Aspects of the determination of
+mineralisation that are Material
+to the Public Report. In cases
+where ‘industry standard’ work
+has been done this would be
+relatively simple (e.g. ‘reverse
+circulation drilling was used to
+obtain 1 m samples from which
+3 kg was pulverised to produce
+a 30 g charge for fire assay’). In
+other cases more explanation
+may be required, such as where
+there is coarse gold that has
+inherent sampling problems.
+Unusual commodities or
+mineralisation types (e.g.
+submarine nodules) may
+warrant disclosure of detailed
+information.
+Drill type (e.g. core, reverse
+circulation, open-hole hammer,
+rotary air blast, auger, Bangka,
+sonic, etc.) and details (e.g.
+core diameter, triple or standard
+tube, depth of diamond tails,
+face-sampling bit or other type,
+whether core is oriented and if
+so, by what method, etc.).
+
+Commentary
+ Diamond drilling was used to produce
+half HQ and NQ2 core samples
+(between 0.2m-1.2m) which were
+submitted to Intertek Genalysis
+Laboratory Services Perth for
+geochemical analysis.
+ Sample intervals were based on
+geology and style of sulphide
+occurrence.
+ QAQC standard samples were
+included.
+ Samples were analysed for:
+ Ag, Al, As, Ba, Be, Bi, Ca, Cd, Ce,
+Co, Cr, Cs, Cu, Dy, Er, Eu, Fe,
+Ga, Gd, Ge, Hf, Ho, In, K, La, Li,
+Lu, Mg, Mn, Mo, Na, Nb, Nd, Ni, P,
+Pb, Pr, Rb, Re, S, Sb, Sc, Se, Sm,
+Sn, Sr, Ta, Tb, Te, Th, Ti, Tl, Tm,
+U, V, W, Y, Yb, Zn, Zr by methods
+4A/MS48R and 4AH/OE (four acid
+digest with ICP-MS finish).
+ Au, Pt, Pd by method FA50/MS (fire
+assay with an ICP-MS finish).
+
+ Diamond drillholes RKDD015 and 018
+were pre-collared using the mud
+rotary technique. No samples were
+recovered from the mud rotary precollar.
+ The remainder of the hole was
+diamond drilled with HQ into
+solid/fresh rock, followed by NQ2
+coring to end of the hole.
+ Orlando Drilling completed the drilling.
+
+Drilling techniques
+
+•
+
+Drill sample recovery
+
+ Drill core sample recoveries for the
+• Method of recording and
+HQ and NQ2 core were measured
+assessing core and chip sample
+and recorded in drill log sheets.
+Page7
+
+Registered Office: Level 1 / 8 Kings Park Road, West Perth WA 6005, Australia
+
+For personal use only
+
+Criteria
+
+JORC Code Explanation
+recoveries and results
+assessed.
+• Measures taken to maximise
+sample recovery and ensure
+representative nature of the
+samples.
+
+Logging
+
+Commentary
+ Drill core orientation was recorded
+when possible at the end of each drill
+run (line on bottom of core).
+ No relationship has been determined
+between sample recoveries and
+grade and there is insufficient data to
+determine if there is a sample bias.
+
+• Whether a relationship exists
+between sample recovery and
+grade and whether sample bias
+may have occurred due to
+preferential loss/gain of
+fine/coarse material.
+• Whether core and chip samples  Geological logging of drillholes
+included; lithology, grainsize, texture,
+have been geologically and
+deformation, mineralisation, alteration,
+geotechnically logged to a level
+veining, colour, weathering.
+of detail to support appropriate
+ Drill core logging is qualitative and
+Mineral Resource estimation,
+based on drill core retained in core
+mining studies and metallurgical
+trays.
+studies.
+
+The drillhole was logged in its entirety.
+• Whether logging is qualitative or
+quantitative in nature. Core (or
+costean, channel, etc.)
+photography.
+
+• The total length and percentage
+of the relevant intersections
+logged.
+Sub-sampling
+• If core, whether cut or sawn and  Selected sawn half HQ and NQ2 core
+techniques and sample
+samples based on geology and
+whether quarter, half or all core
+preparation
+sulphide occurrence were submitted
+taken.
+for geochemical analysis.
+• If non-core, whether riffled, tube  The size of the sample from the
+sampled, rotary split, etc. and
+diamond drilling method is considered
+whether sampled wet or dry.
+appropriate for the mineralisation style
+sought and for the analytical
+• For all sample types, the nature,
+technique used.
+quality and appropriateness of
+
+Sample preparation includes; drying,
+the sample preparation
+crushing
+and pulverising before
+technique.
+analysis.
+• Quality control procedures
+ QAQC standard samples were
+adopted for all sub-sampling
+included.
+stages to maximise
+representivity of samples.
+• Measures taken to ensure that
+the sampling is representative of
+the in situ material collected,
+including for instance results for
+field duplicate/second-half
+sampling.
+• Whether sample sizes are
+appropriate to the grain size of
+the material being sampled.
+Quality of assay data
+ Core samples were analysed for:
+• The nature, quality and
+and laboratory tests
+ Ag, Al, As, Ba, Be, Bi, Ca, Cd, Ce,
+appropriateness of the assaying
+Co, Cr, Cs, Cu, Dy, Er, Eu, Fe,
+and laboratory procedures used
+Ga, Gd, Ge, Hf, Ho, In, K, La, Li,
+Page8
+Registered Office: Level 1 / 8 Kings Park Road, West Perth WA 6005, Australia
+
+Criteria
+
+For personal use only
+
+•
+
+•
+
+Verification of
+•
+sampling and assaying
+
+•
+
+JORC Code Explanation
+and whether the technique is
+considered partial or total.
+For geophysical tools,
+spectrometers, handheld XRF
+instruments, etc., the
+parameters used in determining
+the analysis including
+instrument make and model,
+reading times, calibrations
+factors applied and their
+derivation, etc.
+Nature of quality control
+procedures adopted (e.g.
+standards, blanks, duplicates,
+external laboratory checks) and
+whether acceptable levels of
+accuracy (i.e. lack of bias) and
+precision have been
+established.
+The verification of significant
+intersections by either
+independent or alternative
+company personnel.
+The use of twinned holes.
+
+• Documentation of primary data,
+data entry procedures, data
+verification, data storage
+(physical and electronic)
+protocols.
+• Discuss any adjustment to
+assay data.
+Location of data points • Accuracy and quality of surveys
+used to locate drill holes (collar
+and down-hole surveys),
+trenches, mine workings and
+other locations used in Mineral
+Resource estimation.
+• Specification of the grid system
+used.
+
+Data spacing and
+distribution
+
+• Quality and adequacy of
+topographic control.
+• Data spacing for reporting of
+Exploration Results.
+• Whether the data spacing and
+distribution is sufficient to
+establish the degree of
+geological and grade continuity
+appropriate for the Mineral
+Resource and Ore Reserve
+estimation procedure(s) and
+classifications applied.
+• Whether sample compositing
+has been applied.
+
+Commentary
+Lu, Mg, Mn, Mo, Na, Nb, Nd, Ni, P,
+Pb, Pr, Rb, Re, S, Sb, Sc, Se, Sm,
+Sn, Sr, Ta, Tb, Te, Th, Ti, Tl, Tm,
+U, V, W, Y, Yb, Zn, Zr by methods
+4A/MS48R and 4AH/OE (four acid
+digest with ICP-MS finish).
+ Au, Pt, Pd by method FA50/MS
+(fire assay with an ICP-MS finish).
+ These assay methods are
+considered appropriate.
+ QAQC standard samples were
+included. In addition, reliance is
+placed on laboratory procedures and
+internal laboratory batch standards
+and blanks.
+ All samples were analysed by Intertek
+Genalysis Laboratory Services Perth.
+
+ Significant intersections were verified
+by senior exploration personnel.
+ Primary data was collected in the field
+using a set of standard logging
+templates and entered into a laptop
+computer.
+ The data was forwarded to Legend’s
+database manager for validation and
+loading into the company’s drilling
+database.
+ No adjustments of assay results have
+been undertaken.
+ The drillhole collars were surveyed
+with a handheld GPS unit with an
+accuracy of ±5m which is considered
+sufficiently accurate for the purpose of
+the drillhole.
+ All co-ordinates are expressed in
+GDA94 datum, Zone 51.
+ Regional topographic control has an
+accuracy of ±2m based on detailed
+DTM data.
+ Diamond drillhole spacing is not
+regular or grid based, with the location
+of individual drillholes governed by
+targeting the position of modelled EM
+conductor plates and anomalous
+geochemical results in previous
+drillholes.
+ Only selected sawn HQ and NQ2 half
+core samples based on geology and
+sulphide mineralisation were
+submitted for geochemical analysis.
+ Diamond drillholes RKDD015 & 018
+were targeting extensions to
+
+Page9
+Registered Office: Level 1 / 8 Kings Park Road, West Perth WA 6005, Australia
+
+For personal use only
+
+Criteria
+
+Orientation of data in
+relation to geological
+structure
+
+Sample security
+
+Audits or reviews
+
+JORC Code Explanation
+
+• Whether the orientation of
+sampling achieves unbiased
+sampling of possible structures
+and the extent to which this is
+known, considering the deposit
+type.
+• If the relationship between the
+drilling orientation and the
+orientation of key mineralised
+structures is considered to have
+introduced a sampling bias, this
+should be assessed and
+reported if material.
+• The measures taken to ensure
+sample security.
+
+• The results of any audits or
+reviews of sampling techniques
+and data.
+
+Commentary
+mineralisation in adjacent holes with
+support from modelled offhole
+DHTEM plates.
+ Diamond drillholes RKDD015 & 018
+were planned to intersect the
+interpreted mineralisation extensions
+perpendicular to strike.
+ The relationship between drill
+orientation and mineralisation is
+unknown.
+
+ Individual calico sample bags from the
+diamond drilling were placed in
+polyweave bags and hand delivered
+directly to the assay laboratory in
+Kalgoorlie by company personnel.
+ All diamond drill core will be removed
+from site and stored at an appropriate
+facility.
+ Internal audits/reviews of procedures
+are ongoing, however no external
+reviews have been undertaken.
+
+Section 2: Reporting of Exploration Results
+Criteria
+Mineral tenement and
+land tenure status
+
+JORC Code Explanation
+• Type, reference name/number,
+location and ownership
+including agreements or
+material issues with third
+parties such as joint ventures,
+partnerships, overriding
+royalties, native title interests,
+historical sites, wilderness or
+national park and
+environmental settings.
+• The security of the tenure held
+at the time of reporting along
+with any known impediments to
+obtaining a licence to operate
+in the area.
+
+
+
+
+
+
+
+
+
+
+Exploration done by
+other parties
+
+• Acknowledgment and appraisal
+of exploration by other parties.
+P a g e 10
+
+
+
+Commentary
+The Rockford Project comprises nine
+granted exploration licences, covering
+2,430km2, (Legend manager).
+Rockford JV tenements:
+ E28/2188, 2189, 2192 (70%
+Legend, 30% Rockford Minerals Pty
+Ltd)
+ E28/1716, 1717, 1718, 1727 (70%
+Legend, 30% Ponton Minerals Pty
+Ltd).
+Legend 100%: E28/2404, 2405.
+The Project is located 280km east of
+Kalgoorlie mostly on vacant crown
+land with the eastern portion on
+Kanandah Pastoral Station.
+There are no Native Title Claims over
+tenements E28/1716, 1717, 2188,
+2189, 2192, 2405. Tenements
+E28/1718, E28/1727 & E28/2404 are
+covered 90%, 20% and 100%
+respectively by the Ngadju Native
+Title Claim.
+The tenements are in good standing
+and there are no known impediments.
+Not applicable, not referred to.
+
+Registered Office: Level 1 / 8 Kings Park Road, West Perth WA 6005, Australia
+
+Criteria
+
+For personal use only
+
+Geology
+
+Drill hole
+Information
+
+Data aggregation
+methods
+
+JORC Code Explanation
+• Deposit type, geological setting
+and style of mineralisation.
+
+• A summary of all information
+material to the understanding of
+the exploration results including
+a tabulation of the following
+information for all Material drill
+holes:
+• easting and northing of the
+drill hole collar
+• elevation or RL (Reduced
+Level – elevation above
+sea level in metres) of the
+drill hole collar
+• dip and azimuth of the hole
+• down hole length and
+interception depth
+• hole length.
+• If the exclusion of this
+information is justified on the
+basis that the information is not
+Material and this exclusion
+does not detract from the
+understanding of the report, the
+Competent Person should
+clearly explain why this is the
+case.
+• In reporting Exploration
+Results, weighting averaging
+techniques, maximum and/or
+minimum grade truncations
+(e.g. cutting of high grades)
+and cut-off grades are usually
+Material and should be stated.
+• Where aggregate intercepts
+incorporate short lengths of
+high grade results and longer
+lengths of low grade results, the
+procedure used for such
+aggregation should be stated
+and some typical examples of
+such aggregations should be
+shown in detail.
+• The assumptions used for any
+reporting of metal equivalent
+values should be clearly stated.
+
+Commentary
+ The primary target is Nova style
+nickel-copper mineralisation hosted in
+mafic/ultramafic intrusives within the
+Fraser Zone of the larger AlbanyFraser Orogen.
+ Secondary targets include VMS style
+zinc-copper-lead-silver mineralisation
+and structurally controlled Tropicana
+style gold.
+ Refer to table of drillhole collars in
+body of report.
+
+ Individual sample assays and
+weighted averages are presented.
+
+P a g e 11
+Registered Office: Level 1 / 8 Kings Park Road, West Perth WA 6005, Australia
+
+For personal use only
+
+Criteria
+Relationship between
+mineralisation widths
+and intercept lengths
+
+Diagrams
+
+Balanced reporting
+
+Other substantive
+exploration data
+
+Further work
+
+JORC Code Explanation
+• These relationships are
+particularly important in the
+reporting of Exploration Results.
+• If the geometry of the
+mineralisation with respect to
+the drill hole angle is known, its
+nature should be reported.
+• If it is not known and only the
+down hole lengths are reported,
+there should be a clear
+statement to this effect (e.g.
+‘down hole length, true width
+not known’).
+• Appropriate maps and sections
+(with scales) and tabulations of
+intercepts should be included
+for any significant discovery
+being reported. These should
+include, but not be limited to a
+plan view of drill hole collar
+locations and appropriate
+sectional views.
+• Where comprehensive
+reporting of all Exploration
+Results is not practicable,
+representative reporting of both
+low and high grades and/or
+widths should be practiced to
+avoid misleading reporting of
+Exploration Results.
+• Other exploration data, if
+meaningful and material,
+should be reported including
+(but not limited to): geological
+observations; geophysical
+survey results; geochemical
+survey results; bulk samples –
+size and method of treatment;
+metallurgical test results; bulk
+density, groundwater,
+geotechnical and rock
+characteristics; potential
+deleterious or contaminating
+substances.
+• The nature and scale of
+planned further work (e.g. tests
+for lateral extensions or depth
+extensions or large-scale stepout drilling).
+• Diagrams clearly highlighting
+the areas of possible
+extensions, including the main
+geological interpretations and
+future drilling areas, provided
+this information is not
+commercially sensitive.
+
+Commentary
+ The drill core has been oriented to
+enable structural logging and
+evaluation of true thicknesses of the
+mineralised intervals.
+ Drillhole intercepts/intervals are
+measured downhole in metres.
+
+ Project and drillhole location maps
+and drill sections have been included
+in the body of the report.
+
+ Assay results presented are
+balanced.
+
+ Detailed high quality aeromagnetic/
+gravity datasets, aircore drilling
+ground EM surveys and DHTEM
+surveys used to target drilling.
+ Downhole EM surveying was
+completed in drillholes RKDD015 &
+018.
+
+ Continued geological, geophysical
+and geochemical integration of data.
+ Plan further diamond drillholes.
+ RC drill testing of geochemical and
+gravity targets
+
+P a g e 12
+Registered Office: Level 1 / 8 Kings Park Road, West Perth WA 6005, Australia
+
+

@@ -1,0 +1,587 @@
+For personal use only
+
+Agrimin Limited | ABN 15 122 162 396
+ASX Code: AMN
+2C Loch Street
+Nedlands, Western Australia 6009
+T: +61 8 9389 5363
+E: admin@agrimin.com.au | W: www.agrimin.com.au
+
+ASX Release
+6 July 2020
+
+QUARTERLY ACTIVITIES REPORT
+FOR PERIOD ENDING 30 JUNE 2020
+Highlights
+Mackay Potash Project
+• Definitive Feasibility Study nearing completion with results to be announced in July 2020
+• Mackay Potash Project awarded Major Project Status by the Australian Federal Government,
+formally recognising the national significance the project
+• Completion of long-term pilot pond operations on Lake Mackay successfully validating the DFS
+pond model and process assumptions
+• Production of additional SOP product samples for distribution to potential off-takers and customers
+Corporate
+• Completion of the acquisition of the highly prospective Lake Auld Potash Project
+• Completion of entitlement offer to raise $2.9 million (before costs)
+• Cash balance of $4.9 million at 30 June 2020
+Agrimin Limited (ASX: AMN) (“Agrimin” or “the Company”) is pleased to report its activities for the quarter
+ending 30 June 2020.
+
+Mackay Potash Project – Western Australia (100% owned)
+The Mackay Potash Project is situated on Lake Mackay and located 785km south of the Wyndham, Western
+Australia (Figure 1). It comprises nine granted Exploration Licences covering an area of 3,057km2 in Western
+Australia and three Exploration Licence applications covering an area of 1,240km2 in the Northern Territory.
+
+Page 1 of 7
+
+For personal use only
+
+Lake Mackay’s hydrogeological setting and favourable brine chemistry provide important attributes that support
+the development of a globally significant sulphate of potash (“SOP”) operation. Lake Mackay is the largest
+known potash-bearing salt lake in Australia covering an area of approximately 3,500km2. The salt lake is
+comparable in size to the two major sources of primary SOP production, being the 4,400km2 Great Salt Lake in
+the USA and the 5,500km2 Lop Nur (Luobupo operation) in China.
+Figure 1. Project Location Map
+
+The closest community to the project is Kiwirrkurra which is located approximately 60km south-west. A Native
+Title Agreement is in place and provides the necessary consents for the project’s development and operations.
+The Pre-Feasibility Study (“PFS”) for the Mackay Potash Project was completed in May 2018. The PFS was based
+on shallow trench extraction and solar evaporation of brine-hosted potash to produce 426,000tpa of SOP with
+production to be shipped through the Company’s Wyndham Port Facility.
+Details of the PFS results were provided in the Company’s ASX Release on 7 May 2018.
+Over the past two years, the Company has been fully focussed on producing a high-quality and bankable
+Definitive Feasibility Study (“DFS”) and as part of that process an updated Mineral Resource estimate for the
+
+Page 2 of 7
+
+For personal use only
+
+project was reported in January 20201. This was the culmination of several years of data collection, including
+long-term data acquired from the Company’s industry-leading trench pump testing program carried out across
+Lake Mackay between August 2017 and July 2019.
+The drainable porosity (or specific yield) Mineral Resource contains 123 million tonnes (“Mt”) of SOP to a
+maximum depth of 211m. This drainable porosity Mineral Resource represents the static free-draining portion
+of the total porosity Mineral Resource prior to extraction. It does not take into account any groundwater
+recharge which could increase the amount of extractable brine over the life of an operation.
+The total porosity Mineral Resource contains 1,096Mt of SOP to a maximum depth of 211m. A portion of the
+total porosity Mineral Resource, in addition to the drainable porosity Mineral Resource, may be extractable
+depending on the transient groundwater flow and transport conditions affecting the brine resource during
+extraction and the active recharge regime within the lake system. Groundwater recharge by rainfall and runoff,
+and associated flow and transport processes, have been assessed as a component of the dynamic
+hydrogeological modelling and will be used to determine the Ore Reserve.
+Table 1. Mineral Resource Estimate
+Resource
+Classification
+
+Total Porosity
+
+Drainable Porosity
+
+Aquifer Volume
+(Mm3)
+
+K (mg/l)
+
+SOP (Mt)
+
+K (mg/l)
+
+SOP (Mt)
+
+Measured
+
+4,621
+
+3,473
+
+16.5
+
+3,473
+
+3.9
+
+Indicated
+
+43,784
+
+3,501
+
+144.6
+
+3,527
+
+19.5
+
+Measured & Indicated
+
+48,405
+
+3,498
+
+161.1
+
+3,509
+
+23.5
+
+Inferred
+
+304,641
+
+3,323
+
+934.6
+
+3,232
+
+99.9
+
+Total
+
+353,046
+
+3,349
+
+1,095.7
+
+3,285
+
+123.4
+
+Note: Refer to the Technical Overview and Table 2 and Table 3 in the Company’s ASX Release dated 20 January 2020 for full Mineral Resource
+details.
+
+Definitive Feasibility Study – Progress During the Quarter
+The Company continued to progress the DFS for the Mackay Potash Project throughout the quarter with the
+focus being of the final areas of capital costs, financial modelling, final reviews and reporting. The study is close
+to completion and the results are expected to be reported in July 2020.
+During the quarter, the pilot pond operations on Lake Mackay were completed. This long-term evaporation trial
+was operated from October 2018 to June 2020 and involved a 3,000m² pond system that was run as a constant
+flow operation with brines being transferred through the ponds under a daily transfer regime. This industryleading trial has captured over a full annual cycle of operating data and has successfully validated the DFS pond
+model and process assumptions, a major de-risking milestone for the project.
+This trial also included the production and harvesting of more than 50 tonnes of raw potash salt at grades up to
+12% K₂O. The potash salts have undergone pilot processing tests to produce larger quantities of SOP samples
+within the Company’s targeted product specifications.
+
+1
+
+Refer to the ASX Release on 20 January 2020 for full Mineral Resource estimate details. All material assumptions and technical parameters
+underpinning the Mineral Resource estimate continue to apply and have not materially changed.
+
+Page 3 of 7
+
+For personal use only
+
+Project Permitting
+During the quarter, the Company continued to progress the project’s environmental impact assessment which
+is underway with the Western Australian Environmental Protection Authority and Commonwealth Department
+of Agriculture, Water and the Environment. In May 2020, the Australian Federal Government awarded Major
+Project Status to the Mackay Potash Project which will allow the government to provide additional assistance
+with respect to the facilitation of Federal government approvals for the project.
+During the quarter, the Company’s planned native title negotiation meetings in relation to the project’s haul
+road remained on hold due to COVID-19 travel restrictions. Negotiations with the Ngururrpa and the Tjurabalan
+native title holders are planned to re-commence once community access and business meetings return to
+normal.
+Project Financing
+Project funding and off-take for the Mackay Potash Project has attracted significant interest from some of the
+world’s largest fertiliser companies. The imminent completion of the DFS is a major milestone for the finalisation
+of project funding and off-take. During the quarter, the Company’s product samples continued to be distributed
+to potential customers and strategic partners, with confirmation that Agrimin’s product specifications exceed
+most existing products in the market.
+In addition to discussions with potential strategic partners and traditional financiers, the Northern Australia
+Infrastructure Facility (“NAIF”) Board has previously expressed its interest in investigating the potential for NAIF
+support for the project with particular reference to Agrimin’s proposed infrastructure. The NAIF could
+potentially provide concessional longer term debt finance for the project.
+
+Lake Auld Potash Project – Western Australia (100% owned)
+The Lake Auld Potash Project is located approximately 640km south-east of Port Hedland, Western Australia
+(Figure 2). The project consists of a granted Exploration Licence covering a lakebed area of 108km² across Lake
+Auld. Lake Auld’s exceptionally high grades, favourable climatic conditions for solar evaporation and proximity
+to a major operating port support the potential for strong project economics.
+The Lake Auld Potash Project is neighboured either side by the Company’s existing Exploration Licence
+applications which cover the Canning Palaeovalley, including Lake Auld and Percival Lakes. The Company’s
+tenements cover the most prospective portion of 450km long lake system where historic sampling of brine has
+returned the highest known in-situ SOP grades from an Australian salt lake.
+During the quarter, the Company’s planned native title consultations with the Martu native title holders
+remained on hold due to COVID-19 travel restrictions. Consultations are intended to commence once
+community access is permitted.
+A Concept Study for the Lake Auld Potash Project is currently underway for a boutique operation to produce
+high-purity water-soluble SOP product for shipment via Port Hedland.
+
+Page 4 of 7
+
+For personal use only
+
+Figure 2. Lake Auld Potash Project
+
+Corporate Activities
+Share Issues
+During the quarter, the Company issued 9,822,006 fully paid ordinary shares in relation to an entitlement offer
+which raised $2.9 million. The Company also issued 250,000 fully paid ordinary shares (subject to a six month
+voluntary escrow period) to Zinfandel Exploration Pty Ltd during the quarter as part of the consideration to
+acquire the Lake Auld Potash Project. No other ordinary shares or other securities were issued during the
+quarter.
+Business Development
+Various business development opportunities are constantly under consideration, with all opportunities being
+assessed in context of the Company’s current strategic goals and risk profile.
+Payments to Related Parties of the Entity
+A description of and explanation for payments to related parties and their associates per Section 6.1 of the
+Appendix 5B is set out in the below table.
+
+Page 5 of 7
+
+For personal use only
+
+Table 2. Payments to Related Parties of the Entity and their Associates
+Current
+Quarter (A$)
+
+Item
+
+Previous
+Quarter (A$)
+
+Directors’ Remuneration
+CEO Salary and Superannuation
+
+82,989
+
+82,989
+
+Non-Executive Director Fees
+
+57,376
+
+57,376
+
+9,000
+
+9,000
+
+149,365
+
+149,365
+
+Company Secretarial Fees
+Total payments to related parties of the entity and their associates
+
+Tenement Interests
+Table 3. Schedule of Tenement Interests as at 30 June 2020
+Tenement Ref.
+
+Project
+
+Holder
+
+State
+
+Status
+
+Interest
+
+Exploration Licences
+E80/4887
+
+Mackay Potash
+
+Agrimin Potash Pty Ltd
+
+W.A.
+
+Granted
+
+100%
+
+E80/4888
+
+Mackay Potash
+
+Agrimin Potash Pty Ltd
+
+W.A.
+
+Granted
+
+100%
+
+E80/4889
+
+Mackay Potash
+
+Agrimin Potash Pty Ltd
+
+W.A.
+
+Granted
+
+100%
+
+E80/4890
+
+Mackay Potash
+
+Agrimin Potash Pty Ltd
+
+W.A.
+
+Granted
+
+100%
+
+E80/4893
+
+Mackay Potash
+
+Agrimin Potash Pty Ltd
+
+W.A.
+
+Granted
+
+100%
+
+E80/4995
+
+Mackay Potash
+
+Agrimin Potash Pty Ltd
+
+W.A.
+
+Granted
+
+100%
+
+E80/5055
+
+Mackay Potash
+
+Agrimin Potash Pty Ltd
+
+W.A.
+
+Granted
+
+100%
+
+E80/5124
+
+Mackay Potash
+
+Agrimin Potash Pty Ltd
+
+W.A.
+
+Granted
+
+100%
+
+E80/5172
+
+Mackay Potash
+
+Agrimin Potash Pty Ltd
+
+W.A.
+
+Granted
+
+100%
+
+EL30651
+
+Mackay Potash
+
+Agrimin Limited
+
+N.T.
+
+Application
+
+100%
+
+EL31780
+
+Mackay Potash
+
+Agrimin Limited
+
+N.T.
+
+Application
+
+100%
+
+EL31781
+
+Mackay Potash
+
+Agrimin Limited
+
+N.T.
+
+Application
+
+100%
+
+E45/4925
+
+Lake Auld Potash
+
+Agrimin Potash Pty Ltd
+
+W.A.
+
+Granted
+
+100%
+
+E45/5417
+
+Lake Auld Potash
+
+Agrimin Potash Pty Ltd
+
+W.A.
+
+Application
+
+100%
+
+E45/5419
+
+Lake Auld Potash
+
+Agrimin Potash Pty Ltd
+
+W.A.
+
+Application
+
+100%
+
+E45/5420
+
+Lake Auld Potash
+
+Agrimin Potash Pty Ltd
+
+W.A.
+
+Application
+
+100%
+
+E45/5579
+
+Lake Auld Potash
+
+Agrimin Potash Pty Ltd
+
+W.A.
+
+Application
+
+100%
+
+Other Licences
+L80/87
+
+Mackay Potash
+
+Agrimin Potash Pty Ltd
+
+W.A.
+
+Granted
+
+100%
+
+L80/88
+
+Mackay Potash
+
+Agrimin Potash Pty Ltd
+
+W.A.
+
+Granted
+
+100%
+
+L80/96
+
+Mackay Potash
+
+Agrimin Potash Pty Ltd
+
+W.A.
+
+Granted
+
+100%
+
+L80/98
+
+Mackay Potash
+
+Agrimin Potash Pty Ltd
+
+W.A.
+
+Application
+
+100%
+
+ENDS
+
+Page 6 of 7
+
+For personal use only
+
+For further information, please contact:
+Investors
+Mark Savich
+Chief Executive Officer
+T: +61 8 9389 5363
+E: msavich@agrimin.com.au
+
+Media
+Michael Vaughan
+Fivemark Partners
+T: +61 422 602 720
+E: michael.vaughan@fivemark.com.au
+
+Or visit our website at www.agrimin.com.au
+This ASX Release is authorised for market release by Agrimin’s Board.
+About Agrimin
+Based in Perth, Agrimin Limited is a leading fertiliser development company focused on the development of its
+100% owned Mackay Potash Project. The Project is situated on Lake Mackay in Western Australia, the largest
+undeveloped potash-bearing salt lake in the world. Agrimin is aiming to be a global supplier of specialty potash
+fertilisers to both traditional and emerging value-added markets. Agrimin’s shares are traded on the Australian
+Securities Exchange (ASX: AMN).
+Forward-Looking Statements
+This ASX Release may contain certain “forward-looking statements” which may be based on forward-looking
+information that are subject to a number of known and unknown risks, uncertainties, and other factors that may
+cause actual results to differ materially from those presented here. Where the Company expresses or implies an
+expectation or belief as to future events or results, such expectation or belief is expressed in good faith and
+believed to have a reasonable basis. Forward-looking information includes exchange rates; the proposed
+production plan; projected brine concentrations and recovery rates; uncertainties and risks regarding the
+estimated capital and operating costs; uncertainties and risks regarding the development timeline, including the
+need to obtain the necessary approvals. For a more detailed discussion of such risks and other factors, see the
+Company’s Annual Reports, as well as the Company’s other ASX Releases. Readers should not place undue
+reliance on forward-looking information. The Company does not undertake any obligation to release publicly any
+revisions to any forward-looking statement to reflect events or circumstances after the date of this ASX Release,
+or to reflect the occurrence of unanticipated events, except as may be required under applicable securities laws.
+Competent Person’s Statements
+The information in this ASX Release that relates to Exploration Results, Mineral Resource Estimates and PreFeasibility Study results are extracted from the relevant ASX Releases and are available on www.asx.com.au and
+Company’s website on www.agrimin.com.au. The Company confirms that it is not aware of any new information
+or data that materially affects the information included in the previous ASX Releases and, in the case of the
+Mineral Resource, that all material assumptions and technical parameters underpinning the estimates in the ASX
+Release on 20 January 2020 continue to apply and have not materially changed. The Company confirms that the
+form and context in which the Competent Person’s findings are presented have not been materially modified
+from the previous ASX Releases.
+
+Page 7 of 7
+
+
