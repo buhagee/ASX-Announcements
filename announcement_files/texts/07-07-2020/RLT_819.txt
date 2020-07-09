@@ -1,0 +1,185 @@
+For personal use only
+
+RENERGEN LIMITED
+Incorporated in the Republic of South Africa
+(Registration number: 2014/195093/06)
+JSE Share code: REN
+A2X Share code: REN
+ISIN: ZAE000202610
+LEI: 378900B1512179F35A69
+Australian Business Number (ABN): 93 998 352 675
+ASX Share code: RLT
+(“Renergen” or “the Company”)
+
+PROSPECTIVE RESOURCES OF HELIUM IN VIRGINIA LICENCE AREA
+
+As part of the Company's ongoing assessment and development of the Virginia Gas Project, Renergen
+commissioned Dr Stuart Gilfillan (Senior Lecturer in Geochemistry) and Professor Finlay Stuart (Professor
+of Isotope Geosciences) to conduct a conceptual study of the source abundance of helium, within the
+Company's Virginia Production Right area (Report entitled “Conceptual study of helium in the Renergen
+Virginia area, South Africa”, the "Edinburgh Report"). The Production Right area covers 187,000 hectares
+in the Free State in South Africa around the towns of Welkom, Virginia and Theunissen, and the Company
+has a valid licence over the area until 2042 (the “Production Right”). The Company holds 100% of the
+economic interest in the Production Right.
+
+With the benefit of this recently completed report, the Company requested its Reserves and Resources
+accreditation agency Sproule (formerly known as MHA Petroleum Consultants) to review the report and
+utilize it, if possible, to estimate helium Prospective Resources under the SPE PRMS standards. Sproule
+
+has recently provided its report “Evaluation of Certain Helium Prospective Resources on the Tetra4
+Virginia Gas Project, Free State, South Africa as of July 1, 2020” (“Sproule Report”). The following are two
+extracts from the Sproule Report:
+
+For personal use only
+
+Extract 1
+This evaluation, based on the analysis methodology described herein using technical data supplied by the
+Company, has an effective date of July 1, 2020. The Prospective Resources presented in Table 1 below are
+estimates of gross recoverable helium volumes which are undiscovered, but the likelihood of their
+existence can be estimated. Following PRMS conventions, the 1U volume of Prospective Resources
+represents the volume with a 90% chance of being recovered or exceeded, the P90 confidence level.
+Similarly, the 2U volume corresponds to the median recovery, the P50 case. And the 3U volume is the
+category for the largest 10% of the Prospective Resources, the P10 case.
+TABLE 1 Prospective Helium Resources – Virginia Gas Project
+Gross Recoverable Helium, Bcf
+
+1U
+
+2U
+
+3U
+
+Virginia Gas Project
+
+32.52
+
+106
+
+344
+
+Total Recoverable
+
+32.52
+
+106.28
+
+344.22
+
+The estimated quantities of helium resources that may potentially be recovered by the application of a future
+development project(s) relate to undiscovered accumulations. These estimates have both an associated risk of
+discovery and a risk of development. Further exploration appraisal and evaluation is required to estimate the
+existence of a commercial quantity of potentially movable helium. Prospective Resources carry significant exploration
+risk. All Prospective Resources volumes presented in this report are un-risked.
+
+Previously Sproule (formerly known as MHA Petroleum Consultants) has evaluated the methane and
+helium reserves and resources of the subject licences for Renergen in 2018 and 2019. Helium Reserves
+and Contingent Resources were reported as components of the non-hydrocarbon gases of the project
+however, no Prospective Helium Resources were assessed.
+The independent resource and reserve estimates contained in this report are prepared in accordance with
+the Society of Petroleum Engineers (SPE) Petroleum Resources Management (PRMS) guidance and
+provides a Technical Value, defined as an assessment of a mineral asset’s future assessment at the
+valuation date under a set of assumptions deemed most appropriate by a practitioner excluding any
+premium or discount to account for market considerations. These estimates are also in accordance with
+the Australian Stock Exchange (ASX) rules (specifically Chapter 05 for Oil and Gas Companies) and in
+conjunction with the SPE PRMS guidance and specific additional rules. Our evaluation is based upon data
+supplied by the Company, supplemented where necessary by Sproule’s corporate awareness of current
+South Africa industry costs and best practices.
+Extract 2
+Methodology
+Spoule evaluated the volumes of helium that are available for Prospective Resources in the Virginia Gas
+Development Project by use of a probabilistic methodology to account for the early stage exploration
+phase and the wide range of uncertainty in many variables. Technically recoverable helium resources
+were calculated as the product of a) the range of volumes of helium generated as discussed in the
+Edinburgh report, b) migration/entrapment factors to describe captured helium yet remaining in the
+
+Project and, c) a recovery factors which represents the fraction of trapped helium which can be recovered
+using current technology with no consideration of price.
+
+For personal use only
+
+--- End Extract --Further details are included in the full copy of the report, which can be found on the Company’s website
+https://www.renergen.co.za/wp-content/uploads/2020/07/2020-Helium-Prospective-Resources-Finalsigned-v21.pdf The Company has previously published helium reserves and resources estimated by
+Sproule, reporting 6.8 BCF Proven and recoverable reserves, and 20.9 BCF of Contingent Resources (MHA
+Petroleum Consultants’ Reserve and Resource Evaluation Report dated 1 March 2019
+https://www.asx.com.au/asxpdf/20190605/pdf/445mnpv2g02vx7.pdf). Sproule has advised that it sees
+the Edinburgh Report as substantiating their assumptions with regards to the origination and timing of
+the helium volumes in the earlier reports (contingent resources and reserves). Sproule has used this new
+information in association with the historic data to quantify these additional prospective helium resources
+which have not been previously reported.
+Overview of Reports
+It is accepted that helium production in the Earth's crust is primarily controlled by the radioactive decay
+of certain isotopes of uranium and thorium, so that the helium concentration in any rock or mineral
+deposit is dependent on its radioelement concentration and the age of the deposit.
+The Vredefort impact was a meteor strike in South Africa which occurred around 2 billion years ago, and
+resulted in the largest known crater globally. This impact has been shown to have resulted in a complete
+change of the landscape and ultimately resulted in the Witwatersrand basin. The Karoo sediments were
+deposited after the impact, and it is these sediments which then acted as a trap to keep helium in situ.
+The Edinburgh Report has been based on the geological history and stratigraphy of the Production Right
+area at the Virginia Gas Project as detailed in a comprehensive report prepared by the Company's
+geological consultants, Shango Solutions (the "Shango Report"). The Shango Report quantifies the
+tonnage of high concentration uranium and thorium deposits within the Production Right area, their age
+and structural configuration, based on an extensive database of drill intersections and other information
+from the long history of exploration for, and production of, valuable minerals (precious metals, diamonds,
+coal etc) in the area.The Edinburgh Report estimates helium generation historically, based on the average
+uranium and thorium concentrations, mass, and estimated age of the principal source beds in the
+Production Right area, together with established helium production rates cited in scientific literature. The
+Sproule Report takes the Edinburgh Report’s estimates of volumes of helium generated post the
+Vredefort impact event and from these estimates evaluates the volumes of helium that are available for
+Prospective Resources in the project area using a probabilistic methodology to account for the early stage
+exploration phase and the wide range of uncertainty in many variables.
+The Sproule Report, the Edinburgh Report, and the Shango Report were prepared for the Company as
+information sources to further develop an understanding of the origins of helium discovered in the area;
+and to inform the optimisation of its production, based on postulated migratory mechanisms; and to
+assist in planning for a material expansion (Phase 2) of the currently developing (Phase 1) gas project.
+Further appraisal is required, and the Company intends to commence drilling a series of inclined wells to
+intersect the gas-bearing faults and fissures to further appraise the full extent of the opportunity and the
+economic recoverability.
+
+For personal use only
+
+Renergen has also retained Sproule to update the Company's Reserves and Resources following the
+recent horizontal well, the Shango Report, the Edinburgh Report, the Sproule Report, and the results from
+the impending inclined-well drilling programme when available.
+Johannesburg
+7 July 2020
+Authorised by: Stefano Marani
+Chief Executive Officer
+Designated Advisor
+PSG Capital
+
+Competent Persons Statement
+The Sproule Report was prepared by qualified reserves evaluators Jeffrey B. Aldrich (Sr. Geoscientist) and
+John Seidle (Sr. Reservoir Engineer), who are both qualified in accordance with ASX Listing Rule 5.41. Mr
+Aldrich and Mr Seidle consented to the inclusion of the information in this announcement in writing prior
+to its release. The estimates included in the report have been compiled in accordance with the Society of
+Petroleum Engineers (SPE) Petroleum Resources Management (PRMS) and South African Code for the
+Reporting of Oil and Gas Resources (SAMOG).
+For Australian Investors & Media, contact Citadel-MAGNUS
+Cameron Gilenko, 0466 984 953
+To readers reviewing this announcement on the Stock Exchange News Service (SENS), this announcement
+may contain graphics and/or images which can be found in the PDF version posted on the Company’s
+website.
+To readers reviewing this announcement who wish to find out more about LNG, watch our LNG video,
+which is posted on the Company’s website https://www.renergen.co.za/videos/
+www.renergen.co.za
+For South African investor inquiries, contact Renergen
+info@renergen.co.za
++2710 045 6000
+For South African media enquiries, contact OwnAlchemy
+Michael Rubenstein
++2782 903 7797
+michael@ownalchemy.com
+
+For personal use only
+
+About Renergen
+Renergen is an emerging producer of helium and liquefied natural gas (LNG), with existing production and
+sales of gas to buses in the Free State. Renergen was listed on Johannesburg’s AltX securities exchange in
+June 2015 as South Africa’s first listed alternative and renewable energy company. Renergen listed on the
+Australian Securities Exchange (ASX) on the 6th June 2019, with the code RLT. Renergen’s principal asset
+is its 100% shareholding in Tetra4, which holds the first and only onshore petroleum production right in
+South Africa, giving it first mover advantage on distribution of domestic natural gas, along with the
+potential to become one of the major global helium suppliers, making South Africa only the 8th country in
+the world to export this extremely rare gas.
+
+

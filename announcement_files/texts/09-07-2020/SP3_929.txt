@@ -1,0 +1,1070 @@
+For personal use only
+
+SOLVING OUTDOOR CHALLENGES WITH
+AUTONOMOUS SENSING, THINKING AND ACTION
+
+EQUITY CAPITAL RAISING PRESENTATION
+NOT FOR RELEASE OR WIRE SERVICE OR DISTRIBUTION IN THE UNITED STATES OF AMERICA
+
+JULY 2020
+SPECTUR LIMITED (ASX: SP3)
+
+For personal use only
+
+The leader in solutions
+and platforms using solar
+power, visual AI and IoT
+
+For personal use only
+
+Important Notice and Disclaimer
+IMPORTANT NOTICE
+
+NOT AN OFFER
+
+This equity investor presentation (Presentation) is dated 9 July 2020 and has been prepared
+by Spectur Limited (ACN 140 151 579) (SP3) and includes information regarding a placement
+(Placement) of new fully paid ordinary shares in SP3 (New Shares), which is to be followed
+by a security purchase plan of New Shares offered to all shareholders (SPP or Share Purchase
+Plan, and together with the Placement, the Offer or Capital Raising).
+
+This Presentation is not a prospectus, disclosure document, product disclosure statement or
+other offering document under Australian law or under any other law. It is for information
+purposes only and is not an invitation nor offer of securities for subscription, purchase or
+sale in any jurisdiction. This Presentation does not constitute financial product advice and
+does not and will not form any part of any contract for the acquisition of New Shares. This
+Presentation does not purport to contain all the information that a prospective investor may
+require in evaluating a possible investment in SP3 nor does it contain all the information
+which would be required in a prospectus prepared in accordance with the requirements of
+the Corporations Act.
+
+SUMMARY INFORMATION
+The information contained in this Presentation is of a general nature and no representation
+or warranty, express or implied, is provided in relation to the accuracy or completeness of
+the information. None of SP3 and ACNS Capital Markets (ABN 93 088 503 208) (Lead Manager)
+or their respective affiliates, related bodies corporate (as that term is defined in the
+Corporations Act 2001 (Cth) (Corporations Act)), or their respective directors, employees,
+officers, representatives, agents, partners, consultants and advisers (together the Offer
+Parties) have authorised, permitted or caused the issue, submission, dispatch or provision of
+this Presentation and, except to the extent referred to in this Presentation, none of them
+makes or purports to make any statement in this Presentation and there is no statement in
+this Presentation which is based on any statement by any of them. Statements in this
+Presentation are made only as of the date of this Presentation unless otherwise stated and
+the information in this Presentation remains subject to change without notice. The historical
+information in this Presentation is, or is based upon, information that has been released to
+the market. It should be read in conjunction with SP3’s other periodic and continuous
+disclosure announcements to ASX available at www.asx.com.au.
+
+SPECTUR LIMITED (ASX: SP3)
+
+U.S. RESTRICTIONS
+This document may not be released or distributed in the United States. This document does
+not constitute an offer to sell, or a solicitation of an offer to buy, any securities in the
+United States or any other jurisdiction in which such an offer would be illegal. The New
+Shares have not been, and will not be, registered under the U.S. Securities Act of 1933, as
+amended (Securities Act) or the securities laws of any state or other jurisdiction of the
+United States. Accordingly, the New Shares may not be offered or sold, directly or
+indirectly, to persons in the United States except in a transaction exempt from, or not
+subject to, the registration requirements of the Securities Act and the applicable securities
+laws of any state or other jurisdiction of the United States.
+LEAD MANAGER PARTIES
+The Lead Manager Parties and its affiliates, related bodies corporate and their respective
+directors, employees, officers, representatives, agents, partners, consultants and advisers
+(together the Lead Manager Parties) may, from time to time, hold interests in the securities
+of, or earn brokerage, fees or other benefits from SP3.
+
+3
+
+For personal use only
+
+Important Notice and Disclaimer
+NOT INVESTMENT ADVICE
+
+DISCLAIMER
+
+This Presentation has been prepared without taking account of any person’s investment
+objectives, financial situation or particular needs and prospective investors should conduct
+their own independent investigation and assessment of the Capital Raising and the
+information contained in, or referred to in, this Presentation. An investment in SP3 is
+subject to investment risk including possible loss of income and principal invested. Please
+see the ‘Key Risks’ Section of this Presentation for further details.
+
+No party other than SP3 has authorised or caused the issue, lodgement, submission, dispatch
+or provision of this Presentation, or takes any responsibility for, or makes or purports to
+make any statements, representations or undertakings in this Presentation. No person is
+authorised to give any information or make any representation in connection with the
+Capital Raising which is not contained in this Presentation. Any information or
+representation not contained in this Presentation may not be relied upon as having been
+authorised by SP3 in connection with the Capital Raising. To the maximum extent permitted
+by law, SP3, the Lead Manager and SP3’s advisors disclaim all liability for any expenses,
+losses, damages or costs incurred by you as a result of your participation in the Capital
+Raising and the information in this Presentation being inaccurate or due to information
+being omitted from this Presentation, whether by way of negligence or otherwise, make no
+representation or warranty, express or implied, as to the currency, accuracy, reliability or
+completeness of the information in this Presentation and, with regards the Lead Manager,
+take no responsibility for or liability (including, without limitation, any liability arising from
+fault or negligence on the part of any person) for any direct, indirect, consequential or
+contingent loss or damage whatsoever arising from the use of any part of this Presentation
+or otherwise arising in connection with it. The Lead Manager makes no recommendation as
+to whether you or your related parties should participate in the Capital Raising nor do they
+make any representations or warranties, express or implied, to you concerning this Capital
+Raising or any such information, and you represent, warrant and agree that you have not
+relied on any statements made by the Lead Manager in relation to the New Shares or the
+Capital Raising generally. The information in this Presentation remains subject to change
+without notice. SP3 reserves the right to withdraw or vary the timetable for the Capital
+Raising without notice.
+
+FUTURE PERFORMANCE
+This Presentation contains certain ‘forward looking statements’. Forward looking statements
+can generally be identified by the use of forward looking words such as ‘anticipate’,
+‘believe’, ‘expect’, ‘project’, ‘forecast’, ‘estimate’, ‘likely’, ‘intend’, ‘should’, ‘will’,
+‘could’, ‘may’, ‘target’, ‘plan’ and other similar expressions within the meaning of
+securities laws of applicable jurisdictions, and include statements regarding outcome and
+effects of the equity raising. Indications of, and guidance or outlook on future earnings,
+distributions or financial position or performance are also forward looking statements. The
+forward looking statements contained in this Presentation involve known and unknown risks
+and uncertainties and other factors, many of which are beyond the control of SP3 and the
+Lead Manager, and may involve significant elements of subjective judgement and
+assumptions as to future events which may or may not be correct. Refer to the ‘Key Risks’
+section of this Presentation for a summary of certain risk factors that may affect SP3. The
+Lead Manager has not authorised, approved or verified any forward-looking statements.
+There can be no assurance that actual outcomes will not differ materially from these
+forward-looking statements.
+
+FINANCIAL AMOUNTS
+All dollar values are in Australian dollars (A$). SP3’s results are reported under Australian
+International Financial Reporting Standards, or AIFRS. The historical information included in
+this Presentation is based on information that has previously been released to the market.
+
+SPECTUR LIMITED (ASX: SP3)
+
+4
+
+For personal use only
+
+Agenda
+
+1. Executive Summary
+2. Introduction to Spectur
+
+3. Strategy progress
+4. Operational update
+5. Offer details
+6. Key Risks
+
+SPECTUR LIMITED (ASX: SP3)
+
+5
+
+For personal use only
+
+Executive Summary
+Spectur seeks $1.1m to accelerate
+growth opportunities
+FY2020 performance
+• Full year revenue estimate to be circa $4.8m (unaudited)
+• 30 June 2020 cash balance $1.62m (positive cash of $87k for Q4)
+
+FY2020 strategy execution
+• Built customer outreach with associated insights, guiding market needs assessment
+• Designed and built STA6, Spectur's scalable next-generation technology platform
+• Outbound sales capabilities expanded
+• Digital marketing and website poised for enhancement
+• CSIRO Data61 partnership for AI in place
+
+FY2021 growth horizons – organic and targeted acquisitions
+• Expanding product lines (STA6 cornerstone)
+• Gaining entry into major projects
+• Adding sales channels via technology partners, security and system integrators
+
+Growth Capital Item
+
+Investment Required
+
+Sensing growth
+
+$180,000
+
+Expand AI applications
+
+$180,000
+
+Upgrade UI/UX/Server
+
+$180,000
+
+Targeted M&A strategy
+
+$180,000
+
+Channel expansion
+
+$150,000
+
+Product roll out
+
+$150,000
+
+Marketing investment
+
+$54,496
+
+Capital raise costs
+
+$60,000
+
+Total
+
+$1,134,496
+
+• Increasing geographic presence
+• Expanding and improving range of solutions and applications for existing customers
+• Improving inbound sales from enhanced marketing
+
+SPECTUR LIMITED (ASX: SP3)
+
+Note:
+• This is the current intention and is subject to change depending
+on future events.
+• Any amount raised lower than the target amount would result in
+reductions of investment across all items
+
+6
+
+For personal use only
+
+Growth accelerators - Use of funds
+Sensing growth ($180k)
+• Speed the rate of deployment of the remote sensing LoRaWAN
+module. Currently delayed until Q2
+• Acceleration of the “on-sensor” technology
+• Expand sensor supplier relationships and build marketing support
+
+Channel expansion ($150k)
+• Investigation and trialing of products and
+solutions with additional partners
+• Australian and international re-sellers
+
+Expand AI applications ($180k)
+
+Product roll out ($150k)
+
+• Develop and deploy additional AI applications for the STA6
+• Speed the development of the “App store” for AI applications
+• Expand AI supplier relationships and build marketing support
+
+• Investment in additional inventory and componentry
+• Allow faster delivery times and increased sales
+
+Upgrade UI/UX/Cloud software ($180k)
+
+Marketing acceleration ($54k)
+
+• Improving the end-customer experience
+• Ensuring that web and app functionality upgrades do
+not delay system deployments
+
+• Accelerate e-commerce and customer portal on website
+• New and refreshed marketing collateral
+• Enhanced digital marketing (Paid, SEO, EDM, Social)
+
+Targeted M&A strategy ($180k)
+• Costs for investigations into parties that can be acquired
+to accelerate growth
+• Remote sensing, applied visual AI, integrators in target
+markets
+• Seeking existing revenues and earnings within strategy
+
+SPECTUR LIMITED (ASX: SP3)
+
+Capital raise costs ($60k)
+• Broker, ASX, registry and legal costs
+
+$1.1m in additional funds sought.
+7
+
+For personal use only
+
+Spectur Limited
+Focus on two major sectors
+•
+•
+
+Government, utilities & institutional
+Building & construction
+
+Solutions for high value problems
+•
+•
+•
+
+Deterrence of crime
+Surveillance to improve productivity
+Warnings to protect communities
+
+•
+•
+•
+
+Safety through monitoring and AI
+Environmental sensing without people
+Range of solutions expanding
+
+Leveraging technology for enhanced results
+•
+•
+•
+
+Australian owned, design, coded and assembled
+Solar powered in-field platforms designed with cameras, IoT, computing, connectivity
+Expanding and customisable software, leveraging edge and cloud-based AI
+
+•
+•
+•
+•
+
+Future-proof programmable processing platform
+IoT sensors connected via LoRaWAN, extending the reach and versatility of the platforms
+Complementary field services to install, maintain, service and support
+Designed to integrate with 3rd party AI, sensors and video management systems
+
+SPECTUR LIMITED (ASX: SP3)
+
+Solving outdoor
+challenges using
+autonomous sensing,
+thinking and action
+8
+
+For personal use only
+
+Capital Structure
+Share Register
+
+Key Metrics as at 30 June 2020
+Share Trading Information
+
+ASX code
+
+SP3
+
+Listed on ASX
+
+01/08/2017
+
+Top 20 shareholders
+
+42.5%
+
+% of register owned by Board & Key Management
+
+3.65%
+
+Current share price
+
+$0.07
+
+Top Shareholders (as at 30 June 2020) –
+A Growing Institutional Investor Presence
+
+Market cap
+
+$5.3m
+
+Richard Wilkins (Founder)
+
+7.9%
+
+52 week closing high
+
+$0.13
+
+National Nominees Ltd
+
+4.8%
+
+52 week closing low
+
+$0.041
+
+DRP 2006 Super
+
+2.7%
+
+Pabasa Pty Ltd
+
+2.6%
+
+Basapa Pty Ltd
+
+2.1%
+
+Cyan C3G Fund
+
+2.0%
+
+Darren Cooper (Non-Executive Chairman)
+
+2.0%
+
+D & G Amarakoon <Duro Super Fund>
+
+1.9%
+
+Capital Structure
+Shares on issue
+
+75.6m
+
+Options – Listed (exercisable at $0.20, 31 December 2020)
+
+11.1m
+
+Options – Unlisted (exercisable at $0.20, 31 December 2020)
+
+9.2m
+
+Options (exercisable at $0.37, on or before 31 December 2020)
+
+150k
+
+Oldview Enterprises
+
+1.7%
+
+Options (exercisable at $0.50, on or before 31 December 2020)
+
+2.0m
+
+Dr Malaka Ameratunga
+
+1.7%
+
+Performance Rights on issue
+
+2.6m
+
+Rinaldi family
+
+1.6%
+
+Gerard Dyson (Managing Director)
+
+1.4%
+
+Equitable Investors Dragonfly Fund
+
+1.3%
+
+SPECTUR LIMITED (ASX: SP3)
+
+9
+
+For personal use only
+
+Pro – Forma Capital Structure
+Pro Forma Shares
+Capital Structure – Pro Forma Shares
+
+No.
+
+SP3 Fully Paid ordinary Shares Pre-Placement
+
+75,633,065
+
+Placement Shares
+
+11,344,960
+
+Pro Forma Shares Post Placement
+
+86,978,025
+
+Offer of Shares Under Share Purchase Plan (SPP)
+Total Shares on issue following Placement and SPP
+
+$*
+
+$/Share
+
+567,248
+
+$0.05
+
+11,344,960
+
+567,248
+
+$0.05
+
+98,322,985
+
+1,134,496
+
+* Cash proceeds before costs
+
+Note, the pro-forma capital structure is indicative only and may be subject to change
+
+SPECTUR LIMITED (ASX: SP3)
+
+10
+
+FOUR MATERIAL REVENUE STREAMS
+2500
+
+Update
+
+Revenue ($,000’s)
+
+For personal use only
+
+Operational Update
+
+• Solid ongoing growth in
+Recurring (SaaS) and Rental
+revenues
+• Greater than 50% of current
+revenues from ongoing
+sources
+
+2000
+
+1500
+
+• 30 June 2020 cash balance
+$1.62m – (circa $90k net
+cash increase, with COVID-19
+support)
+• Forecast FY20 revenue
+(unaudited) $4.8m – (softer
+H2 in response to COVID-19
+impacts on customers)
+
+1000
+
+500
+
+0
+FY15
+
+FY16
+
+Hardware sales
+
+FY17
+Rental Revenue
+
+FY18
+Recurring revenue
+
+FY19
+
+FY20F
+
+Field services
+
+Note: FY20F based on incomplete, unaudited results
+
+SPECTUR LIMITED (ASX: SP3)
+
+11
+
+Technology
+Ready to Scale
+
+Enhanced
+Sales and Marketing
+
+Institutionally
+Strengthened Operations
+
+Improved
+Shareholder Register
+
+Creates an entirely new product
+category, separate but inclusive of
+“solar security camera”.
+
+Transition from inbound to
+outbound focused sales, ready to
+proactively sell STA6
+
+Core systems, processes and
+infrastructure reviewed and
+matured, ready for growth:
+
+Enhanced quality, depth and
+alignment of the share register:
+
+• Sales team expanded from
+three to six persons
+
+• Inventory and manufacturing
+
+• Addition of multiple small-cap
+funds throughout the year
+
+• Open platform that can integrate
+with other camera platforms, AI
+software and third-party sensors
+• Underpins premium brand
+positioning
+
+Customer
+insights
+
+For personal use only
+
+Achievements FY20: Positioning Spectur for Growth
+
+A customer feedback function
+has been designed, implemented
+and delivered results. Key
+insights have included:
+
+SPECTUR LIMITED (ASX: SP3)
+
+• New website well advanced
+and refreshed digital
+marketing approach
+
+Functionality and
+performance required by the
+market, which has driven
+research and development
+
+• Strategy and sales focus
+• Roles, responsibilities, KPIs,
+metrics
+
+Effectiveness of sales and
+marketing approaches,
+leading to changes and
+optimisation in this function
+
+• Removal of outstanding overhangs
+
+• Strong and growing long-term
+support from core top-20
+investors
+
+Customer experience using
+Spectur systems, which has
+shaped how our field teams
+are supporting customers
+
+12
+
+For personal use only
+
+STA6 Technology Platform Ready for July Delivery
+Superb vision in ultralow light and at long range
+Up to 360o vision with no blind spots
+
+Audible/visible alarms and messaging
+with your choice of audible message
+
+Expandable hub for IoT sensors
+
+Microphone for local sound capture
+
+Advanced and open, edge and cloud visual AI
+
+Self-contained for rapid deployment
+
+Optional callout or 24/7 guard service
+
+Automated license plate recognition
+
+Very low levels of false alarms
+
+High quality 4K or thermal images
+
+Easily integrated with 3rd party VMS, AI, sensors
+
+SPECTUR LIMITED (ASX: SP3)
+
+Quantum leap STA6
+platform launches:
+orders already received for
+July delivery
+
+Future-proof via software upgrades
+
+Available for sale and rent
+
+Designed and made in Australia
+
+13
+
+For personal use only
+
+FY21 Growth Strategy: Ready to Accelerate
+Dramatically improved security application performance
+•
+
+Increased sales based on improved performance
+
+•
+
+New guard service offering (commenced in Q4 FY20)
+
+STA6
+New Applications:
+
+STA6 is a future-proof, multi-function open platform
+•
+
+Can be used for inhouse applications, as part of an integrated security solution, with 3rd party AI and 3rd-party sensors
+
+•
+
+Range of uses is open ended and far greater than “security” only market making the product more valuable
+
+•
+
+Programmable, expandable, flexible, future-proof compared to existing market (single use or bespoke combined applications)
+
+•
+
+Allows extended sales through 3rd parties in Australia and overseas (integrators, security companies, AI and sensor providers)
+
+•
+•
+
+Visual AI
+Sensing
+
+Broader geographies and channel partners
+
+Access to major projects
+•
+
+STA6 platform can be integrated into 3rd party VMS systems, allowing it to be used as part of broader smart city / security /
+
+parking / other applications
+•
+
+Spectur can now participate with integrators or as an integrator in larger projects
+
+Security
+Market
+
+STA6 can do more for existing customers
+•
+
+Extended AI applications in safety, warning & automated categorization (e.g. license plates) providing additional SaaS revenue
+
+•
+
+Standalone sensors including movement, vibration, noise, air quality, smoke, environmental and others, bringing additional
+
+hardware and SaaS revenue
+
+Extended range of ancillary products, sensors and AI applications
+•
+
+Including solar lighting, trailers, LoRaWAN sensors, CSIRO AI applications, other 3 rd party AI applications
+
+•
+
+More items to sell and rent, driving upfront and ongoing SaaS revenue for Spectur
+
+SPECTUR LIMITED (ASX: SP3)
+
+14
+
+For personal use only
+
+Offer Details
+OFFER STRUCTURE & SIZE
+
+• Placement raised approximately $0.57m from the issue of 11.3 million new Spectur Shares to be issued under
+Spectur’s existing placement capacity under ASX listing Rule 7.1 (Placement).
+
+OFFER PRICING
+
+• Offer price of 5c per New Share represents a:
+- 29% discount to the last closing price of 7c on 30 June 2020.
+- 19% discount to the 15-day VWAP up to including 30 June 2020.
+
+RANKING
+
+Parity with fully paid ordinary shares on issue.
+
+USE OF PROCEEDS
+
+Proceeds from the Equity Raise will be applied to:
+Sensing growth
+Expand AI applications
+Upgrade UI / UX / Server
+Targeted M&A strategy
+
+•
+•
+•
+•
+
+•
+•
+•
+•
+
+Channel expansion
+Product roll out
+Marketing acceleration
+Capital raise costs
+
+SHARE PURCHASE PLAN (SPP)
+
+In addition to the placement, Spectur are offering eligible Australian and New Zealand shareholders the
+opportunity to apply for up to $30,000 in New Shares via a SPP.
+• The issue price for New Shares issued under the SPP is the same as the Placement Price of 5c.
+• Spectur seeks to raise approximately $0.57m through the SPP.
+• The record date of the SPP is 8 July 2020, and an Offer Document including further details of the SPP offer will
+be sent to eligible shareholders in due course
+
+LEAD MANAGER
+
+ACNS Capital Markets Pty Ltd trading as Alto Capital (ABN 93 088 503 208)
+
+SPECTUR LIMITED (ASX: SP3)
+
+15
+
+For personal use only
+
+Equity Raising Timetable
+EVENT
+
+DATE
+
+Trading halt
+
+Friday 3 July 2020
+
+Record date for the SPP
+
+Wednesday 8 July 2020
+
+Transaction announced and SP3 resumes trading on the ASX
+
+Thursday 9 July 2020
+
+Settlement of Placement Shares
+
+Monday 13 July 2020
+
+Allotment and normal trading of Placement Shares
+
+Wednesday 15 July 2020
+
+SPP offer opens and dispatch of SPP Offer Document
+
+Monday 20 July 2020
+
+SPP offer closes
+
+Friday 7 August 2020
+
+Announcement of results of SPP
+
+Tuesday 11 August 2020
+
+SPP allotment date
+
+Thursday 13 August 2020
+
+Normal trading of SPP Shares and dispatch of holding statements
+
+Friday 14 August 2020
+
+Notes: All above dates and times are indicative and subject to change without notice and have not been confirmed by the ASX. All times are WST time unless otherwise specified.
+
+SPECTUR LIMITED (ASX: SP3)
+
+16
+
+For personal use only
+
+Key Risks - General
+COVID-19
+
+Events related to the Coronavirus pandemic (COVID-19) have resulted in significant market volatility. There is continued uncertainty as to ongoing and future
+response of governments and authorities globally as well as a likelihood of an Australian economic recession of unknown duration or severity. As such, the full
+impact of COVID-19 to consumer behaviour, suppliers, employees and the Company are not fully known. Given this, the impact of COVID-19 could potentially be
+materially adverse to Spectur’s financial and operational performance.
+
+Competition
+
+The solar power, visual AI and IOT industry is subject to competition based on factors including price, service, quality, performance standards, information
+security, innovation and the ability to provide customers with an appropriate range of reliable and tailored services in a timely manner.
+
+Competition from new
+entrants to the industry
+
+Spectur operates in an increasingly competitive industry where a number of participants are, or may, target entry into the industry with new and innovative
+products aimed at the industry. New entrants to the industry may offer more competitive prices for products due to a range of factors, including if they have
+greater financial resources than Spectur, which may enable them to offer products at more competitive prices while they establish their business. New entrants
+may also compete against Spectur with cheaper products that have less functionality than Spectur’s offering.
+
+Failure to retain existing
+customers and attract
+new customers
+
+Spectur’s business is dependent on its ability to retain its existing customers and attract new customers. Part of Spectur’s business operates under subscription
+models which are exposed to the risk of termination, expiry and non-renewal.
+
+Spectur is not yet
+profit making
+
+Spectur has historically focused on developing its platform and product, growing its customer base through relationships with channel partners, and the
+recruitment of sales and marketing staff. While revenue has grown from FY14 to FY19, the focus on revenue growth has seen an increase in the cost base, resulting
+in the business historically generating NPAT losses and an expectation that NPAT losses will continue in the future. If Spectur fails to generate positive NPAT in the
+future it may be required to raise further capital and Spectur’s future operations may be adversely affected and its reputation may be damaged.
+
+Reliance on
+product line
+
+Spectur’s business model is substantially reliant upon a limited range of products, being the HD and new STA systems. Spectur’s success depends on its ability to
+keep customers satisfied with its products. There is a risk that Spectur fails to properly maintain its products and IOT services or that updates or new releases may
+introduce errors or performance issues which could cause customer dissatisfaction and damage to reputation. Spectur’s reputation may also suffer as a result of
+real or perceived reductions in functionality, product quality, reliability, security, value and customer support or a failure to reflect developments in technology or
+in the commercial, compliance and regulatory environment. Any of these factors may result in reduced sales and usage, loss of customers and an inability to
+attract new customers and possibly legal claims by customers.
+
+Reliance on third party IT
+suppliers and disruption of
+technology systems
+
+Spectur and its customers are dependent on the performance, reliability and availability of Spectur’s IOT technology platforms and communications systems
+(including third party provider of servers, the internet, telecommunication providers, data centre hosting services and the cloud environment in which Spectur
+provides its services). There is a risk that these systems may be adversely affected by disruption, failure, service outages or data corruption that could occur as a
+result of computer viruses, malware, cyber attacks or other disruptions including natural disasters, power outages or other similar events.
+
+SPECTUR LIMITED (ASX: SP3)
+
+17
+
+For personal use only
+
+Key Risks - General
+Security breach and data
+privacy
+Ability to attract and
+retain key staff
+General Risk
+
+Investment Risk
+
+SPECTUR LIMITED (ASX: SP3)
+
+Spectur’s products involve the storage and transmission of customers’ confidential and proprietary information. Spectur’s business could be materially
+impacted by security breaches of customers’ data and information, either by unauthorised access, theft, destruction, loss of information or
+misappropriation or release of confidential customer data.
+Spectur’s success depends to a significant extent on its key personnel, in particular the senior management team. Spectur’s senior management have
+extensive experience in the core and unique operations of the business. The loss of key members of senior management may adversely affect Spectur’s
+ability to develop its products or implement its business strategies and may adversely affect its future financial performance.
+An investment in Spectur is also subject to general risks including those related to general economic conditions, availability of funding, refinancing
+requirements, foreign exchange risk, share price volatility, interest rates, debt financial distress of customers, attracting and retaining employees, health,
+safety and environment issues, litigation and disputes, financial forecasts, regulatory issues, changes in law, changes in accounting policy and standards,
+taxation implications, insurance issues, force majeure, counterparty risk, intellectual property risk and reputational risk.
+There are general risks associated with investments in equity capital such as Spectur shares. The trading price of Spectur shares may fluctuate with
+movements in equity capital markets in Australia and internationally. This may result in the market price for the New Shares being less or more than the
+Offer Price. Generally applicable factors which may affect the market price of Spectur shares include:
+• the impact of COVID-19 (or other pandemics or epidemics), including prolonged reduction in activity in the business’ key markets and on Spectur’s
+workforce, industry, customers and supply chains, including as a result of governmental action, work stoppages, lockdowns, quarantines, travel
+restrictions and the impact on the economics and share markets of the key markets in which Spectur operates;
+• general movements in Australian and international stock markets;
+• investor sentiment;
+• Australian and international economic conditions and outlook;
+• changes in interest rates and the rate of inflation;
+• changes in government legislation and policies, including taxation laws;
+• loss of key personnel and delays in replacement;
+• announcement of new technologies;
+• epidemics or pandemics such as COVID-19;
+• geo political instability, including international hostilities and acts of terrorism, the response to COVID-19 and travel restrictions;
+• demand for and supply of Spectur shares;
+• announcements and results of competitors; and analyst reports.
+No assurances can be given that the New Shares will trade at or above the Offer price. None of Spectur, its directors or any other person guarantees the
+market performance of the New Shares. The financial position, performance and prospects of Spectur and Spectur’s share price may be adversely affected
+by the worsening of general economic conditions in Australia (including, the adverse impacts of, and the responses to, COVID-19), as well as international
+market conditions and related factors. It is also possible new risks might emerge as a result of Australian or global markets experiencing extreme stress, or
+existing risks may manifest themselves in ways that are not currently foreseeable.
+
+18
+
+For personal use only
+
+Investment Highlights
+
+Financial performance
+• $1.62m cash at bank as
+at 30 June 2020
+• Positive cash generation
+in Q4
+• Revenue recovering from
+March 2020 lows
+• Strong operational
+controls
+
+SPECTUR LIMITED (ASX: SP3)
+
+Game changing
+technology
+
+Enhanced sales
+and marketing
+
+Synergistic M&A
+Options
+
+• Best in class
+performance
+
+• Australian and
+international
+channel partners
+
+• Channel partners
+
+• Unique programmable
+platform
+• Unlimited future
+applications
+
+• Outbound sales
+team
+• Improving digital
+platform
+
+• Sensing
+
+• Visual AI
+• Solar ecosystem
+
+Capital for growth
+• Operations almost
+cash neutral
+• Capital will be
+deployed in growth
+areas
+• Multiple avenues for
+results, reducing risk
+
+19
+
+For personal use only
+
+Contact Details
+Spectur Limited (ASX: SP3)
+www.spectur.com.au
+Enquiries
+Gerard Dyson
+Managing Director
+investors@spectur.com.au
+
+Sense Think Act
+
+

@@ -1,13 +1,9 @@
-from selenium.webdriver.support import expected_conditions as EC
-from selenium.webdriver.support.ui import WebDriverWait
 from webdriver_manager.chrome import ChromeDriverManager
 from selenium import webdriver
 from bs4 import BeautifulSoup
 import lxml
-import time
 import datetime
 import requests
-import re
 import sys
 import os 
 
@@ -126,7 +122,6 @@ for tr in row:
 	count += 1
 	# Prints info to terminal
 	print("\nAnnouncement: "+code+'_'+time+". Download number: "+str(count)+". Time elapsed: "+str(datetime.datetime.now() - start_time))
-	break
 
 # Prints final info to terminal
 elapsed_time = datetime.datetime.now() - start_time

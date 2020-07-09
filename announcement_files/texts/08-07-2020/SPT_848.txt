@@ -1,0 +1,259 @@
+For personal use only
+
+Record growth in Q2 FY20
+●
+
+●
+●
+●
+●
+●
+●
+
+Merchant Sales Volume (MSV) grew rapidly to US$65.4M, up 260% on Q2 FY19, up 176% on Q1
+FY20
+○ North America up 261% and Europe up 240% on Q2 FY19
+Gross Revenue (Non GAAP) surged to US$2.4M, up 460% on Q2 FY19, up 246% on Q1 FY20
+1K Total Merchants, up 104% on Q2 FY19
+309K Total Unique Shoppers, up 85% on Q2 FY19
+Average Order Value (AOV) of US$893, up 44% on Q2 FY19
+Large new merchants (live and signed) include Purple, Daily Sale, Quiet Kat, Dreamcloud, Bedmart,
+Scorptec, Tatami Fightwear, Sofa Club, Alpina Watches
+New partnerships with Mastercard, Finance for Group, Blue Snap
+
+Sydney, Australia, 8 July 2020 – Splitit Payments Ltd (ASX:SPT), a leading global instalment payments
+solution business, provides an update on trading for the second quarter in FY20, ending 30 June 2020.
+Record Merchant Sales Volume and Revenue
+Following on from strong MSV growth in April and May, Splitit saw rapid growth continue across all key
+KPIs during the quarter. MSV accelerated from the start of the year, up 176% on Q1 FY20 and up 260%
+over Q2 FY19, due to the addition of new large merchants in Q1 and Q2. The Company’s two largest
+markets continued their upward trajectory, with North America up 261% and Europe up 240%. This resulted
+in record revenue growth, with total revenue of $2.4M in Q2 FY20 surpassing total revenue from the whole
+of FY19, and up 460% compared to Q2 FY19.
+
+Splitit continues to attract larger merchants wanting to provide instalment solutions to their credit card
+customers and improve conversion rates, especially as eCommerce expansion accelerates. This has seen
+AOV rise by a further 21% to US$893 over Q1 FY20, with more than 90% of all transactions being
+eCommerce or mobile payments.
+
+For personal use only
+
+Accelerated Merchant Acceptance and New Shoppers
+Total merchants grew to over 1,000, up 104% on Q2 FY19, with 12 Month Active Merchants increasing to
+519, up 92%. This merchant growth was driven by increasing demand in key verticals from new influential
+brands. Leading brands that joined the Splitit platform during the quarter includes includes Purple, Daily
+Sale, Quiet Kat, Dreamcloud, Bedmart, Scorptec, Tatami Fightwear, Sofa Club and Alpina Watches.
+Total Shoppers are now over 309K, up 85% on Q2 FY19, with 12 Month Active Shoppers reaching 141k,
+up 92%, as Splitit’s unique value proposition continues to drive consumer preference at checkout with
+broader acceptance resulting in accelerated consumer growth. Many of these were first time users, with
+the number of Repeat Shoppers expected to increase again in future periods. Plans Initiated grew 150%
+on Q2 FY19 to 73K, with higher demand for homewares and outdoor, sporting and fitness products.
+Brad Paterson, CEO of Splitit commented: “June saw a continuation of the strong business momentum we
+experienced in April and May. Consumers are making better use of their existing credit to preserve cash,
+while demand from higher value merchants is ramping up, supported by the accelerated shift towards
+eCommerce as a result of COVID-19. While we continue to tightly manage our expenses in light of global
+economic uncertainty, our business model supports more efficient consumer budgeting during these
+uncertain times, and continues to deliver enormous benefit to merchants by significantly improving
+consumer conversion on their sites.”
+Strategic Partnerships
+Integration with Stripe Connect is now complete, with beta testing of new, accelerated, merchant
+onboarding underway. As this functionality is deployed more broadly later in Q3, this will see new merchant
+acceptance further accelerate as the Company progresses towards its goal of enabling merchants to selfonboard in minutes. As the integration expands, it will also improve Splitit’s funded model process by
+automating acceptance and movement of money for all funded transactions, and significantly improving the
+merchant experience including multi-currency support and improved reporting tools.
+During the period, Splitit launched its integration with Blue Snap, the payment platform for B2B and B2C
+businesses. Blue Snap, which supports online and mobile sales, marketplaces, subscriptions and invoice
+payments, allows Splitit to reach a wide range of fast growing eCommerce merchants and offer them
+instalment payments directly on their platform. The Company also further enhanced its integration with
+Magento, as part of the partnership announced in Q1.
+In June, Splitit announced an initial five year agreement with Mastercard to accelerate the adoption of its
+instalment solution by leveraging Mastercard’s network of global partners. Initially launching pilots across
+three markets before rolling out globally, Splitit will integrate its instalment solution with Mastercard’s suite
+of technology as a network partner to enable merchants to deliver seamless and secure consumer
+experiences at checkout, both in store and online. Mastercard and Splitit are also jointly developing other
+instalment and related products.
+“Progressing our strategic partnerships is a pivotal part of our growth strategy,” concluded Brad Paterson.
+“These partnerships provide access to multiple merchants and payment networks through our globally
+scalable business model and extend our product offering to enable a superior customer experience. Over
+the coming months we will continue to focus on enhancing the experience for both merchants and
+consumers, while driving further industry innovation with our partners.”
+
+For personal use only
+
+Quarterly Performance Metrics - Table 1:
+Operating Metrics
+
+Q2 FY20
+
+Comparison to
+Q1 FY20
+
+Comparison to Q2
+FY19 (PCP)
+
+Merchant Sales Volume (MSV) 1
+
+US$65.4M
+
+176%
+(US$23.7M)
+
++260%
+(US$18.2M)
+
+Gross Revenue (Non GAAP)2
+
+US$2.4M
+
+246%
+(US$691K)
+
++460%
+(US$427K)
+
+Average Order Value (AOV)3
+
+US$893
+
+21%
+(US$737)
+
+44%
+(US$620)
+
+73.2K
+
++128%
+(32.1K)
+
++150%
+(29.3K)
+
+Total Merchants5
+
+1K
+
+20%
+(0.8K)
+
++104%
+(0.5K)
+
+12 Month Active Merchants6
+
+519
+
+20%
+(0.4K)
+
+92%
+(0.3K)
+
+Total Shoppers
+
+309K
+
+26%
+(245K)
+
+85%
+(167K)
+
+12 Month Active Shoppers 7
+
+141K
+
+32%
+(107K)
+
+28%
+(116K)
+
+Repeat Shoppers 8
+
+10.2%
+
+-25%
+(13.6%)
+
+-25%
+(13.5%)
+
+Plans Initiated4
+
+In accordance with ASX requirements, the Company plans to release its Appendix 4C Quarterly filing on
+or before July 30, 2020.
+
+1 Underlying MSV for successful transactions that a merchant fee is charged
+2 Revenue attributable to MSV, translated to reporting currency at plan activation date.This non-GAAP measure has not been
+
+independently audited or reviewed, and will differ from GAAP revenue due to IFRS revenue recognition rules and any potential net
+impact of payment reversals. It provides useful information for readers to assist in understanding the Company’s financial
+performance, by aligning the full Gross Revenue impact with the MSV generated for the period.
+3 Average value of plans initiated in the period
+4 Number of plans initiated in the period
+5 Cumulative number of merchants that accept Splitit
+6 Number of merchants that have received a payment in the previous 12 months
+7 Number of shoppers that have made a purchase in the previous 12 months
+8 Percentage of shoppers that have made a purchase in the current period that have previously made a successful purchase
+
+For personal use only
+
+For more information, please contact:
+
+US Media Inquiries
+
+Australian Media & Investor Enquiries
+
+Cari Sommer
+
+Catherine Strong
+
+Raise Communications
+
+Citadel-MAGNUS
+
+info@raisecg.com
+
+cstrong@citadelmagnus.com
+
++1 646 480 7683
+
++61 2 8234 0111
+
+About Splitit
+Splitit is a payment method solution enabling customers to pay for purchases with an existing debit or credit card by splitting the cost
+into interest and fee free monthly payments, without additional registrations or applications. Splitit enables merchants to offer their
+customers an easy way to pay for purchases in monthly instalments with instant approval, decreasing cart abandonment rates and
+increasing revenue. Serving many of Internet Retailer’s top 500 merchants, Splitit’s global footprint extends to hundreds of merchants
+in countries around the world. Headquartered in New York, Splitit has an R&D center in Israel and offices in London and Australia.
+This announcement has been approved and authorised to be given to ASX by Brad Paterson, CEO and Managing Director on the
+Board of Splitit.
+Disclaimer
+This announcement contains “forward-looking statements.” These can be identified by words such as “may”, “should”, “anticipate”,
+“believe”, “intend”, “estimate”, and “expect”. Statements which are not based on historic or current facts may by forward-looking
+statements. Forward-looking statements are based on:
+•
+•
+
+assumptions regarding the Company’s financial position, business strategies, plans and objectives of management for
+future operations and development and the environment in which the Company will operate; and
+current views, expectations and beliefs as at the date they are expressed and which are subject to various risks and
+uncertainties.
+
+Actual results, performance or achievements of the Company could be materially different from those expressed in, or implied by,
+these forward-looking statements. The forward-looking statements contained within the presentations are not guarantees or
+assurances of future performance and involve known and unknown risks, uncertainties and other factors, many of which are beyond
+the control of the Company, which may cause the actual results, performance or achievements of the Company to differ materially
+from those expressed or implied by forward-looking statements. For example, the factors that are likely to affect the results of the
+Company include general economic conditions in Australia and globally; exchange rates; competition in the markets in which the
+Company does and will operate; weather and climate conditions; and the inherent regulatory risks in the businesses of the Company.
+The forward-looking statements contained in this announcement should not be taken as implying that the assumptions on which the
+projections have been prepared are correct or exhaustive. The Company disclaims any responsibility for the accuracy or completeness
+of any forward-looking statement. The Company disclaims any responsibility to update or revise any forward-looking statements to
+reflect any change in the Company’s financial condition, status or affairs or any change in the events, conditions or circumstances on
+which a statement is based, except as required by law. The projections or forecasts included in this presentation have not been
+audited, examined or otherwise reviewed by the independent auditors of the Company.
+You must not place undue reliance on these forward-looking statements.
+
+

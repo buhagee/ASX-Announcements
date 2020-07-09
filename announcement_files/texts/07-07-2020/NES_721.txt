@@ -1,0 +1,806 @@
+Nelson Resources Limited
+
+For personal use only
+
+ACN 127 620 482
+
+SUPPLEMENTARY PROSPECTUS
+Important Information
+This is a supplementary prospectus (Second Supplementary Prospectus) intended to be
+read with the prospectus dated 9 June 2020 (Prospectus) and supplementary prospectus
+dated 7 July 2020 (First Supplementary Prospectus) issued by Nelson Resources Limited
+(Company).
+This Second Supplementary Prospectus is dated 7 July 2020 and was lodged with the
+Australian Securities and Investments Commission (ASIC) on that day. Neither ASIC nor ASX
+(and their respective officers) take any responsibility as to the contents of this Second
+Supplementary Prospectus.
+To the extent of any inconsistency between this Second Supplementary Prospectus and the
+Prospectus and First Supplementary Prospectus, this Second Supplementary Prospectus will
+prevail. Unless otherwise indicated, terms defined and used in the Prospectus and First
+Supplementary Prospectus have the same meaning in this Second Supplementary Prospectus.
+This is an important document and should be read in its entirety. If you do not understand
+it you should consult your professional advisors without delay.
+
+1
+
+ISSUE OF FURTHER SECURITIES UNDER THE PROSPECTUS
+The Company advises that, as a result of excess demand under the Shortfall Offer it
+has today issued a further 9,158,618 New Shares and 4,579,275 attaching New
+Options under this Prospectus to raise an additional $348,000 (Follow-on
+Placement). Additional funds raised will be used for exploration and general working
+capital.
+The Follow-on Placement was made without Shareholder approval, and 3,343,989
+New Shares and 4,579,275 New Options were issued under the Company’s existing
+capacity under Listing Rule 7.1, and 5,814,629 New Shares were issued under the
+Company’s existing capacity under Listing Rule 7.1A.
+The New Options will be listed under the ASX code NESOA.
+Attached to this Second Supplementary Prospectus is an announcement made by the
+Company to ASX today.
+The Company now closes the Shortfall Offer and no further issues will be made under
+the Prospectus.
+
+JA:00178604-005
+
+Page 1
+
+2
+
+AMENDMENTS TO PROSPECTUS
+The following sections of the Prospectus are amended as follows:
+
+For personal use only
+
+2.1
+
+Capital structure
+Sections 2 and 5.4 of the Prospectus are amended to reflect the current number of
+securities on issue:
+Prior to the Offer
+Shares on issue prior to the Offer
+
+52,821,762
+
+New Shares issued under the Prospectus1
+
+61,980,380
+
+Total Shares on issue
+
+114,802,142
+
+Total Options on issue prior to the Offer
+
+7,614,458
+
+New Options issued under the Prospectus1
+
+30,990,156
+
+Total Options on issue2, 3
+
+38,604,614
+
+Amount raised under the Prospectus (before costs)
+
+$2,355,254
+
+1 This includes securities issued on 7 July 2020.
+2 The Company also has 1,500,000 performance rights on issue.
+3 The Company has also offered under the Prospectus, subject to Shareholder
+approval, issue to the Underwriter or its nominee 1 New Option for every $1 raised
+under the Prospectus.
+2.2
+
+Use of funds
+Sections 4 and 5.2 of the Prospectus are amended to reflect the increased amount
+raised:
+Use of funds (approx.)
+
+Underwritten Amount
+
+Magnetics Survey
+
+180,000
+
+Seismic Survey
+
+100,000
+
+Other Geophysics - EM/IP
+
+120,000
+
+Aircore Drilling
+
+280,000
+
+RC Drilling
+
+650,000
+
+JA:00178604-005
+
+Page 2
+
+For personal use only
+
+Plant and Equipment
+
+120,000
+
+Working Capital
+
+686,225
+
+Costs of the Offer
+
+219,000
+
+Total use of funds
+2.3
+
+2,355,225
+
+Statement of financial position
+Set out in the annexure to this Second Supplementary Prospectus is the reviewed
+Statement of Financial Position for the Company, as at 31 December 2019 and on the
+basis of the following assumptions:
+(a)
+
+the Offer was effective on 31 December 2019;
+
+(b)
+
+on 14 February 2020 the Company raised $300,000 through the issue of
+7,228,916 Shares (with 1 attaching Option for every 2 Shares issued);
+
+(c)
+
+no further Shares are issued other than 61,980,380 Shares issued under this
+Prospectus;
+
+(d)
+
+$2,355,254 is raised under the Prospectus; and
+
+(e)
+
+(cash) costs of the Offer are $219,000.
+
+The pro-forma Statement of Financial Position has been prepared to provide
+investors with information on the assets and liabilities of the Company and pro-forma
+assets and liabilities of the Company set out in the annexure. The pro-forma
+financial information is presented in an abbreviated form, insofar as it does not
+include all of the disclosures required by Australian Accounting Standards applicable
+to annual financial statements.
+2.4
+
+Dilution
+Shareholders who did not participate in the Offer will have their holdings diluted.
+Following is a table which sets out the dilutionary effect on the basis of the full
+amount raised under the Prospectus and assuming no further Shares are issued or
+Options exercised:
+Holding at
+Record Date
+
+Holder
+
+Number
+
+Entitlement
+%
+
+Holding following the Offer if
+no Entitlement taken up
+Number
+
+%
+
+1
+
+5,282
+
+0.01
+
+5,282
+
+5,282
+
+0.0046
+
+2
+
+52,822
+
+0.10
+
+52,822
+
+52,822
+
+0.0460
+
+3
+
+528,218
+
+1.00
+
+528,218
+
+528,218
+
+0.4601
+
+JA:00178604-005
+
+Page 3
+
+4
+
+2.5
+
+5,282,176
+
+10.00
+
+5,282,176
+
+5,282,176
+
+4.6005
+
+Consents
+
+For personal use only
+
+Each of the persons referred to in this section:
+(a)
+
+has given and has not, before the date of lodgement of this Second
+Supplementary Prospectus with ASIC withdrawn their written consent:
+(i)
+
+to be named in the Second Supplementary Prospectus in the form and
+context which it is named; and
+
+(ii)
+
+where applicable, to the inclusion in this Second Supplementary
+Prospectus of the statement(s) and/or reports (if any) by that person
+in the form and context in which it appears in this Second
+Supplementary Prospectus;
+
+(b)
+
+has not caused or authorised the issue of this Second Supplementary
+Prospectus;
+
+(c)
+
+has not made any statement in this Prospectus or any statement on which a
+statement in this Second Supplementary Prospectus is based, other than
+specified below;
+
+(d)
+
+to the maximum extent permitted by law, expressly disclaims all liability in
+respect of, makes no representation regarding, and takes no responsibility
+for, any part of this Second Supplementary Prospectus, other than the
+references to their name and the statement(s) and/or report(s) (if any)
+specified below and included in this Second Supplementary Prospectus with
+the consent of that person.
+
+Name
+Mahe Capital Pty Limited
+
+2.6
+
+Role
+Lead Manager and Underwriter
+
+Atkinson Corporate Lawyers
+
+Lawyer
+
+Criterion Audit Pty Limited
+
+Auditor
+
+Expenses of the Offer
+The total (cash) expenses of the Offer (assuming the full amount is raised and no
+further Shares are issued or Options exercised) are estimated to be up to $219,003,
+consisting of the following:
+Cost1
+Legal fees
+
+JA:00178604-005
+
+$
+12,000
+
+Page 4
+
+ASX and ASIC fees
+Capital raising fees2
+
+For personal use only
+
+Printing, postage and other expenses
+Total
+
+14,003
+163,000
+30,000
+219,003
+
+These expenses have or will be paid by the Company.
+The Company has also agreed to, subject to Shareholder approval, issue 1 New
+Option for every $1 raised under the Prospectus to the Underwriter or 2,355,254 New
+Options. See section 8.2 for details.
+
+3
+
+CONFIRMATION OF TERMS OF NEW OPTIONS
+On 7 July 2020 the Company lodged the First Supplementary Prospectus with ASIC
+that annexed a copy of an announcement by the Company to ASX. This
+announcement stated that the New Options expired on 8 July 2022. This
+announcement was an earlier draft of the final announcement made to ASX, and
+contained an error as the expiry date of the New Options is 7 July 2020.
+
+The Directors do not consider the circumstances disclosed in this Second Supplementary
+Prospectus to be materially adverse from the point of view of an investor, and no withdrawal
+rights will be offered to investors.
+This Second Supplementary Prospectus is issued by the Company and its issue has been
+authorised by a resolution of the Directors. In accordance with section 720 of the
+Corporations Act, each Director has consented to the lodgement of this Second
+Supplementary Prospectus with ASIC.
+Dated: 7 July2020
+
+Adam Schofield
+Executive Director
+On behalf of Nelson Resources Limited
+
+JA:00178604-005
+
+Page 5
+
+For personal use only
+
+SCHEDULE 1 ASX ANNOUNCEMENT MADE 7 JULY 2020
+
+JA:00178604-005
+
+Page 6
+
+For personal use only
+
+ASX RELEASE
+7 JULY 2020
+ASX:NES
+
+FOLLOW-UP PLACEMENT TO RAISE $348,000
+•
+•
+
+Top up placement of $348,000 to accommodate some of the excess demand from recent
+rights issue
+Nelson now well funded to undertake its exploration strategy
+
+Nelson Resources Limited (ASX: NES) (Nelson or the Company) is pleased to announce
+that as a result of the Renounceable Rights Issue announced on 9 June 2020 (“Offer”) closing
+oversubscribed and to accommodate some of the excess demand, it has agreed to raise a
+further $348,000 on the same terms as the Rights Issue (“Follow-on Placement”).
+The Company has today issued a further 9,158,618 fully paid ordinary shares and 4,579,275
+attaching new options, exercisable at 8 cents and expiring on 8 July 2022 (“Options”) under the
+Follow-on Placement. The Options will be listed under the ASX code NESOA. The issues are
+made without shareholder approval, and 3,343,989 shares and 4,579,275 new options are
+issued under the Company’s existing capacity under Listing Rule 7.1, and 5,814,629 shares are
+issued under the Company’s existing capacity under Listing Rule 7.1A.
+Mahe Capital Pty Ltd advised Nelson on the Rights Issue and the Follow-on Placement and
+acted as Lead Manager to the capital raising. Nelson welcomes these new shareholders,
+including institutional shareholders introduced by Mahe Capital to the register.
+Nelson’s Chairman Warren Hallam said: “We are very pleased with the support shown by
+existing shareholders through their participation in the Rights Issue and welcome new
+shareholders that have been introduced through Mahe Capital. Nelson is now well funded to
+proceed to undertake its exploration strategy.”
+An Appendix 2A and supplementary prospectus for the Follow-up Placement accompany this
+announcement. The Company confirms that the issue price of $0.038 satisfies the requirements
+of Listing Rule 7.1A
+This ASX Announcement has been approved for release by Adam Schofield, Executive Director.
+
+CAPITAL STRUCTURE
+
+BOARD
+
+LAST CAPITAL RAISE
+
+ORDINARY SHARES
+Issued 114,802,142
+
+Executive Director - Adam Schofield
+
+July 2020 – Entitlements Offer
+
+Non-Executive Chairman - Warren Hallam
+
+$2.007m @ 3.8c
+
+OPTIONS
+Listed options 30,990,156
+Unlisted options 7,614,458
+
+Non-Executive Director - Stephen Brockhurst
+Company Secretary - Stephen Brockhurst
+
+For personal use only
+
+For more information, please contact:
+Adam Schofield
+Executive Director
+ceo@nelsonresources.com.au
+
+Peter Taylor
+Investor Relations
+Peter@nwrcommunications.com.au
+0412 036 231
+
+ABOUT NELSON RESOURCES
+Nelson Resources is an exploration company with a highly prospective 956km² tenure holding.
+The key focus for the company is its 828 km² Woodline Project.
+The Woodline Project lies on the boundary of the Albany Fraser Oregon and the Norseman Wiluna Greenstone belt in Western Australia.
+The Woodline Project contains:
+•
+
+45km of the Cundeelee Shear Zone which already consists of a known +20km gold
+geochemical and bedrock anomaly, hosted in the same geological structural setting ¹ as
+the 7.7 million ounce Tropicana Gold mine ².
+
+•
+
+30km of significantly unexplored greenstones along the Norseman-Wiluna greenstone
+belt.
+
+•
+
+A significant and unique holding within the confluence of the Keith-Kilkenny Fault / the
+Claypan Shear Zone and the Cundeelee Shear Zone. These three Shears have hosted
+many of the largest gold projects in Western Australia.
+
+•
+
+Historical exploration of $14 million by the Company, Sipa Resources, Newmont and
+MRG.
+
+The 7.7 million ounce Tropicana Gold Mine which is operated by AngloGold Ashanti was
+discovered in 2005 by IGO Group Limited via a gold-in-soil anomaly that led to further exploration
+and is one of the most important gold discoveries in Australia for decades. Tropicana currently
+produces approximately 450,000 ounces per annum ³. In today’s gold price terms, that equates
+to over A$1 billion dollars per annum.
+Nelson Resources confirms that it is not aware of any new information or data that materially
+affects the exploration results included in this announcement.
+¹ https://www.dmp.wa.gov.au/Documents/Geological-Survey/GSWA-AFO-Korsch-presentations-0012.pdf
+¹ https://www.dmp.wa.gov.au/Documents/Geological-Survey/GSWA-AFO-Spaggiari_2-presentations-0004.pdf
+² http://www.tropicanajv.com.au/irm/content/reserves-resource-statement1.aspx?RID=284
+³ http://www.tropicanajv.com.au/irm/content/fact-sheet.aspx?RID=318
+
+NELSON RESOURCES LIMITED | Address: Level 11, London House, 216 St George's Terrace, Perth, Western Australia 6000 | Phone: +61 8 9481 0389
+
+For personal use only
+
+SCHEDULE 2 PRO FORMA STATEMENT OF FINANCIAL POSITION
+STATEMENT OF FINANCIAL POSITION
+
+Audited
+
+Entitlements Issue (full
+subscription)
+
+Notes
+
+$
+
+[1] [3]
+
+Placement
+
+Notes
+
+Pro-forma
+
+Current Assets
+Cash & Cash Equivalents
+
+$
+
+82,212
+
+$
+
+2,247,783
+
+Trade & Other Receivables
+
+$
+
+39,053
+
+$
+
+39,053
+
+Other Current Assets
+
+$
+
+24,941
+
+$
+
+24,941
+
+Total Current Assets
+
+$
+
+146,206
+
+$
+
+2,311,778
+
+Plant & Equipment
+
+$
+
+241,329
+
+$
+
+241,329
+
+Right of Use Asset
+
+$
+
+64,615
+
+$
+
+64,615
+
+Exploration & Development Expenditure
+
+$ 3,532,170
+
+$
+
+3,532,170
+
+Total Non-Current Assets
+
+$ 3,838,113
+
+$
+
+$
+
+3,838,113
+
+Total Assets
+
+$ 3,984,319
+
+$
+
+$
+
+6,149,891
+
+$
+
+1,843,152
+
+1,843,152
+
+$
+
+$
+
+322,420
+
+[2] [4]
+
+322,420
+
+Non-Current Assets
+
+-
+
+$
+
+1,843,152
+
+$
+
+322,420
+
+Current Liabilities
+Trade & Other Payables
+
+$
+
+60,988
+
+$
+
+60,988
+
+Lease Liability
+
+$
+
+64,084
+
+$
+
+64,084
+
+Provisions
+
+$
+
+34,178
+
+$
+
+34,178
+
+Total Current Liabilities
+
+$
+
+159,251
+
+$
+
+159,251
+
+$
+
+-
+
+$
+
+-
+
+Non-Current Liabilities
+Trade & Other Payables
+
+$
+
+-
+
+$
+
+-
+
+$
+
+-
+
+Total Non-Current Liabilities
+
+$
+
+-
+
+$
+
+-
+
+$
+
+-
+
+$
+
+-
+
+Total Liabilities
+
+$
+
+159,251
+
+$
+
+-
+
+$
+
+-
+
+$
+
+159,251
+
+Net Assets
+
+$ 3,825,068
+
+$
+
+1,843,152
+
+$
+
+5,990,640
+
+Issued Capital
+
+$ 36,410,669
+
+$
+
+1,782,935
+
+Reserves
+
+$
+
+$
+
+60,217
+
+$
+
+322,420
+
+[1] [3] [5]
+
+$
+
+322,420
+
+[3]
+
+$
+
+Equity
+
+Accumulated Losses
+Total Equity
+
+JA:00178604-005
+
+319,483
+
+-
+
+-$ 32,905,084
+$ 3,825,068
+
+[2] [4] [6]
+
+$ 38,516,024
+$
+
+379,700
+
+-$ 32,905,084
+$
+
+1,843,152
+
+$
+
+322,420
+
+$
+
+5,990,640
+
+Page 7
+
+

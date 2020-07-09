@@ -1,0 +1,1642 @@
+For personal use only
+
+Hydrix Limited
+ACN 060 369 048
+
+Prospectus
+This Prospectus is being issued for the following Offers:
+1.
+
+Entitlement Offer: a pro-rata non-renounceable entitlement offer to Eligible Shareholders
+to raise approximately $2 million (before costs), on the basis of 1 Entitlement Share for
+every 3 Shares held on the Record Date, together with 1 free Entitlement Option
+(exercisable at 12 cents and expiring on 31 July 2022) for every 3 Entitlement Shares issued.
+
+2.
+
+Underwriter Offer: an offer of up to approximately 11.85 million Underwriter Options
+(exercisable at 12 cents and expiring on 31 July 2022) to the underwriter and subunderwriters of the Entitlement Offer.
+
+3.
+
+Placement Offer: an offer of 13.33 million Placement Shares to certain sophisticated
+investors, together with 1 free Placement Option (exercisable at 12 cents and expiring on 31
+July 2022) for every 3 Placement Shares issued, to raise $1 million (before costs).
+LEAD MANAGER AND UNDERWRITER
+Henslow Pty Ltd
+ABN 38 605 393 137
+AFSL 483168
+CLOSING DATE: 5.00pm AEST on Thursday, 23 July 2020
+
+IMPORTANT NOTICE
+This Prospectus is a transaction-specific prospectus issued in accordance with section 713 of the
+Corporations Act 2001 (Cth). This Prospectus does not, itself, contain all the information that is generally
+required to be set out in a document of this type, but refers to other documents, the information of which is
+deemed to be incorporated into this Prospectus. This Prospectus and any such incorporated documents
+should be read in their entirety before deciding whether to apply for New Securities. If you have any queries
+about any part of the Prospectus, please contact your professional adviser without delay. The New
+Securities offered by this Prospectus should be considered speculative.
+
+page:i
+
+Table of contents
+Important Information ............................................................................ 1
+
+For personal use only
+
+Corporate Directory ................................................................................ 3
+Indicative Timetable ............................................................................... 4
+Letter from the Executive Chairman ........................................................ 5
+Investment Overview .............................................................................. 7
+1.
+
+Details of the Offers .................................................................... 12
+1.1
+1.2
+1.3
+1.4
+1.5
+1.6
+1.7
+1.8
+1.9
+1.10
+1.11
+1.12
+1.13
+1.14
+1.15
+1.16
+1.17
+1.18
+1.19
+1.20
+
+2.
+
+Details of the Entitlement Offer .............................................. 12
+Details of the Underwriter Offer ............................................. 13
+Details of the Placement Offer ................................................ 14
+Purpose of Offers..................................................................... 15
+Use of funds raised under Offers............................................. 16
+Opening and Closing Dates ...................................................... 17
+Withdrawal of Offers ............................................................... 17
+Underwriting............................................................................ 17
+Shortfall Facility ....................................................................... 17
+Minimum subscription............................................................. 18
+Issue Date and dispatch ........................................................... 18
+Application Monies held on trust ............................................ 18
+ASX quotation .......................................................................... 19
+CHESS and Issuer Sponsorship................................................. 19
+Residents outside Australia ..................................................... 19
+Prohibition on exceeding 20% voting power
+threshold ................................................................................. 21
+Risks ......................................................................................... 22
+Taxation implications............................................................... 22
+Privacy ..................................................................................... 22
+Major activities and financial information .............................. 22
+
+Action required in relation to the Entitlement Offer ..................... 23
+2.1
+2.2
+2.3
+2.4
+2.5
+2.6
+
+Entitlement under the Entitlement Offer ................................ 23
+Options available to Eligible Shareholders .............................. 23
+Acceptance of Entitlement in full or in part ............................ 23
+Applying for Additional New Shares ........................................ 23
+Payment options...................................................................... 24
+Entitlements not taken up ....................................................... 25
+
+3.
+
+Action required in relation to the Underwriter Offer .................... 26
+
+4.
+
+Action required in relation to the Placement Offer ....................... 26
+
+5.
+
+Application Form ......................................................................... 27
+5.1
+5.2
+
+6.
+
+Effect of Application ................................................................ 27
+Enquiries concerning an Application Form or your
+Entitlement .............................................................................. 27
+
+Effect of the Offers ...................................................................... 28
+6.1
+6.2
+6.3
+
+Current capital structure of Hydrix .......................................... 28
+Effect of Offers on Hydrix’s capital structure .......................... 29
+Pro forma consolidated statement of financial
+position .................................................................................... 29
+
+page:ii
+
+6.4
+6.5
+
+For personal use only
+
+7.
+
+Risk Factors ................................................................................. 33
+7.1
+7.2
+7.3
+7.4
+
+8.
+
+Introduction ............................................................................. 33
+Risks specific to the Offers....................................................... 33
+Company and industry risks .................................................... 33
+General Risks ........................................................................... 37
+
+Rights and liabilities attaching to New Securities .......................... 39
+8.1
+8.2
+
+9.
+
+Effect of Entitlement Offer on control of the
+Company .................................................................................. 31
+Effect of Offers on Shareholder dilution ................................. 31
+
+Rights and liabilities attaching to Shares ................................. 39
+Rights and liabilities attaching to New Options ...................... 40
+
+Additional Information ................................................................ 42
+9.1
+9.2
+9.3
+9.4
+9.5
+9.6
+9.7
+9.8
+9.9
+9.10
+9.11
+9.12
+9.13
+9.14
+9.15
+9.16
+
+Company is a disclosing entity................................................. 42
+Determination by ASIC ............................................................ 42
+Copies of documents ............................................................... 42
+Material Contracts ................................................................... 44
+Information excluded from continuous disclosure
+notices ..................................................................................... 51
+Market price of Shares ............................................................ 51
+Dividend Policy ........................................................................ 52
+Litigation .................................................................................. 52
+Interests of Directors ............................................................... 52
+Related party transactions ...................................................... 54
+Substantial Shareholders ......................................................... 54
+Interests of other persons ....................................................... 55
+Consents .................................................................................. 55
+Estimated costs and expenses of the Offers ........................... 56
+Electronic Prospectus .............................................................. 56
+Enquiries .................................................................................. 56
+
+10.
+
+Directors’ Authorisation .............................................................. 57
+
+11.
+
+Glossary ...................................................................................... 58
+
+page:1
+
+Important Information
+
+For personal use only
+
+This Prospectus is dated 6 July 2020 and was lodged with ASIC on that date. Neither ASIC nor ASX nor
+their respective officers take any responsibility for the contents of this Prospectus.
+No securities will be issued on the basis of this Prospectus any later than 13 months after the date of
+this Prospectus (being the expiry date of this Prospectus). The Company will apply for Official Quotation
+by ASX of the New Securities offered by this Prospectus.
+A copy of this Prospectus is available for inspection at the Company’s registered office 30-32 Compark
+Circuit, Mulgrave, Victoria, during normal business hours. The Prospectus will also be made available in
+electronic form on the Company's website at www.hydrix.com. The Company will provide a copy of this
+Prospectus to any person on request. The Company will also provide copies of other documents on
+request (see Sections 1.20 and 9.3).
+Persons having received a copy of this Prospectus in its electronic form may obtain an additional paper
+copy of this Prospectus (free of charge) from the Company's registered office by contacting the
+Company. The Offers contemplated by this Prospectus are only available in electronic form to persons
+receiving an electronic version of this Prospectus within Australia.
+The Securities offered by this Prospectus should be considered speculative. Please refer to Section 7 for
+details relating to investment risks.
+Applications for Securities will only be accepted on an Application Form attached to or provided by the
+Company with a copy of this Prospectus either in paper or electronic form. The Corporations Act
+prohibits any person from passing on to another person an Application Form unless it is accompanied by
+a complete and unaltered copy of this Prospectus. If the application is by BPAY® there is no need to
+return the original Application Form.
+No person is authorised to give any information or to make any representation in connection with the
+Offers which is not contained in this Prospectus. Any information or representation not so contained
+may not be relied on as having been authorised by the Company in connection with the Offers.
+No action has been taken to permit the offer of Securities under this Prospectus in any jurisdiction other
+than Australia and New Zealand. The distribution of this Prospectus in jurisdictions outside Australia or
+New Zealand may be restricted by law and therefore persons into whose possession this document
+comes should seek advice on and observe any such restrictions. Any failure to comply with these
+restrictions may constitute a violation of those laws. This Prospectus does not constitute an offer of
+Securities in any jurisdiction where, or to any person to whom, it would be unlawful to issue this
+Prospectus.
+This document is important and should be read in its entirety before deciding to participate in an Offer.
+This document does not take into account the investment objectives, financial or taxation, or particular
+needs of any Applicant. Before making any investment in the Company, each Applicant should consider
+whether such an investment is appropriate to their particular needs, and considering their individual risk
+profile for speculative investments, investment objectives and individual financial circumstances. Each
+Applicant should consult their stockbroker, solicitor, accountant or other professional adviser without
+delay. Some of the risk factors that should be considered by potential investors are outlined in Section 7.
+This Prospectus includes forward looking statements that have been based on current expectations
+about future acts, events and circumstances. These forward looking statements are, however, subject to
+risks, uncertainties and assumptions that could cause those acts, events and circumstances to differ
+materially from the expectations described in the forward looking statements.
+
+For personal use only
+
+page:2
+
+This Prospectus is a transaction specific prospectus for an offer of continuously quoted securities (as
+defined in the Corporations Act) and has been prepared in accordance with section 713 of the
+Corporations Act. It does not contain the same level of disclosure as an initial public offering prospectus.
+In preparing this Prospectus, regard has been had to the fact that the Company is a disclosing entity for
+the purposes of the Corporations Act and that certain matters may reasonably be expected to be known
+to investors and their professional advisers.
+Definitions of certain terms used in this Prospectus are contained in Section 11 (Glossary). All references
+to currency are to Australian dollars and all references to time are to the time in Melbourne, Victoria,
+Australia, unless otherwise indicated.
+
+page:3
+
+For personal use only
+
+Corporate Directory
+
+Directors
+
+Mr Gavin Coote (Executive Chairman)
+Ms Julie King (Non-Executive Director)
+Mr Paul Wright (Non-Executive Director)
+Ms Joanne Bryant (Non-Executive Director)
+
+Company Secretary
+
+Ms Alyn Tai
+
+Company Details
+
+Registered Office and Principal Place of Business Address
+30-32 Compark Circuit
+Mulgrave VIC 3170
+Telephone
++61 3 9550 8100
+Website
+www.hydrix.com
+Email
+info@hydrix.com
+
+Stock Exchange Listing
+
+Australian Securities Exchange
+ASX Code: HYD
+
+Share Registry*
+
+Boardroom Pty Limited
+Level 12, 225 George Street
+Sydney NSW 2000
+Telephone:
+
+(02) 9290 9600
+
+Solicitors
+
+Holding Redlich
+Level 8, 555 Bourke Street
+Melbourne VIC 3000
+
+Lead Manager and Underwriter
+
+Henslow Pty Ltd
+Level 7, 333 Collins Street
+Melbourne VIC 3000
+
+Auditors*
+
+Grant Thornton Audit Pty Ltd
+Collins Square, Tower 5, 727 Collins Street
+Melbourne VIC 3008
+
+*These entities have not been involved in the preparation of this Prospectus and have not consented to being
+named in this Prospectus. Their names are included for information purposes only.
+
+page:4
+
+For personal use only
+
+Indicative Timetable
+Event
+
+Date (2020)
+
+Company announces Offers under Listing Rule 3.10.3
+
+Monday, 6 July
+
+Lodgement of Prospectus with ASIC
+
+Monday, 6 July
+
+Lodgement of Prospectus and Appendix 3B with ASX
+
+Monday, 6 July
+
+Notice to Optionholders and Shareholders
+
+Monday, 6 July
+
+“Ex” Date (date from which Shares commence trading with the entitlement Wednesday, 8 July
+to participate in the Entitlement Offer)
+Record Date (date for determining Shareholder entitlements to participate
+in the Entitlement Offer)
+
+7.00pm (AEST) on
+Thursday, 9 July
+
+Prospectus and personalised Application Forms sent to Eligible
+Shareholders and Company announces that dispatch has been completed
+
+Monday, 13 July
+
+Opening Date of Offers
+
+Monday, 13 July
+
+Last date to extend Closing Date
+
+Monday, 20 July
+
+Closing Date*
+
+5.00pm (AEST) on
+Thursday, 23 July
+
+Shares are quoted on a deferred settlement basis
+
+Friday, 24 July
+
+Announcement of results of Entitlement Offer
+
+Monday, 27 July
+
+Issue of New Securities under Entitlement Offer and Underwriter Offer,
+and lodgement of Appendix 2A applying for quotation of the New
+Securities
+
+Thursday, 30 July
+
+Shareholder meeting to seek approval under Listing Rule 7.1 for Placement
+Offer.
+
+To be advised by the
+Company
+
+Subject to approval, issue of New Securities under Placement Offer and
+lodgement of Appendix 2A applying for quotation of the New Securities.
+
+*The Directors may extend the Closing Date by giving at least three Business Days' notice to ASX prior to the Closing
+Date. As such, the date the Securities offered under this Prospectus are expected to be issued and commence
+trading on ASX may vary.
+
+page:5
+
+Letter from the Executive Chairman
+
+For personal use only
+
+Dear Shareholder,
+On behalf of my fellow Directors, I am pleased to invite you to participate in a non-renounceable prorata Entitlement Offer of new Shares, which will entitle Eligible Shareholders of Hydrix to subscribe for 1
+Entitlement Share (at an issue price of $0.075) for every 3 Shares held on the Record Date. For every 3
+Entitlement Shares validly subscribed for, you will also receive 1 free Entitlement Option, exercisable at
+12 cents on or before 31 July 2022. The Company intends to apply to the ASX for quotation of the
+Entitlement Shares and Entitlement Options.
+The Entitlement Offer is fully underwritten, which means that upon completion of the Entitlement Offer,
+the Company will (subject to the terms of the Underwriting Agreement described in Section 9.4(a)) raise
+the full Entitlement Offer amount of approximately $2 million (before costs), through the issue of
+approximately 26.5 million new Shares and 8.85 million Entitlement Options.
+This Prospectus has also been issued in connection with the Placement. As announced to the ASX on 6
+July 2020, the Company has received binding commitments from sophisticated investors to subscribe for
+13.33 million new Shares, at the same Entitlement Offer issue price of $0.075 per Share, to raise an
+additional $1 million (before costs). The Company will issue Placement Options to the Placement
+subscribers, on the same terms as the Entitlement Options, and on the basis of 1 Placement Option for
+every 3 Placement Shares subscribed for under the Placement.
+Completion of the Placement is subject to Shareholder approval under Listing Rule 7.1, which the
+Company intends to seek at a general meeting to be convened shortly.
+This Prospectus has also been issued for the offer of up to 11.85 million Underwriter Options to the
+Underwriter and sub-underwriters of the Entitlement Offer. These options will have the same terms as
+the Entitlement Options issued under the Entitlement Offer.
+Hydrix is undertaking the Entitlement Offer and Placement to raise capital, with proceeds being used for
+three purposes:
+
+
+Pay down $0.75 million of the $4.0 million loan provided by Pure Asset Management Pty Ltd, the
+Lender under the Facility Agreement. As detailed in Section 9.4(b), the Company and the Lender
+have agreed to vary the Facility Agreement, to enable the Company to prepay part of the
+outstanding loan without incurring prepayment fees. As part of the variation, the Company has
+also negotiated a reduction in the nature and extent of its financial covenants under the Facility
+Agreement, thereby providing Hydrix with increased operational flexibility;
+
+
+
+Increase the Company’s financial strength and flexibility to navigate COVID-19 disruptions, grow
+its Services business and invest in high potential client product innovations; and
+
+
+
+Expedite the first implants of the AngelMed Guardian® System – the world’s first FDA-approved
+implantable heart attack alerting device – within its initial target markets of Singapore and
+Australia.
+
+The Prospectus contains detailed information about the Entitlement Offer, the Underwriter Offer, the
+Placement Offer, the Company and its activities. Participation in the Offers and investment in the
+Company is subject to various risk factors. The details of the Offers are contained in the Prospectus at
+Section 1 and the risk factors are detailed in Section 7.
+
+page:6
+
+The Offers are made to Eligible Applicants, who will be sent an Application Form with the Prospectus. To
+accept the Offer(s) you will need to submit an Application in accordance with the instructions contained
+in this Prospectus and Application Form.
+
+For personal use only
+
+On behalf of the Directors, I thank you for your ongoing support.
+Yours sincerely,
+
+Gavin Coote
+Executive Chairman
+6 July 2020
+
+page:7
+
+Investment Overview
+
+For personal use only
+
+This Section is intended to highlight key information for potential investors. It is an overview only, and is
+not intended to replace the Prospectus. Potential investors should read the Prospectus in full before
+deciding to invest in Securities.
+Question
+
+Response
+
+What is being
+offered?
+
+This Prospectus contains a number of offers of Securities, including:
+
+
+a Entitlement Offer of Entitlement Shares and Entitlement
+Options to Eligible Shareholders;
+
+
+
+an Underwriter Offer of Underwriter Options to the Underwriter
+and sub-underwriters; and
+
+
+
+a Placement Offer of Placement Shares and Placement Options
+to sophisticated investors.
+
+Reference
+Section 1
+
+Entitlement Offer
+What is the
+Entitlement
+Offer?
+
+The Entitlement Offer is a pro-rata non- renounceable entitlement offer
+to Eligible Shareholders, on the basis of 1 Entitlement Share for every 3
+Shares held on the Record Date, together with 1 free Entitlement Option
+to acquire a Share (at an exercise price of 12 cents, expiring 31 July 2022)
+for every 3 Entitlement Shares issued.
+
+Section
+1.1
+
+Am I eligible to
+participate in the
+Entitlement
+Offer?
+
+An Eligible Shareholder, being a person who is eligible to participate in
+the Entitlement Offer, is a person registered as the holder of Shares on
+the Record Date, whose registered address is in Australia or New
+Zealand.
+
+Section
+1.15
+
+The Entitlement Offer is not being extended to any shareholders whose
+registered address is outside Australia or New Zealand.
+How many new
+securities will be
+issued under the
+Entitlement
+Offer?
+
+Under the Entitlement Offer, approximately 26,540,754 Entitlement
+Shares and 8,846,918 Entitlement Options (subject to rounding for
+fractional entitlements), will be issued.
+
+What is the price
+payable per
+Entitlement
+Share?
+
+$0.075 per Entitlement Share.
+
+What are the
+Entitlement
+Options?
+
+The Entitlement Options will be issued to the subscribers of Entitlement
+Shares under the Entitlement Offer, on the basis of one Entitlement
+Option for every three Entitlement Shares issued for under the
+Entitlement Offer. As with the Placement Options and Underwriter
+Options, each Entitlement Option has an exercise price of 12 cents, and
+an expiry date of 31 July 2022.
+
+Section
+1.1
+
+This assumes that neither the Warrant nor any existing Options on issue
+are exercised prior to the Record Date.
+
+You do not need to pay any additional amount for the Entitlement
+Options, as they are issued as free attaching Options.
+
+Section
+1.1
+
+Sections
+1.1 and
+8.2
+
+For personal use only
+
+page:8
+
+Question
+
+Response
+
+Reference
+
+Is the
+Entitlement Offer
+underwritten?
+
+Yes, the Entitlement Offer is fully underwritten by Henslow Pty Ltd.
+
+How much will
+be raised through
+the fully
+underwritten
+Entitlement
+Offer?
+
+Approximately $2 million (before costs), through the issue of
+approximately 26,540,754 Entitlement Shares.
+
+How will the
+proceeds of the
+Entitlement Offer
+be used?
+
+The funds raised under the Entitlement Offer and Placement Offer will
+be used to pay for expenses of the Offers, and to reduce the Company’s
+debt outstanding to the Lender under the Facility Agreement. The
+balance of funds will be used for the Company’s working capital
+requirements and growth objectives.
+
+Sections
+1.5 and
+9.4(b)
+
+How do I apply
+under the
+Entitlement
+Offer?
+
+There are two ways you can apply for your Entitlement if you are an
+Eligible Shareholder:
+
+Section 2
+
+Sections
+1.8 and
+9.4(a)
+Section
+1.1
+
+No additional proceeds will be raised through the issue of Entitlement
+Options. However, it is possible that the Company may raise an
+additional $1.06 million if all 8,846,918 Entitlement Options are
+exercised.
+
+
+
+paying your Application Monies via BPAY®, in accordance with
+the instructions on your personalised Application Form which
+accompanies this Prospectus, by the Closing Date; or
+
+
+
+submitting your completed Application Form and sending it to
+the Share Registry together with a cheque, bank draft or money
+order for your Application Monies, so that it is received by no
+later than the Closing Date.
+
+Due to delays to postal services caused by the COVID-19 pandemic, the
+Company encourages you to pay your Application Monies by BPAY®.
+Can I sell my
+Entitlements
+under the
+Entitlement
+Offer?
+
+No. The rights to Securities under the Entitlement Offer are nonrenounceable. Accordingly, there will be no trading of rights on ASX and
+you may not dispose of your Entitlement to any other party. If you do not
+take up your Entitlement by the Closing Date, your Entitlement will lapse.
+
+Section
+1.1
+
+Can I apply for
+additional Shares
+in excess of my
+Entitlement?
+
+Yes. Eligible Shareholders who subscribe for their full Entitlement may
+apply for Additional New Shares at the same issue price of $0.075 under
+the Shortfall Facility described in Section 1.9. To do this, Eligible
+Shareholders should follow the instructions on their personalised
+Application Form which accompanies this Prospectus.
+
+Sections
+1.9 and
+2.4
+
+How will the
+Shortfall (if any)
+under the
+Entitlement Offer
+be allocated?
+
+In addition to the underwriting, the Company proposes to adopt a
+dispersion strategy for dealing with Shortfall by way of a Shortfall Facility
+for Eligible Shareholders to apply for Additional New Shares in excess of
+their Entitlements not taken up under the Entitlement Offer.
+
+Sections
+1.8 and
+1.9
+
+page:9
+
+For personal use only
+
+Question
+
+Response
+
+Reference
+
+However, you should note that the Underwriter has an obligation to
+subscribe or procure applications for any Shortfall and the Company
+may, in consultation with the Underwriter, give priority to the
+Underwriter and sub-underwriters who have made that commitment in
+allocating any Shortfall. If you apply for but do not receive any Additional
+New Shares, surplus Application Monies will be refunded to you without
+interest.
+Underwriter Offer
+What is the
+Underwriter
+Offer?
+
+The Underwriter Offer is an offer of Underwriter Options to the
+Underwriter and sub-underwriters of the Entitlement Offer, as part
+consideration for them underwriting the Entitlement Offer, as follows:
+
+
+up to 8,846,918 Underwriter Options to sub-underwriters of the
+Entitlement Offer (who are not related parties of the Company),
+on the basis of one Underwriter Option for every 3 Entitlement
+Shares sub-underwritten; and
+
+
+
+3 million Underwriter Options to the Underwriter.
+
+Sections
+1.2 and
+8.2
+
+As with the Entitlement Options and Placement Options, each
+Underwriter Option has an exercise price of 12 cents, and expiry date of
+31 July 2022.
+Related parties of the Company who participate as sub-underwriters to
+the Entitlement Offer will not be entitled to receive any Underwriter
+Options. Accordingly, the number of Underwriter Options required to be
+issued by the Company may be reduced, depending on the extent of any
+related party sub-underwriting.
+Who is eligible to
+participate in the
+Underwriter
+Offer?
+
+Only the Underwriter and sub-underwriters (who are not related parties
+of the Company) are entitled to participate in the Underwriter Offer.
+
+Section
+1.2
+
+When will the
+Underwriter
+Options be
+issued?
+
+The Company intends to issue the Underwriter Options on the same day
+as the date of issue of New Securities under the Entitlement Offer, under
+and subject to the Company’s available capacity (existing at the date of
+issue) under Listing Rule 7.1.
+
+Section
+1.2
+
+To the extent required, the Company will seek Shareholder approval
+under Listing Rule 7.1 for the issue of any balance of Underwriter
+Options, in which event the issue of those Underwriter Options will occur
+as soon as practicable after Shareholder approval is obtained.
+Will any funds be
+raised from the
+Underwriter
+Offer?
+
+Nominal proceeds of $50 will be raised through the issue of Underwriter
+Options. However, it is possible that the Company may raise an
+additional $1.42 million if all 11,846,918 Underwriter Options are
+exercised.
+
+Section
+1.2
+
+page:10
+
+Question
+
+Response
+
+Reference
+
+For personal use only
+
+Placement Offer
+What is the
+Placement Offer?
+
+The Placement is an offer to certain sophisticated investors, with
+subscribers receiving one Placement Option for every three Placement
+Shares subscribed for.
+
+Section
+1.3
+
+What is the price
+payable per
+Share under the
+Placement?
+
+$0.075 per Placement Share (which is the same price under the
+Entitlement Offer).
+
+Section
+1.3
+
+How many new
+securities will be
+issued under the
+Placement?
+
+Subject to Shareholder approval, 13,333,334 Placement Shares and
+4,444,445 Placement Options will be issued (subject to rounding), to
+raise approximately $1 million (before costs).
+
+Section
+1.3
+
+What are the
+Placement
+Options?
+
+The Placement Options will be issued to the subscribers of Placement
+Shares under the Placement. Subscribers under the Placement will
+receive one Placement Option for every three Placement Shares
+subscribed for under the Placement.
+
+Sections
+1.3 and
+8.2
+
+As with the Entitlement Options and Underwriter Options, each
+Placement Option has an exercise price of 12 cents, and expiry date of
+31 July 2022.
+How much will
+be raised through
+the Placement?
+
+Subject to Shareholder approval, $1 million (before costs), through the
+issue of 13,333,334 Placement Shares.
+
+Section
+1.3
+
+Who is eligible to
+participate in the
+Placement?
+
+Only eligible investors invited by the Company and the Underwriter are
+entitled to participate in the Placement.
+
+Section
+1.3
+
+When will the
+Placement occur?
+
+The subscribers have already entered into binding commitments to
+participate in the Placement.
+
+Section
+1.3
+
+No additional proceeds will be raised through the issue of Placement
+Options. However, it is possible that the Company may raise an
+additional $0.53 million if all 4,444,445 Placement Options are exercised.
+
+Completion of the Placement is subject to Shareholder approval under
+Listing Rule 7.1, which the Company intends to seek at a general meeting
+to be convened shortly. The issue of Placement Shares and Placement
+Options is intended to occur as soon as practicable after Shareholder
+approval is obtained.
+What are the
+proceeds of the
+Placement to be
+used for?
+
+The proceeds of the Placement Offer and Entitlement Offer will be used
+to pay for expenses of the Offers, and to reduce the Company’s debt
+outstanding to the Lender under the Facility Agreement. The balance of
+funds will be used for the Company’s working capital requirements and
+growth objectives.
+
+Section
+1.5
+
+page:11
+
+Question
+
+Response
+
+Reference
+
+For personal use only
+
+Control effect of Offers
+What will be the
+effect of the
+Offers on the
+control of the
+Company?
+
+The effect of the Offers on the control of Hydrix will depend upon a
+number of factors including:
+
+
+the level of Shareholder participation in the Entitlement
+component of the Entitlement Offer and the identity of
+Shareholders who participate in the Entitlement component of
+the Entitlement Offer;
+
+
+
+if applicable, the level of Shareholder participation in the
+Shortfall Facility and the identity of Shareholders who participate
+in the Shortfall Facility;
+
+
+
+the extent to which the underwriting is called upon; and
+
+
+
+the level of dispersion of remaining Shortfall (if any) to the
+Underwriter and sub-underwriters.
+
+Section
+6.4
+
+Key risks
+What are the key
+risks of an
+investment in the
+Company?
+
+There are a number of key specific risks for an investment in the
+Company, including with respect to the following:
+
+
+
+
+
+
+
+
+
+
+
+Section 7
+
+Ability to win and retain key customers;
+Distribution of AngelMed Guardian® System;
+Regulated industries;
+Competition;
+Reliance on key personnel;
+Reliance on systems;
+Intellectual property rights;
+International growth risks;
+Venture risks; and
+Debt and covenants.
+
+There are also a number of general risks associated with an investment
+in the Company, such as:
+
+
+
+
+
+
+
+
+
+Economic risks;
+Market conditions;
+COVID-19 pandemic;
+Liquidity risk;
+Force majeure;
+Taxation and government regulations;
+Litigation risk; and
+Insurance risk.
+
+Further information
+How can further
+information be
+obtained?
+
+For further information, you can contact the Share Registry on 1300 737
+760 within Australia and +61 2 9290 9600 outside Australia; or the
+Company Secretary on Alyn.Tai@hydrix.com.
+
+Section
+9.16
+
+For personal use only
+
+page:12
+
+1.
+
+Details of the Offers
+
+1.1
+
+Details of the Entitlement Offer
+Under the Entitlement Offer, Eligible Shareholders are being offered the opportunity to subscribe
+for 1 Entitlement Share for every 3 existing Shares held as at the Record Date of 7.00pm (AEST) on
+Thursday 9 July 2020, at the offer price of $0.075 per Entitlement Share.
+For every 3 Entitlement Shares subscribed for and issued under the Entitlement Offer, Applicants
+will also receive 1 Entitlement Option.
+The Entitlement Offer, which is fully underwritten by Henslow Pty Ltd, is expected to raise
+approximately $2 million (before costs).
+As at the date of this Prospectus, the Company has 79,622,263 Shares on issue, as well as the
+following unquoted Securities:
+(a)
+
+3,910,127 unlisted Options (refer to Section 6.1(a) for further details);
+
+(b)
+
+800,000 Performance Rights (refer to Section 6.1(b) for further details); and
+
+(c)
+
+1 Warrant held by the Lender, exercisable into 8,000,000 Shares (refer to Sections 6.1(c)
+and 9.4(b) for further details).
+
+Optionholders who exercise their Options into Shares after the date of this Prospectus but prior
+to the Record Date are entitled to participate in the Entitlement Offer. The same applies for the
+Lender, should it choose to exercise the Warrant into Shares prior to the Record Date (refer to
+Section 9.4(b) for further information on proposed amendments to the terms of the Warrant).
+The market price of Shares at the date of this Prospectus is such that it is unlikely that any of the
+existing Options (which are exercisable at $0.29 and $0.80) will be exercised before the Record
+Date.
+On the basis that no existing Options or the Warrant are exercised prior to the Record Date, the
+Entitlement Offer is for a maximum of 26,540,754 Entitlement Shares and 8,846,918 Entitlement
+Options (subject to rounding for fractional entitlements), to raise approximately $2 million
+(before costs).
+Eligibility to participate
+As explained in Section 1.15, the Entitlement Offer is only being made to Eligible Shareholders,
+being persons registered as the holder of Shares on the Record Date, whose registered address is
+in Australia or New Zealand.
+Your Entitlement
+The number of Entitlement Shares and Entitlement Options to which you are entitled as an
+Eligible Shareholder is shown on the accompanying personalised Entitlement Offer Application
+Form. The Application Form also allows you to apply for New Shares in addition to your
+Entitlement (refer to Section 2.4 for instructions on how to do this).
+Where the determination of the Entitlement of any Eligible Shareholder results in a fraction of an
+Entitlement Share or Entitlement Option, such fraction will be rounded up to the nearest whole
+Share or Option.
+
+page:13
+
+The rights to Securities under the Entitlement Offer are non-renounceable. Accordingly, there will
+be no trading of rights on ASX and you may not dispose of your Entitlement to any other party. If
+you do not take up your Entitlement by the Closing Date, your Entitlement will lapse.
+
+For personal use only
+
+Rights attaching to Entitlement Shares and Entitlement Options
+Entitlement Shares issued under the Entitlement Offer will be issued as fully paid ordinary shares
+and will rank equally in all respects with existing Shares on issue. A summary of the rights and
+liabilities attaching to the Entitlement Shares is set out in Section 8.1.
+The Entitlement Options issued under the Entitlement Offer will be exercisable at 12 cents each,
+on or before 31 July 2022. A summary of the rights and liabilities attaching to the Entitlement
+Options is set out in Section 8.2.
+The Company will apply to ASX for Official Quotation of the Entitlement Shares and Entitlement
+Options within seven days after the date of this Prospectus.
+Underwriting
+The Entitlement Offer is fully underwritten by Henslow Pty Ltd. Refer to Section 9.4(a) for further
+details of the terms of the Underwriting Agreement.
+1.2
+
+Details of the Underwriter Offer
+Under the terms of the Underwriting Agreement, as part consideration for the underwriting, the
+Company has agreed to issue the following Options:
+(a)
+
+up to 8,846,918 Options to sub-underwriters of the Entitlement Offer (who are not related
+parties of the Company), on the basis of one Underwriter Option for every 3 Shares subunderwritten; and
+
+(b)
+
+3 million Options to the Underwriter,
+
+(collectively the Underwriter Options).
+Where the determination of the entitlement of a sub-underwriter to Underwriter Options results
+in a fraction of an Option, such fraction will be rounded up to the nearest whole Option.
+As with the Entitlement Options and Placement Options, the Underwriter Options are each
+exercisable into a Share at 12 cents, on or before 31 July 2022.
+Related parties of the Company who participate as sub-underwriters to the Entitlement Offer will
+not be entitled to receive any Underwriter Options. Accordingly, the number of Underwriter
+Options required to be issued by the Company may be reduced, depending on the extent of any
+related party sub-underwriting.
+Allotment of Underwriter Options
+The Company intends to issue the Underwriter Options on the same day as the date of issue of
+New Securities under the Entitlement Offer, under and subject to the Company’s available
+capacity (existing at the date of issue) under Listing Rule 7.1.
+As at the date of this Prospectus, the Company has capacity under Listing Rule 7.1 to issue up to
+11,943,339 securities, which would be sufficient for the purposes of enabling the Company to
+
+page:14
+
+For personal use only
+
+issue the maximum number of approximately 11,846,918 Underwriter Options without requiring
+Shareholder approval.
+To the extent required, the Company will seek Shareholder approval under Listing Rule 7.1 for the
+issue of any balance of Underwriter Options, in which event the issue of those Underwriter
+Options will occur as soon as practicable after Shareholder approval is obtained.
+Separate Offer
+The offer of the Underwriter Options is a separate offer pursuant to this Prospectus and only the
+Underwriter and sub-underwriters (who are not related parties of the Company) are entitled to
+participate in the Underwriter Offer.
+A personalised application form will be issued to the Eligible Applicants of the Underwriter Offer,
+together with a copy of this Prospectus (Underwriter Offer Application Form). The Company will
+only provide the Underwriter Offer Application Form to the Eligible Applicants of the Underwriter
+Offer.
+The Underwriter Offer will close at the same time as the Entitlement Offer unless the Directors in
+their absolute discretion otherwise determine.
+Disclosure
+The Underwriter Offer is made with disclosure under this Prospectus in order to remove any
+secondary sale restrictions that may attach to the Underwriter Options, and to ensure a disclosure
+exception is available for the issue of Shares upon the exercise of the Underwriter Options and
+any on-sale of those Shares in the 12 months from the date of issue.
+Rights attaching to Underwriter Options
+A summary of the rights and liabilities attaching to the Underwriter Options, which will carry the
+same terms as the Entitlement Options and Placement Options, is set out in Section 8.2.
+The Company will apply to ASX for Official Quotation of the Underwriter Options within seven
+days after the date of this Prospectus.
+1.3
+
+Details of the Placement Offer
+As announced to the ASX on 6 July 2020, the Company has received binding commitments from
+sophisticated investors to participate in a Placement of 13,333,334 Shares, at the same
+Entitlement Offer issue price of $0.075 per Share, to raise approximately $1 million (before costs).
+Under the terms of the Placement, the Company will issue the Placement Options to the
+Placement subscribers, on the basis of 1 Placement Option for every 3 Placement Shares
+subscribed for under the Placement.
+As with the Entitlement Options and Underwriter Options, the Placement Options are each
+exercisable into a Share at 12 cents, on or before 31 July 2022.
+Placement conditional upon Shareholder approval
+Completion of the Placement is subject to Shareholder approval under Listing Rule 7.1, which the
+Company intends to seek at a general meeting to be convened shortly.
+
+page:15
+
+The issue of Placement Shares and Placement Options is intended to occur as soon as practicable
+after Shareholder approval is obtained for the purposes of Listing Rule 7.1.
+
+For personal use only
+
+As the Placement Shares will be issued after the Record Date, holders of the Placement Shares will
+not be entitled to participate in the Entitlement Offer.
+Separate Offer
+The Placement Offer is a separate offer pursuant to this Prospectus, and only those eligible
+investors invited by the Company and Underwriter are entitled to participate in the Placement
+Offer. A personalised application form will be issued to the Eligible Applicants of the Placement
+Offer, together with a copy of this Prospectus (Placement Offer Application Form). The Company
+will only provide the Placement Offer Application Form to the Eligible Applicants of the Placement
+Offer.
+The Placement Offer will close at the same time as the Entitlement Offer unless the Directors in
+their absolute discretion otherwise determine.
+Disclosure
+The Placement Offer is made with disclosure under this Prospectus, primarily in order to remove
+any secondary sale restrictions that may attach to the Placement Options, and to ensure a
+disclosure exception is available for the issue of Shares upon the exercise of the Placement
+Options and any on-sale of those Shares in the 12 months from the date of issue.
+Rights attaching to Placement Shares and Placement Options
+Placement Shares will be issued as fully paid ordinary shares, and will rank equally in all respects
+with existing Shares on issue. A summary of the rights and liabilities attaching to the Placement
+Shares is set out in Section 8.1.
+The Placement Options will be issued for no additional consideration, on the same terms and
+conditions as the Entitlement Options and Underwriter Options (see Section 8.2 for further
+details).
+The Company will apply to ASX for Official Quotation of the Placement Shares and Placement
+Options within seven days after the date of this Prospectus. If, for whatever reason, the
+Placement Shares and Placement Options are not admitted to Official Quotation within 3 months
+of the date of this Prospectus, no Placement Shares or Placement Options will be issued under
+this Prospectus. Placement Subscribers should be aware that the issue of the Placement Shares
+and Placement Options are subject to both Shareholder approval and quotation conditions being
+met.
+1.4
+
+Purpose of Offers
+Hydrix is undertaking the Entitlement Offer and Placement to raise capital, with proceeds being
+used for three purposes:
+(a)
+
+Pay down $0.75 million of the $4.0 million loan provided by the Lender under the Facility
+Agreement. As detailed in Section 9.4(b), the Company and the Lender have agreed to vary
+the Facility Agreement, to enable the Company to prepay part of the outstanding loan
+without incurring prepayment fees. As part of the variation, the Company has also
+negotiated a reduction in the nature and extent of its financial covenants under the Facility
+Agreement, thereby providing Hydrix with increased operational flexibility;
+
+For personal use only
+
+page:16
+
+1.5
+
+(b)
+
+Increase the Company’s financial strength and flexibility to navigate COVID-19 disruptions,
+grow its Services business and invest in high potential client product innovations; and
+
+(c)
+
+Expedite the first implants of the AngelMed Guardian® System – the world’s first FDAapproved implantable heart attack alerting device – within its initial target markets of
+Singapore and Australia.
+
+Use of funds raised under Offers
+Completion of the Entitlement Offer, which is fully underwritten, will result in the Company
+raising approximately $2 million (before costs), assuming that no unquoted Options and Warrants
+are exercised prior to the Record Date.
+Completion of the Placement Offer, which is subject to Shareholder approval, will result in the
+Company raising an additional $1 million (before costs).
+Nominal proceeds of $50 will be raised from the Underwriter Offer.
+Assuming completion of all Offers under this Prospectus, the Company will issue a maximum of
+approximately 25,138,281 New Options (being the Entitlement Options, Placement Options and
+Underwriter Options), each exercisable at 12 cents on or before 31 July 2022.
+It is possible that the Company may raise an additional $3 million if all 25,138,281 New Options
+are exercised. In the event that any funds are raised through the exercise of these New Options,
+the Company expects that it will apply such funds towards its general working capital
+requirements and growth objectives.
+The table below sets out the proposed use of funds raised under the Offers:
+
+Proposed use
+
+Estimated
+amount1
+
+% of funds
+raised
+
+Part repayment of loan under Facility Agreement2
+
+$750,000
+
+25%
+
+General working capital and supporting growth initiatives
+
+$2,000,000
+
+67%
+
+Underwriting and management fees of the Offers3
+
+$140,000
+
+5%
+
+Other expenses of the Offers4
+
+$110,000
+
+3%
+
+TOTAL
+
+$3,000,000
+
+100%
+
+The above table is a statement of current intentions of the Board at the date of this Prospectus.
+Intervening events and new circumstances have the potential to affect the manner in which the
+
+1
+
+The table assumes that no unquoted Options and Warrants are exercised prior to the Record Date, and that $2 million is
+raised through the fully underwritten Entitlement Offer. It also assumes completion of the $1 million Placement Offer, which is
+subject to Shareholder approval.
+2
+Of the $750,000, $500,000 has been repaid by the Company to the Lender prior to the date of this Prospectus. The Company
+intends to repay a further $250,000 to the Lender, upon receipt of funds under the Entitlement Offer. Refer to Section 9.4(b).
+3
+Refer to Section 9.4(a) for further information on the fees payable to the Underwriter in respect of the Entitlement Offer
+under the Underwriting Agreement. Henslow is also entitled to be paid a 2% management fee on the total amount raised under
+the Placement Offer.
+4
+Refer to Section 9.14 for further information on the other expenses of the Offers.
+
+page:17
+
+funds are ultimately applied. The Board reserves the right to alter the way the funds are applied
+on this basis.
+
+For personal use only
+
+If the Placement Offer, which is subject to Shareholder approval, does not complete for any
+reason, funding allocated to working capital requirements will be reduced by $1 million.
+1.6
+
+Opening and Closing Dates
+The Company will accept Application Forms for the Offers from the date it dispatches the
+Prospectus until 5.00pm (AEST) on the Closing Date or such other date as the Directors in their
+absolute discretion shall determine, subject to the requirements of the Listing Rules.
+
+1.7
+
+Withdrawal of Offers
+The Company reserves the right not to proceed with some or all of the Offers at any time before
+the issue of the New Securities. If some or all of the Offers do not proceed, the Company will
+return the relevant Application Monies, without interest, as soon as practicable after giving notice
+of its withdrawal.
+
+1.8
+
+Underwriting
+The Entitlement Offer is fully underwritten by Henslow, which means that upon completion of the
+Entitlement Offer, the Company will (subject to the terms of the Underwriting Agreement) raise
+the full Offer amount of approximately $2 million (before costs). Refer to Section 9.4(a) for details
+of the Underwriting Agreement entered into between the Underwriter and the Company. The
+Placement Offer is not underwritten.
+
+1.9
+
+Shortfall Facility
+Where a Shortfall exists, the Company proposes to adopt a dispersion strategy for dealing with
+the Shortfall (in addition to the underwriting), by way of a facility for Eligible Shareholders to
+apply for additional New Shares in excess of their Entitlements (Shortfall Facility).
+Under the Shortfall Facility, Eligible Shareholders who subscribe for their full Entitlement may
+apply for additional New Shares (refer to Section 2.4 for instructions on how to do this) at the
+same issue price of $0.075 (Additional New Shares).
+The Additional New Shares will carry the same right to free Entitlement Options, and one free
+Entitlement Option will be issued for every three Additional New Shares issued (together the
+Additional New Securities).
+The Company only intends to issue up to the aggregate number of New Securities that are offered
+under the Entitlement Offer, therefore it may be necessary to scale-back Applications for
+Additional New Securities if all Applications exceed this number.
+The Underwriter has, subject to the terms of the Underwriting Agreement, an obligation to
+subscribe for any Shortfall, and the Company may, in consultation with the Underwriter, give
+priority to the Underwriter and sub-underwriters who have made that commitment in allocating
+any Shortfall.
+Accordingly, there is no guarantee that there will be sufficient Shortfall available to satisfy
+demand, if at all, for Eligible Shareholders who apply for Additional New Shares under the
+Shortfall Facility. Eligible Shareholders have no priority right to Shortfall (if any).
+In consultation with the Underwriter, the Company reserves the right to:
+
+For personal use only
+
+page:18
+
+(a)
+
+allocate any Shortfall to the Underwriter and/ or sub-underwriters;
+
+(b)
+
+reject an application for Additional New Shares under the Shortfall Facility; or
+
+(c)
+
+issue a lesser number of Additional New Shares than applied for under the Shortfall Facility.
+
+If the number of Additional New Shares issued to an Eligible Shareholder is less than the number
+applied for, surplus Application monies will be refunded without interest.
+In the event of any disputes in relation to the implementation of the allocation policy outlined
+above, the Board reserves the right to resolve such disputes in a manner it deems appropriate, in
+consultation with the Underwriter, and at its sole discretion. The decision of the Board as to the
+allocation of Additional New Shares is final.
+Any Additional New Securities will be allotted at the same time as the New Securities subscribed
+for under the Entitlement component of the Entitlement Offer.
+1.10 Minimum subscription
+Completion of the Offers is not subject to meeting any minimum level of subscription.
+1.11 Issue Date and dispatch
+All New Securities under the Entitlement Offer are expected to be issued on the date specified in
+the Indicative Timetable.
+All Underwriter Options will be issued on or around the same day as the date of issue of the New
+Securities under the Entitlement Offer, subject to the Company’s available capacity (existing at
+the date of issue) under Listing Rule 7.1. As at the date of this Prospectus, the Company has
+capacity under Listing Rule 7.1 to issue up to 11,943,339 securities, which would be sufficient for
+the purposes of enabling the Company to issue the maximum number of approximately
+11,846,918 Underwriter Options.
+Completion of the Placement is subject to Shareholder approval under Listing Rule 7.1, which the
+Company intends to seek at a general meeting to be convened shortly. The issue of Placement
+Shares and Placement Options is intended to occur as soon as practicable after Shareholder
+approval is obtained for the purposes of Listing Rule 7.1.
+Security holding statements will be dispatched at the end of the calendar month following the
+issue of the New Securities under the Offers.
+It is the responsibility of Applicants to determine their allocation prior to trading in the New
+Securities. Applicants who sell Securities before they receive their holding statements will do so at
+their own risk.
+1.12 Application Monies held on trust
+All Application Monies received for the New Securities under the Offers will be held on trust in a
+bank account maintained solely for the purpose of depositing Application Monies received
+pursuant to this Prospectus until the New Securities are issued. All Application Monies will be
+refunded (without interest) if the New Securities are not issued, and each Applicant waives the
+right to claim interest.
+
+page:19
+
+1.13 ASX quotation
+
+For personal use only
+
+The Company will apply to ASX for Official Quotation of all New Securities offered pursuant to this
+Prospectus within seven days after the date of this Prospectus.
+If an application for quotation of the New Securities is not made within seven days after the date
+of this Prospectus, or ASX does not grant permission for official quotation of the New Securities
+within three months after the date of this Prospectus, the Company will not issue those New
+Securities under this Prospectus, and will repay all Application Monies received for the relevant
+New Securities within the time prescribed under the Corporations Act, without interest.
+1.14 CHESS and Issuer Sponsorship
+The Company participates in the Clearing House Electronic Sub-Register System, known as CHESS.
+ASX Settlement Pty Limited, a wholly owned subsidiary of ASX, operates CHESS in accordance with
+the Listing Rules and the ASX Settlement Operating Rules.
+Under CHESS, Applicants will not receive a certificate but will receive a statement of their holding
+of Securities.
+If you are broker sponsored, ASX Settlement Pty Limited will send you a CHESS statement.
+The CHESS statement will specify the number of Shares and Options issued under this Prospectus,
+provide details of your holder identification number, the participant identification number of the
+sponsor and the terms and conditions applicable to the Shares and Options, including a notice to
+exercise the Options.
+If you are registered on the Issuer Sponsored sub-register, your statement will be dispatched by
+the Company's Share Registry and will contain the number of Shares and Options issued to you
+under this Prospectus and your security holder reference number.
+A CHESS statement or Issuer Sponsored statement will routinely be sent to Shareholders at the
+end of any calendar month during which the balance of their shareholding changes.
+Shareholders may request a statement at any other time; however, a charge may be made for
+additional statements.
+1.15 Residents outside Australia
+(a)
+
+Offers and distribution of Prospectus
+This Prospectus, and any accompanying Application Form, do not, and is not intended to,
+constitute an offer of Securities in any place or jurisdiction in which, or to any person to
+whom, it would not be lawful to make such an offer or to issue this Prospectus or the
+Securities under the Offers.
+The distribution of this Prospectus in jurisdictions outside Australia and New Zealand may
+be restricted by law and persons who come into possession of this Prospectus should seek
+advice on and observe any such restrictions. Any failure to comply with such restrictions
+may constitute a violation of applicable securities laws.
+
+(b)
+
+Ineligible Foreign Shareholders
+The Company believes that it is unreasonable to extend the Entitlement Offer to Ineligible
+Foreign Shareholders. The Company has formed this view having considered:
+
+For personal use only
+
+page:20
+
+(i)
+
+the number and value of the Securities that would be offered to those Shareholders;
+and
+
+(ii)
+
+the cost of complying with the legal requirements and the requirements of
+regulatory authorities in the overseas jurisdictions.
+
+Accordingly, Ineligible Foreign Shareholders will not be entitled to participate in the
+Entitlement Offer, and no action has been taken to register or qualify the Securities or the
+Entitlement Offer in any jurisdiction outside Australia and New Zealand or otherwise to
+permit a public offering of the Securities in any jurisdiction outside Australia or New
+Zealand.
+This Prospectus may not be released or distributed in the United States or elsewhere
+outside Australia and New Zealand, unless it has attached to it the selling restrictions
+applicable in the jurisdictions outside Australia and New Zealand.
+The Prospectus does not constitute an offer or invitation in any jurisdiction where, or to any
+person to whom, the offer or invitation would be unlawful. The distribution of this
+Prospectus in jurisdictions outside Australia and New Zealand may be restricted by law, and
+persons who come into possession of this Prospectus should seek advice on and observe
+any of those restrictions. Any failure to comply with the restrictions may constitute a
+violation of applicable securities laws. Each Applicant warrants and represents that they are
+an Australian or New Zealand citizen or resident in Australia or New Zealand, at the time of
+the application and are not acting for the account or benefit of any person in the United
+States or any other foreign person.
+(c)
+
+New Zealand
+The Securities are not being offered under the Entitlement Offer or sold to the public within
+New Zealand other than to existing Shareholders of the Company with registered addresses
+in New Zealand at the Record Date.
+This Prospectus has not been registered, filed with or approved by any New Zealand
+regulatory authority. This Prospectus is not an investment statement or prospectus under
+New Zealand law and is not required to, and may not, contain all the information that an
+investment statement or prospectus under New Zealand law is required to contain.
+This offer to New Zealand investors is a regulated offer made under Australian and New
+Zealand law. In Australia, this is Chapter 6 of the Corporations Act 2001 and regulations
+made under that Act. In New Zealand, this is subpart 6 of Part 9 of the Financial Markets
+Conduct Act 2013 and Part 9 of the Financial Markets Conduct Regulations 2014.
+This offer and the content of the offer document are principally governed by Australian
+rather than New Zealand law. In the main, the Corporations Act 2001 and the regulations
+made under that Act set out how the offer must be made.
+There are differences in how financial products are regulated under Australian law. The
+rights, remedies, and compensation arrangements available to New Zealand investors in
+Australian financial products may differ from the rights, remedies, and compensation
+arrangements for New Zealand financial products.
+Both the Australian and New Zealand financial markets regulators have enforcement
+responsibilities in relation to this offer. If you need to make a complaint about this offer,
+
+page:21
+
+please contact the Financial Markets Authority, New Zealand (http://www.fma.govt.nz).
+The Australian and New Zealand regulators will work together to settle your complaint.
+
+For personal use only
+
+The taxation treatment of Australian financial products is not the same as for New Zealand
+financial products. If you are uncertain about whether this investment is appropriate for
+you, you should seek the advice of an appropriately qualified financial adviser.
+The offer may involve a currency exchange risk. The currency for the financial products is
+not New Zealand dollars. The value of the financial products will go up or down according
+to changes in the exchange rate between that currency and New Zealand dollars. These
+changes may be significant.
+If you expect the financial products to pay any amounts in a currency that is not New
+Zealand dollars, you may incur significant fees in having the funds credited to a bank
+account in New Zealand in New Zealand dollars.
+If the financial products are able to be traded on a financial product market and you wish to
+trade the financial products through that market, you will have to make arrangements for a
+participant in that market to sell the financial products on your behalf.
+If the financial product market does not operate in New Zealand, the way in which the
+market operates, the regulation of participants in that market, and the information
+available to you about the financial products and trading may differ from financial product
+markets that operate in New Zealand.
+(d)
+
+Notice to nominees and custodians
+Nominees and custodians that hold Securities should note that the Offers are available only
+to Eligible Applicants. The Company is not required to determine whether or not any
+registered holder is acting as a nominee or the identity or residence of any beneficial
+owners of Securities. If any nominee or custodian is acting on behalf of a foreign person,
+that holder, in dealing with its beneficiary, will need to assess whether indirect participation
+by the beneficiary in the Offers is compatible with applicable foreign laws.
+
+1.16 Prohibition on exceeding 20% voting power threshold
+Potential investors must have regard to and comply with the takeovers prohibition in section 606
+of the Corporations Act (that is, the 20% voting power threshold), when applying for New
+Securities offered pursuant to this Prospectus, and exercising New Options.
+The Company has not appointed a nominee for the purposes of Listing Rule 7.7.1(c) and section
+615 of the Corporations Act in respect of the Entitlement Offer.
+The Company reserves the right to reject or scale back any application under the Shortfall Facility
+which it considers may result in breach of section 606 of the Corporations Act. The Company
+expressly disclaims any responsibility for monitoring such applications or ensuring that individual
+investors do not breach section 606 as a result of participation in the Offers or exercise of New
+Options.
+Investors that may be at risk of exceeding the 20% voting power threshold in section 606 or
+increasing their voting power from a position above 20% as a result of application under the
+Shortfall Facility or the acquisition of Shares following exercise of New Options, should seek
+professional advice before applying under the Shortfall Facility or exercising New Options (as
+applicable).
+
+page:22
+
+1.17 Risks
+
+For personal use only
+
+An investment in Securities should be regarded as speculative. In addition to the general risks
+applicable to all investments in listed securities, there are certain specific risks associated with an
+investment in the Company which are detailed in Section 7.
+1.18 Taxation implications
+The Directors do not consider it appropriate to give Applicants advice regarding the taxation
+consequences of subscribing for Securities under this Prospectus. The Company, its advisers and
+its officers do not accept any responsibility or liability for any such taxation consequences to
+Applicants. As a result, Applicants should consult their professional tax adviser in connection with
+subscribing for Securities under this Prospectus.
+1.19 Privacy
+The Company collects information about each Applicant provided on an Application Form for the
+purposes of processing the application and, if the application is successful, to administer the
+Applicant's holding of Securities in the Company.
+By submitting an Application Form, each Applicant agrees that the Company may use the
+information provided by an Applicant on the Application Form for the purposes set out in this
+privacy disclosure statement and may disclose it for those purposes to the Share Registry, the
+Company's related bodies corporate, agents, contractors and third party service providers,
+including mailing houses and professional advisers, and to ASX and regulatory authorities.
+If you do not provide the information required on the Application Form, the Company may not be
+able to accept or process your Application (as applicable). An Applicant has an entitlement to gain
+access to the information that the Company holds about that person subject to certain
+exemptions under law. A fee may be charged for access. Access requests must be made in writing
+to the Company's registered office.
+1.20 Major activities and financial information
+A summary of the major activities and financial information relating to the Company, for the
+financial year ended 30 June 2019, can be found in the Company's 2019 annual financial report
+lodged with ASX on 30 August 2019 and, for the half-year ended 31 December 2019, the halfyearly report lodged with on ASX on 27 February 2019.
+The Company's continuous disclosure notices (i.e. ASX announcements) since 30 August 2019 are
+listed in Section 9.3(c). Copies of these documents are available free of charge from the Company.
+The Directors strongly recommend that Applicants review these and all other announcements
+prior to deciding whether or not to participate in the Offers.
+
+For personal use only
+
+page:23
+
+2.
+
+Action required in relation to the Entitlement Offer
+
+2.1
+
+Entitlement under the Entitlement Offer
+The Company will send this Prospectus, together with a personalised Application Form, to all
+Eligible Shareholders. An Eligible Shareholder’s Entitlement will be set out in their personalised
+Application Form accompanying this Prospectus.
+Eligible Shareholders will be entitled to subscribe for 1 Entitlement Share for every 3 Shares held
+as at the Record Date. In addition, Eligible Shareholders will be entitled to receive 1 free
+Entitlement Option for every 3 Entitlement Shares subscribed for unde

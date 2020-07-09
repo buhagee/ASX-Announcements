@@ -1,0 +1,576 @@
+For personal use only
+WEST AFRICAN RESOURCES LTD
+AFRICA’S NEWEST UNHEDGED GOLD PRODUCER
+
+Q2 2020 Production Update
+8th July 2020
+
+IMPORTANT NOTICE
+
+For personal use only
+
+IMPORTANT NOTICE AND DISCLAIMER
+This presentation contains “forward-looking information” within the meaning of securities legislation, including information
+relating to West African's future financial or operating performance. All statements in this presentation, other than statements
+of historical fact, that address events or developments that West African expects to occur, are “forward-looking statements”.
+Forward-looking statements are statements that are not historical facts and are generally, but not always, identified by the
+words “expects”, “does not expect”, “plans”, “anticipates”, “does not anticipate”, “believes”, “intends”, “estimates”,
+“projects”, “potential”, “scheduled”, “forecast”, “budget” and similar expressions, or that events or conditions “will”, “would”,
+“may”, “could”, “should” or “might” occur. All such forward-looking statements are based on the opinions and estimates of the
+relevant management as of the date such statements are made and are subject to important risk factors and uncertainties,
+many of which are beyond West African’s ability to control or predict. Forward-looking statements are necessarily based on
+estimates and assumptions that are inherently subject to known and unknown risks, uncertainties and other factors that may
+cause actual results, level of activity, performance or achievements to be materially different from those expressed or implied
+by such forward-looking statements. In the case of West African, these statements include statements regarding annual gold
+production forecasts, all of the results of the feasibility study, including estimates of internal rates of return, net present value,
+future production, estimates of cash cost, assumed long term price for gold, proposed mining plans and methods, mine life
+estimates, cash flow forecasts, metal recoveries, and estimates of capital and operating costs, their anticipated operations in
+future periods, planned exploration and development of its properties, and plans related to its business and other matters that
+may occur in the future. This information relates to analyses and other information that is based on expectations of future
+performance and planned work programs. Statements concerning mineral resource and ore reserve estimates are also
+considered forward-looking information as the estimation involves subjective judgments about many relevant factors. Mineral
+resource and/or ore reserve estimates may have to be re-estimated based on, among other things: fluctuations in the gold
+price; results of future exploration activities; results of metallurgical testing and other studies; changes to proposed mining
+operations, including dilution; and the possible failure to receive required permits, approvals and licenses.
+Forward-looking information is subject to a variety of known and unknown risks, uncertainties and other factors which could
+cause actual events or results to differ from those expressed or implied by the forward-looking information, including, without
+limitation: exploration hazards and risks; risks related to exploration and development of natural resource properties;
+uncertainty in West African’s ability to obtain funding; gold price fluctuations; recent market events and conditions; risks
+related to the uncertainty of mineral resource calculations and the inclusion of inferred mineral resources in economic
+estimation; risks related to governmental regulations; risks related to obtaining necessary licenses and permits; risks related to
+their business being subject to environmental laws and regulations; risks related to their mineral properties being subject to
+prior unregistered agreements, transfers, or claims and other defects in title; risks relating to competition from larger
+companies with greater financial and technical resources; risks relating to the inability to meet financial obligations under
+agreements to which they are a party; ability to recruit and retain qualified personnel; and risks related to their directors and
+officers becoming associated with other natural resource companies which may give rise to conflicts of interests. This list is not
+exhaustive of the factors that may affect West African’s forward-looking information. Should one or more of these risks and
+uncertainties materialize, or should underlying assumptions prove incorrect, actual results may vary materially from those
+described in the forward-looking information.
+West African’s forward-looking information is based on the reasonable beliefs, expectations and opinions of their respective
+management on the date the statements are made and West African does not assume any obligation to update forward
+looking information if circumstances or management’s beliefs, expectations or opinions change, except as required by law. For
+the reasons set forth above, investors should not place undue reliance on forward-looking information. For a complete
+discussion with respect to West African, please refer to West African’s financial statements and related MD&A, all of which are
+filed on SEDAR at www.sedar.com and available on West African’s website at www.westafricanresources.com.
+COMPETENT PERSONS STATEMENT
+Information in this presentation that relates to exploration results, exploration targets or mineral resources is based on, and
+fairly represents, information and supporting documentation prepared by Mr Brian Wolfe, an independent consultant
+specialising in mineral resource estimation, evaluation and exploration. Mr Wolfe is a Member of the Australian Institute of
+Geoscientists. Mr Wolfe has sufficient experience which is relevant to the style of mineralisation and type of deposit under
+
+consideration and to the activity which he is undertaking to qualify as a Competent Person (or “CP”) as defined in the 2012
+Edition of the Australasian Code for Reporting of Exploration Results, Mineral Resources and Ore Reserves (the “2012 JORC
+Code”) and a Qualified Person (or “QP”) under Canadian National Instrument 43-101 (“NI 43-101”). Mr Wolfe has reviewed
+and approved the scientific and technical information and contents of this presentation and consents to the inclusion in this
+presentation of all scientific and technical statements based on his information in the form and context in which they appear.
+Information in this presentation that relates to open-pit Ore Reserves is based on, and fairly represents, information and
+supporting documentation prepared by Mr Stuart Cruickshanks, a fulltime employee of the Company. Mr Cruickshanks is a
+Fellow of the Australian Institute of Mining and Metallurgy. Mr Cruickshanks has sufficient experience which is relevant to the
+style of mineralisation and type of deposit under consideration and to the activity which he is undertaking to qualify as CP as
+defined in the 2012 JORC Code and a QP under Canadian NI 43-101. Mr Cruickshanks has reviewed and approved the scientific
+and technical information and contents of this presentation and consents to the inclusion in this presentation of all scientific
+and technical statements based on his information in the form and context in which they appear.
+Information in this presentation that relates to underground Ore Reserves is based on, and fairly represents, information and
+supporting documentation prepared by Mr Peter Wade, an independent specialist mining consultant. Mr Wade is a Fellow of
+the Australian Institute of Mining and Metallurgy. Mr Wade has sufficient experience which is relevant to the style of
+mineralisation and type of deposit under consideration and to the activity which he is undertaking to qualify as CP as defined in
+the 2012 JORC Code and a QP under Canadian NI 43-101. Mr Wade has reviewed and approved the scientific and technical
+information and contents of this presentation and consents to the inclusion in this presentation of all scientific and technical
+statements based on his information in the form and context in which they appear.
+Any other information in this presentation that relates to exploration results, exploration targets or mineral resources is based
+on information compiled by Mr Richard Hyde, a Director, who is a Member of The Australian Institute of Mining and Metallurgy
+and Australian Institute of Geoscientists. Mr Hyde has sufficient experience which is relevant to the style of mineralisation and
+type of deposit under consideration and to the activity which he is undertaking to qualify as a CP as defined in JORC Code and a
+QP under National Instrument 43-101. Hyde has reviewed and approved the scientific and technical information and contents
+of this presentation, and consents to the inclusion in this presentation of the statements based on his information in the form
+and context in which they appear.
+West African has also prepared a current, independent, NI 43-101-compliant technical report for the Sanbrado Gold Project
+which is available under West African’s SEDAR profile at www.sedar.com and on West African’s website at
+www.westafricanresources.com. The technical report is titled “NI 43-101 Technical Report: Open Pit and Underground
+Feasibility Study, Sanbrado Gold Project, Burkina Faso” and with an effective date of 25 March 2019. This technical report
+includes relevant information regarding the effective dates and the assumptions, parameters and methods of the mineral
+resource and reserve estimates on the Sanbrado Gold Project cited in this presentation, as well as information regarding data
+verification, exploration procedures and other matters relevant to the scientific and technical disclosure contained in this
+presentation.
+Non IFRS Financial Performance Measures
+The Company has included certain non-IFRS financial measures in this presentation, including operating cash costs and all-in
+sustaining costs ("AISC") per ounce of gold produced. These non-IFRS financial measures do not have any standardised
+meaning. Accordingly, these financial measures are intended to provide additional information and should not be considered in
+isolation or as a substitute for measures of performance prepared in accordance with International Financial Reporting
+Standards (“IFRS”). Operating cash costs and all-in-sustaining cash costs are a common financial performance measure in the
+mining industry but have no standard definition under IFRS. Operating cash costs are reflective of the cost of production. AISC
+include operating cash costs, net-smelter royalty, corporate costs, sustaining capital expenditure, sustaining exploration
+expenditure and capitalised stripping costs. The Company also includes EBITDA in this presentation, which also has no standard
+definition under IFRS. The Company calculates EBITDA as net profit or loss for the period excluding finance costs, income tax
+expense and depreciation. EBITDA excludes the impact of cash costs of financing activities and taxes and the effects of changes
+in working capital balances and therefore is not necessarily indicative of operating profit or cash flow from operations as
+determined under IFRS. Other companies may calculate these measures differently.
+
+2
+
+PRODUCTION UPDATE JUNE 2020
+
+For personal use only
+
+R A M P I N G U P TO F U L L P R O D U C T I O N AT S A N B R A D O Q 3 2 0 2 0
+June Month Production Highlights
+242,905t processed at 1.78 g/t Au (13,933 oz)
+94% plant recovery, 13,094 oz recovered
+US$65.6M in cash and gold June 30 2020
+COVID19 - no material impact to operations
+Processing of oxide open-pit and underground
+development ore ongoing
+Double shift resumed underground in early
+June following roster impacts due to COVID-19
+M1 South stoping ore remains on schedule for
+Q3 2020
+Rotations of expat staff and contractors
+completed
+
+Visible gold in the 2120 ore drive
+
+Deep drilling recommenced at M1 South
+Note: Totals may not add up due to rounding
+3
+
+PRODUCTION UPDATE JUNE 2020
+
+For personal use only
+
+R A M P I N G U P TO F U L L P R O D U C T I O N AT S A N B R A D O Q 3 2 0 2 0
+Year to June 30 2020 Production Highlights
+Continuous operations since 8th March 2020
+937,108t processed at 1.46 g/t Au (43,973 oz)
+92% plant recovery, 40,458 oz recovered
+37,807 oz gold smelted
+35,080 oz gold shipped
+Commercial production milestones achieved
+during Q2 2020
+
+Note: Totals may not add up due to rounding
+
+First gold pour March 18 2020
+
+4
+
+For personal use only
+
+QUARTERLY CASH & CAPEX COMPARISON
+Cash + Gold Summary
+
+Q1
+2020
+
+Q2
+2020
+
+Gold (4,623 oz) 1,2
+Cash
+
+CAPEX
+US$M
+7.9
+49.7
+
+Cash + gold end Q1 2020
+
+57.6
+
+Gold (4,696oz) 1,2
+Cash 3,4
+
+8.2
+57.4
+
+Cash + gold end Q2 2020
+
+65.6
+
+Q1
+2020
+
+Q2
+2020
+
+US$M
+Mine Development Capex
+-13.8
+Sanbrado Construction Capex -11.4
+Capex in Q1 2020
+
+-25.2
+
+Mine Development Capex
+Sanbrado Construction Capex
+
+-9.7
+-9.6
+
+Capex in Q2 2020 4,5
+
+-19.3
+
+Notes:
+1. Gold is smelted (on hand), does not include gold in circuit
+2. Value of gold ounces converted to cash at US$1,700/oz Q1 2020 and US$1,750/oz Q2 2020
+3. Significant payments during June 2020 include Toega (US$10m), Taurus Facility (interest and fees) (US$5.4m)
+4. Totals may not add up due to rounding and working capital movements
+5. Q2 Capex is estimated at the date of reporting, final numbers will be included in the June 2020 5B.
+
+5
+
+NEAR-TERM CATALYSTS
+
+For personal use only
+
+RAMPING UP TOWARDS FULL PRODUCTION Q3 2020
+
+Completed build and commissioning
+
+Q1 2020
+
+
+
+Commenced underground ore development
+
+Q1 2020
+
+
+
+Completed commissioning and first gold pour
+
+Q1 2020
+
+
+
+Commence deep resource definition drilling at M1 South
+
+Q2 2020
+
+
+
+Commercial gold production
+
+Q2 2020
+
+
+
+M1 South stoping ore production
+
+Q3 2020
+
+Commence resource drilling at Toega
+
+Q4 2020
+
+Provide 2021 year production guidance
+
+Q4 2020
+
+6
+
+For personal use only
+
+MINERAL RESOURCES AND RESERVES
+SANBRADO GOLD
+PROJECT
+MINERAL
+RESOURCES
+April 2019
+
+Cutoff
+(Au g/t)
+
+Indicated Resource
+Grade
+Tonnes
+
+(Au g/t)
+
+Inferred Resource
+Grade
+
+Total
+Grade
+
+Au Oz
+
+Tonnes
+
+(Au
+g/t)
+
+Au Oz
+
+Tonnes
+
+(Au g/t)
+
+Au Oz
+
+M1 South U/G >180mRL
+M1 South O/P <180mRL
+M5
+O/P
+M1 North
+O/P
+M3
+O/P
+
+3
+0.5
+0.5
+0.5
+0.5
+
+1,000,000
+850,000
+36,650,000
+750,000
+150,000
+
+21.9
+6.4
+1.2
+2.0
+2.0
+
+697,000
+178,000
+1,470,000
+49,000
+11,000
+
+300,000
+50,000
+14,600,000
+500,000
+200,000
+
+11.2
+5.2
+1.1
+2.0
+1.5
+
+117,000
+5,000
+520,000
+32,000
+9,000
+
+1,300,000
+900,000
+51,250,000
+1,250,000
+350,000
+
+19.48
+6.32
+1.21
+2.02
+1.78
+
+814,000
+183,000
+1,990,000
+81,000
+20,000
+
+Sub-total
+O/P
+Total
+O/P + U/G
+
+0.5
+0.5 + 3.0
+
+38,400,000
+39,400,000
+
+1.4
+1.9
+
+1,708,000
+2,405,000
+
+15,350,000
+15,650,000
+
+1.1
+1.4
+
+566,000
+683,000
+
+53,750,000
+55,050,000
+
+1.32
+1.74
+
+2,274,000
+3,088,000
+
+SANBRADO GOLD PROJECT | April 2019
+PROBABLE MINERAL RESERVE
+
+Tonnes
+
+Gold
+
+Contained Gold
+
+Mt
+
+(Au g/t)
+
+koz
+
+M1 South Underground
+
+2.0
+
+10.2
+
+646
+
+M1 South Open Pit
+
+0.8
+
+5.5
+
+151
+
+M1 North Open Pit
+
+0.6
+
+2.1
+
+38
+
+M5 Open Pit
+
+18.1
+
+1.4
+
+811
+
+M3 Open Pit
+
+0.1
+21.6
+
+1.7
+2.4
+
+8
+1,653
+
+Total Probable Mineral Reserve
+
+Note: Due to rounding, numbers presented throughout this document may not add up precisely to the totals provided and percentages may not precisely reflect the absolute figures. The Sanbrado Gold
+Project Mineral Resources estimates have an effective date of 16 April 2019. For further details, please refer to the ASX announcement released by West African on 16 April 2019 entitled “West African
+to produce +300,000 ounces gold in first year at Sanbrado”. Mineral Resources are reported inclusive of those Mineral Resources that have been modified to Mineral Ore Reserves. Mineral Resources that
+are not Mineral Ore Reserves do not have demonstrated economic viability. All tonnage, grade and contained metal content estimates have been rounded; rounding may result in apparent summation
+differences between tonnes, grade, and contained metal content.
+
+7
+
+For personal use only
+
+MINERAL RESOURCES AND RESERVES
+TOEGA GOLD
+PROJECT
+MINERAL
+RESOURCES
+January 8, 2018
+Toega
+Total
+
+O/P
+
+Cutoff
+(Au g/t)
+
+Indicated Resource
+Grade
+Tonnes
+
+0.6
+
+(Au g/t)
+
+Au Oz
+
+Inferred Resource
+Grade
+
+Total
+Grade
+
+Tonnes
+
+(Au
+g/t)
+
+Au Oz
+
+Tonnes
+
+17,530,000
+
+2.01
+
+1,130,000
+
+17,530,000
+
+2.01
+
+1,130,000
+
+17,530,000
+
+2.01
+
+1,130,000
+
+17,530,000
+
+2.01
+
+1,130,000
+
+(Au g/t)
+
+Au Oz
+
+Note: The Toega Gold Project Mineral Resources are qualifying foreign estimates under the ASX Listing Rules and are not reported in accordance
+with the JORC Code. Competent persons have not done sufficient work to classify the qualifying foreign estimates as Mineral Resources in
+accordance with the JORC Code. It is uncertain, that following evaluation and further exploration, the foreign estimates will be able to be reported as
+Mineral Resources in accordance with the JORC code. The financial metrics used to determine the reporting limits of the Mineral Resources were
+compiled by B2 Gold and may not be applicable to West African Resources. The B2Gold financial assumptions should not be relied upon as they
+were based on the assumptions made by B2Gold at the time they were reported and do not apply to WAF. Mineral Resources that are not Mineral
+Ore Reserves do not have demonstrated economic viability. All tonnage, grade and contained metal content estimates have been rounded; rounding
+may result in apparent summation differences between tonnes, grade, and contained metal content. For further details, please refer to the ASX
+announcements released by West African on 29 April 2020 "WAF to Acquire 1.1Moz Toega Gold Deposit from B2Gold" and 1 May 2020 "Clarification
+re Toega Gold Deposit".
+
+8
+
+For personal use only
+W E S T A F R I C A N R E S O U R C E S LT D
+
+A S X : WA F
+
+W E S T A F R I C A’ S N E W E S T U N H E D G E D G O L D P R O D U C E R
+
+W W W. W E S TA F R I C A N R E S O U R C E S . C O M
+
+9
+
+

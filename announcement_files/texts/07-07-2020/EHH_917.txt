@@ -1,0 +1,375 @@
+For personal use only
+
+ASX Announcement
+
+6 July 2020
+
+4TH STATUS UPDATE ON 31 DECEMBER 2019 FINANCIAL STATEMENTS
+Eagle Health Holdings Limited (ASX – EHH, or the Company) wishes to provide this detailed update to the market
+in relation to the issues impacting on the finalisation of the 31 December 2019 financial statements (2019
+Financial Statements) and the status of resolution of those issues.
+This announcement provides additional information that complements previous announcements made on 1
+April, 21 April and 4 May 2020 in relation to these issues.
+The Directors of the Board of EHH have decided to issue this announcement due to recent events that have
+further delayed and frustrated the resolution of these issues (as described in this announcement).
+
+1.
+
+Background and overview of key Verification Issues outstanding
+
+On around 30 March 2020, EHH's external auditor, Grant Thornton Australia (Grant Thornton), experienced
+problems completing certain audit verification issues (Verification Issues) in relation to EHH's mainland Chinese
+based financial, including banking, records. Those issues have prevented the finalisation of the 2019 Financial
+Statements to date.
+Those issues relate to banking and financial matters under the day to day control of EHH's main Chinese
+operating entity, Xiamen Eagle Don Pharmaceuticals Co., Ltd (Eagle Don) including matters relating to Eagle
+Don's banking affairs with its main operating bank, the Agricultural Bank of China (ABC Bank).
+Broadly, the Verification Issues fall into 4 categories, as follows (with the current status in relation to each issue
+also included below):
+1.1
+
+Issue 1: Problems with Grant Thornton's ability to complete the ABC Bank bank confirmation process
+independently of Eagle Don
+We understand that Grant Thornton, as part of its usual audit verification practices, has sought a Bank
+Confirmation Letter (BCL) and copies of Eagle Don's banking statements directly from the ABC Bank.
+Grant Thornton has sought to undertake this process on 3 occasions, most recently on 24 June 2020.
+EHH has been informed by Grant Thornton that on each occasions different issues have prevented the
+confirmation process from being completed to Grant Thornton's satisfaction. For example, EHH was
+informed by Grant Thornton that Grant Thornton's Chinese agent audit firm (GT China):
+(a)
+
+on one occasion was met by Eagle Don representatives outside the ABC Bank and not inside at
+the branch counter as had apparently been pre-arranged between GT China and Eagle Don;
+
+(b)
+
+on one occasion was provided with the required BCL directly from Eagle Don and not directly
+from the ABC Bank personnel;
+
+(c)
+
+on one occasion queried why the Eagle Don stamp (or "chop" as it is referred to in China) was
+affixed to the BCL letter provided to GT China;
+
+(d)
+
+on one occasion was prevented from then entering the ABC Bank branch to seek to
+independently obtain the BCL. The explanation given by Eagle Don was that entry was
+impossible due to the bank's COVID-19 access restrictions in place at the time;
+
+Level 2, 15 Queen Street Melbourne Victoria 3000
+ACN 616 382 515
+
+Phone: (03) 8593 7378
+
+Email: admin@auehh.com.au
+
+For personal use only
+
+(e)
+
+on the latest attempt to perform the BCL that the process was not conducted in accordance with
+initial instructions sent to Eagle Don and as a result GT are currently unable to rely on the
+information received.
+
+The Australian based Directors of the Board of EHH (Australian Directors) and Grant Thornton have
+requested and received various explanation from Eagle Don in relation to many of the above issues and
+are currently seeking clarification from Eagle Don on the issues raised by Grant Thornton about the BCL
+processes carried out on 24 June 2020. In relation to:
+(f)
+
+1.1(a), 1.1(b) and 1.1(d) above, Eagle Don has advised that as the pre-agreed GT China personnel
+attending the ABC Bank changed without notice to Eagle Don or the ABC Bank, the GT China
+person who attended was not allowed access to the Bank;
+
+(g)
+
+1.1 (c) above, Eagle Don has provided Grant Thornton with information in relation to Chinese
+procedures issued by the Ministry of Finance and China Banking Regulatory Commission that
+seek to strengthen internal bank controls on bank letters and which appears to require Eagle
+Don's chop to be included on the BCL and for that chop to be verified by the Bank against its own
+records. Eagle Don have advised that the information provided is based on independent legal
+advice that it obtained from a reputable Chinese law firm. The Australian Directors, nor we
+understand Grant Thornton, have not independently verified that advice.
+
+The above issues remain outstanding while discussions between the Australian Directors and Grant
+Thornton and Eagle Don has continued since March 2020. As noted above, the Australian Directors are
+also now requiring explanations from Eagle Don in relation to issues which prevented the 24 June 2020
+BCL process from being completed to Grant Thornton's satisfaction.
+1.2
+
+Issue 2: Problems with reconciling Eagle Don's VAT invoicing against relevant PRC Government
+systems
+On 31 March 2020, GT China attended Eagle Don's Xiamen (China) premises to sight the log in process
+for Eagle Don's VAT declaration system and to obtain a copy of the December 2019/January - February
+2020 VAT declarations. The GT China team also requested to sight and review the Eagle Don log in to
+the relevant Government's "Jinshuipan" invoice system.
+Eagle Don has informed Grant Thornton and EHH that Eagle Don's system is not linked to the official
+Government system as the relevant provincial government is in the process of rolling out a new VAT
+invoicing system in Xiamen.
+Eagle Don noted that due to the impact of COVID-19 there is no clear timing for companies to be linked
+to the new VAT system being implemented and that, accordingly, the company no longer uses the old
+VAT online system and has to physically attend the Government department around the 15th of each
+month to verify the invoices manually. Further, Eagle Don noted that from 1 March 2019, according to
+policies issued by the State Administration of Taxation, from that date, customer invoice verification for
+VAT invoices is no longer performed.
+Grant Thornton has advised that it is not satisfied with Eagle Don's response above and has indicated
+that, at the appropriate time, it will need to redo the VAT verification processes in order to be satisfied
+in relation to those matters.
+Further, EHH (as previously advised to the market) has engaged one of the Big 4 accounting firms, as an
+independent accountant, (Independent Accountant) to also assess, amongst other things, Eagle Don's
+compliance with the VAT invoicing requirements. The Independent Accountant sought to undertake
+some desktop analysis of a representative sample of invoices provided by Grant Thornton. The
+Independent Accountant has noted that they were unable to verify the sample invoices against the
+National Tax Bureau VAT Verification Platform. The Australian Directors understand that the failure to
+
+Level 2, 15 Queen Street Melbourne Victoria 3000
+ACN 616 382 515
+
+Phone: (03) 8593 7378
+
+Email: admin@auehh.com.au
+
+For personal use only
+
+verify the invoices through the national platform is a concern but is not necessarily an indicator of those
+invoices being invalid or fraudulent. The Independent Accountant is not able to form any conclusions
+on those matters without undertaking further work. Further work on this issue is included in the scope
+of work for the Independent Accountant. However, for the reasons set out in section 3 below, that
+work has not commenced yet.
+1.3
+
+Issue 3: Eagle Don invoicing of deregistered companies
+Grant Thornton has informed the Board of EHH that GT China found approximately 24 invoices in their
+sample of tax invoices in which Eagle Don had made sales to deregistered companies in China. Grant
+Thornton noted that those invoice samples included Eagle Don's top 10 customers for the relevant
+period.
+EHH has requested an explanation from Eagle Don for those matters. Eagle Don has responded that
+they do not consider it unusual in the Chinese market for Companies in their industry to be dealing with
+deregistered companies and have noted that they have procedures in place to check the
+creditworthiness of customers. Eagle Don noted that due to sales through e-commerce, including wechat platforms and other on-line sales this was not unusual.
+EHH has been advised by the Independent Accountant that it does consider the proportion of
+deregistered customers to be potentially unusual and that this requires further investigation and
+analysis; however, without access to Eagle Don the Independent Accountant has noted that it cannot
+form a conclusion on those matters. Neither the Independent Accountant, nor EHH has determined
+that the proportion of deregistered customers are in fact unusual. The Independent Accountant is in
+the process of performing a desktop review of the sample invoices and customers (based on information
+provided to Grant Thornton by Eagle Don) and will shortly be providing a report to EHH on those matters.
+
+1.4
+
+Issue 4: Eagle Don Debtor Confirmation Letters
+In performing the audit EHH was advised by Grant Thornton that it, or GT China, had mailed 23 customer
+confirmation letters (Debtor Confirmation Letters) to a selection of Eagle Don debtors during their visit
+to Eagle Don in January 2020. Those letters, apparently, specifically requested that the customer
+debtors forward their confirmation letters directly to Grant Thornton's office in Hong Kong.
+Grant Thornton advised EHH that all of the 23 Debtor Confirmation Letters were returned to GT China
+by Eagle Don and that none of the letters were mailed directly to Grant Thornton Hong Kong.
+Accordingly, GT China refused to take possession of those letters.
+Eagle Don confirmed that they had requested that the customers complete the Debtor Confirmation
+Letters and that Eagle Don sales personnel managed and received those letters from the customers and
+sought to provide them unopened to GT China. Eagle Don also advised Grant Thornton, apparently
+based on legal advice from Eagle Don's Chinese based external law firm, that requiring the letters to be
+sent by customers to Hong Kong may also breach China's regulations on auditing of mainland Chinese
+enterprises as working papers were required to be retained in mainland China. It is not clear to EHH
+whether that position was determined by Eagle Don before the Debtor Confirmation Letters were
+requested to be sent to Eagle Don or after the fact. Eagle Don also noted that the timing of requesting
+the Debtor Confirmation Letters was during the COVID-19 pandemic and also the riots in Hong Kong
+and that many courier companies were not operating. Accordingly, Eagle Don advised that it requested
+the customers to send the confirmation letters to Eagle Don directly so as to assist with the process. As
+GT China was unable to take possession of those letters due to their inability to verify their authenticity,
+this issue remains incomplete.
+
+Level 2, 15 Queen Street Melbourne Victoria 3000
+ACN 616 382 515
+
+Phone: (03) 8593 7378
+
+Email: admin@auehh.com.au
+
+For personal use only
+
+1.5
+
+Additional subsidiary issues
+The Australian Directors note that Grant Thornton has raised other issues (Subsidiary Issues), which the
+Australian Directors consider are subsidiary to the 4 issues outlined above. The Australian Directors
+note that they have asked Eagle Don to provide a written response to those issues so that the EHH Board
+can reply to Grant Thornton on those matters. Those responses, at the date of this announcement,
+remain outstanding.
+
+1.6
+
+Australian Director(s) access to Eagle Don Bank Accounts and explanation for related issues
+The Australian Directors have requested that Eagle Don provide at least one of the Australian Directors
+with read only access to the Eagle Don bank account(s) with ABC Bank. Eagle Don has provided the
+Australian Directors with details of the Bank procedures to be followed to enable that to occur.
+However, part of the procedure requires the relevant Australian Director to attend the ABC Bank branch
+in China to be able to complete the process. This has not been able to be progressed due to COVID-19
+travel restrictions. The Australian Directors intend to seek this access once travel restrictions are lifted
+and in the interim is assessing what other steps they can take to get access to the banking records of
+Eagle Don.
+The Australian Directors also issued a demand to Eagle Don (via the China CEO’s newly appointed
+external legal adviser in Perth) that by 11 am (WST) on 2 July 2020, Eagle Don provide the Australian
+Directors with information in relation to one of the Subsidiary Issues and also:
+(i)
+
+Bank Records: Certified (or "chopped") copies of Eagle Don's main trading account(s) records
+for the period of the 31 December 2019 financial accounts and for the period from then until
+31 March 2020;
+
+(ii)
+
+VAT: A more detailed and fuller answer to the VAT issues which Grant Thornton has queried of
+Eagle Don; and
+
+(iii)
+
+Deregistered Companies: Information to demonstrate that the invoices relating to the
+Deregistered Companies identified by Grant Thornton have been paid by the relevant
+deregister company customers.
+
+The Australian Directors note, whilst there is a stated willingness by Eagle Don to provide this
+information, that they have not received the above information by the time that this announcement
+has been released.
+
+2.
+
+Steps EHH is taking to resolve these issues so that the 2019 Financial statements can be completed
+
+In addition to the information and steps noted in section 1 above; EHH notes that the Australian Directors have
+sought to extensively engage with Eagle Don and Grant Thornton to resolve these issues expeditiously. EHH has
+also held several Board meetings where explanations and cooperation has been sought from the China CEO of
+Eagle Don (who is also an EHH Board member).
+The Australian Directors attempts to do so, including with the appointment of the Independent Accountant to
+assist, have been met by a refusal of Eagle Don to cooperate with the appointment of the Independent
+Accountant, with Eagle Don citing that Eagle Don would not cooperate with the Independent Accountant until
+Grant Thornton and GT China reperform the audit work in relation to the 4 outstanding issues identified in
+section 1 above.
+
+Level 2, 15 Queen Street Melbourne Victoria 3000
+ACN 616 382 515
+
+Phone: (03) 8593 7378
+
+Email: admin@auehh.com.au
+
+For personal use only
+
+Eagle Don cites concerns over what they consider to be unnecessary additional external costs to EHH. Eagle Don
+has stated that, if Grant Thornton reperforms the audit work in relation to the 4 Issues stated above and is
+unsatisfied with the outcome of that work then Eagle Don will cooperate with the Independent Accountant's
+work.
+The Australian Directors have advised Eagle Don on a number of occasions that they do not accept that position
+and that they demand (in accordance with the EHH Board resolution appointing the accountant) that the
+Independent Accountant is provided with access to Eagle Don's books and records immediately. Eagle Don's
+position has not changed despite those demands.
+The Australian Directors considers it critical that the Independent Accountant commences it work as the scope
+of work of that work is broader than the audit work to be performed by Grant Thornton and GT China and
+includes the requirement for the Independent Accountant to provide advice to EHH on steps to be taken to
+ensure that similar issues do not arise in future audits.
+The Australian Directors note that Eagle Don has also raised other issues in relation to confidentiality and
+assurances regarding the independence of the Independent Accountant, which the Australian Directors have
+responded to.
+The Australian Directors understand that COVID-19 and also the potential for differences in audit practice
+between China and Australia have added to the delays being incurred, but until receiving responses from Eagle
+Don, remain concerned about Eagle Don’s lack of satisfactory engagement with Grant Thornton and cooperation
+with the Independent Accountant.
+In addition to the above steps taken, the Australian Directors are taking legal advice in relation to the steps that
+they can take to ensure that EHH and its advisers have access to Eagle Don books and records and that
+governance issues relating to EHH's Greater China structure and operations are addressed so similar issues do
+not arise in the future. This includes the recent appointment of both Hong Kong and mainland Chinese legal
+advisers to advise EHH on matters relating to this issues which are governed by Hong Kong and mainland Chinese
+laws.
+The Board is also carrying out, internally and with the support of MinterEllison (its external legal adviser), a
+review of EHH's reporting and financial information provisions framework, including in the context of 100% of
+EHH's revenue being derived from its China operations. That work will result in the finalisation of a refreshed
+reporting framework to strengthen periodic and ad-hoc reporting from EHH's China subsidiary to EHH. This work
+has included requesting confirmations from Eagle Don's Chief Financial Officer in relation to the capability of the
+finance team in Xiamen to be able to provide all required information to EHH. That work is on-going.
+
+3.
+
+Grant Thornton's position on the Verification Issues
+
+Grant Thornton had advised EHH that, due to delays in receiving what they consider to be satisfactory responses
+from Eagle Don on Issue Number (3) (VAT reconciliation) they were unwilling to reperform the other audit
+verification steps in relation to the other 3 Verification Issues. However, following urgent requests by the
+Australian Directors, Grant Thornton agreed to instruct GT China to seek to reperform the Bank Confirmation
+process (Issue 1) and that process was reattempted (as noted above) on 24 June 2020. The Australian Directors
+understood that if the BCL process was completed to Grant Thornton's satisfaction then Grant Thornton would
+seek to reperform the audit work in relation to the other outstanding Verification Issues. As the 3rd BCL attempt
+was not completed to Grant Thornton's satisfaction, the Australian Directors have requested advice from Grant
+Thornton in relation to Grant Thornton's views on the next steps to be taken.
+
+Level 2, 15 Queen Street Melbourne Victoria 3000
+ACN 616 382 515
+
+Phone: (03) 8593 7378
+
+Email: admin@auehh.com.au
+
+For personal use only
+
+4.
+
+EHH's auditors concerns
+
+Grant Thornton has expressed concerns to EHH in relation to the delay resolving these issues including with
+Eagle Don's intervention with some of the processes that Grant Thornton has required.
+Grant Thornton have notified EHH by letter that "The lack of verification and the potential for interception of
+information means that we cannot be satisfied that there is no prospect of fraudulent activity occurring. We have
+no evidence of actual fraudulent conduct. The suspicion of fraudulent conduct arises not through evidence of
+same but rather the shortcomings in the verifications being provided."
+EHH notes that Grant Thornton has stated that they have "no evidence of actual fraudulent conduct", and notes
+that the Australian Directors also have no evidence of fraudulent activity or other financial irregularity occurring
+within Eagle Don, but has concerns about the delays and lack of willingness to cooperate with the Australian
+Directors and Independent Accountant. To ensure that these issues are clarified and the audit resolved, the
+Australian Directors are seeking to urgently secure access to Eagle Don for the Independent Accountant to
+review and advise EHH on these matters.
+The Australian Directors continue to demand that Eagle Don provided all support to Grant Thornton, and GT
+China and that it immediately allow the Independent Accountant access to Eagle Don books and records.
+The Australian Directors instructed the Independent Accountant to attend Eagle Don premises in Xiamen on 3
+occasions in May and June to start working in accordance with a scope of work approved by the EHH Board. On
+each of those occasions, Eagle Don did not allow access to the financial records, again citing that they considered
+Grant Thornton and GT China should complete their audit work before any work is performed by the
+Independent Accountant.
+As noted above, the Australian Directors are taking advice on the steps that they can now take to ensure access
+to Eagle Don's books and records and to ensure that the work required of the Independent Accountant can
+commence urgently.
+
+This update has been approved for release by the Board of Eagle Health Holdings Ltd.
+-ENDS-
+
+Contact:
+Henko Vos, Company Secretary (08-9463 2463)
+Email: henko.vos@nexiaperth.com.au
+
+Level 2, 15 Queen Street Melbourne Victoria 3000
+ACN 616 382 515
+
+Phone: (03) 8593 7378
+
+Email: admin@auehh.com.au
+
+For personal use only
+
+About Eagle Health Holdings Limited
+Eagle is an ASX listed vertically integrated health and nutritional products business which develops, manufactures and
+distributes products into 26 provinces in China. Eagle has collectively more than 300 Zhang Lao San exclusive product stores
+and franchised stores throughout China, with a further 271 distribution partners placing Eagle’s branded products into more
+than 30,000 outlets across the country. Eagle produces a range of traditional Chinese Medicine and Western nutritional
+products including amino acids, protein supplements, lozenges and dendrobium oil. Eagle has a GMP certified manufacturing
+facility and a Head Office in Xiamen, China, acting as a central hub for distribution into Chinese pharmacies, health food
+stores, trading companies and supermarkets. Eagle has a corporate and sales office in Melbourne, Australia. Eagle has a
+stated strategy of acquiring or partnering with quality Australian products for distribution into China.
+For more information visit: www.auehh.com.au or www.eaglehealthltd.com/EN/index.aspx
+
+Level 2, 15 Queen Street Melbourne Victoria 3000
+ACN 616 382 515
+
+Phone: (03) 8593 7378
+
+Email: admin@auehh.com.au
+
+

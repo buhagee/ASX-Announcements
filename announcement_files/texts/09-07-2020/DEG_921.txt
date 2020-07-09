@@ -1,0 +1,1557 @@
+ASX: DEG
+
+ASX ANNOUNCEMENT
+
+For personal use only
+
+9 July 2020
+
+High gold recoveries achieved at Hemi
+
+Excellent metallurgy results from initial testing at Brolga
+
+Highlights:
+
+
+Initial metallurgical testwork on Brolga mineralisation has achieved excellent gold recoveries:
+−
+
+Oxide 93.0 % based on CIL leach
+
+−
+
+Fresh 96.3 % based on sulphide flotation, oxidation and CIL leach
+
+
+
+The testwork flowsheet comprised a conventional carbon in leach (CIL) circuit to treat oxide
+mineralisation. An industry accepted circuit comprising sulphide flotation to generate a concentrate
+prior to oxidation was used to treat fresh mineralisation.
+
+
+
+The flotation circuit generated a gold-rich sulphide concentrate that was oxidised using pressure
+oxidation (POX). The concentrate represented approximately 10% of the ore feed to the flotation
+circuit. That is, approximately 10% mass pull. Oxidised flotation concentrate from the POX circuit was
+treated by CIL to recover gold. Other methods of oxidation will also be assessed during ongoing test
+work.
+
+
+
+POX is an established treatment process used worldwide on large scale gold deposits such as Hemi.
+Examples of operations that are currently using a POX circuit include: Macraes, Porgera and Lihir in
+the Asia Pacific region, various Carlin deposits in the USA and Alacer Gold’s Copler Mine in Turkey.
+
+
+
+Additional samples from Brolga and Aquila covering oxide, transitional and fresh mineralisation will be
+tested to assess variability and to optimise the flowsheet.
+
+
+
+Previous testwork conducted on other regional resources (2.2Moz) outside Hemi indicates that the
+Hemi testwork flowsheet would be suitable to treat those deposits.
+
+
+
+Additional metallurgical testwork results are expected later in the current September quarter.
+
+De Grey Mining Managing Director, Glenn Jardine commented:
+“The gold recovery achieved in the initial metallurgical testwork of oxide, transition and fresh mineralisation
+at Brolga is very encouraging. The testwork significantly de-risks the potential development of Hemi as a
+Tier 1 gold project in a Tier 1 jurisdiction. The testwork flowsheet used for Hemi can also be applied to De
+Grey’s other regional resources in the Mallina Basin.
+Hemi is a growing resource and contains a combination of oxide, transitional and fresh sulphide
+mineralisation. We will continue to increase our understanding of the scale and metallurgical properties
+of each of these domains across the deposit with ongoing testwork.
+Hemi’s excellent location, along a major transport, gas and power corridors, all within 60km of Port
+Hedland, is a major advantage for a Tier 1 gold resource and development project.”
+
+Level 3, Suite 24-26,
+22 Railway Road,
+Subiaco WA 6008
+
+PO Box 2023
+Subiaco WA 6904
+
+E admin@degreymining.com.au
+P +61 8 6117 9328
+F +61 8 6117 9330
+
+degreymining.com.au
+ABN: 65 094 206 292
+FRA Code: WKN 633879
+
+De Grey Mining Limited (ASX: DEG, “De Grey” or the “Company”) is pleased to report positive results from
+initial metallurgical testwork from the Hemi gold deposit, located approximately 60km south of Port Hedland
+in Western Australia.
+
+For personal use only
+
+The initial metallurgical testwork was conducted by ALS Metallurgy, a leading global testing and analysis
+company, under the supervision of GR Engineering Services Limited (GRES) and with input from De
+Grey’s technical team.
+
+Hemi Metallurgy Testwork Program
+
+Comprehensive testwork is currently in progress on composites obtained from two diamond drill holes
+(HEDD001 and HERC011D) at Brolga. Three of the composite samples contain fresh mineralisation and
+another composite comprises transitional mineralisation. Composite 4, comprising fresh mineralization,
+has completed a full suite of testwork including crushing, grinding (150μm to 53μm), multi-element
+analysis, gravity separation, whole of ore cyanide leaching and CIL treatment, sulphide flotation, oxidation
+and cyanide leaching of oxidised flotation concentrate and cyanide leaching of flotation tailings.
+
+An additional six dedicated larger diameter (PQ and HQ) diamond core holes (HEDD004 - HEDD009)
+have been completed to provide larger volume samples within the oxide, transition and fresh domains
+throughout the deposit. These holes have been drilled and are currently being sampled and transported
+to ALS Metallurgy in Perth and will provide a detailed assessment of metallurgical variability across the
+deposit. Detailed results of this comprehensive program are expected later this current September quarter.
+Drill hole locations and sample intervals of the composites are provided in Table 2, Figure 3 and Figure 4.
+
+Oxide Mineralisation – Brolga
+
+Twelve samples of oxide mineralisation were taken from two RC holes (HERC034 and HERC035) drilled
+at Brolga. Each sample was separately tested using conventional CIL testwork by a 24 hour bottle roll
+cyanide extraction method. The samples selected covered a range of mineralisation styles including
+sediments, mafic intrusive and intermediate intrusive. Head grades varied between 0.1 g/t Au and 4.1 g/t
+Au. The average grade of all samples was 1.5 g/t Au. Metallurgical recovery of gold varied between 85%
+and 98% at an average metallurgy recovery of 93% as shown in Figure 1.
+Figure 1: Simplified testwork flowsheet for oxide ore (note: numbers subject to rounding)
+
+Fresh Mineralisation – Brolga
+Composite 4 comprised fresh mineralisation taken from across two diamond drill holes HEDD001 and
+HERC011D at Brolga. The testwork on composite 4 comprised sulphide flotation of a gold-rich concentrate
+followed by pressure oxidation of the concentrate which is then subjected to conventional CIL to recover
+gold. In addition, to increase the overall gold recovery, the tailings from sulphide flotation were also
+subjected to CIL to recover gold not included in the flotation concentrate.
+Overall gold recovery of 96.3% was achieved on the composite 4 sample with the sample flowsheet
+including pressure oxidation shown in Figure 2.
+Composite 4 was assessed at a grind size of p80 of 75μm. Flotation testwork was also conducted using
+a single stage of flotation. The mass pull from the composite to concentrate was approximately 10%.
+
+\
+
+De Grey Mining Limited ASX Announcement
+
+2
+
+For personal use only
+
+Flotation testwork to optimise grind size, concentrate grade, mass pull and overall gold recovery is
+continuing. The assayed head grade of composite 4 was 2.62 g/t Au. It should be noted that the head
+grade of composite 4 may not represent the overall average grade of the Brolga or Hemi deposits. For
+example, lower head grades can result in lower overall recoveries. However, the low tail grade achieved
+in the testwork conducted on composite 4 was very encouraging for achieving high recoveries at lower
+head grades.
+The four composite samples were selected for initial metallurgical testwork as they contained similar levels
+of sulphide mineralisation. Composite 1 is partially oxidised and forms part of the transition zone.
+Composite 4 was selected for the initial assessment due to the largest volume of sample material. All four
+samples consistently contain high sulphide content of both arsenopyrite and pyrite.
+Composites 1 through 3 were tested using flotation and CIL using the same flowsheet as shown in Figure
+2 with the results of pressure oxidation pending.
+Metallurgical recoveries for these three composites prior to treatment through POX compared with
+Composite 4, also prior to treatment through POX, are shown in Table 1. A recovery of 99% was achieved
+through POX treatment for Composite 4 and overall recoveries for Composites 1 to 3 are also expected to
+be high after POX treatment.
+
+Table 1: Gold Recovery into Flotation Concentrate and of Flotation Tails (by CIL) of Composites 1 to 4
+Composite
+Number
+
+Description
+
+Head
+Grade
+(g/t Au)
+
+1
+2
+3
+4
+
+Transition*
+Fresh
+Fresh
+Fresh^
+
+1.45
+3.11
+2.68
+2.62
+
+Gold Recovery into
+Flotation
+Concentrate
+(%)
+83.0
+93.0
+92.2
+92.5
+
+Concentrate
+Mass Pull
+(%)
+8.8
+9.4
+8.5
+7.5
+
+*comprises oxide, partially oxidized and fresh mineralisation
+^using 10kg bulk flotation test; all other composite samples are from 1kg flotation test.
+
+Gold Recovery
+of
+Flotation
+Tail
+(%)
+80.7
+59.7
+62.1
+66.9
+
+Overall
+Gold
+Recovery prior to
+POX
+(%)
+96.7
+97.2
+97.0
+97.5
+
+The transition sample, composite 1, produced a lower flotation recovery relative to composites 2 to 4,
+which comprise fresh mineralisation. However, after the flotation tailing was treated using CIL, the overall
+recovery for composite 1 was greater than 95%. This is a very encouraging result for transition
+mineralisation and given the head grade of composite 1 was 1.4 g/t Au.
+As previously discussed, testwork and optimisation of each stage of processing is ongoing. Further
+testwork will include optimising the grind size, flotation grade, mass pull, flotation recovery and flotation
+tail recovery.
+
+\
+
+De Grey Mining Limited ASX Announcement
+
+3
+
+For personal use only
+
+Figure 2: Simplified testwork flowsheet for fresh ore (note: numbers subject to rounding)
+
+The oxidised flotation concentrate after POX is also subject to CIL to achieve the stated 99% POX recovery. Figure 2 is simplified and doesn’t show this step.
+
+\
+
+De Grey Mining Limited ASX Announcement
+
+4
+
+For personal use only
+
+Figure 3: Plan showing Metallurgy Drill Hole Locations – Brolga (local grid)
+
+\
+
+De Grey Mining Limited ASX Announcement
+
+5
+
+For personal use only
+
+Figure 4: Section showing the location of metallurgy Composites 1, 2, 3 and 4.
+
+\
+
+De Grey Mining Limited ASX Announcement
+
+6
+
+Background
+
+For personal use only
+
+Hemi is a new major gold discovery with world class infrastructure at its doorstep. Gold mineralisation at
+Hemi is hosted in a series of intrusions associated with stringer and disseminated sulphide rich zones.
+This style of mineralisation is new to the Pilbara region and shows a scale of mineralisation not previously
+seen in the Mallina Basin.
+
+There are at least four other look-alike intrusion targets already identified the immediate vicinity of Hemi Scooby, Shaggy, Antwerp and Alectroenas. Three already host known shallow gold mineralisation with
+Alectroenas never previously drilled.
+A detailed aeromagnetic over the Scooby to Antwerp trend has recently been completed. The results are
+being analysed to identify potential new intrusive targets.
+Mallina Gold Project showing main gold deposits and the new Hemi Discovery.
+
+This announcement has been authorised for release by the De Grey Board.
+For further information, please contact:
+
+Glenn Jardine
+
+Managing Director
++61 8 6117 9328
+admin@degreymining.com.au
+
+Andy Beckwith
+
+Technical Director and
+Operations Manager
++61 8 6117 9328
+admin@degreymining.com.au
+
+Michael Vaughan
+
+(Media enquiries)
+Fivemark Partners
++61 422 602 720
+michael.vaughan@fivemark.com.au
+
+Competent Person’s Statement
+The information in this report that relates to exploration results is based on, and fairly represents
+information and supporting documentation prepared by Mr. Andrew Beckwith, a Competent Person who
+is a member of The Australasian Institute of Mining and Metallurgy. Mr. Beckwith is an employee of De
+Grey Mining Limited. Mr. Beckwith has sufficient experience that is relevant to the style of mineralisation
+and type of deposit under consideration and to the activity being undertaken to qualify as a Competent
+Person as defined in the 2012 Edition of the “Australasian Code for Reporting of Exploration Results,
+Mineral Resource and Ore Reserves”. Mr. Beckwith consents to the inclusion in this report of the matters
+based on his information in the form and context in which it appears.
+
+\
+
+De Grey Mining Limited ASX Announcement
+
+7
+
+Previously Released ASX Material References
+The information in this report that relates to the Hemi deposit and/or Metallurgical testwork that has been
+previously released includes;
+
+For personal use only
+
+Resources:
+•
+
+2020 Mallina Gold Project Resource update, 2 April 2020.
+
+Exploration:
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+
+Multiple new targets increase exploration potential, 2 July 2019;
+New Gold Discoveries at Hemi and Antwerp, 17 December 2019;
+Hemi confirms potential for major discovery, 6 February 2020;
+Further impressive thick and high grade gold at Hemi, 11 February 2020;
+Major extension of sulphide mineralisation at Hemi, 26 February 2020;
+RC drilling confirms large scale gold system at Hemi, 5 March 2020;
+Continuing extensive sulphide mineralisation intersected at Hemi, 10 March 2020;
+Hemi continues to grow, 17 March 2020;
+Major Gold Extensions defined at BROLGA, 25 March 2020.
+Brolga continues to grow, 9 April 2020
+Aircore drilling defines third large gold zone at Hemi, 17 April 2020
+Brolga and Aquila drilling update, 22 April 2020
+Large gold system defined at Crow, 1 May 2020
+Exploration update,20 May 2020
+Significant extension at Hemi- Aquila, 27 May 2020
+HEMI - Major extension, 5 June 2020
+HEMI - Broad, high grade extensions at Aquila, 9 June 2020
+Further High Grade & Expanded Footprint at Hemi, 22 June 2020
+
+Metallurgy:
+
+\
+
+•
+•
+•
+
+Positive gold recoveries enhance Pilbara Gold Project potential, 12 February 2019
+High gold recoveries with conventional CIL processing at Toweranna, 13 June 2019
+Mallina drilling, new targets and metallurgy update, 15 July 2019
+
+De Grey Mining Limited ASX Announcement
+
+8
+
+For personal use only
+
+Table 2: Drill location information
+
+\
+
+Weathering
+Domain
+
+HoleID
+
+Depth
+from
+(m)
+
+Depth
+to (m)
+
+Downhole
+width(m)
+
+Collar
+East
+(GDA94)
+
+Collar
+North
+(GDA94)
+
+Collar
+RL
+(GDA94)
+
+Dip
+(º)
+
+Azimuth
+
+Hole
+Depth
+(m)
+
+Met
+Composite
+Sample
+
+Oxide
+
+HERC034D
+
+35
+
+36
+
+1
+
+649206
+
+7692088
+
+69
+
+-55
+
+332
+
+444
+
+CN leach
+
+Oxide
+
+HERC034D
+
+36
+
+37
+
+1
+
+649206
+
+7692088
+
+69
+
+-55
+
+332
+
+444
+
+CN leach
+
+Oxide
+
+HERC034D
+
+37
+
+38
+
+1
+
+649206
+
+7692088
+
+69
+
+-55
+
+332
+
+444
+
+CN leach
+
+Oxide
+
+HERC034D
+
+38
+
+39
+
+1
+
+649206
+
+7692088
+
+69
+
+-55
+
+332
+
+444
+
+CN leach
+
+Oxide
+
+HERC034D
+
+39
+
+40
+
+1
+
+649206
+
+7692088
+
+69
+
+-55
+
+332
+
+444
+
+CN leach
+
+Oxide
+
+HERC035D
+
+41
+
+42
+
+1
+
+649247
+
+7692018
+
+70
+
+-54
+
+330
+
+448
+
+CN leach
+
+Oxide
+
+HERC035D
+
+45
+
+46
+
+1
+
+649247
+
+7692018
+
+70
+
+-54
+
+330
+
+448
+
+CN leach
+
+Oxide
+
+HERC035D
+
+46
+
+47
+
+1
+
+649247
+
+7692018
+
+70
+
+-54
+
+330
+
+448
+
+CN leach
+
+Oxide
+
+HERC035D
+
+47
+
+48
+
+1
+
+649247
+
+7692018
+
+70
+
+-54
+
+330
+
+448
+
+CN leach
+
+Oxide
+
+HERC035D
+
+48
+
+49
+
+1
+
+649247
+
+7692018
+
+70
+
+-54
+
+330
+
+448
+
+CN leach
+
+Oxide
+
+HERC035D
+
+50
+
+51
+
+1
+
+649247
+
+7692018
+
+70
+
+-54
+
+330
+
+448
+
+CN leach
+
+Oxide
+
+HERC035D
+
+52
+
+53
+
+1
+
+649247
+
+7692018
+
+70
+
+-54
+
+330
+
+448
+
+CN leach
+
+Transition
+
+HEDD001
+
+121.2
+
+134
+
+12.8
+
+649260
+
+7692316
+
+69
+
+-56
+
+326
+
+263
+
+Comp #1
+
+Fresh
+
+HEDD001
+
+134
+
+170
+
+36
+
+649260
+
+7692316
+
+69
+
+-56
+
+326
+
+263
+
+Comp #2
+
+Fresh
+
+HEDD001
+
+170
+
+207
+
+37
+
+649260
+
+7692316
+
+69
+
+-56
+
+326
+
+263
+
+Comp #3
+
+Fresh
+
+HERC011D
+
+180.3
+
+226
+
+45.7
+
+649341
+
+7692176
+
+69
+
+-56
+
+327
+
+516
+
+Comp #4
+
+De Grey Mining Limited ASX Announcement
+
+9
+
+JORC Code, 2012 Edition – Table 1
+Section 1 Sampling Techniques and Data
+
+For personal use only
+
+(Criteria in this section apply to all succeeding sections.)
+Criteria
+
+JORC Code explanation
+
+Commentary
+
+Sampling
+techniques
+
+• Nature and quality of sampling (e.g. cut
+channels, random chips, or specific
+specialised
+industry
+standard
+measurement tools appropriate to the
+minerals under investigation, such as down
+hole gamma sondes, or handheld XRF
+instruments, etc.). These examples should
+not be taken as limiting the broad meaning
+of sampling.
+• Include reference to measures taken to
+ensure sample representivity and the
+appropriate calibration of any measurement
+tools or systems used.
+• Aspects
+of
+the
+determination
+of
+mineralisation that are Material to the Public
+Report.
+• In cases where ‘industry standard’ work has
+been done this would be relatively simple
+(e.g. ‘reverse circulation drilling was used to
+obtain 1 m samples from which 3 kg was
+pulverised to produce a 30 g charge for fire
+assay’). In other cases, more explanation
+may be required, such as where there is
+coarse gold that has inherent sampling
+problems.
+Unusual commodities or
+mineralisation types (e.g. submarine
+nodules) may warrant disclosure of detailed
+information.
+• Drill type (e.g. core, reverse circulation,
+open-hole hammer, rotary air blast, auger,
+Bangka, sonic, etc.) and details (e.g. core
+diameter, triple or standard tube, depth of
+diamond tails, face-sampling bit or other
+type, whether core is oriented and if so, by
+what method, etc.).
+• Method of recording and assessing core
+and chip sample recoveries and results
+assessed.
+• Measures taken to maximise sample
+recovery and ensure representative nature
+of the samples.
+• Whether a relationship exists between
+sample recovery and grade and whether
+sample bias may have occurred due to
+preferential loss/gain of fine/coarse
+material.
+• Whether core and chip samples have been
+geologically and geotechnically logged to a
+level of detail to support appropriate Mineral
+Resource estimation, mining studies and
+metallurgical studies.
+
+•
+
+Drilling
+techniques
+
+Drill
+sample
+recovery
+
+Logging
+
+\
+
+De Grey Mining Limited ASX Announcement
+
+•
+•
+
+•
+
+•
+
+All RC and diamond drilling and sampling was
+undertaken in an industry standard manner
+Samples were collected with a diamond drill rig
+drilling NQ diameter core.
+Core for the composite samples was provided to the
+laboratory, as quarter core, after logging and
+photographing.
+Holes were sampled over mineralised intervals to
+geological boundaries on a nominal 1m basis or less
+as required.
+RC samples are provided on a 1 m basis with the
+residual sample used for the cyanide leach testwork.
+
+•
+•
+
+The diamond drill holes were NQ size core.
+RC drill holes were form face sampling hammer and
+51/2 inch diameter
+
+•
+
+Samples are considered representative with good
+recoveries.
+Core recovery is measured for each drilling run by
+the driller and then checked by the Company
+geological team during the mark up and logging
+process.
+Samples are considered representative with
+generally 100% recovery.
+No sample bias is observed
+
+•
+
+•
+•
+
+•
+•
+
+Company geologists logged each hole and
+supervised all sampling.
+Diamond and RC sample results are appropriate for
+a resource estimation with sampling undertaken on
+a nominal 1m basis or less based on geological
+
+10
+
+For personal use only
+
+Criteria
+
+Sub-sampling
+techniques and
+sample
+preparation
+
+Quality
+of
+assay data and
+laboratory
+tests
+
+Verification of
+sampling and
+assaying
+
+\
+
+JORC Code explanation
+• Whether logging is qualitative or
+quantitative in nature. Core (or costean,
+channel, etc.) photography.
+• The total length and percentage of the
+relevant intersections logged.
+• If core, whether cut or sawn and whether
+quarter, half or all core taken.
+• If non-core, whether riffled, tube sampled,
+rotary split, etc. and whether sampled wet
+or dry.
+• For all sample types, the nature, quality and
+appropriateness of the sample preparation
+technique.
+• Quality control procedures adopted for all
+stages
+to
+maximise
+sub-sampling
+representivity of samples.
+• Measures taken to ensure that the sampling
+is representative of the in situ material
+collected, including for instance results for
+field duplicate/second-half sampling.
+• Whether sample sizes are appropriate to
+the grain size of the material being
+sampled.
+
+Commentary
+boundaries.
+
+•
+
+•
+
+•
+•
+
+•
+
+•
+
+•
+•
+
+• The nature, quality and appropriateness of
+the assaying and laboratory procedures
+used and whether the technique is
+considered partial or total.
+• For geophysical tools, spectrometers,
+handheld XRF instruments, etc., the
+parameters used in determining the
+analysis including instrument make and
+model, reading times, calibrations factors
+applied and their derivation, etc.
+• Nature of quality control procedures
+adopted
+(e.g.
+standards,
+blanks,
+duplicates, external laboratory checks) and
+whether acceptable levels of accuracy (i.e.
+lack of bias) and precision have been
+established.
+• The verification of significant intersections
+by either independent or alternative
+company personnel.
+• The use of twinned holes.
+• Documentation of primary data, data entry
+procedures, data verification, data storage
+(physical and electronic) protocols.
+• Discuss any adjustment to assay data.
+
+De Grey Mining Limited ASX Announcement
+
+•
+
+•
+•
+•
+•
+
+•
+
+•
+•
+•
+•
+
+Diamond drilling was logged, photographed and
+sampled as cut as half core for original fire assay, ¼
+quarter sent to the metallurgical lab and1/4 core
+retained on site.
+Independent standard reference material was
+inserted approximately every 20 samples for the fire
+assay samples.
+The metallurgical 1/4 core was provided intact for
+special purpose metallurgical testwork
+The samples are considered representative and
+appropriate for this type of drilling and for use in a
+resource estimate
+The mineralised intervals were provided to the
+metallurgical lab based on the original fire assay
+results.
+Metallurgical samples were composited into a
+number of subsamples over a number of metres and
+comparative assays completed as a head grade.
+Flotation, POX and cyanide leach testwork was
+carried out on the composite samples
+The oxide domain RC samples were based on
+residual sample material from the original RC fire
+assay sample. This material was then assessed via
+a 24 hour bottle rolled cyanide leach technique.
+The samples were submitted to a commercial
+independent ALS Metallurgy laboratory in Perth,
+Australia.
+Each sample was dried, crushed and pulverised.
+Au was analysed by a 50gm charge Fire assay
+fusion technique with an AAS finish.
+The techniques are considered quantitative in
+nature.
+The cyanide bottle roll was undertaken over 24
+hours and the resultant assay completed via fire
+assay.
+As discussed previously standards by the Company
+and the laboratory also carries out internal
+standards in individual batches
+Results have been checked by the supervising
+metallurgist and De Grey geologist
+No adjustments have been made to the assay data.
+Results are reported on a length weighted basis
+Head grades and recoveries undertaken on the
+metallurgical samples were provided in a
+specialised report covering the testwork undertaken.
+Results have been reviewed and assessed by an
+independent metallurgist engaged with GR
+Engineering Services.
+
+11
+
+Criteria
+
+For personal use only
+
+Location
+data points
+
+of
+
+Data spacing
+and
+distribution
+
+• Accuracy and quality of surveys used to
+locate drill holes (collar and down-hole
+surveys), trenches, mine workings and
+other locations used in Mineral Resource
+estimation.
+• Specification of the grid system used.
+• Quality and adequacy of topographic
+control.
+• Data spacing for reporting of Exploration
+Results.
+• Whether the data spacing, and distribution
+is sufficient to establish the degree of
+geological and grade continuity appropriate
+for the Mineral Resource and Ore Reserve
+estimation procedure(s) and classifications
+applied.
+• Whether sample compositing has been
+applied.
+
+•
+•
+•
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+•
+
+Sample
+security
+
+\
+
+Commentary
+
+•
+
+Orientation of
+data in relation
+to geological
+structure
+
+Audits
+reviews
+
+JORC Code explanation
+
+or
+
+Drill hole collar locations for diamond are located by
+Differential GPS to an accuracy of +/-20cm.
+Locations are given in GDA94 zone 50 projection.
+Drill hole information is provided in the report
+Topographic control is by air photo photogrammetry
+to a resolution of either 0.10m or 0.15m, together
+with DGPS control.
+The composite core samples in this report relate to
+existing diamond core holes drilled by the company
+at the Brolga deposit.
+The new metallurgical holes are specific holes
+drilled into the previously defined mineralised
+envelope in order to provide further quality core
+samples of the mineralisation. These holes remain
+to be tested.
+All holes have been geologically logged and provide
+a strong basis for geological control and continuity
+of mineralisation.
+Results are sufficient to provide support for the
+results to be used in a resource estimate.
+Metallurgical results will be used to define the
+proposed processing flowsheet and expected
+recoveries for economic evaluations.
+Sample compositing has not been applied to the
+individual assays
+Sample compositing was undertaken on the
+metallurgical core for specific metallurgical test
+work.
+
+• Whether the orientation of sampling
+achieves unbiased sampling of possible
+structures and the extent to which this is
+known, considering the deposit type.
+• If the relationship between the drilling
+orientation and the orientation of key
+mineralised structures is considered to
+have introduced a sampling bias, this
+should be assessed and reported if
+material.
+• The measures taken to ensure sample
+security.
+
+•
+
+The drilling is approximately perpendicular to the
+strike of mineralisation and therefore the sampling is
+considered representative of the mineralised zone.
+
+•
+
+Samples were collected by company personnel and
+delivered direct to the laboratory via a transport
+contractor
+
+• The results of any audits or reviews of
+sampling techniques and data.
+
+•
+
+No audits have been completed. Review of QAQC
+data has been carried out by company geologists
+GRES metallurgist has assessed the data.
+
+De Grey Mining Limited ASX Announcement
+
+•
+
+12
+
+Section 2 Reporting of Exploration Results
+(Criteria listed in the preceding section also apply to this section.)
+
+For personal use only
+
+Criteria
+
+JORC Code explanation
+
+Commentary
+
+Mineral
+tenement and
+land
+tenure
+status
+
+• Type, reference name/number, location
+and ownership including agreements or
+material issues with third parties such
+as
+joint
+ventures,
+partnerships,
+overriding
+royalties,
+native
+title
+interests, historical sites, wilderness or
+national park and environmental
+settings.
+• The security of the tenure held at the
+time of reporting along with any known
+impediments to obtaining a license to
+operate in the area.
+
+•
+
+Exploration
+done by other
+parties
+
+• Acknowledgment and appraisal
+exploration by other parties.
+
+•
+
+Geology
+
+• Deposit type, geological setting and
+style of mineralisation.
+
+of
+
+•
+
+•
+•
+
+•
+
+The mineralisation are on tenements of the Mallina Gold
+Project, located approximately 60km south of Port
+Hedland.
+The Hemi deposit is located on E45/3392 held by Last
+Crusade Pty Ltd, which is a 100% subsidiary of De Grey
+Mining.
+
+De Grey has completed all recent modern exploration to
+define the Hemi mineralisation.
+Ongoing drilling and exploration activities continue.
+The mineralisation targeted is intrusion hosted gold
+mineralisation and is considered a new style of
+mineralisation in the Pilbara region.
+The Hemi gold mineralisation is sulphide hosted within
+an intrusive body
+
+Drill
+hole
+Information
+
+• A summary of all information material to
+the understanding of the exploration
+results including a tabulation of the
+following information for all Material drill
+holes:
+• easting and northing of the drill hole
+collar
+• elevation or RL (Reduced Level –
+elevation above sea level in metres) of
+the drill hole collar
+• dip and azimuth of the hole
+• down hole length and interception
+depth
+• hole length.
+• If the exclusion of this information is
+justified on the basis that the
+information is not Material and this
+exclusion does not detract from the
+understanding of the report, the
+Competent Person should clearly
+explain why this is the case.
+
+•
+
+Drill hole location and directional information is provided
+in this report.
+
+Data
+aggregation
+methods
+
+• In reporting Exploration Results,
+weighting
+averaging
+techniques,
+maximum and/or minimum grade
+truncations (e.g. cutting of high grades)
+and cut-off grades are usually Material
+and should be stated.
+• Where
+aggregate
+intercepts
+incorporate short lengths of high grade
+results and longer lengths of low grade
+results, the procedure used for such
+
+•
+
+The results have been presented by the independent
+laboratory.
+No upper cuts or truncations have been undertaken
+
+\
+
+De Grey Mining Limited ASX Announcement
+
+•
+
+13
+
+For personal use only
+
+Criteria
+
+JORC Code explanation
+
+Commentary
+
+aggregation should be stated and some
+typical examples of such aggregations
+should be shown in detail.
+• The assumptions used for any reporting
+of metal equivalent values should be
+clearly stated.
+
+Relationship
+between
+mineralisation
+widths
+and
+intercept
+lengths
+
+• These relationships are particularly
+important in the reporting of Exploration
+Results.
+• If the geometry of the mineralisation
+with respect to the drill hole angle is
+known, its nature should be reported.
+• If it is not known and only the down hole
+lengths are reported, there should be a
+clear statement to this effect (e.g. ‘down
+hole length, true width not known’).
+
+•
+
+Diagrams
+
+• Appropriate maps and sections (with
+scales) and tabulations of intercepts
+should be included for any significant
+discovery being reported These should
+include, but not be limited to a plan view
+of drill hole collar locations and
+appropriate sectional views.
+
+•
+
+Data and plans are provided in the report.
+
+Balanced
+reporting
+
+• Where comprehensive reporting of all
+Exploration Results is not practicable,
+representative reporting of both low and
+high grades and/or widths should be
+practiced to avoid misleading reporting
+of Exploration Results.
+
+•
+
+The report is considered balanced and provided in
+context.
+Further metallurgical results are on-going with updated
+results expected during the September quarter 2020.
+
+Other
+substantive
+exploration
+data
+
+• Other exploration data, if meaningful
+and material, should be reported
+including (but not limited to): geological
+observations;
+geophysical
+survey
+results; geochemical survey results;
+bulk samples – size and method of
+treatment; metallurgical test results;
+bulk
+density,
+groundwater,
+geotechnical and rock characteristics;
+potential deleterious or contaminating
+substances.
+
+•
+
+• The nature and scale of planned further
+work (e.g. tests for lateral extensions or
+depth extensions or large-scale stepout drilling).
+• Diagrams clearly highlighting the areas
+of possible extensions, including the
+main geological interpretations and
+future drilling areas, provided this
+information is not commercially
+sensitive.
+
+•
+
+Further work
+
+\
+
+De Grey Mining Limited ASX Announcement
+
+•
+
+•
+
+•
+•
+
+•
+
+•
+
+The drill holes are interpreted to be approximately
+perpendicular to the strike of mineralisation.
+The drilling was completed to provide core in order to
+define the mineralisation and is being used to carry out
+determination of rock quality properties including
+strength,
+hardness,
+recovery
+and
+sulphide
+concentrations.
+
+Previous metallurgical testwork has been completed on
+the existing gold resources within the Mallina Gold
+Project.
+This new metallurgical data is only on the new Hemi
+deposit which has recently been discovered by De Grey.
+Results support the previous metallurgical data on the
+other resources
+
+Independent consultant engineers (GRES) are
+evaluating the results to establish a preferred
+processing plant, components, design including layout,
+operating costs and capital requirements.
+Further ongoing metallurgical test work is continuing
+with an additional 6 dedicated diamond core holes with
+processing and metallurgical testwork underway.
+Additional sampling of the other deposits at Hemi is
+currently underway.
+
+14
+
+

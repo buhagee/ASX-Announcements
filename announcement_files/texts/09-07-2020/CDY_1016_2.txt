@@ -1,0 +1,125 @@
+For personal use only
+
+ASX ANNOUNCEMENT
+CELLMID SIGNS EXCLUSIVE AGREEMENT FOR SARS-CoV-2 LABORATORY TESTS
+SYDNEY, Thursday, 9 July 2020: Cellmid Limited (ASX: CDY) is pleased to advise that it
+has
+signed
+an
+exclusive
+distribution
+agreement
+(“Agreement”)
+with
+Immunodiagnostics Limited, Hong Kong (IMD) for laboratory based, quantitative
+Enzyme Linked Immunosorbent Assays (ELISA’s) and a point of care serology test for
+SARS-CoV-2 for Australia and New Zealand (Agreement). ELISA’s used for research only
+do not require TGA approvals, therefore Cellmid will initially seek regulatory approval
+from the TGA as well as import permits for a small selection of the devices, based on
+their immediate utility, with others to follow based on demand. Cellmid will order
+commercial quantities of the tests following regulatory approval.
+The initial exclusivity period runs for six months from the date of signing the Agreement
+with subsequent time extensions negotiated by mutual agreement thereafter.
+Cellmid already has two agreements in place to access point of care and laboratorybased SARS-CoV-2 testing devices (ASX Announcements, 27 March 2020, 4 June 2020
+and 2 July 2020). The Agreement with IMD provides the Company with access to
+laboratory-based ELISA systems that can quantify the level and identify the type of
+antibodies against different SARS-CoV-2 antigens.
+The key advantage of the ELISA technology is that it can measure absolute levels of
+antibodies against different SARS-CoV-2 antigens. In addition, ELISA’s normally have
+lower level of detection limits compared to point of care devices increasing their
+accuracy. Routinely used in most laboratories ELISA systems are essential in vaccine
+trials, when monitoring the population after vaccine roll outs begin and, in tandem
+with point of care screening, in serological surveys.
+Cellmid’s partner, IMD, a spin off company from Hong Kong University and headed by
+Professor Aimin Xu, is dedicated to the discovery, development, manufacture, and
+distribution of in vitro diagnostics (IVD) for chronic and infectious diseases. IMD
+codevelops its tests with Toronto Bioscience Inc., (Canada), who also acts as North
+American distributor for the tests. All of the ELISA’s are currently sold in Europe and
+Canada. The Immunodiagnostics branded tests are manufactured in IMD’s facilities in
+Taiwan and China under ISO13485:2016 adhering to strict quality control and
+validation.
+The first product Cellmid will focus on is the CE Marked SARS-CoV-2 S1 IgG ELISA Kit for
+the detection of IgG antibody specific for viral spike protein. Evaluation of the kit by
+the manufacturer and by Hong Kong University State Key Laboratory of Biotechnology
+using a stratified dataset comprising 273 confirmed COVID-19 patients and 542 preCOVID-19 control samples showed specificity of 99.08% and sensitivities of:
+o
+o
+o
+
+Day 0-7: 94.03% (n=67)
+Day 8-14: 96.20% (n=79)
+Day 14+: 100% (n=127)
+
+CELLMID LIMITED ACN 111 304 119 ASX I CDY
+Suite 204, 55 Clarence Street, Sydney NSW 2000 AUSTRALIA
+TELEPHONE +61 2 9221 6830 FACSIMILE +61 2 9221 8535
+WEB www.cellmid.com.au
+
+For personal use only
+
+Samples for the evaluations were sourced from the Centre for Disease Control at
+Dongguan City and Shenzhen Sixth People’s Hospital in Shenzhen. The Agreement also
+covers additional ELISA tests including the SARS-CoV-2 NP IgM ELISA Kit, SARS-CoV-2 NP
+IgG ELISA Kit, SARS-CoV-2 NP total Antibody ELISA Kit and SARS-CoV-2 S1RBD IgG ELISA
+Kit 1 . The suite of available tests has broad utility in different research and clinical
+scenarios, allowing Cellmid to address various market needs.
+In addition to the ELISA’s, a high-quality point of care serology device is also included
+in the Agreement. The device detects both IgM and IgG specific to the nucleocapsid
+protein of SARS-CoV-2, differentiating it from the viral spike protein detecting kits
+already accessed by Cellmid. The Company is likely to seek regulatory approval from
+the TGA for the device.
+Evaluation of the point of care test by the manufacturer and by Hong Kong University
+State Key Laboratory of Biotechnology using a stratified dataset comprising 273
+confirmed COVID-19 patients and 542 pre-COVID-19 control samples showed an IgG
+sensitivity of 96.1% and specificity of 96.1% at the most relevant period of 14+ days
+following onset of symptoms and an IgM sensitivity of 91% and specificity of 97.4% at
+the most relevant period of 0-7 days from symptoms. Samples for the evaluations were
+sourced from the Centre for Disease Control at Dongguan City and Shenzhen Sixth
+People’s Hospital in Shenzhen.
+Approved for release by the Board of Directors of Cellmid.
+End
+Contact:
+Maria Halasz, CEO
+T +612 9221 6830
+@mariahalasz
+
+1
+
+The different ELISA kits measure antibodies that bind to different antigens on the SARS-CoV-2 virus. The
+specific antigen they bind to is incorporated in the name of the ELISA. The NP IgG ELISA measures IgG
+antibodies specific to the nucleoplasmid protein of the SARS-CoV-2 virus, the S1 IgG ELISA measures IgG
+antibodies specific to the spike protein of the SARS-coV-2 virus, the S1 RBD IgG ELISA measures antibodies
+specific to the receptor binding domain of the spike protein, the NP IgM ELISA measures the IgM antibodies
+specific to the nucleoplasmid protein of the SARS-CoV-2 virus and the NP Ab ELISA measures the total
+antibody specific to the nucleoplasmid protein of the SARS-CoV-2 virus.
+
+CELLMID LIMITED ACN 111 304 119 ASX I CDY
+Suite 204, 55 Clarence Street, Sydney NSW 2000 AUSTRALIA
+TELEPHONE +61 2 9221 6830 FACSIMILE +61 2 9221 8535
+WEB www.cellmid.com.au
+
+For personal use only
+
+Cellmid Limited (ASX: CDY)
+Cellmid is an Australian life sciences company with a consumer health business and biotech
+assets in development. Advangen Limited is Cellmid’s wholly owned subsidiary engaged in the
+development and sale of first in class, best in class, clinically validated anti-aging products for
+hair, skin and body. For further information, please see www.cellmid.com.au and
+www.evolisproducts.com.au. Cellmid’s wholly owned subsidiary, Lyramid, develops innovative
+novel therapies and diagnostic tests for age related diseases including inflammatory and
+autoimmune conditions. Most recently Cellmid secured access to a range of SARS-CoV-2
+antibody and nucleotide tests, both point of care and laboratory based, from various suppliers.
+Forward looking statements
+This announcement may have forward-looking statements that are subject to risks and
+uncertainties. Such statements involve known and unknown risks that may cause the actual
+results, performance or achievements of Cellmid to be materially different from the statements
+in this announcement. Actual results could differ materially depending on factors such as the
+availability of resources, regulatory environment, the results of marketing and sales activities
+and competition.
+
+CELLMID LIMITED ACN 111 304 119 ASX I CDY
+Suite 204, 55 Clarence Street, Sydney NSW 2000 AUSTRALIA
+TELEPHONE +61 2 9221 6830 FACSIMILE +61 2 9221 8535
+WEB www.cellmid.com.au
+
+

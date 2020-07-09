@@ -1,0 +1,1262 @@
+Tietto Minerals Ltd
+Level 3, 88 William Street
+Perth, WA 6000
+Tel: +61 8 9331 6710
+Fax: +61 8 6316 1428
+Web: www.tietto.com
+
+For personal use only
+
+9 July 2020
+
+Free milling, high gold recovery, low energy and low reagent consumption
+metallurgical program confirms strong economic potential of Abujar Gold Project
+
+Highlights:
+ Independent metallurgical testwork completed on samples from Tietto’s 2.2Moz
+Abujar Gold Project demonstrates highly favourable characteristics for low‐cost
+processing including:
+ Free milling ores ‐ very high gravity gold and CIL gold recoveries delivering
+up to 98‐99% overall gold recoveries
+ High gold recovery at coarse grind sizes ranging from 96% (180 µm) to 98%
+(106 µm) for fresh ore
+ Notable low energy and low reagent requirements
+ Simple flowsheet ‐ single‐stage crusher with SAG mill circuit (SSAG) with
+gravity and CIL for gold recovery
+ Testwork completed on representative samples from the Abujar‐Gludehi deposit
+(AG) which hosts Abujar’s high‐grade core of 19.3Mt @ 2.2 g/t Au for 1.38Moz
+ Tietto has engaged Mintrex, a reputable engineering consultant, to manage
+metallurgy and plant design for PFS
+ Mintrex most recently worked on the Sanbrado Gold Project for West African
+Resources, and other major clients include Regis Resources, Northern Star,
+AngloGold and Evolution Mining
+ 50,000m Abujar drilling program continues utilising Company‐owned rigs
+ Tietto on track to deliver updated Mineral Resource in Q3 2020 and PFS in Q1 2021
+West African gold explorer and developer Tietto Minerals Limited (ASX: TIE) is pleased to
+report completion of the metallurgical test program on selected diamond drill core from the
+Abujar‐Gludehi (AG) gold deposit, part of its 2.2Moz Abujar Gold Project, in Côte d’Ivoire,
+West Africa, which will now allow the Company to commence the Abujar Pre‐Feasibility
+Study.
+Tietto Managing Director, Dr Caigen Wang, said:
+“The completion of the metallurgical program has delivered us a quadrella; free milling at
+coarse grind sizes, very high gravity and CIL gold recoveries, low energy and low reagent
+consumption and a simple process flowsheet.”
+
+For personal use only
+
+Tietto Minerals Ltd
+Level 3, 88 William Street
+Perth, WA 6000
+Tel: +61 8 9331 6710
+Fax: +61 8 6316 1428
+Web: www.tietto.com
+
+“Mintrex and ALS have done a great job delivering the results of the study in a timely
+manner, despite the imposition of COVID 19 hygiene requirements. As such, we are on a
+great footing to move seamlessly into the PFS phase of work.”
+“Abujar is known for consistently delivering high‐gold grades from our exploration drilling
+including the high‐grade core at AG (19.3Mt @ 2.2 g/t Au for 1.38Moz) and now it is also
+delivering outstanding metallurgical results. We believe that Abujar has the potential to be a
+sizeable standalone open pit mining operation located close to major infrastructure in a
+supportive mining jurisdiction.”
+“I am also pleased to advise our shareholders that we have engaged Mintrex in Perth to
+manage metallurgy and plant design for the feasibility study.”
+“Drilling continues at Abujar and we remain on schedule for delivery of an updated resource
+in Q3 2020. This updated Mineral Resource and results from the metallurgical testwork
+program will underpin our PFS which is scheduled for delivery in Q1 2021.”
+Metallurgical Testwork
+Samples were divided into nine composites on the basis of their ore type (oxide, transitional
+and fresh ores) and their proximity. Table 1 identifies the nine composites.
+Table 1: Sample Identification
+Sample ID
+
+Metallurgical Drill Hole ID
+
+Fresh 1
+
+ZDD028, ZDD080, ZDD082
+
+Fresh 2
+
+ZDD028
+
+Fresh 3
+
+ZDD043
+
+Variability Fresh 1
+
+ZDD029, ZDD035
+
+Variability Fresh 2
+
+ZDD081, ZDD090
+
+Variability Fresh 3
+
+ZDD038, ZDD085
+
+Transitional
+
+ZDD090
+
+Variability Trans
+
+ZDD075, ZDD084, ZDD088, ZDD091, ZDD093
+
+Oxide
+
+ZDD087, ZDD088, ZDD090, ZDD093
+
+Physical Testwork
+The physical properties of the Abujar ores allow Tietto to consider a lower cost, simple
+flowsheet utilising single‐stage crushing with SAG mill circuit (SSAG) given the high gold
+recoveries obtained at coarser grind sizes (>106 µm) and excellent physical testwork results
+(Table 2), demonstrating gold mineralisation at AG is not abrasive and is of medium to
+moderate hardness:
+
+Tietto Minerals Ltd
+Level 3, 88 William Street
+Perth, WA 6000
+Tel: +61 8 9331 6710
+Fax: +61 8 6316 1428
+Web: www.tietto.com
+
+For personal use only
+
+ Bond Abrasion Index (Ai) – average results were 0.28 for fresh ore and 0.06
+for transitional ore
+ Bond Rod Mill Work Index (RWi) – average results were 13.2 kWh/t for
+fresh ore and 8.5 kWh/t for transitional ore
+ Bond Ball Mill Work Index (BWi) – average results were 12.0 kWh/t for fresh
+ore and 9.0 kWh/t for transitional ore
+Table 2: Physical Properties
+Process
+Bond Abrasion Index (Ai)
+
+Bond Rod Mill Work Index (RWi)
+
+Bond Ball Mill Work Index (BWi)
+
+A*b Index
+
+Material
+
+AG Deposit1
+
+Oxide
+Trans
+Fresh
+Oxide
+Trans
+Fresh
+Oxide
+Trans
+Fresh
+Oxide
+Trans
+Fresh
+
+0.02
+0.06
+0.28
+*
+8.5
+13.17
+*
+8.95
+12.02
+*
+135
+48.5
+
+Other
+Projects2
+0.003 ‐ 0.08
+0.17 ‐ 0.28
+0.24 ‐ 0.46
+3.7 – 8.63
+16.6 – 19.1
+19.4 – 22.1
+5.4 – 6.1
+14.7 – 16.23
+17.78 – 18.9
+
+* To be tested, too soft to evaluate at this stage
+
+Grind Size Testwork
+Gravity amalgamation testwork established significant gravity gold in almost all composites
+(including Fresh 1 and Variability Fresh 2, the two samples for the optimisation testwork).
+The samples were quite “spotty”, having particles of free gold throughout; meaning the
+grade of the composites was quite variable. This led to the addition of a gravity recovery
+step which was added before each leach optimisation test.
+The selected composites (Fresh 1 and Var Fresh 2) were ground to four particle sizes – 180
+µm, 150 µm, 106 µm and 75 µm. Subsequently, samples were gravity separated, the
+concentrate measured and the tails leached under standard cyanidation conditions. Results
+are shown in Table 3 . Overall recovery after 24 hours was broadly between 94‐99%.
+
+1
+2
+
+ASX release 9 April 2020
+Various NI 43‐101 FS 2015 – 2019 (CDV, PRU, WAF)
+
+Tietto Minerals Ltd
+Level 3, 88 William Street
+Perth, WA 6000
+Tel: +61 8 9331 6710
+Fax: +61 8 6316 1428
+Web: www.tietto.com
+
+For personal use only
+
+Table 3: Grind Size Optimisation Results
+Sample ID
+Fresh 1
+Fresh 1
+Fresh 1
+Fresh 1
+Var Fresh 2
+Var Fresh 2
+Var Fresh 2
+Var Fresh 2
+
+Grind Size
+P80 (µm)
+180
+150
+106
+75
+180
+150
+106
+75
+
+Gravity Recovery (%) Total Recovery after 24h (%)
+82.2
+88.3
+80.7
+82.4
+56.2
+61.7
+72.5
+54.2
+
+96.0
+97.7
+97.5
+98.8
+94.2
+94.3
+97.0
+98.0
+
+The gravity concentrate was subjected to intensive leach testwork and the results show that
+for the Fresh‐1 composite, about 86% of the gold was recovered to the gravity concentrate,
+of which >99% was extracted in the intensive leach. About 78% of the gold in the VAR
+Fresh‐2 was recovered to the gravity concentrate, with >99% extracted in the intensive
+leach.
+Leach Optimisation Testwork
+This stage of testwork focussed on optimising the conditions for leaching the gold from the
+ore by cyanidation including detailed gravity separation testwork. The effect of various
+conditions and parameters on gold recovery during leaching were then examined using the
+selected samples. Leaching optimisation tests on two fresh samples found that the leaching
+process was relatively simple and robust:
+ Optimum Grind size ‐ size between 106 µm and 150 µm;\
+ Use of air or oxygen sparging (ore is not an oxygen consumer)
+ Oxygen uptake rate ‐consumption of oxygen by the reaction is minimal and
+thus the ore is a very low oxygen consumer
+ Addition of lead nitrate was not necessary
+ Inclusion of carbon in the leaching vessel has a minor positive effect on total
+gold recovery ‐ calculated head grade and assay grade matched well for
+these tests, which indicates that the composites do not have any significant
+preg‐robbing characteristics
+ The optimised leaching process consumed of 0.2‐0.3 kg/t of cyanide. Lime
+consumption was around 0.2 kg/t for the fresh domain, 0.6 kg/t for the
+transitional sample and 2.7 kg/t for the oxide
+ The total gold recovery including gravity and leaching was between 95.5‐
+99%
+
+Tietto Minerals Ltd
+Level 3, 88 William Street
+Perth, WA 6000
+Tel: +61 8 9331 6710
+Fax: +61 8 6316 1428
+Web: www.tietto.com
+
+For personal use only
+
+Appointment of Mintrex for PFS/DFS
+Following the successful completion of the metallurgical test program, the Company has
+subsequently appointed Mintrex to manage the metallurgy and design of the Abujar
+Processing Plant for the feasibility study.
+“Mintrex has extensive capabilities in gold processing including metallurgy, process design,
+infrastructure, study and project management and project valuation. Our experienced team
+of consultants has worked on greenfields and brownfields gold projects in a diverse range of
+geological and geographical environments. We are proud of our design of an extensive
+range of operating processing gold plants mostly in Australia and Africa.”
+Mintrex most recently worked on the Sanbrado Gold Project for West African Resources,
+and other major clients include Regis Resources, Northern Star, AngloGold and Evolution
+Mining.
+Next Steps
+Tietto’s fully funded 50,000m drill program continues, aiming to increase the resource
+inventory of existing deposits as well as identifying new prospects within the Abujar
+Project’s 70km‐long gold corridor, of which 90% of strike length remains to be tested.
+Tietto’s Company‐owned diamond drill rigs continue to deliver high production rates at
+some of the lowest exploration costs in the gold sector. This ensures a steady flow of drill
+results which will be incorporated into an Abujar resource update scheduled for Q3 2020,
+building on the existing 2.2Moz gold resource.
+Tietto is advancing project studies necessary for delivery of a PFS in Q1 2021 and will report
+on progress as results become available.
+The Company expects to report further drilling results in the coming weeks.
+
+ENDS
+This update has been authorised on behalf of Tietto Minerals Limited by:
+Dr Caigen Wang
+Managing Director
+Tel: +61 8 9331 6710
+
+Mark Strizek
+Executive Director
+Mob: +61 431 084 305
+
+Tietto Minerals Ltd
+Level 3, 88 William Street
+Perth, WA 6000
+Tel: +61 8 9331 6710
+Fax: +61 8 6316 1428
+Web: www.tietto.com
+
+For personal use only
+
+Competent Person Statements
+The information in this report that relates to Exploration Targets and Exploration Results is based on information compiled by Mr Mark
+Strizek, a Competent Person who is a Member or The Australasian Institute of Mining and Metallurgy. Mr Strizek is a non‐executive
+director of the Company. Mr Strizek has sufficient experience that is relevant to the style of mineralisation and type of deposit under
+consideration and to the activity being undertaking to qualify as a Competent Person as defined in the 2012 edition of the “Australasian
+Code for Reporting of Exploration Results, Mineral Resources and Ore Reserves”. Mr Strizek consents to the inclusion in the announcement
+of the matters based on his information in the form and context in which it appears. Additionally, Mr Strizek confirms that the entity is not
+aware of any new information or data that materially affects the information contained in the ASX releases referred to in this report.
+The information in this report that relates to Mineral Resources is based on information evaluated by Mr Jeremy Clark who is a Member of
+The Australasian Institute of Mining and Metallurgy (MAusIMM) and who has sufficient experience relevant to the style of mineralisation
+and type of deposit under consideration and to the activity which he is undertaking to qualify as a Competent Person as defined in the 2012
+edition of the “Australasian Code for Reporting of Exploration Results, Mineral Resources and Ore Reserves”. Mr Clark is an employee of
+RPMGlobal Asia Limited and he consents to the inclusion of the estimates in the report of the Mineral Resource in the form and context in
+which they appear.
+
+Compliance Statement
+This report contains information extracted from ASX market announcements reported in accordance with the 2012 edition of the
+"Australasian Code for Reporting of Exploration Results, Mineral Resources and Ore Reserves" ("2012 JORC Code") and available for
+viewing at www. tietto.com. Includes results reported previously and published on ASX platform, 16 January 2018, 27 March 2018, 23 April
+2018, 8 May 2018, 7 June 2018, 4 October 2018, 1 November 2018, 28 November 2018, 31 January 2019, 26 February 2019, 12 March
+2019, 19 March 2019, 9 April 2019, 9 May 2019, 30 May 2019, 9 July 2019, 26 July 2019, 2 October 2019, 24 October 2019, 12 November
+2019, 12 December 2019, 23 January 2020, 20 February 2020, 10 March 2020, 24 March 2020, 2 April 2020, 9 April 2020, 23 April 2020, 7
+May 2020, 14 May 2020, 3 June 2020, 9 June 2020, 25 June 2020 and 2 July 2020. The Company confirms that it is not aware of any new
+information or data that materially affects the information included in the previous announcements.
+
+For personal use only
+
+Tietto Minerals Ltd
+Level 3, 88 William Street
+Perth, WA 6000
+Tel: +61 8 9331 6710
+Fax: +61 8 6316 1428
+Web: www.tietto.com
+
+Figure 1: Plan view showing location of Tietto’s Projects
+
+For personal use only
+
+Tietto Minerals Ltd
+Level 3, 88 William Street
+Perth, WA 6000
+Tel: +61 8 9331 6710
+Fax: +61 8 6316 1428
+Web: www.tietto.com
+
+Figure 2: Abujar Gold Project
+
+Tietto Minerals Ltd
+Level 3, 88 William Street
+Perth, WA 6000
+Tel: +61 8 9331 6710
+Fax: +61 8 6316 1428
+Web: www.tietto.com
+
+For personal use only
+
+Abujar Gold Project, Côte d’Ivoire
+The Abujar Gold Project is located approximately 30km from the major regional city of Daloa
+in central‐western Côte D’Ivoire. It is close to good regional and local infrastructure to
+facilitate exploration and development being only 15km from nearest tarred road and grid
+power.
+The Abujar Gold Project is comprised of three contiguous tenements, Middle, South and
+North tenement, with a total land area of 1,114km2, of which less than 10% has been
+explored. It features an NNE‐orientated gold corridor over 70km striking across three
+tenements.
+JORC Statement of Mineral Resources
+Results of the independent Mineral Resources estimate for the Project are tabulated in the
+Statement of Mineral Resources in below, which are reported in line with both the
+requirements of the 2012 JORC Code; as such the Statement of Mineral Resources is
+suitable for public reporting. The Statement of Mineral Resources shown in Table 4.
+Mineral Resources are reported at a cut‐off grade of 0.4 Au g/t within a pit shell based on a
+gold price of 1,800 USD per troy ounce, and 0.8 Au g/t below the pit shell. The cut‐off
+grades were based on estimated mining and processing costs and recoveries factors of
+similar projects in the Ivory Coast.
+Table 4: Statement of Mineral Resources by Deposit as at 11 November, 2019 Reported at 0.4 g/t Au cut off within pit
+shells; and 0.8 g/t Au cut off below the pit shells for AG, and 0.4 g/t to a depth of 40m and 0.8 g/t below 40m for APG.
+Oxide
+Quantity Au
+(Mt)
+(g/t)
+2
+Indicated 0.08
+AG Inferred
+0.44
+1.5
+Total
+0.53
+1.6
+1.24
+0.7
+APG Inferred
+Grand Total
+1.77
+1
+
+Area
+
+Class
+
+Transition
+Fresh
+Total
+Au
+Quantity Au
+Au Quantity Au
+Au Quantity Au
+Au
+(MOz)
+(Mt)
+(g/t) (MOz)
+(Mt)
+(g/t) (MOz)
+(Mt)
+(g/t) (MOz
+0.01
+0.3
+1.6
+0.02
+14.19
+1.8 0.84
+14.58
+1.8 0.86
+0.02
+1.21
+1.3
+0.05
+18.02
+1.5 0.88
+19.68
+1.5 0.95
+0.03
+1.51
+1.3
+0.06
+32.22
+1.7 1.72
+34.26
+1.6 1.81
+0.03
+3.43
+0.8
+0.09
+6.56
+1.1 0.23
+11.24
+1
+0.35
+0.06
+4.95
+1
+0.15
+38.78
+1.6 1.94
+45.49
+1.5 2.15
+
+Note:
+1.
+
+2.
+
+The Mineral Resources has been compiled under the supervision of Mr. Jeremy Clark who is a full‐time
+employee of RPM and a Registered Member of the Australian Institute of Mining and Metallurgy. Mr.
+Clark has sufficient experience that is relevant to the style of mineralisation and type of deposit under
+consideration and to the activity that he has undertaken to qualify as a Competent Person as defined
+in the JORC Code.
+All Mineral Resources figures reported in the table above represent estimates at 12 November 2019.
+Mineral Resource estimates are not precise calculations, being dependent on the interpretation of
+limited information on the location, shape and continuity of the occurrence and on the available
+
+For personal use only
+
+Tietto Minerals Ltd
+Level 3, 88 William Street
+Perth, WA 6000
+Tel: +61 8 9331 6710
+Fax: +61 8 6316 1428
+Web: www.tietto.com
+
+3.
+
+4.
+
+sampling results. The totals contained in the above table have been rounded to reflect the relative
+uncertainty of the estimate. Rounding may cause some computational discrepancies.
+Mineral Resources are reported in accordance with the Australasian Code for Reporting of Exploration
+Results, Mineral Resources and Ore Reserves (The Joint Ore Reserves Committee Code – JORC 2012
+Edition).
+The Mineral Resources have been reported at a 100% equity stake and not factored for ownership
+proportions.
+
+A high‐grade core of mineralisation has been identified within the overall resource at AG of
+19.4 Mt at 2.0 g/t for 1.25 Moz. The total resource at AG reported at varying cut‐off grades
+is provided in Table 5 below and shows a significant amount of higher‐grade mineralisation
+within the overall resource. However, RPM recommends that the Mineral Resource is
+reported using 0.4 g/t Au cut‐off above the pit shell and 0.8 g/t Au cut‐off below, as
+presented in Table 4.
+
+Table 5: AG Indicated and Inferred Mineral Resource at varying cut off grades
+COG
+0.3
+0.4
+0.5
+0.6
+0.7
+0.8
+0.9
+1
+1.1
+1.2
+1.3
+1.4
+1.5
+1.6
+1.8
+1.9
+2
+2.5
+3
+
+MTonnes
+16.1
+15.1
+13.7
+12.3
+10.9
+9.7
+8.7
+7.8
+7.1
+6.4
+5.9
+5.3
+4.9
+4.5
+3.9
+3.6
+3.3
+2.4
+1.9
+
+Indicated
+Au g/t
+1.7
+1.8
+1.9
+2.1
+2.3
+2.5
+2.6
+2.8
+3.0
+3.2
+3.4
+3.6
+3.8
+4.0
+4.4
+4.6
+4.8
+5.7
+6.5
+
+Moz
+0.88
+0.87
+0.85
+0.82
+0.79
+0.76
+0.74
+0.71
+0.69
+0.66
+0.64
+0.62
+0.60
+0.58
+0.54
+0.52
+0.51
+0.45
+0.40
+
+MTonnes
+27.9
+25.8
+22.8
+19.1
+15.9
+13.6
+11.7
+10.4
+9.3
+8.3
+7.5
+6.8
+6.2
+5.5
+4.7
+4.4
+4.1
+2.7
+1.9
+
+Inferred
+Au g/t
+1.2
+1.3
+1.4
+1.6
+1.7
+1.9
+2.1
+2.2
+2.4
+2.5
+2.6
+2.8
+2.9
+3.1
+3.3
+3.4
+3.5
+4.2
+4.8
+
+Moz
+1.09
+1.07
+1.02
+0.96
+0.89
+0.83
+0.78
+0.74
+0.70
+0.67
+0.64
+0.60
+0.58
+0.55
+0.50
+0.48
+0.46
+0.37
+0.29
+
+MTonnes
+44.0
+40.9
+36.5
+31.4
+26.8
+23.3
+20.4
+18.3
+16.3
+14.7
+13.3
+12.1
+11.1
+10.0
+8.6
+7.9
+7.4
+5.2
+3.8
+
+Total
+Au g/t
+1.4
+1.5
+1.6
+1.8
+2.0
+2.1
+2.3
+2.5
+2.6
+2.8
+3.0
+3.1
+3.3
+3.5
+3.8
+3.9
+4.1
+4.9
+5.7
+
+Moz
+1.97
+1.93
+1.87
+1.78
+1.68
+1.60
+1.52
+1.45
+1.39
+1.33
+1.27
+1.22
+1.17
+1.12
+1.04
+1.00
+0.97
+0.81
+0.69
+
+For personal use only
+
+Tietto Minerals Ltd
+Level 3, 88 William Street Perth, WA 6000
+Tel: +61 8 9331 6710
+Fax: +61 8 6316 1428
+Web: www.tietto.com
+
+JORC Code, 2012 Edition – Table1, Section 1‐2
+Section 1: Sampling Techniques and Data
+Criteria
+JORC Code explanation
+Sampling techniques Nature and quality of sampling (e.g. cut channels,
+random chips, or specific specialised industry standard
+measurement tools appropriate to the minerals under
+investigation, such as downhole gamma sondes, or
+handheld XRF instruments, etc). These examples should
+not be taken as limiting the broad meaning of sampling.
+Include reference to measures taken to ensure sample
+representivity and the appropriate calibration of any
+measurement tools or systems used.
+Aspects of the determination of mineralisation that are
+Material to the Public Report.
+In cases where ‘industry standard’ work has been done
+this would be relatively simple (e.g. ‘reverse circulation
+drilling was used to obtain 1 m samples from which 3 kg
+was pulverised to produce a 30 g charge for fire assay’).
+In other cases, more explanation may be required, such
+as where there is coarse gold that has inherent
+sampling problems. Unusual commodities or
+mineralisation types (e.g. submarine nodules) may
+warrant disclosure of detailed information.
+
+Commentary
+The drilling completed prior to March 2018 has been conducted with a
+multiple purpose drill rig using Reverse Circulation (RC) techniques for
+collar of each hole and Diamond Drilling (DD) techniques for the tail of
+some deep hole. In general, the RC to DD switch point is at around 120‐
+150m hole depth. Holes are angled to optimally intersect mineralised
+zones. All RC and DD samples were weighed to determine recoveries. All
+potentially mineralised zones were then split and sampled at 1m intervals
+using three‐tier riffle splitters. DD core were cut at the camp site of the
+Abujar project. QA/QC procedures were completed as per industry best
+practice standards (certified blanks and standards and duplicate
+sampling). In general, 2m RC composite samples and 0.5‐1.67m DD half
+core were despatched to ALS Lab in Yamoussoukro for sample
+preparation, where they were crushed, dried and pulverised to produce a
+sub pulps for fire assay. The pulps were then sent to ALS’s assay Lab in
+Ouagadougou (Burkina Faso) or Kumasi (Ghana) where 50g fire assays,
+AAS finishes and screen fire assays have been conducted. Following a
+review of results for intervals where visible gold had been observed in
+drill core. Pulps from some of the DD holes that had been prepared at ALS
+Yamoussoukro Lab were sent to Intertek Ghana for check assaying which
+involved a re‐assay of three times on each pulp.
+The new assay results for RC samples and AC samples reported in this
+announcement are from RC holes drilled by AMS’s RC600 rig and AC holes
+drilled by AMS’s truck mounted aircore rig.
+The new assay results for DD samples reported in this announcement are
+from DD holes drilled by the Company owned portable diamond drill rig.
+Intertek Lab’s truck picked up all samples from the Abujar Project site and
+
+For personal use only
+
+Tietto Minerals Ltd
+Level 3, 88 William Street Perth, WA 6000
+Tel: +61 8 9331 6710
+Fax: +61 8 6316 1428
+Web: www.tietto.com
+
+Drilling techniques
+
+Drill type (e.g. core, reverse circulation, open‐hole
+hammer, rotary air blast, auger, Bangka, sonic, etc) and
+details (e.g. core diameter, triple or standard tube,
+depth of diamond tails, face‐sampling bit or other type,
+whether core is oriented and if so, by what method, etc).
+
+Drill sample recovery
+
+Method of recording and assessing core and chip
+sample recoveries and results assessed.
+Measures taken to maximise sample recovery and
+ensure representative nature of the samples.
+Whether a relationship exists between sample recovery
+and grade and whether sample bias may have occurred
+due to preferential loss/gain of fine/coarse material.
+
+prepared/analysed the samples in Intertek lab in Ghana. Fire assay are
+used for all AC, RC and DD samples.
+All AC and RC samples are 2m composite.
+Reverse Circulation “RC” drilling within the exploration area comprises 5
+1/8‐inch diameter face sampling hammer.
+Diamond drilling within the exploration area prior to 31st March 2018
+comprises NQ sized core.
+The RC‐DD holes drilled prior to 31st March 2018 normally had RC to DD
+switch point at around 120‐150m hole depth.
+The DD holes in the current drilling programs are being drilled by the
+Company’s own portable hydraulic diamond drill rig. DD holes are drilled
+in HQ size from collar to the point where fresh rock is reached which is
+approximately 20‐40m deep (inclined depth at ‐50°). In fresh rock, the DD
+holes are drilled in NTW size of 75.7mm with core diameter of 56.1mm.
+The AC holes were drilled with a drill bit of 3.5 inches.
+Diamond core was reconstructed into continuous runs; marking depths
+were checked against the depths marked on core blocks.
+RC recoveries are logged and recorded in the database. Overall recoveries
+are >75% for the RC; there are no significant sample recovery problems. A
+technician is always present at the rig to monitor and record recovery. A
+cyclone and splitter were used to provide a uniform sample and were
+routinely cleaned. Tietto employees managed sampling to ensure correct
+sampling practices. RC samples were visually checked for recovery,
+moisture and contamination. A booster was used when drilling wet
+holes, to maintain dry samples each wet hole was purged after a rod
+change and before the commencement of drilling the next rod.
+Core recoveries were generally good with above 90% average recovery.
+As the mineralised zone is generally silicified and competent, core loss
+was not observed to be an issue over the mineralised zones. No
+significant bias is expected, and any potential bias is not considered
+material.
+
+For personal use only
+
+Tietto Minerals Ltd
+Level 3, 88 William Street Perth, WA 6000
+Tel: +61 8 9331 6710
+Fax: +61 8 6316 1428
+Web: www.tietto.com
+
+Logging
+
+Whether core and chip samples have been geologically
+and geotechnically logged to a level of detail to support
+appropriate Mineral Resource estimation, mining
+studies and metallurgical studies.
+Whether logging is qualitative or quantitative in nature.
+Core (or costean, channel, etc.) photography.
+The total length and percentage of the relevant
+intersections logged.
+
+If core, whether cut or sawn and whether quarter, half
+Sub‐sampling
+techniques
+and or all core taken.
+If non‐core, whether riffled, tube sampled, rotary split,
+sample preparation
+etc. and whether sampled wet or dry.
+For all sample types, the nature, quality and
+appropriateness of the sample preparation technique.
+Quality control procedures adopted for all sub‐sampling
+stages to maximise representivity of samples.
+Measures taken to ensure that the sampling is
+representative of the in‐situ material collected, including
+for instance results for field duplicate/second‐half
+sampling.
+Whether sample sizes are appropriate to the grain size
+of the material being sampled.
+
+Tietto uses specifically designed log sheets to capture all geological data.
+During logging, part of the RC sample is washed, logged and placed (using
+glue) to chip boards meter by meter, which are stored on site.
+Geotechnical logging was carried out on all diamond drill holes for
+recovery, RQD and number of defects (per interval). Information on
+structure type, dip, dip direction, alpha angle, beta angle, texture, shape,
+roughness and fill material are stored in the structure/Geotech table of
+the database. Logging of diamond core and RC samples recorded
+lithology, mineralogy, mineralisation, structural (DDH only), weathering,
+alteration, colour and other features of the samples. Core was
+photographed in both dry and wet form. All drilling has been logged to a
+standard that is appropriate for inclusion in any future Mineral Resource
+estimation or mining studies and metallurgical studies.
+Diamond core sampling intervals were based on lithological or alteration
+boundary contacts, with a minimum down hole length of 0.5 and
+maximum of 1.55m. The core was photographed, logged, cut and half
+core was sent for assay. Sampling of RC holes was completed on 1‐metre
+downhole intervals, but 2‐metre composite samples were created and
+assayed; bulk samples were taken from the cyclone meter by meter by
+Tietto field assistants and split through a three‐tier Jones riffle splitter to
+collect two 6.5kg samples. Every attempt was made to ensure that the
+splitter that was used was in good condition, level and that the splitter
+was cleaned with compressed air after each sample was passed through it
+to minimise contamination. Every effort was made to ensure that
+samples were sampled dry. Field QAQC procedures included the insertion
+of field duplicates and commercial standards. Field duplicates were
+inserted at 15m intervals or where mineralisation was anticipated, and
+Standards were inserted at 30m intervals (every 15 RC samples for 2m
+composite RC samples). Approximately 1:15 RC field duplicates were
+taken from 1m riffle split samples at the rig. Sample sizes are considered
+to be appropriate to accurately represent the gold mineralisation at
+
+For personal use only
+
+Tietto Minerals Ltd
+Level 3, 88 William Street Perth, WA 6000
+Tel: +61 8 9331 6710
+Fax: +61 8 6316 1428
+Web: www.tietto.com
+
+Quality of assay The nature, quality and appropriateness of the assaying
+data and laboratory and laboratory procedures used and whether the
+tests
+technique is considered partial or total.
+For geophysical tools, spectrometers, handheld XRF
+instruments, etc., the parameters used in determining
+the analysis including instrument make and model,
+reading times, calibrations factors applied and their
+derivation, etc.
+Nature of quality control procedures adopted (e.g.
+standards, blanks, duplicates, external laboratory
+checks) and whether acceptable levels of accuracy (i.e.
+lack of bias) and precision have been established.
+
+Verification
+sampling
+assaying
+
+of The verification of significant intersections by either
+and independent or alternative company personnel.
+The use of twinned holes.
+Documentation of primary data, data entry procedures,
+data verification, data storage (physical and electronic)
+protocols.
+Discuss any adjustment to assay data.
+Location of data Accuracy and quality of surveys used to locate drill holes
+points
+(collar and down‐hole surveys), trenches, mine workings
+and other locations used in Mineral Resource
+estimation.
+Specification of the grid system used.
+Quality and adequacy of topographic control.
+Data spacing and Data spacing for reporting of Exploration Results.
+
+Abujar based on the intersections, the sampling methodologies, observed
+gold particle size and assay values.
+All samples from drilling prior to the end of March 2018 were assayed at
+ALS laboratories either in Ouagadougou or Kumasi depending on LAS lab’s
+working loads using 50g fire assay and an atomic absorption
+spectrometer (AAS) finish which is considered a near total assaying
+technique if completed properly. This method is appropriate and returns
+accurate and precise values for gold. Field QAQC procedures included the
+insertion of field duplicates and commercial standards. The laboratory
+inserted feldspar flushes, standards, repeats and duplicates. Repeat or
+duplicate analysis for samples (assayed in the past three years) showed
+that the precision of samples is within acceptable limits. However, pulps
+from DD core samples with visible gold were re‐assayed in Intertek Ghana
+with three repeats and the average results for these samples were
+reported.
+All samples from drilling after March 2018 are assayed at Intertek Lab in
+Ghana.
+Several independent personnel visually verified intersections in diamond
+core and RC chips as well as trenches and outcrops. Primary data was
+collected using a set of company standard Excel templates on Toughbook
+laptop computers using lookup codes. The geo‐information was validated
+on‐site by the Company’s database technicians and then validated and
+merged into a final database by the company’s database manager.
+Drill hole collar locations as reported have been picked‐up using a Garmin
+GPS. Final locations will come from a pickup by a surveyor using a total
+station. Downhole surveying was completed by the drilling contractor
+using a Reflex EZ‐shot Downhole Survey instrument prior to the end of
+March 2018. All drill holes have been located using UTM grid WGS84
+Z31N.
+The DD holes being reported are spaced on sections of between 50m and
+
+For personal use only
+
+Tietto Minerals Ltd
+Level 3, 88 William Street Perth, WA 6000
+Tel: +61 8 9331 6710
+Fax: +61 8 6316 1428
+Web: www.tietto.com
+
+100m.
+Further drilling will be required and is planned to bring the section
+spacing to a uniform 50m. This drilling will be incorporated into a future
+update of the current 2012 JORC classified Mineral Resource.
+Mineralised intervals are reported as a weighted average across zones of
+mineralisation.
+Orientation of data Whether the orientation of sampling achieves unbiased Drill sections are approximately orientated West to East with respect to
+in
+relation
+to sampling of possible structures and the extent to which this is grid North. This orientation allows for the delineation of North‐South
+geological structure known, considering the deposit type.
+structures internal to the shear zone as well as the overall NS trend. Holes
+If the relationship between the drilling orientation and the are drilled at ‐65° to ‐50°
+distribution
+
+Whether the data spacing and distribution is sufficient
+to establish the degree of geological and grade
+continuity appropriate for the Mineral Resource and Ore
+Reserve estimation procedure(s) and classifications
+applied.
+Whether sample compositing has been applied.
+
+orientation of key mineralised structures is considered to have
+introduced a sampling bias, this should be assessed and
+reported if material.
+
+Sample security
+
+Audits or reviews
+
+The measures taken to ensure sample security.
+
+Chain of custody is managed by Tietto until the samples were despatched
+to ALS Lab in Yamoussoukro (for drilling prior to the end of March 2018)
+and Intertek Lab in Ghana for drilling after March 2018. Samples are
+stored on site and delivered by Tietto personnel to ALS Lab in
+Yamoussoukro for sample preparation for drilling prior to the end of
+March 2018 and picked up by Intertek truck for drilling after March 2018.
+Whilst in storage, they remain under guard in a locked yard. Tracking
+sheets are used to track the progress of batches of samples.
+The results of any audits or reviews of sampling Tietto personnel and consultants working on the Abujar project site
+techniques and data.
+conducted data reviews as their routine work. No material issues have
+been noted.
+
+For personal use only
+
+Tietto Minerals Ltd
+Level 3, 88 William Street Perth, WA 6000
+Tel: +61 8 9331 6710
+Fax: +61 8 6316 1428
+Web: www.tietto.com
+
+Section 2: Reporting of Exploration Results
+Criteria
+JORC Code explanation
+Type, reference name/number, location and
+Mineral
+tenement and ownership including agreements or material issues
+land
+tenure with third parties such as joint ventures,
+partnerships, overriding royalties, native title
+status
+interests, historical sites, wilderness or national
+park and environmental settings.
+The security of the tenure held at the time of
+reporting along with any known impediments to
+obtaining a licence to operate in the area.
+
+Commentary
+The Abujar Project hosts three exploration licences, the Abujar South Exploration
+License (“Issia Licence”, 390.5 km2, , to which Tietto holds a 100% interest), the
+Abujar Middle Exploration License (“Zoukougbeu Licence”, 383.5 km2, to which
+Tietto holds a 90% interest through the licence holding company Tiebaya Gold Sarl)
+and the Abujar North Exploration License (“Zahibo Licence”, 340 km2, to which
+Tietto holds a 15% interest through the licence holding company Gail Exploration
+Sarl, with the right to acquire a further 65% interest. Currently, Tietto and Gail are
+in the process of legalizing Tietto’s 50% interest in this tenement.), which together,
+cover an area of 1,114 km2.
+The Issia Licence was granted on 22 March 2017. The Zoukougbeu Licence was
+granted on 15 September 2014 and is at the final approval process stage of 3‐year
+extension. The Zahibo Licence was granted on 6 May 2015
+All exploration licences have an initial tenure of 4 years with two entitled extension
+of 3 years each plus a special extension of 2 years, for a total of up to 12‐year
+tenure.
+All licences are granted for gold. All fees have been paid, and the permits are valid.
+The ownership of mineral lease rights in Côte d’Ivoire is governed primarily by the
+Law n°2014‐138 dated on March 24 2014 (Côte d’Ivoire Mining Code). If the
+exploration licences were to be subsequently converted into Mining Licences, the
+Government of Cote d’Ivoire would hold a 10% share of the permit and Tietto
+would hold 90%, 85% and 80% for the Abujar South, Abujar Middle and Abujar
+North, respectively.
+Exploration
+Acknowledgment and appraisal of exploration by There were no historical exploration activities on any of the three licences
+done by other other parties.
+comprising the Abujar project.
+parties
+Tietto started systematic exploration as soon as the licences were granted on each
+of the three licenced areas.
+Geology
+Deposit type, geological setting and style of The Abujar Project is located within the Proterozoic Birimian rocks of the Man
+mineralisation.
+shield, as situated on the Daloa 1:200,000 geologic sheet, 30km west of city of
+Daloa. It is located in the Hana‐Lobo belt, east of the Sassandra fault that marks the
+
+For personal use only
+
+Tietto Minerals Ltd
+Level 3, 88 William Street Perth, WA 6000
+Tel: +61 8 9331 6710
+Fax: +61 8 6316 1428
+Web: www.tietto.com
+
+boundary between the Man shield (Archean) and Eburnean domain. The regional
+trend is north‐northeast to northeast. Formations which have been structured by
+the Eburnean cycle are Birimian. 17 volcano sedimentary belts have been recorded
+in this domain, and reported to hold 95% of the gold mineralisation in the country.
+Within the Project, outcrops are very uncommon, only laterite cover is mainly
+spread with hardpans and duricrust spots occurring. The Abujar Deposit is located
+in NNE SSW orientated body of granitoid migmatite and is hosted within in an
+interpreted regional shear structure. This is enclosed in two mica granite bodies of
+similar interpreted orientation which are regionally referred to as granodiorites.
+Drill
+hole A summary of all information material to the Included in the body of the announcement.
+Information
+understanding of the exploration results including a
+tabulation of the following information for all
+Material drill holes:
+easting and northing of the drill hole collar
+elevation or RL (Reduced Level – elevation above
+sea level in metres) of the drill hole collar
+dip and azimuth of the hole down hole length and
+interception depth hole length.
+If the exclusion of this information is justified on the
+basis that the information is not Material and this
+exclusion does not detract from the understanding
+of the report, the Competent Person should clearly
+explain why this is the case.
+Data
+In reporting Exploration Results, weighting Intervals are shown in detail
+aggregation
+averaging techniques, maximum and/or minimum
+methods
+grade truncations (e.g. cutting of high grades) and
+cut‐off grades are usually Material and should be
+stated.
+Where aggregate intercepts incorporate short
+lengths of high‐grade results and longer lengths of
+low‐grade results, the procedure used for such
+
+For personal use only
+
+Tietto Minerals Ltd
+Level 3, 88 William Street Perth, WA 6000
+Tel: +61 8 9331 6710
+Fax: +61 8 6316 1428
+Web: www.tietto.com
+
+aggregation should be stated and some typical
+examples of such aggregations should be shown in
+detail.
+The assumptions used for any reporting of metal
+equivalent values should be clearly stated.
+These
+relationships are particularly important in the
+Relationship
+reporting of Exploration Results.
+between
+If the geometry of the mineralisation with respect to
+mineralisation
+widths
+and the drill hole angle is known, its nature should be
+reported.
+intercept
+If it is not known and only the down hole lengths
+lengths
+are reported, there should be a clear statement to
+this effect (e.g. ‘down hole length, true width not
+known’).
+Diagrams
+Appropriate maps and sections (with scales) and
+tabulations of intercepts should be included for any
+significant discovery being reported These should
+include, but not be limited to a plan view of drill
+hole collar locations and appropriate sectional
+views.
+Balanced
+Where comprehensive reporting of all Exploration
+reporting
+Results is not practicable, representative reporting
+of both low and high grades and/or widths should
+be practiced to avoid misleading reporting of
+Exploration Results.
+Other exploration data, if meaningful and material,
+Other
+should be reported including (but not limited to):
+substantive
+geological observations; geophysical survey results;
+exploration
+geochemical survey results; bulk samples – size and
+data
+method of treatment; metallurgical test results;
+bulk density, groundwater, geotechnical and rock
+
+Drill hole angles of 50~65° on varying azimuths are adequate for the mineralisation
+intercepted. All exploration drilling results to date have been reported as down
+hole lengths.
+
+Refer to diagrams in text
+
+All grades, high and low, are reported accurately with “from” and “to” depths and
+“hole identification” shown.
+
+The project has a JORC 2012 Indicated and Inferred Mineral Resource of 45.49mt at
+1.51 g/t Au containing 2.15Moz gold in November 2019.
+Preliminary metallurgical study was also carried out at ALS Perth in 2015.
+Details about the above report are available within the Company.
+No work has been carried out on geotechnical, hydrogeological or environmental
+issues etc.
+
+For personal use only
+
+Tietto Minerals Ltd
+Level 3, 88 William Street Perth, WA 6000
+Tel: +61 8 9331 6710
+Fax: +61 8 6316 1428
+Web: www.tietto.com
+
+characteristics;
+potential
+contaminating substances.
+Further work
+
+deleterious
+
+or
+
+The nature and scale of planned further work (e.g. tests
+for lateral extensions or depth extensions or large‐scale
+step‐out drilling).
+Diagrams clearly highlighting the areas of possible
+extensions, including the main geological interpretations
+and future drilling areas, provided this information is not
+commercially sensitive.
+
+Further infill and extensional drilling is planned and is in the process of being
+executed.
+Extensive geophysical study of the project area is currently being conducted.
+
+

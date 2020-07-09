@@ -1,0 +1,5619 @@
+For personal use only
+
+Scheme implementation deed
+Vault Intelligence Limited
+Damstra Holdings Limited
+
+For personal use only
+
+Contents
+
+Gilbert + Tobin
+
+Page
+
+1
+
+Defined terms and interpretation
+
+1
+
+2
+
+Agreement to proceed with Transaction
+
+1
+
+3
+
+Conditions precedent
+
+3
+
+4
+
+Implementation steps and Scheme Booklet
+
+5
+
+5
+
+Conduct of business and transitional matters
+
+10
+
+6
+
+Exclusivity
+
+14
+
+7
+
+Break Fees
+
+17
+
+8
+
+Warranties
+
+20
+
+9
+
+Releases
+
+22
+
+10
+
+Termination
+
+23
+
+11
+
+Public announcements
+
+24
+
+12
+
+Confidentiality
+
+24
+
+13
+
+Duty, costs and expenses
+
+24
+
+14
+
+GST
+
+25
+
+15
+
+General
+
+25
+
+Schedule 1 Dictionary
+
+29
+
+Schedule 2 Vault Warranties
+
+37
+
+Schedule 3 Damstra Warranties
+
+40
+
+Schedule 4 Vault Prescribed Occurrences
+
+42
+
+Schedule 5 Damstra Prescribed Occurrences
+
+43
+
+Execution page
+
+45
+
+3458-5566-9776 v1
+
+page | i
+
+Date:
+
+8 July 2020
+
+For personal use only
+
+Parties
+1
+
+Damstra Holdings Limited (ACN 610 571 607) of Level 1, 38 Garden Street,
+South Yarra Victoria 3141 (Damstra)
+
+2
+
+Vault Intelligence Limited (ACN 145 040 857) of Level 18, 1 Nicholson Street,
+East Melbourne, VIC, 3002 (Vault)
+
+Background
+A
+
+The parties have agreed that Vault will convene a meeting of Scheme
+Shareholders to consider approving the acquisition of Vault by Damstra by means
+of a scheme of arrangement under Part 5.1 of the Corporations Act between Vault
+and the Scheme Shareholders.
+
+B
+
+Damstra and Vault have agreed to implement the Scheme on and subject to the
+terms of this deed.
+
+The parties agree
+
+1
+
+Defined terms and interpretation
+1.1
+
+Defined terms
+A term or expression which is defined in the dictionary in Schedule 1 has the meaning
+given to it in the dictionary.
+
+1.2
+
+Interpretation
+The interpretation clause in Schedule 1 sets out rules of interpretation for this deed.
+
+2
+
+Gilbert + Tobin
+
+Agreement to proceed with Transaction
+2.1
+
+2.2
+
+Vault to propose Scheme
+(a)
+
+Vault agrees to propose and implement the Scheme on and subject to the terms of
+this deed.
+
+(b)
+
+Vault must not consent to any modification of, or amendment to, the Scheme, or to
+the making or imposition by the Court of any condition in respect of the Scheme,
+without the prior written consent of Damstra.
+
+(c)
+
+Damstra agrees to assist Vault in proposing and implementing the Scheme on and
+subject to the terms of this deed.
+
+Scheme Consideration
+(a)
+
+Each Scheme Shareholder will be entitled to receive the Scheme Consideration in
+respect of each of their Scheme Shares, on and subject to the terms of the
+Scheme.
+
+(b)
+
+Subject to clause 2.2(c) and the Scheme becoming Effective, Damstra undertakes
+and warrants to Vault (in Vault’s own right and separately as trustee for each of the
+
+3458-5566-9776 v1
+
+page | 1
+
+For personal use only
+
+Scheme Shareholders) that, in consideration of the transfer to Damstra of all
+Scheme Shares pursuant to the terms of the Scheme, on the Implementation Date
+Damstra will:
+
+2.3
+
+(i)
+
+accept that transfer; and
+
+(ii)
+
+provide to each Scheme Shareholder the Scheme Consideration for each
+Scheme Share held by that Scheme Shareholder in accordance with the
+terms of this deed and the Scheme.
+
+(c)
+
+Damstra will not issue any New Damstra Shares to Ineligible Foreign
+Shareholders, and instead will issue the New Damstra Shares that would otherwise
+have been issued to the Ineligible Foreign Shareholders to a nominee appointed by
+Damstra. Damstra must appoint the nominee at least 10 Business Days prior to the
+Scheme Meeting and such appointment must require the nominee to sell those
+New Damstra Shares on-market in accordance with the process set out in the
+Scheme and to remit the proceeds from that sale (after deducting any selling costs
+and taxes) to Vault. Vault must then remit the proceeds it receives to Ineligible
+Foreign Shareholders in accordance with their respective entitlements.
+
+(d)
+
+Where the calculation of the number of New Damstra Shares to be issued to a
+particular Scheme Shareholder would result in the Scheme Shareholder becoming
+entitled to a fraction of a New Damstra Share, the fractional entitlement will be
+rounded down to the nearest whole number of New Damstra Shares.
+
+New Damstra Shares
+Damstra covenants in favour of Vault (in its own right and separately as trustee and
+nominee for each of the Scheme Shareholders) that:
+
+2.4
+
+(a)
+
+the New Damstra Shares issued as Scheme Consideration will, on their issue, rank
+equally in all respects with all other Damstra Shares on issue at the Implementation
+Date; and
+
+(b)
+
+on issue, each New Damstra Share will be fully paid and free from any
+encumbrance.
+
+Vault Board recommendation
+(a)
+
+Vault represents and warrants to Damstra that, as at the date of this deed, each
+Vault Director has confirmed by resolution of the Vault Board that he or she will
+make the recommendation referred to in clause 2.4(b)(i) and the statement referred
+to in clause 2.4(b)(ii).
+
+(b)
+
+Subject to clause 2.4(c), Vault must ensure that the Scheme Booklet and the
+announcement referred to in clause 11.1 state that each Vault Director:
+(i)
+
+recommends that Vault Shareholders vote in favour of the resolution to
+approve the Scheme; and
+
+(ii)
+
+intends to vote, or cause to be voted, all Vault Shares which they own or
+control in favour of the resolution to approve the Scheme,
+
+which statements must not be qualified in any way other than by words to the effect
+of one or both of:
+(iii)
+
+Gilbert + Tobin
+
+‘in the absence of a Superior Proposal’; and
+
+3458-5566-9776 v1
+
+page | 2
+
+(iv)
+
+For personal use only
+
+(c)
+
+3
+
+Gilbert + Tobin
+
+‘subject to the Independent Expert concluding that the Scheme is in the best
+interests of Vault Shareholders and not changing that conclusion’.
+
+Vault must ensure that each Vault Director does not change, withdraw, qualify or
+modify their recommendation or voting intention as set out in clause 2.4(b), or
+make a public statement or take any action that is inconsistent with such
+recommendation or voting intention, unless:
+(i)
+
+Vault receives a Superior Proposal in respect of which all of the
+requirements in clause 6.7(a) are satisfied; or
+
+(ii)
+
+the Independent Expert concludes, or changes its previous conclusion so as
+to conclude, that the Scheme is not in the best interests of Vault
+Shareholders.
+
+Conditions precedent
+3.1
+
+Conditions
+Subject to this clause 3, the Scheme will not become Effective until and unless the
+following Conditions are satisfied or waived in accordance with clause 3.3:
+(a)
+
+Independent Expert: The Independent Expert concludes in the Independent
+Expert’s Report that the Scheme is in the best interests of Vault Shareholders (and
+does not change that conclusion before 8:00am on the Second Court Date).
+
+(b)
+
+Court approval: The Court approves the Scheme in accordance with section
+411(4)(b) of the Corporations Act.
+
+(c)
+
+Shareholder approval: Vault Shareholders approve the Scheme at the Scheme
+Meeting by the requisite majorities under section 411(4)(a) of the Corporations Act.
+
+(d)
+
+ASX quotation: ASX approves the official quotation of the New Damstra Shares
+on ASX by 8.00am on the Second Court Date, subject to any conditions that ASX
+may reasonably require, including customary pre-quotation conditions and
+conditions relating to the Scheme becoming Effective.
+
+(e)
+
+Restraints: No restraining order, injunction or other order that would prevent the
+Scheme from becoming Effective or being implemented is made by a court of
+competent jurisdiction or Governmental Agency is in effect as at 8.00am on the
+Second Court Date.
+
+(f)
+
+Vault Prescribed Occurrence: No Vault Prescribed Occurrence occurs between
+the date of this deed and 8:00am on the Second Court Date.
+
+(g)
+
+Damstra Prescribed Occurrence: No Damstra Prescribed Occurrence occurs
+between the date of this deed and 8:00am on the Second Court Date.
+
+(h)
+
+Vault Material Adverse Event: No Vault Material Adverse Event occurs between
+the date of this deed and 8:00am on the Second Court Date.
+
+(i)
+
+Damstra Material Adverse Event: No Damstra Material Adverse Event occurs
+between the date of this deed and 8:00am on the Second Court Date.
+
+(j)
+
+Vault Options: Before 8:00am on the Second Court Date each holder of Vault
+Options has entered into a binding agreement with Vault and Damstra to deal with
+
+3458-5566-9776 v1
+
+page | 3
+
+their Vault Options on terms acceptable to Vault and Damstra (each acting
+reasonably), such that no Vault Options are in existence from the Implementation
+Date.
+
+For personal use only
+
+3.2
+
+3.3
+
+3.4
+
+Reasonable endeavours
+(a)
+
+Vault must, to the extent within its power to do so, use reasonable endeavours to
+procure that the Conditions in clauses 3.1(f) (Vault Prescribed Occurrence), 3.1(h)
+(Vault Material Adverse Event) and 3.1(j) (Vault Options) are satisfied.
+
+(b)
+
+Damstra must, to the extent within its power to do so, use reasonable endeavours
+to ensure that the Conditions in clauses 3.1(d) (ASX quotation), 3.1(g) (Damstra
+Prescribed Occurrence) and 3.1(i) (Damstra Material Adverse Event) are satisfied.
+
+(c)
+
+Each of Vault and Damstra must, to the extent within its power to do so, use
+reasonable endeavours to procure that:
+(i)
+
+the Conditions in clauses 3.1(a) (Independent Expert), 3.1(b) (Court
+approval), 3.1(c) (Shareholder approval) and 3.1(e) (Restraints) are satisfied
+as soon as practicable after the date of this deed; and
+
+(ii)
+
+there is no occurrence or non-occurrence within its control or the control of
+any of its Subsidiaries that would prevent any of those Conditions being
+satisfied.
+
+Waiver of Conditions
+(a)
+
+The Conditions in clauses 3.1(b) (Court approval) and 3.1(c) (Shareholder
+approval) cannot be waived.
+
+(b)
+
+The Conditions in clauses 3.1(a) (Independent Expert), 3.1(d) (ASX quotation) and
+3.1(e) (Restraints) are for the benefit of Damstra and Vault and may only be waived
+by written agreement between Damstra and Vault.
+
+(c)
+
+The Conditions in clauses 3.1(f) (Vault Prescribed Occurrence), 3.1(h) (Vault
+Material Adverse Event) and 3.1(j) (Vault Options) are for the sole benefit of
+Damstra and may only be waived by Damstra in writing.
+
+(d)
+
+The Conditions in clauses 3.1(g) (Damstra Prescribed Occurrence) and 3.1(i)
+(Damstra Material Adverse Event) are for the sole benefit of Vault and may only be
+waived by Vault in writing.
+
+(e)
+
+Waiver of breach or non-fulfilment of a Condition does not constitute:
+(i)
+
+a waiver of breach or non-fulfilment of any other Condition resulting from the
+same event; or
+
+(ii)
+
+a waiver of breach or non-fulfilment of that Condition resulting from any other
+event.
+
+Failure of Condition
+(a)
+
+If:
+(i)
+
+Gilbert + Tobin
+
+there is a breach or non-fulfilment of a Condition that has not been waived in
+accordance with clause 3.3;
+
+3458-5566-9776 v1
+
+page | 4
+
+For personal use only
+
+(ii)
+
+a Condition becomes incapable of satisfaction and the breach or nonfulfilment of that Condition that has occurred, or would otherwise occur, has
+not been waived in accordance with clause 3.3; or
+
+(iii)
+
+the Scheme has not become Effective by the End Date,
+
+then either Vault or Damstra may give the other written notice (Consultation
+Notice) within 5 Business Days of the relevant event in clause 3.4(a)(i), 3.4(a)(ii) or
+3.4(a)(iii) (as applicable).
+(b)
+
+(c)
+
+3.5
+
+If Vault or Damstra gives a Consultation Notice, then Vault and Damstra must
+promptly consult in good faith to determine whether they can reach agreement with
+respect to:
+(i)
+
+an extension of the time for satisfaction of the relevant Condition or an
+extension of the End Date (or both); or
+
+(ii)
+
+the Transaction proceeding by way of alternative means or methods.
+
+If Vault and Damstra have not reached agreement under clause 3.4(b) within 5
+Business Days after a Consultation Notice is given or if neither of them gives a
+Consultation Notice in accordance with clause 3.4(a), then either of them may
+terminate this deed by giving written notice to the other, provided that a party may
+only exercise such termination right if the relevant event in clause 3.4(a)(i),
+3.4(a)(ii) or 3.4(a)(iii) (as applicable) did not arise due to a breach of this deed by
+that party.
+
+Certain notices
+If a party becomes aware:
+(a)
+
+that any Condition has been satisfied; or
+
+(b)
+
+of any fact, matter or circumstance that has resulted, will result or is reasonably
+likely to result in:
+(i)
+
+a Condition becoming incapable of satisfaction or otherwise not being
+satisfied in accordance with its terms;
+
+(ii)
+
+a breach of a Warranty provided by that party under this deed or such a
+Warranty ceasing to be true and correct in all material respects; or
+
+(iii)
+
+a material breach of this deed by that party,
+
+it must promptly notify the other party in writing and provide such evidence or details as
+may be reasonably requested by the other party.
+
+4
+
+Gilbert + Tobin
+
+Implementation steps and Scheme Booklet
+4.1
+
+Vault obligations
+Vault must take all steps reasonably necessary to implement the Scheme in accordance
+with the Timetable and otherwise on and subject to the terms of this deed, and must
+consult with Damstra on a regular basis about its progress in satisfying its obligations
+under this clause 4.1. Without limiting the foregoing, Vault must:
+
+3458-5566-9776 v1
+
+page | 5
+
+For personal use only
+Gilbert + Tobin
+
+(a)
+
+Independent Expert: promptly after the date of this deed, appoint the Independent
+Expert and provide all assistance and information reasonably requested by the
+Independent Expert in connection with the preparation of the Independent Expert’s
+Report;
+
+(b)
+
+Combined Group information: prepare and promptly share with Damstra any
+information regarding the Vault Group that the parties reasonably require in order
+to prepare the information regarding the Combined Group for inclusion in the
+Scheme Booklet, and jointly (with Damstra) prepare the pro forma financial
+information for inclusion in the Scheme Booklet;
+
+(c)
+
+preparation of Scheme Booklet:
+
+(d)
+
+(i)
+
+prepare the Scheme Booklet (other than the Damstra Information and the
+Independent Expert’s Report) in accordance with all applicable laws,
+including the Corporations Act and Corporations Regulations, ASIC
+Regulatory Guide 60, Takeovers Panel guidance notes and the Listing
+Rules; and
+
+(ii)
+
+provide Damstra with drafts of the Scheme Booklet (including factual
+accuracy drafts of the Independent Expert's Report) in a timely manner,
+allow Damstra a reasonable period to review and comment on the drafts,
+and consider in good faith any comments provided by or on behalf of
+Damstra;
+
+lodgement of Scheme Booklet:
+(i)
+
+provide an advanced draft of the Scheme Booklet to ASIC for its review for
+the purposes of section 411(2) of the Corporations Act, provided that such
+draft must not be provided to ASIC without Damstra's prior written consent in
+respect of the Damstra Information; and
+
+(ii)
+
+keep Damstra reasonably informed of any material issues raised by ASIC in
+relation to the Scheme Booklet and any steps proposed to be taken to
+address such issues, and to the extent that such issues relate to Damstra
+Information, Vault must not take any steps to address such issues without
+Damstra's prior written consent;
+
+(e)
+
+approval of Scheme Booklet: procure that a meeting of the Vault Board (or a
+sub-committee thereof) is convened to approve the despatch of the Scheme
+Booklet to Vault Shareholders, subject to orders of the Court under section 411(1)
+of the Corporations Act;
+
+(f)
+
+no objection statement: apply to ASIC for:
+(i)
+
+a letter stating that ASIC does not intend to appear at the First Court
+Hearing; and
+
+(ii)
+
+a statement under section 411(17)(b) of the Corporations Act stating that
+ASIC has no objection to the Scheme;
+
+(g)
+
+First Court Hearing: apply to the Court for orders under section 411(1) of the
+Corporations Act directing Vault to convene the Scheme Meeting;
+
+(h)
+
+approval and registration of Scheme Booklet: request that ASIC register the
+Scheme Booklet in accordance with section 412(6) of the Corporations Act;
+
+3458-5566-9776 v1
+
+page | 6
+
+For personal use only
+Gilbert + Tobin
+
+(i)
+
+despatch: as soon as reasonably practicable following registration of the Scheme
+Booklet by ASIC, despatch the Scheme Booklet to Vault Shareholders;
+
+(j)
+
+supplementary disclosure: if, after despatch of the Scheme Booklet, Vault
+becomes aware:
+(i)
+
+that information included in the Scheme Booklet is or has become
+misleading or deceptive in any material respect (whether by omission or
+otherwise); or
+
+(ii)
+
+of information that is required to be disclosed to Vault Shareholders under
+any applicable law, ASIC published policy, Takeovers Panel guidance note
+or Listing Rule but was not included in the Scheme Booklet,
+
+promptly consult with Damstra and make any supplementary disclosure to Vault
+Shareholders that Vault considers reasonably necessary in the circumstances,
+provided that the form and content of such disclosure must be approved in
+advance by Damstra;
+(k)
+
+Scheme Meeting: convene and hold the Scheme Meeting to approve the Scheme
+in accordance with the orders made by the Court at the First Court Hearing;
+
+(l)
+
+Conditions Certificate: at the Second Court Hearing, provide to the Court
+(through its counsel) a certificate confirming (in respect of matters within its
+knowledge) whether or not the Conditions (other than the Condition in clause
+3.1(b)) have been satisfied or waived in accordance with clause 3, a draft of which
+must be provided to Damstra by 5:00pm on the date that is 2 Business Days prior
+to the Second Court Date;
+
+(m)
+
+Second Court Hearing: subject to the Conditions (other than the Condition in
+clause 3.1(b)) being satisfied or waived in accordance with clause 3, apply to the
+Court for orders under section 411(4)(b) of the Corporations Act approving the
+Scheme;
+
+(n)
+
+Court Documents: prepare the Court Documents, provide drafts of those
+documents to Damstra and consider in good faith any comments provided by or on
+behalf of Damstra;
+
+(o)
+
+Damstra representation at Court Hearings: allow, and not oppose, any
+application by Damstra for leave of the Court to be represented by counsel at a
+Court Hearing;
+
+(p)
+
+lodgement of Court order: for the purposes of section 411(10) of the
+Corporations Act, lodge with ASIC an office copy of the orders made by the Court
+under section 411(4)(b) of the Corporations Act before 5:00pm on the Business
+Day immediately following the day on which it receives such office copy;
+
+(q)
+
+Scheme Consideration: if the Scheme becomes Effective, finalise and close the
+Share Register as at the Record Date, and determine entitlements to the Scheme
+Consideration, in accordance with the Scheme;
+
+(r)
+
+provision of information to Damstra: following despatch of the Scheme Booklet
+to Vault Shareholders, provide Damstra with such information as Damstra
+reasonably requests in relation to Vault Shareholders in a form reasonably
+requested by Damstra from time to time. Without limiting the foregoing, Vault must
+provide, or procure the provision of, a complete copy of its Share Register as at the
+Record Date (which must include the name, registered address and registered
+
+3458-5566-9776 v1
+
+page | 7
+
+holding of each Scheme Shareholder at the Record Date) to Damstra, within one
+Business Day after the Record Date;
+
+For personal use only
+
+(s)
+
+(t)
+
+(u)
+
+(v)
+
+4.2
+
+(i)
+
+execute, on behalf of Scheme Shareholders, instruments of transfer and
+effect the transfer of all the Scheme Shares to Damstra; and
+
+(ii)
+
+register all transfers of the Scheme Shares to Damstra on the
+Implementation Date;
+
+quotation of Vault Shares and ASX listing: apply to ASX to have:
+(i)
+
+trading in Vault Shares suspended from the close of trading on the Effective
+Date; and
+
+(ii)
+
+Vault removed from the official list of ASX, and quotation of Vault Shares on
+ASX terminated, by the close of trading on the trading day immediately
+following the Implementation Date;
+
+promotion of Transaction: participate in efforts reasonably requested by Damstra
+to promote the merits of the Transaction, including:
+(i)
+
+meeting with key Vault Shareholders and communicating with employees,
+partners, customers and suppliers in a manner which is supportive of the
+Scheme; and
+
+(ii)
+
+providing Damstra with such information and assistance as Damstra
+reasonably requests to enable it to promote the merits of the Transaction;
+and
+
+compliance with laws: do everything reasonably within its power to ensure that
+the Transaction is effected in accordance with the terms of this deed and
+applicable laws.
+
+Damstra obligations
+Damstra must take all steps reasonably necessary to implement the Scheme in
+accordance with the Timetable and otherwise on and subject to the terms of this deed,
+and must consult with Vault on a regular basis about its progress in satisfying its
+obligations under this clause 4.2. Without limiting the foregoing, Damstra must:
+(a)
+
+(b)
+
+Gilbert + Tobin
+
+transfer and registration: if the Scheme becomes Effective and subject to
+Damstra having issued the Scheme Consideration in accordance with the Deed
+Poll:
+
+prepare Damstra Information: as soon as practicable after the date of this deed:
+(i)
+
+prepare the Damstra Information for inclusion in the Scheme Booklet in
+accordance with all applicable laws, including the Corporations Act and
+Corporations Regulations, ASIC Regulatory Guide 60, Takeovers Panel
+guidance notes and the Listing Rules; and
+
+(ii)
+
+provide Vault with drafts of the Damstra Information in a timely manner,
+allow Vault a reasonable period to review and consider in good faith any
+comments provided by or on behalf of Vault;
+
+final form of Damstra Information: provide to Vault the Damstra Information in a
+form appropriate for inclusion in the Scheme Booklet;
+
+3458-5566-9776 v1
+
+page | 8
+
+For personal use only
+Gilbert + Tobin
+
+(c)
+
+assistance with Scheme Booklet and Court Documents: provide any
+assistance or information reasonably requested by Vault or its Representatives in
+connection with the preparation of the Scheme Booklet (including any
+supplementary disclosure to Vault Shareholders) or any Court Documents;
+
+(d)
+
+Independent Expert’s Report: provide any assistance or information reasonably
+requested by Vault or its Representatives, or by the Independent Expert, in
+connection with the preparation of the Independent Expert’s Report;
+
+(e)
+
+Combined Group information: jointly (with Vault) prepare the pro forma financial
+information for inclusion in the Scheme Booklet;
+
+(f)
+
+consent to Damstra Information: promptly after Vault requests that it does so
+(and in any case prior to 5:00pm on the Business Day prior to the First Court Date),
+confirm in writing to Vault that it consents to the inclusion of the Damstra
+Information in the Scheme Booklet, in the form and context in which the Damstra
+Information appears;
+
+(g)
+
+Update Damstra Information: promptly notify Vault in writing if it becomes aware:
+(i)
+
+of information which should have been but was not included in the Damstra
+Information; or
+
+(ii)
+
+that the Damstra Information is or has become misleading or deceptive in
+any material respect (whether by omission or otherwise), or otherwise does
+not comply with applicable laws, ASIC Regulatory Guide 60, Takeovers
+Panel guidance notes and the Listing Rules;
+
+(h)
+
+Deed Poll: before 5:00pm on the Business Day before the First Court Date,
+execute the Deed Poll and deliver the executed Deed Poll to Vault;
+
+(i)
+
+Representation: apply for leave of the Court to be, and if granted be, represented
+by counsel at the Court Hearings;
+
+(j)
+
+Conditions Certificate: before 8:00am on the Second Court Date, provide to Vault
+for provision to the Court at the Second Court Hearing a certificate confirming (in
+respect of matters within its knowledge) whether or not the Conditions (other than
+the Condition in clause 3.1(b)) have been satisfied or waived in accordance with
+clause 3, a draft of which must be provided to Vault by 5:00pm on the date 2
+Business Days before the Second Court Date;
+
+(k)
+
+Scheme Consideration: if the Scheme becomes Effective, provide the Scheme
+Consideration in accordance with this deed and the Deed Poll;
+
+(l)
+
+share transfer: if the Scheme becomes Effective, accept a transfer of the Scheme
+Shares in accordance with this deed and the Deed Poll; and
+
+(m)
+
+compliance with laws: do everything reasonably within its power to ensure that
+the Transaction is effected in accordance with the terms of this deed and
+applicable laws.
+
+3458-5566-9776 v1
+
+page | 9
+
+4.3
+
+Scheme Booklet
+
+For personal use only
+
+(a)
+
+(b)
+
+(c)
+
+5
+
+Gilbert + Tobin
+
+If Damstra and Vault are unable to agree on the form or content of a particular part
+of the Scheme Booklet (other than the Independent Expert’s Report), then:
+(i)
+
+if the relevant part of the Scheme Booklet is Damstra Information, Vault will
+make such amendments to that part of the Scheme Booklet as required by
+Damstra (acting reasonably); and
+
+(ii)
+
+if the relevant part of the Scheme Booklet is Vault Information, Vault (acting
+reasonably) will decide the form and content of that part of the Scheme
+Booklet.
+
+Damstra and Vault agree that the Scheme Booklet will contain a responsibility
+statement to the effect that:
+(i)
+
+Vault is responsible for the Vault Information contained in the Scheme
+Booklet, and none of Damstra or its Subsidiaries or their respective directors,
+officers, employees or advisors assumes any responsibility or liability for the
+accuracy or completeness of the Vault Information;
+
+(ii)
+
+Damstra is responsible for the Damstra Information contained in the Scheme
+Booklet, and none of Vault or its Subsidiaries or their respective directors,
+officers, employees or advisors assumes any responsibility or liability for the
+accuracy or completeness of the Damstra Information; and
+
+(iii)
+
+the Independent Expert is responsible for the Independent Expert’s Report,
+and none of Damstra or its Subsidiaries or their respective directors, officers
+or employees, nor Vault or its Subsidiaries or their respective directors,
+officers or employees, assumes any responsibility or liability for the accuracy
+or completeness of the Independent Expert’s Report.
+
+Vault must undertake appropriate verification processes in relation to the Vault
+Information included in the Scheme Booklet and Damstra must undertake
+appropriate verification processes in relation to the Damstra Information included in
+the Scheme Booklet.
+
+Conduct of business and transitional matters
+5.1
+
+Conduct of business
+(a)
+
+Subject to clause 5.1(c), from the date of this deed up to and including the
+Implementation Date, each of Vault and Damstra must, and must cause each of its
+Subsidiaries to:
+(i)
+
+conduct its business and operations in the ordinary course and in a manner
+generally consistent with the manner in which such business and operations
+were conducted in the 12 months prior to the date of this deed; and
+
+(ii)
+
+make all reasonable efforts to:
+(A)
+
+maintain and preserve the value of their businesses and assets;
+
+(B)
+
+retain the services of all key employees; and
+
+3458-5566-9776 v1
+
+page | 10
+
+(C)
+
+For personal use only
+
+(b)
+
+maintain and preserve their relationships with customers, suppliers,
+landlords and others with whom they have material business dealings.
+
+Without limiting clause 5.1(a), but subject to clause 5.1(c), on and from the date of
+this deed up to and including the Implementation Date, Vault must not, and must
+procure that no other member of the Vault Group:
+(i)
+
+declares, pays or distributes any dividend, bonus or other share of its profits
+or assets or returns any capital to its members other than by a Subsidiary to
+Vault;
+
+(ii)
+
+makes any change to its constitution;
+
+(iii)
+
+acquires, leases or disposes of any securities, business or assets having a
+value in excess of $400,000, other than to or from another member of the
+Vault Group;
+
+(iv)
+
+makes a commitment to, or incurs, capital expenditure of more than
+$400,000 in one transaction or a series of related transactions;
+
+(v)
+
+incurs any financial indebtedness by way of new borrowings other than from
+another member of the Vault Group excluding any agreement relating to
+deferred payment terms and any equipment loans, hire purchase
+arrangements, leases or similar arrangements;
+
+(vi)
+
+provides financial accommodation other than to members of the Vault Group
+(irrespective of what form of financial indebtedness that accommodation
+takes but excluding any agreement relating to deferred payment terms);
+
+(vii)
+
+enters into any transaction or agreement that continues beyond the
+Implementation Date on terms that are not arm's length commercial terms;
+
+(viii)
+
+terminates the employment, consulting, severance or similar agreement or
+arrangement with any person, including an officer, director, executive or
+other employee, whose total employment cost exceeds $200,000 per annum
+(Vault Key Employee);
+
+(ix)
+
+materially varies the terms of employment of any Vault Key Employee;
+
+(x)
+
+employs any person having a total annual employment cost of more than
+$200,000;
+
+(xi)
+
+accelerates the rights of any of their employees to compensation or benefits
+excluding in relation to any Vault Options as envisaged by clause 3.1(j);
+
+(xii)
+
+materially varies or waives any material rights under or terminates any Vault
+Material Contract or enters into any agreement, contract, deed or
+arrangement referred to in paragraphs (b) or (c) of the definition of Vault
+Material Contract in Schedule 1;
+
+(xiii)
+
+settles any legal proceedings, claim, investigation, mediation, arbitration or
+other like proceeding where the settlement amount exceeds $300,000;
+
+(xiv) settles or compromises any dispute, audit or inquiry in relation to tax or duty
+or amends any tax return, other than in the ordinary course of its business;
+
+Gilbert + Tobin
+
+3458-5566-9776 v1
+
+page | 11
+
+For personal use only
+
+(xv)
+
+Gilbert + Tobin
+
+enters into any guarantee or indemnity on behalf of any person or provides
+security for the obligations of any person except for another member of the
+Vault Group or in the ordinary course of business;
+
+(xvi) materially changes any accounting policy applied by it to report its financial
+position other than any change in policy required by a change in accounting
+standards or law; or
+(xvii) agrees to do any of the matters set out in clauses 5.1(b)(i) to 5.1(b)(xvi)
+(inclusive).
+(c)
+
+5.2
+
+Nothing in clause 5.1(a) or 5.1(b) restricts any member of the Vault Group or
+Damstra Group from doing or not doing (or agreeing to do or not do) anything
+which:
+(i)
+
+is required by any applicable law or Government Agency;
+
+(ii)
+
+is required or permitted by this deed, the Scheme or the Deed Poll;
+
+(iii)
+
+is a reasonable and prudent response to any emergency or disaster
+(including a situation giving rise to a risk of personal injury or damage to
+property);
+
+(iv)
+
+has been Fairly Disclosed in the Vault Disclosure Materials or Damstra
+Disclosure Materials (as applicable); or
+
+(v)
+
+has been consented to in writing by the other party.
+
+Access
+(a)
+
+Vault must provide Damstra with reasonable access during normal business hours
+to information, premises and the executive management team of Vault where
+Damstra reasonably requests such access for the sole purpose of:
+(i)
+
+implementation of the Scheme;
+
+(ii)
+
+integration planning; or
+
+(iii)
+
+any other purposes agreed with Vault in writing,
+
+provided that Vault will not be required to provide access under clause 5.2(a) to the
+extent that doing so would, in the reasonable opinion of Vault:
+(iv)
+
+cause unreasonable disruption to the Vault Group’s business;
+
+(v)
+
+result in any member of the Vault Group breaching any applicable law or
+requirement of any Government Agency;
+
+(vi)
+
+relate to commercially sensitive information that may be adverse to Vault's
+business interests to the extent that Damstra and Vault are competitors;
+
+(vii)
+
+would result in the disclosure of the consideration of the Vault Board or
+management of Damstra's proposal; or
+
+(viii)
+
+result in a waiver of legal professional privilege (provided Vault must use
+reasonable endeavours to facilitate the provision of such information without
+waiving legal professional privilege).
+
+3458-5566-9776 v1
+
+page | 12
+
+(b)
+5.3
+
+Any information provided by Vault pursuant to clause 5.2(a) will be subject to the
+Confidentiality Deed.
+
+Change of control
+
+For personal use only
+
+As soon as practicable after the date of this deed, the parties must:
+
+Gilbert + Tobin
+
+5.4
+
+(a)
+
+seek to identify any change of control or similar provisions, or any consent,
+approval or notification requirements, in any Vault Material Contracts or
+Authorisation to which a member of the Vault Group is party which may be
+triggered by, or otherwise require some action in connection with, the
+implementation of the Transaction (Change of Control Requirements); and
+
+(b)
+
+use all reasonable endeavours and cooperate in good faith to satisfy the Change of
+Control Requirements on terms acceptable to both parties (each acting
+reasonably).
+
+Transition Committee
+(a)
+
+On and from the date of this deed, Vault and Damstra agree to establish a
+committee (Transition Committee) comprising:
+(i)
+
+2 nominees appointed by Vault; and
+
+(ii)
+
+2 nominees appointed by Damstra.
+
+(b)
+
+Each party must notify the other party of its nominees to the Transition Committee
+as soon as practicable after the date of this deed.
+
+(c)
+
+The role of the Transition Committee will be to act as a forum for discussion and
+planning, but not decision making, in relation to overseeing the progress of the
+Transaction in accordance with this deed and assisting with the eventual transition
+of the control of Vault to Damstra upon the Scheme becoming Effective.
+
+(d)
+
+Without limiting clause 5.4(b), from the date of this deed up to and including the
+Implementation Date, the Transition Committee will:
+(i)
+
+oversee implementation of the Scheme;
+
+(ii)
+
+report on key milestones (as determined by the Transition Committee) in
+connection with implementation of the Scheme; and
+
+(iii)
+
+seek to determine how to best:
+(A)
+
+integrate the Vault Group’s business into the operations of Damstra;
+and
+
+(B)
+
+implement plans for the carrying on of the business of the Vault Group
+following implementation of the Scheme.
+
+(e)
+
+Any information provided to Representatives of Damstra under this clause 5.4 will
+be subject to the Confidentiality Deed.
+
+(f)
+
+The Transition Committee will meet at least fortnightly or on such shorter
+timeframes as Vault and Damstra may agree. Meetings may be held via telephone.
+
+3458-5566-9776 v1
+
+page | 13
+
+For personal use only
+
+5.5
+
+(g)
+
+The members of the Transition Committee may agree to invite other persons to
+attend meetings of the Transition Committee from time to time (including the
+parties’ respective legal and financial advisers).
+
+(h)
+
+Nothing in this clause 5.4:
+(i)
+
+requires Vault to act at the direction of Damstra or imposes any obligation on
+Vault to conduct the business of the Vault Group in accordance with any
+direction or representation made by Damstra; or
+
+(ii)
+
+requires any party to act or participate in any forum to the extent that doing
+so is contrary to law or the requirements of any Government Agency.
+
+Board composition
+(a)
+
+Vault must procure that, with effect on and from the Implementation Date:
+(i)
+
+(ii)
+
+5.6
+
+those persons nominated by Damstra are appointed to the Vault Board
+and/or the boards of other members of the Vault Group, subject to:
+(A)
+
+such persons having duly signed consents to act as a director of the
+relevant member(s) of the Vault Group; and
+
+(B)
+
+such consents to act having been provided to Vault before the
+Effective Date; and
+
+those persons nominated by Damstra resign as directors of Vault and/or
+other members of the Vault Group.
+
+(b)
+
+Any nomination by Damstra under clause 5.5(a)(i) or 5.5(a)(ii) must be made by
+written notice to Vault, and such notice must be given before the Effective Date.
+
+(c)
+
+Nothing in clause 5.5(a) requires any director of a member of the Vault Group to
+forego any rights he or she may have under any deed of access and indemnity or
+policy of directors’ and officers’ insurance.
+
+D&O insurance
+Each party acknowledges that Vault may, prior to the Implementation Date, in
+consultation with Damstra, enter into arm's length term arrangements to secure and place
+a directors' and officers' run-off insurance policy in respect of any current or former
+director or officer of any member of the Vault Group that applies for no more than a 7
+year period following the Implementation Date.
+
+6
+
+Gilbert + Tobin
+
+Exclusivity
+6.1
+
+No existing discussions
+Vault represents and warrants to Damstra that, as at the date of this deed, it and its
+Representatives:
+(a)
+
+are not a party to any agreement, arrangement or understanding with a Third Party
+entered into for the purpose of facilitating a Competing Proposal;
+
+3458-5566-9776 v1
+
+page | 14
+
+For personal use only
+Gilbert + Tobin
+
+6.2
+
+(b)
+
+are not participating in any discussions or negotiations, and have terminated any
+existing discussions or negotiations, in relation to a Competing Proposal, or which
+could reasonably be expected to lead to a Competing Proposal; and
+
+(c)
+
+have ceased to provide or make available any non-public information in relation to
+the Vault Group to any Third Party where such information was provided for the
+purpose of facilitating, or could reasonably be expected to lead to, a Competing
+Proposal, and have enforced all rights to call for the immediate return and/or
+destruction of that non-public information.
+
+No-shop
+During the Exclusivity Period, Vault must not, and must procure that its Representatives
+do not, directly or indirectly:
+
+6.3
+
+(a)
+
+solicit, encourage, initiate or invite any inquiry, discussion, offer, expressions of
+interest or proposal in relation to, or which may reasonably be expected to
+encourage or lead to the making of, an actual, proposed or potential Competing
+Proposal; or
+
+(b)
+
+communicate to any person any intention to do any of the things referred to in
+clause 6.2(a).
+
+No-talk
+Subject to clause 6.6, during the Exclusivity Period, Vault must not, and must procure that
+its Representatives do not, directly or indirectly:
+
+6.4
+
+(a)
+
+enter into, continue or participate in any discussions or negotiations with respect to
+any inquiry, expression of interest, offer, proposal or discussion by any person to
+make, or which may reasonably be expected to lead to, a Competing Proposal or
+participate in or continue any negotiations or discussions with respect to any
+actual, proposed or potential Competing Proposal;
+
+(b)
+
+negotiate, accept or enter into, or offer or agree to negotiate, accept or enter into,
+any agreement, arrangement or understanding in relation to (or which may
+reasonably be expected to lead to) a Competing Proposal; or
+
+(c)
+
+communicate to any person any intention to do any of the things referred to in
+clause 6.3(a) or 6.3(b).
+
+No due diligence
+Subject to clause 6.6, during the Exclusivity Period, Vault must not, and must procure that
+its Representatives do not, directly or indirectly:
+(a)
+
+solicit, invite, initiate, facilitate or encourage any person (other than Damstra and its
+Representatives) to undertake due diligence investigations in respect of Vault, its
+Subsidiaries or any of their respective businesses and operations, in connection
+with or which may reasonably be expected to lead to a Competing Proposal; or
+
+(b)
+
+make available to any person (other than Damstra and its Representatives) or
+permit any such person to receive, any non-public information relating to Vault, its
+Subsidiaries or any of their respective businesses and operations, in connection
+with or which may reasonably be expected to a Competing Proposal.
+
+3458-5566-9776 v1
+
+page | 15
+
+6.5
+
+Notification obligation
+
+For personal use only
+
+(a)
+
+Gilbert + Tobin
+
+During the Exclusivity Period, Vault must notify Damstra in writing within 24 hours
+of:
+(i)
+
+any approach, inquiry or proposal made by any person to Vault, any of its
+Subsidiaries or any of their respective Representatives in relation to an
+actual, proposed or potential Competing Proposal; and
+
+(ii)
+
+any request made by any person to Vault, any of its Subsidiaries or any of
+their respective Representatives for any information relating to Vault, its
+Subsidiaries or any of their respective businesses and operations in
+connection with or which could reasonably be expected to lead to a
+Competing Proposal,
+
+(each, a Notifiable Proposal).
+(b)
+
+(c)
+
+6.6
+
+A notice given under clause 6.5(a) must set out the material terms of the Notifiable
+Proposal to the extent known by Vault, including:
+(i)
+
+the identity of the person who made the Notifiable Proposal; and
+
+(ii)
+
+the material terms and conditions (including price, conditions precedent,
+break fee and proposed timetable) of any actual, proposed or potential
+Competing Proposal.
+
+During the Exclusivity Period, Vault must also notify Damstra in writing as soon as
+possible after becoming aware of any material developments in relation to any
+actual, proposed or potential Competing Proposal, including in respect of any of
+the information previously notified to Damstra pursuant to this clause 6.5.
+
+Fiduciary exception
+Clauses 6.3 and 6.4 do not apply to the extent that they restrict Vault or any Vault
+Director from taking or not taking any action with respect to a written Competing Proposal
+where the Vault Board, acting in good faith, determines:
+(a)
+
+that the Competing Proposal is a Superior Proposal; and
+
+(b)
+
+after receiving written advice from its external legal adviser, that failing to respond
+to the Competing Proposal would, or could reasonably be considered to, constitute
+a breach of the Vault Directors’ fiduciary or statutory duties,
+
+provided that the Competing Proposal was not directly or indirectly brought about by, or
+facilitated by, a breach of this clause 6.
+6.7
+
+Matching right
+(a)
+
+Vault must:
+(i)
+
+not, and must procure that each of its Subsidiaries do not, enter into any
+agreement, arrangement or understanding (whether or not in writing) in
+relation to a Competing Proposal; and
+
+(ii)
+
+procure that no Vault Director changes, withdraws or adversely modifies his
+or her recommendation or voting intention in favour of the Scheme, or
+publicly recommends, supports or endorses a Competing Proposal,
+
+3458-5566-9776 v1
+
+page | 16
+
+For personal use only
+
+unless all of the following requirements are satisfied:
+
+7
+
+Gilbert + Tobin
+
+(iii)
+
+the Competing Proposal is a Superior Proposal;
+
+(iv)
+
+Vault has provided Damstra in writing with the material terms and conditions
+of the Competing Proposal, including the identity of the Third Party making
+the Competing Proposal, the price, conditions precedent, proposed timing of
+the proposal, funding arrangements and break fee;
+
+(v)
+
+Vault has given Damstra at least 5 Business Days after the provision of all of
+the information referred to in clause 6.7(a)(iv) to announce or provide a
+proposal to amend the terms of the Transaction or announce or propse to
+Vault any other form of transaction (each a Damstra Counterproposal);
+and
+
+(vi)
+
+Damstra has not announced or provided to Vault a Damstra
+Counterproposal by the expiry of the 5 Business Day period referred to in
+clause 6.7(a)(v) that the Vault Board determines, acting reasonably and in
+good faith, would be reasonably likely to produce an outcome for Vault
+Shareholders that is at least as favourable to them as a whole as compared
+to the outcome that would be produced by the Competing Proposal.
+
+(b)
+
+Vault acknowledges and agrees that each successive material modification of any
+Competing Proposal will constitute a new Competing Proposal for the purposes of
+the requirements under this clause 6.7 and accordingly Vault must comply with
+clause 6.7(a) in respect of any such new Competing Proposal.
+
+(c)
+
+If Damstra makes a Damstra Counterproposal before the deadline specified in
+clause 6.7(a)(v) and the Vault Board determines that such Damstra
+Counterproposal would produce an outcome for Vault Shareholders that is at least
+as favourable to them as the outcome that would be produced by the Competing
+Proposal, then:
+(i)
+
+Damstra and Vault must each use reasonable endeavours to agree any
+necessary amendments to this deed, the Scheme and the Deed Poll and to
+agree any other documentation required to implement the Damstra
+Counterproposal as soon as reasonably practicable; and
+
+(ii)
+
+Vault must procure that the Vault Board unanimously recommends the
+Damstra Counterproposal to Vault Shareholders and does not recommend,
+support or endorse the applicable Competing Proposal.
+
+Break Fees
+7.1
+
+Background
+This clause 7 has been agreed to in circumstances where:
+(a)
+
+each party believes it and its shareholders will derive significant benefits from the
+implementation of the Scheme;
+
+(b)
+
+each party has incurred and will further incur significant costs in connection with
+the Scheme, which will include significant opportunity costs if the Scheme is not
+implemented;
+
+3458-5566-9776 v1
+
+page | 17
+
+For personal use only
+
+(c)
+
+each party has requested that provision be made for the payment outlined in
+clause 7.2 or 7.3 (as applicable), and neither of them would have entered into this
+deed had such provision not been made;
+
+(d)
+
+each party believes that:
+
+(e)
+7.2
+
+(i)
+
+it is reasonable and appropriate to agree to pay the Break Fee or the
+Reverse Break Fee (as applicable) to secure the other party’s entry into this
+deed; and
+
+(ii)
+
+each of the Break Fee and Reverse Break Fee represents a genuine and
+reasonable estimate of costs that would be incurred by either party (as
+applicable) if the Scheme is not implemented; and
+
+each party has received separate legal advice in relation to this deed and the
+operation of this clause 7.
+
+Payment of Break Fee
+Subject to clauses 7.5 and 7.6, Vault must pay Damstra the Break Fee, without set-off or
+withholding and within 10 Business Days after receipt of a written demand from Damstra,
+if any of the following events occur:
+(a)
+
+before the Second Court Date, a Vault Director:
+(i)
+
+changes or modifies or withdraws his or her recommendation that Vault
+Shareholders vote in favour of the resolution to approve the Scheme, or
+takes any other action that is inconsistent with such recommendation;
+
+(ii)
+
+states that he or she will or may not vote (or cause to be voted) all Vault
+Shares he or she owns or controls in favour of the resolution to approve the
+Scheme; or
+
+(iii)
+
+recommends, supports or endorses a Competing Proposal,
+
+other than in circumstances where the Independent Expert has concluded that the
+Scheme is not or is no longer in the best interests of Vault Shareholders, except
+where that conclusion is due (in whole or in part) to the existence of a Competing
+Proposal;
+
+7.3
+
+(b)
+
+Damstra terminates this deed in accordance with clause 10.1(b); or
+
+(c)
+
+a Competing Proposal is announced or made before the Second Court Date, and,
+within 12 months after such announcement or Competing Proposal being made,
+the Third Party or one or more Associates of that Third Party:
+(i)
+
+acquires a Relevant Interest or voting power in all or a majority of the Vault
+Shares, or acquires all or a majority of the Vault Group’s business or assets
+or otherwise acquires Control of Vault; or
+
+(ii)
+
+enters into any agreement with Vault to undertake or implement a
+transaction involving any acquisition of a kind referred to in clause 7.2(c)(i).
+
+Payment of Reverse Break Fee
+Subject to clauses 7.5 and 7.6, Damstra must pay Vault the Reverse Break Fee, without
+set-off or withholding and within 10 Business Days after receipt of a written demand from
+
+Gilbert + Tobin
+
+3458-5566-9776 v1
+
+page | 18
+
+Vault, if Vault validly terminates this deed in accordance with clause 10.1(b), unless, prior
+to Vault giving Damstra notice in accordance with clause 10.1(b), Damstra has given
+notice to Vault in accordance with clause 10.1(b) and the relevant circumstances set out
+in such notice have not been remedied in accordance with clause 10.1(b)(iii).
+
+For personal use only
+
+7.4
+
+Gilbert + Tobin
+
+Nature of payment
+The payment by a party under clauses 7.2 or 7.3 is an amount to compensate the other
+party for the following costs and expenses:
+(a)
+
+external advisory costs (excluding success fees);
+
+(b)
+
+internal costs such as costs of management and directors’ time, risk management
+costs and capital costs;
+
+(c)
+
+out-of-pocket expenses; and
+
+(d)
+
+opportunity costs incurred in pursuing the Transaction or in not pursuing other
+alternative acquisitions or strategic initiatives which otherwise could have been
+developed,
+
+and the parties agree that:
+
+7.5
+
+(e)
+
+the costs actually incurred by each party will be of such a nature that they cannot
+all be accurately ascertained; and
+
+(f)
+
+each of the Break Fee and Reverse Break Fee is a genuine and reasonable preestimate of those costs to either party.
+
+Qualifications to Break Fee and Reverse Break Fee
+(a)
+
+No amount is payable by Vault or Damstra under this clause 7 if the Scheme
+becomes Effective.
+
+(b)
+
+If it is finally determined following the exhaustion of all reasonable avenues of
+appeal to the Takeovers Panel or a court that all or any part of the Break Fee or
+Reverse Break required to be paid under 7.2 or 7.3 (as applicable) (Break Fee
+Impugned Amount):
+(i)
+
+constitutes or would constitute unacceptable circumstances as declared by
+the Takeovers Panel;
+
+(ii)
+
+involves a breach of the fiduciary or statutory duties of any Vault Director or
+Damstra Director (as applicable); or
+
+(iii)
+
+is unlawful,
+
+then the requirement to pay the Break Fee or Reverse Break Fee (as applicable)
+does not apply to the extent of the Break Fee Impugned Amount.
+(c)
+
+If the Break Fee or Reverse Break Fee has been paid by Vault or Damstra (as
+applicable) and clause 7.5(a) or 7.5(b) applies, the party who received such
+amount must reimburse all or the relevant part of that amount (as the case may be)
+within 10 Business Days after receipt of a written demand for reimbursement from
+the payor.
+
+3458-5566-9776 v1
+
+page | 19
+
+7.6
+
+Other claims
+
+For personal use only
+
+(a)
+
+(b)
+
+8
+
+Notwithstanding any other provision of this deed:
+(i)
+
+the maximum aggregate amount which Vault may be required to pay in
+relation to this deed (including any breach of this deed by Vault) is the Break
+Fee, and in no event will the aggregate liability of Vault under or in
+connection with this deed exceed the Break Fee, other than in relation to a
+wilful or intentional breach by Vault of this deed (where this clause 7.6(a)(i)
+will not operate to limit Vault’s liability); and
+
+(ii)
+
+where the Break Fee is paid to Damstra in accordance with clause 7.2,
+neither Damstra nor any of its Subsidiaries may make any claim against
+Vault or any other Vault Indemnified Party under or in connection with this
+deed which relates to the event that gave rise to the right to make a demand
+under clause 7.2, unless the claim arises from a wilful or intentional breach
+by Vault of this deed.
+
+Notwithstanding any other provision of this deed:
+(i)
+
+the maximum aggregate amount which Damstra may be required to pay in
+relation to this deed and the Scheme (including any breach of this deed by
+Damstra) is the Reverse Break Fee, and in no event will the aggregate
+liability of Damstra under or in connection with this deed exceed the Reverse
+Break Fee, other than in relation to a wilful or intentional breach by Damstra
+of this deed (where this clause 7.6(b)(i) will not operate to limit Damstra’s
+liability); and
+
+(ii)
+
+if the Reverse Break Fee is paid to Vault in accordance with clause 7.3,
+neither Vault nor any of its Subsidiaries may make any claim (of whatsoever
+nature) against Damstra or any other Damstra Indemnified Party under or in
+connection with this deed or the Scheme.
+
+Warranties
+8.1
+
+Vault Warranties
+Vault represents and warrants to Damstra each of the Vault Warranties is true and
+correct.
+
+8.2
+
+Vault’s indemnity
+Vault agrees to indemnify Damstra against any claim, action, damage, loss, liability, cost,
+expense or payment of whatever nature and however arising that Damstra or any of the
+other Damstra Indemnified Parties suffers, incurs or is liable for arising out of any breach
+of any of the Vault Warranties.
+
+8.3
+
+Damstra Warranties
+Damstra represents and warrants to Vault each of the Damstra Warranties is true and
+correct.
+
+8.4
+
+Damstra’s indemnity
+Damstra agrees to indemnify Vault against any claim, action, damage, loss, liability, cost,
+expense or payment of whatever nature and however arising that Vault or any of the
+
+Gilbert + Tobin
+
+3458-5566-9776 v1
+
+page | 20
+
+other Vault Indemnified Parties suffers, incurs or is liable for arising out of any breach of
+any of the Damstra Warranties.
+8.5
+
+Qualifications on Warranties
+
+For personal use only
+
+(a)
+
+8.6
+
+The Warranties and the indemnities in clauses 8.2 and 8.4 are each subject to
+matters that:
+(i)
+
+are required or permitted by this deed or the Scheme;
+
+(ii)
+
+have been Fairly Disclosed in the Vault Disclosure Materials or Damstra
+Disclosure Materials (as applicable); or
+
+(iii)
+
+are within the actual knowledge of Damstra or Vault (as applicable) as at the
+date of this deed, which for these purposes will be taken to include and be
+limited to facts, matters and circumstances of which the Damstra Specified
+Persons or Vault Specified Persons (as applicable) are actually aware as at
+the date of this deed.
+
+(b)
+
+Any Vault Warranties that are subject to the awareness, knowledge or belief of
+Vault are given by reference to those facts, matters or circumstances which a Vault
+Specified Person is actually aware or ought reasonably to be aware as at the date
+of this deed.
+
+(c)
+
+Any Damstra Warranties that are subject to the awareness, knowledge or belief of
+Damstra are given by reference to those facts, matters or circumstances which a
+Damstra Specified Person is actually aware or ought reasonably to be aware as at
+the date of this deed.
+
+Survival of Warranties
+Each Warranty:
+
+8.7
+
+(a)
+
+is severable;
+
+(b)
+
+survives the termination of this deed; and
+
+(c)
+
+subject to this deed, is given with the intent that liability thereunder will not be
+confined to breaches which are discovered prior to the date of termination of this
+deed.
+
+Survival of indemnities
+Each indemnity in this deed (including those in clauses 8.2 and 8.4):
+
+8.8
+
+(a)
+
+is severable;
+
+(b)
+
+is a continuing obligation;
+
+(c)
+
+constitutes a separate and independent obligation of the party giving the indemnity
+from any other obligations of that party under this deed; and
+
+(d)
+
+survives the termination of this deed.
+
+Timing of Warranties
+Each Warranty is given:
+
+Gilbert + Tobin
+
+3458-5566-9776 v1
+
+page | 21
+
+For personal use only
+
+(a)
+
+at the date of this deed;
+
+(b)
+
+at the date the Scheme Booklet is despatched to Vault Shareholders; and
+
+(c)
+
+at 8:00am on the Second Court Date,
+
+unless such Warranty is expressed to be given at a particular time, in which case it is
+given at that time.
+
+9
+
+Gilbert + Tobin
+
+Releases
+9.1
+
+Release of Vault Indemnified Parties
+(a)
+
+Subject to clause 9.1(b), Damstra releases any and all rights that it has or may
+have or that may otherwise accrue to it after the date of this deed, and agrees with
+Vault that it will not make any claim (of whatsoever nature), against any Vault
+Indemnified Party (other than Vault) as at the date of this deed in connection with:
+(i)
+
+any breach of any covenant, representation or warranty given by Vault under
+this deed;
+
+(ii)
+
+any disclosures or information provided in connection with this deed or the
+Scheme containing any statement which is false or misleading (whether by
+omission or otherwise); or
+
+(iii)
+
+any failure to provide information in connection with this document or
+Scheme,
+
+except where such Vault Indemnified Party has engaged in fraud or wilful
+misconduct.
+
+9.2
+
+(b)
+
+The releases in clause 9.1(a) are subject to any restriction imposed by law and will
+be read down to the extent that any such restriction applies.
+
+(c)
+
+Vault receives and holds the benefit of clause 9.1(a) as trustee for each other Vault
+Indemnified Parties.
+
+Release of Damstra Indemnified Parties
+(a)
+
+Subject to clause 9.1(b), Vault releases any and all rights that it has or may have or
+that may otherwise accrue to it after the date of this deed, and agrees with Damstra
+that it will not make any claim (or whatsoever nature), against any Damstra
+Indemnified Party (other than Damstra) as at the date of this deed in connection
+with:
+(i)
+
+any breach of any covenant, representation or warranty given by Damstra
+under this deed;
+
+(ii)
+
+any disclosures or information provided in connection with this deed or the
+Scheme containing any statement which is false or misleading (whether by
+omission or otherwise); or
+
+(iii)
+
+any failure to provide information in connection with this document or
+Scheme,
+
+3458-5566-9776 v1
+
+page | 22
+
+For personal use only
+
+except where such Damstra Indemnified Party has engaged in fraud or wilful
+misconduct.
+(b)
+
+The releases in clause 9.2(a) are subject to any restriction imposed by law and will
+be read down to the extent that any such restriction applies.
+
+(c)
+
+Damstra receives and holds the benefit of clause 9.2(a) as trustee for each other
+Damstra Indemnified Parties.
+
+10 Termination
+
+Gilbert + Tobin
+
+10.1 Termination by Vault or Damstra
+(a)
+
+Vault or Damstra may terminate this deed at any time before 8:00am on the
+Second Court Date in accordance with clause 3.4.
+
+(b)
+
+Vault or Damstra may terminate this deed at any time before 8:00am on the
+Second Court Date if:
+
+(c)
+
+(i)
+
+Damstra (where Vault is the terminating party) or Vault (where Damstra is
+the terminating party) commits a material breach of this deed (including the
+Warranties):
+
+(ii)
+
+the terminating party has given written notice to the other parties setting out
+the relevant circumstances and stating an intention to terminate this deed;
+and
+
+(iii)
+
+the relevant circumstances have not been remedied to the reasonable
+satisfaction of the terminating party within 10 Business Days from the date
+such notice is given (or any shorter period ending at 5:00pm on the Business
+Day immediately before the Second Court Date).
+
+Termination under this clause 10.1(b) will take effect at the expiry of the period
+referred to in clause 10.1(b)(iii).
+
+10.2 Termination by Damstra
+Damstra may terminate this deed by notice in writing to Vault at any time before 8:00am
+on the Second Court Date if a Vault Director:
+(a)
+
+publicly withdraws, modifies or changes his or her recommendation that Vault
+Shareholders vote in favour of the resolution to approve the Scheme;
+
+(b)
+
+makes any public statement that is inconsistent with his or her recommendation of
+the Scheme; or
+
+(c)
+
+recommends, endorses or supports a Competing Proposal.
+
+10.3 Termination by Vault
+Vault may terminate this deed by notice in writing to Damstra at any time before 8:00am
+on the Second Court Date if all or a majority of Vault Directors withdraw or change their
+recommendation in either of the circumstances permitted by clauses 2.4(c)(i) or 2.4(c)(ii),
+and Vault has paid the Break Fee to Damstra (if required to do so under clause 7).
+
+3458-5566-9776 v1
+
+page | 23
+
+10.4 Effect of termination
+
+For personal use only
+
+If this deed is terminated in accordance with this clause 10, this deed will cease to have
+force and effect without any liability or obligation on the part of any party, except that:
+(a)
+
+this clause 10 and clauses 1, 7, 8, 9 and 12 through 15 (inclusive) will survive
+termination; and
+
+(b)
+
+each party will retain any rights and remedies that accrued prior to termination,
+including any rights and remedies in respect of any past breach of this deed or (if
+applicable) in respect of the breach giving rise to termination.
+
+11 Public announcements
+11.1 Public announcement on execution
+Immediately after execution of this deed, each of Vault and Damstra must issue a public
+announcement in a form agreed in writing between the parties.
+11.2 Required disclosure
+Where a party is required by applicable law or the Listing Rules to make any
+announcement or to make any disclosure in connection with the Transaction or any other
+transaction the subject of this deed or the Scheme, it must use all reasonable
+endeavours, to the extent practicable in the circumstances, to consult with the other
+parties prior to making the relevant disclosure and take account of any reasonable
+comments received from the other parties in relation to the form and content of the
+announcement or disclosure.
+
+12 Confidentiality
+(a)
+
+(b)
+
+Vault acknowledge and agree that they continue to be bound by the Confidentiality
+Deed, provided that:
+(i)
+
+this deed prevails to the extent of any inconsistency with the Confidentiality
+Deed; and
+
+(ii)
+
+notwithstanding any provision of this deed or the Confidentiality Deed, Vault
+will not be required to consult with Damstra in relation to any public
+announcement relating to termination of this deed or any Competing
+Proposal.
+
+The rights and obligations of the parties under the Confidentiality Deed survive
+termination of this deed.
+
+13 Duty, costs and expenses
+13.1 Stamp duty
+Damstra:
+(a)
+
+Gilbert + Tobin
+
+must pay all stamp duties and any related fines and penalties in respect of this
+deed or the Scheme or any transaction effected or steps taken under this deed or
+the Scheme; and
+
+3458-5566-9776 v1
+
+page | 24
+
+(b)
+
+indemnifies Vault against any liability arising from or in connection with any failure
+by Damstra to comply with clause 13.1(a).
+
+For personal use only
+
+13.2 Costs and expenses
+Except as otherwise provided in this deed, each party must pay its own costs and
+expenses in connection with the negotiation, preparation, execution and performance of
+this deed and the proposed, attempted or actual implementation of the Transaction.
+
+14 GST
+(a)
+
+In this clause 14, a word or expression defined in the A New Tax System (Goods
+and Services Tax) Act 1999 (Cth) has the meaning given to it in that legislation.
+
+(b)
+
+If a party makes a supply under or in connection with this deed in respect of which
+GST is payable, the consideration for the supply but for the application of this
+clause 14(b) (GST exclusive consideration) is increased by an amount
+(Additional Amount) equal to the GST exclusive consideration multiplied by the
+rate of GST prevailing at the time the supply is made.
+
+(c)
+
+If a party must reimburse or indemnify another party for a loss, cost or expense, the
+amount to be reimbursed or indemnified is first reduced by the amount equal to any
+input tax credit the other party, or the representative member of the GST group of
+which the other party is a member, is entitled to with respect to the loss, cost or
+expense, and then increased in accordance with clause 14(b) if such amount is
+consideration for a taxable supply made under or in connection with this deed.
+
+(d)
+
+A party need not make a payment of the Additional Amount until it receives a tax
+invoice or adjustment note (as appropriate) for the supply to which the payment
+relates.
+
+15 General
+
+Gilbert + Tobin
+
+15.1 Notices
+(a)
+
+A notice, consent, approval, waiver or other communication sent by a party under
+this deed (Notice) must be:
+(i)
+
+in writing;
+
+(ii)
+
+sent by an authorised representative of the sender; and
+
+(iii)
+
+marked for the attention of the person named below,
+
+and must be:
+(iv)
+
+left at, or sent by commercial courier to, the address set out below;
+
+(v)
+
+sent by email to the address set out below.
+
+3458-5566-9776 v1
+
+page | 25
+
+For personal use only
+
+Vault
+Ross Jenkins
+
+Address:
+
+Level 18, 1 Nicholson Street, East Melbourne, Victoria, 3002
+
+Email:
+
+Ross Jenkins <rossjenkins47@gmail.com>
+
+with a copy (for information purposes only) to jlonie@hwle.com.au
+Damstra
+Attention:
+
+Chris Scholtz
+
+Address:
+
+Level 1, 38 Garden Street, South Yarra Victoria 3141
+
+Email:
+
+C.Scholtz@damstratechnology.com
+
+with a copy (for information purposes only) to akauye@gtlaw.com.au
+(b)
+
+Subject to clause 15.1(c), a Notice is taken to be received:
+(i)
+
+if sent by delivery, when it is delivered;
+
+(ii)
+
+if sent by post, three days after posting (or seven days after posting if sent
+from one country to another);
+
+(iii)
+
+if sent by email:
+(A)
+
+when the sender receives an automated message confirming delivery;
+or
+
+(B)
+
+four hours after the time sent (as recorded on the device from which
+the email was sent), provided that the sender does not receive an
+automated message that the email has not been delivered,
+
+whichever happens first.
+(c)
+
+If a Notice is taken to be received under clause 15.1(b):
+(i)
+
+before 9:00am on a Business Day, it will be taken to be received at 9:00am
+on that Business Day; or
+
+(ii)
+
+after 5:00pm on a Business Day or on a non-Business Day, it will be taken to
+be received at 9:00am on the next Business Day.
+
+15.2 Governing law and jurisdiction
+(a)
+
+This deed is governed by the laws of Victoria, Australia.
+
+(b)
+
+Each party irrevocably submits to the non-exclusive jurisdiction of the courts of
+Victoria, Australia and courts competent to hear appeals from those courts.
+
+15.3 No representation or reliance
+(a)
+
+Gilbert + Tobin
+
+Attention:
+
+Each party acknowledges that no party (nor any person acting on its behalf) has
+made any representation or other inducement to it to enter into this deed, except
+for representations or inducements expressly set out in this deed and (to the
+maximum extent permitted by law) all other representations, warranties and
+
+3458-5566-9776 v1
+
+page | 26
+
+conditions implied by statute or otherwise in relation to any matter relating to this
+deed, the circumstances surrounding the parties’ entry into it and the transactions
+contemplated by it are expressly excluded.
+
+For personal use only
+
+(b)
+
+Each party acknowledges and confirms that it does not enter into this deed in
+reliance on any representation or other inducement by or on behalf of any other
+person, except for any representation or inducement expressly set out in this deed.
+
+15.4 No merger
+The rights and obligations of the parties do not merge on completion of the Transaction.
+They survive the execution and delivery of any assignment or other document entered
+into for the purpose of implementing the Transaction.
+15.5 Waivers and consents
+(a)
+
+Failure to exercise or enforce, a delay in exercising or enforcing, or the partial
+exercise or enforcement of any right, power or remedy provided by law or under
+this deed by any party does not in any way preclude, or operate as a waiver of, any
+exercise or enforcement, or further exercise or enforcement, of that or any other
+right, power or remedy provided by law or under this deed.
+
+(b)
+
+Any waiver or consent given by a party under this deed is only effective and
+binding on that party if it is given or confirmed in writing by that party.
+
+(c)
+
+No waiver of a breach of any term of this deed operates as a waiver of another
+breach of that term or of a breach of any other term of this deed.
+
+(d)
+
+Except where this deed expressly provides otherwise, where the consent of a party
+is required under this deed, such consent may be given or withheld in that party’s
+absolute discretion.
+
+15.6 Variation
+This deed may only be varied by a document signed by or on behalf of Vault and the
+Damstra.
+15.7 Assignment
+A party may not assign, novate or otherwise transfer any of its rights or obligations under
+this deed without the prior written consent of the other parties.
+15.8 Further action
+Each of the parties will do all things and execute all further documents necessary to give
+full effect to this deed.
+15.9 Entire agreement
+Subject to clause 12, this deed supersedes all previous agreements, understandings,
+negotiations or deeds in respect of its subject matter and embodies the entire agreement
+between the parties.
+15.10 Severability
+(a)
+
+Gilbert + Tobin
+
+If the whole or any part of a provision of this deed is void, unenforceable or illegal
+in a jurisdiction, it is severed for that jurisdiction but only to the extent that it is void,
+
+3458-5566-9776 v1
+
+page | 27
+
+For personal use only
+
+unenforceable or illegal and provided that it will have full force and effect in any
+other jurisdiction.
+
+Gilbert + Tobin
+
+(b)
+
+Where a provision (or any part thereof) is severed in a jurisdiction, the remainder of
+this deed will have full force and effect in that (and any other) jurisdiction.
+
+(c)
+
+This clause 15.10 does not apply to any severance that alters the basic nature of
+this deed or is contrary to public policy.
+
+15.11 Counterparts
+This deed may be executed in any number of counterparts. All counterparts together will
+be taken to constitute one instrument.
+
+3458-5566-9776 v1
+
+page | 28
+
+Schedule 1
+
+For personal use only
+
+1
+
+Gilbert + Tobin
+
+Dictionary
+
+Dictionary
+Accounting Standards means, at any time:
+(a)
+
+the requirements of the Corporations Act about the preparation and contents of
+financial reports;
+
+(b)
+
+the accounting standards approved under the Corporations Act; and
+
+(c)
+
+generally accepted accounting principles, policies, practices and procedures in
+Australia to the extent not inconsistent with the accounting standards described in
+paragraph (b).
+
+Additional Amount has the meaning given in clause 14(b).
+ASIC means the Australian Securities and Investments Commission.
+Associate has the meaning given in section 12 of the Corporations Act.
+ASX means ASX Limited (ABN 98 008 624 691) or, where the context requires, the
+financial market operated by it.
+Authorisation means any approval, licence, authorisation, consent, authority or permit.
+Break Fee means $500,000.
+Break Fee Impugned Amount has the meaning given in clause 7.5(b)
+Business Day has the meaning given in the Listing Rules.
+Change of Control Requirements has the meaning given in clause 5.3(a).
+Combined Group means the combination of the Damstra Group and the Vault Group,
+represented by the Damstra Group as it will then be constituted if the Scheme is
+implemented.
+Competing Proposal means any proposal or expression of interest, offer, agreement,
+arrangement or transaction which, if entered into or completed, would:
+(a)
+
+result in a Third Party (either alone or together with one or more Associates),
+directly or indirectly:
+(i)
+
+acquiring a Relevant Interest or voting power in 20% or more of the issued
+share capital of Vault or any member of the Vault Group;
+
+(ii)
+
+acquiring, or acquiring an economic interest in, all or a material part of the
+assets or business of the Vault Group (where a material part means assets
+representing 20% or more of the value of the Vault Group’s total business or
+assets); or
+
+(iii)
+
+otherwise acquiring Control of, or merging or amalgamating with, Vault, or
+acquiring a significant shareholding or economic interest in Vault or any
+member of the Vault Group of 20% or more by value of the total assets or
+business of any member of the Vault Group; or
+
+40224894_9
+
+Schedule 1 – Dictionary | page | 29
+
+For personal use only
+
+(b)
+
+Gilbert + Tobin
+
+be inconsistent with the consummation of the Transaction or result in the
+Transaction not being able to be implemented on the basis set out in this deed,
+
+whether by takeover bid, scheme of arrangement or shareholder approved acquisition,
+capital reduction, share buy-back or repurchase, sale or purchase of shares or assets,
+joint venture, reverse takeover, dual-listed company structure, recapitalisation,
+establishment of a new holding entity for Vault or the Vault Group or other synthetic
+merger or any other transaction or arrangement.
+Condition means a condition set out in clause 3.1.
+Confidentiality Deed means the confidentiality deed between Vault and Damstra dated
+22 June 2020.
+Consultation Notice has the meaning given in clause 3.4(a).
+Control has the meaning given in section 50AA of the Corporations Act.
+Corporations Act means the Corporations Act 2001 (Cth).
+Corporations Regulations means the Corporations Regulations 2001 (Cth).
+Court means the Supreme Court of Victoria or such other court of competent jurisdiction
+under the Corporations Act as agreed in writing between Damstra and Vault.
+Court Documents means the documents required for the purposes of the Court
+Hearings, including (as applicable) originating process, affidavits, submissions and draft
+minutes of Court orders.
+Court Hearings means the First Court Hearing and Second Court Hearing.
+Damstra Counterproposal has the meaning given in clause 6.7(a)(v).
+Damstra Director means a director of Damstra.
+Damstra Disclosure Materials means the written information, documents and responses
+disclosed or made available to Vault or its Representatives by or on behalf of Damstra
+before 6 July 2020 in the “Project Electric” virtual data room.
+Damstra Group means Damstra and its Subsidiaries.
+Damstra Indemnified Parties means Damstra and its Subsidiaries and their respective
+directors, officers, employees and advisers.
+Damstra Information means information regarding the Damstra Group, and the
+Combined Group (other than the Vault Information contained in that information),
+provided by Damstra to Vault or its Representatives in writing for inclusion in the Scheme
+Booklet, being:
+(a)
+
+any letter from Damstra’s Chairman;
+
+(b)
+
+information about the Combined Group (but only to the extent that such information
+relates to the Damstra Group), Damstra, other Damstra Group members, the
+businesses of the Damstra Group, Damstra’s intentions for Vault and Vault’s
+employees;
+
+40224894_9
+
+Schedule 1 – Dictionary | page | 30
+
+For personal use only
+
+(c)
+
+any other information required under the Corporations Act, Corporations
+Regulations or RG 60 to enable the Scheme Booklet to be prepared that Vault and
+Damstra agree is ‘Damstra Information’ and that is identified in the Scheme Booklet
+as such.
+
+Damstra Key Customer Contract means a contract with a customer included on the list
+of key customers agreed in writing by Damstra and Vault.
+Damstra Material Adverse Event means:
+(a)
+
+the termination or expiry without renewal of any two or more Damstra Key
+Customer Contracts (or valid termination notices being given under any two or
+more Damstra Key Customer Contacts); or
+
+(b)
+
+the Damstra Group being subject to a major cyber security incident which is
+reasonably likely to have a material adverse effect on the business, assets,
+operations, performance, prospects or reputation of the Damstra Group.
+
+Damstra Option means an unlisted option to acquire a Damstra Share.
+Damstra Prescribed Occurrence means the occurrence of any of the matters set out in
+Schedule 5.
+Damstra Share means a fully paid ordinary share in Damstra.
+Damstra Specified Person means each of Johannes Risseeuw, Chris Scholtz and
+Kelechi Achara.
+Damstra Warranties means the representations and warranties of Damstra set out in
+Schedule 3.
+Deed Poll means the deed poll to be entered into by Damstra in the form of Attachment
+C.
+Effective means the coming into effect, under section 411(10) of the Corporations Act, of
+the order of the Court made under section 411(4)(b) of the Corporations Act in relation to
+the Scheme.
+Effective Date means the date on which the Scheme becomes Effective.
+End Date means the date that is 6 months after the date of this deed or such later date
+as Damstra and Vault agree in writing.
+Exclusivity Period means the period from the date of this deed until the earlier of:
+(a)
+
+the termination of this deed in accordance with clause 10; and
+
+(b)
+
+the End Date.
+
+Fairly Disclosed means, in relation to a matter, that sufficient information about the
+matter is disclosed in such a way to enable a reasonable person to identify and assess
+the nature, scope, financial and other consequences of the relevant matter.
+First Court Date means the first day on which an application made to the Court for
+orders under section 411(1) of the Corporations Act directing Vault to convene the
+Scheme Meeting is heard (or, if the application is adjourned or subject to appeal for any
+
+Gilbert + Tobin
+
+40224894_9
+
+Schedule 1 – Dictionary | page | 31
+
+For personal use only
+
+reason, the day on which the adjourned application is heard), with such hearing being the
+First Court Hearing.
+Government Agency means any foreign or Australian government or governmental,
+semi-governmental, administrative, fiscal, statutory or judicial body, department,
+commission, authority, tribunal, agency or entity, or any minister of the Crown in right of
+the Commonwealth of Australia or any state, or any other federal, state, provincial, local
+or other government, whether foreign or Australian. It also includes any self-regulatory
+organisation established under statute or otherwise discharging substantially public or
+regulatory functions (including ASIC and the Takeovers Panel).
+GST exclusive consideration has the meaning given in clause 14(b).
+Implementation Date means the fifth Business Day after the Record Date or such other
+day as Damstra and Vault agree in writing.
+Independent Expert means the independent expert to be appointed by Vault to prepare
+the Independent Expert’s Report in accordance with clause 4.1(a).
+Independent Expert’s Report means the report prepared by the Independent Expert for
+inclusion in the Scheme Booklet opining on whether the Scheme is in the best interests of
+Vault Shareholders, and includes any update or supplement to that report.
+Ineligible Foreign Shareholder means a Scheme Shareholder whose address shown in
+the Share Register on the Record Date is a place outside Australia and its external
+territories, unless Damstra (acting reasonably) determines that it is lawful and not unduly
+onerous or impracticable to issue that Scheme Shareholder with New Damstra Shares.
+Insolvency Event means, in relation to any entity:
+(a)
+
+the entity resolving that it be wound up or a court making an order for the winding
+up or dissolution of the entity;
+
+(b)
+
+a liquidator, provisional liquidator, administrator, receiver, receiver and manager or
+other insolvency official being appointed to the entity or in relation to the whole, or
+a substantial part, of its assets;
+
+(c)
+
+the entity executing a deed of company arrangement;
+
+(d)
+
+the entity ceases, or threatens to cease to, carry on substantially all the business
+conducted by it as at the date of this deed;
+
+(e)
+
+the entity is or becomes unable to pay its debts when they fall due within the
+meaning of the Corporations Act (or, if appropriate, legislation of its place of
+incorporation);
+
+(f)
+
+the entity being deregistered as a company or otherwise dissolved; or
+
+(g)
+
+something having a substantially similar effect to any of the things described in
+paragraphs (a) to (f) happens in connection with the entity under the law of any
+foreign jurisdiction.
+
+Listing Rules means the official listing rules of ASX.
+New Damstra Share means a fully paid ordinary share in Damstra to be issued to
+Scheme Shareholders under the Scheme.
+
+Gilbert + Tobin
+
+40224894_9
+
+Schedule 1 – Dictionary | page | 32
+
+Notice has the meaning given in clause 15.1(a).
+Notifiable Proposal has the meaning given in clause 6.5(a).
+
+For personal use only
+
+Record Date means 7:00pm on the fifth Business Day after the Effective Date of the
+Scheme, or such other time and date as Damstra and Vault agree in writing.
+Related Body Corporate has the meaning given in section 50 of the Corporations Act.
+Relevant Interest has the meaning given in sections 608 and 609 of the Corporations
+Act.
+Representative means, in respect of a party, an employee, agent, officer, director,
+adviser or financier of or to that party (or of a Related Body Corporate of that party), and,
+in the case of advisers and financiers, includes employees, officers and agents of the
+adviser or financier (as applicable).
+Reverse Break Fee means $500,000.
+Scheme means the scheme of arrangement under Part 5.1 of the Corporations Act
+between Vault and the Scheme Shareholders, the terms of which are set out in
+Attachment B or such other form as agreed in writing between Damstra and Vault.
+Scheme Booklet means the explanatory statement in respect of the Scheme to be
+prepared by Vault in accordance with section 412 of the Corporations Act, which will
+contain (among other things) the Independent Expert’s Report (or a concise version of
+that report), a notice of meeting in respect of the Scheme Meeting and a proxy form.
+Scheme Consideration means 1 New Damstra Share for every 2.9 Scheme Shares.
+Scheme Meeting means the meeting of Vault Shareholders ordered by the Court to be
+convened under section 411(1) of the Corporations Act.
+Scheme Share means a Vault Share held by a Scheme Shareholder.
+Scheme Shareholder means a Vault Shareholder as at the Record Date.
+Second Court Date means the first day on which an application made to the Court for
+orders under section 411(4)(b) of the Corporations Act approving the Scheme is heard (or
+if the application is adjourned or subject to appeal for any reason, the day on which the
+adjourned application is heard), with such hearing being the Second Court Hearing.
+Share Register means the register of Vault Shareholders maintained in accordance with
+the Corporations Act.
+Subsidiary has the meaning given to that term in section 46 of the Corporations Act.
+Superior Proposal means a bona fide written Competing Proposal relating to the
+acquisition of Control of Vault by a Third Party in respect of which there has been no
+contravention of clause 6 and which the Vault Board, acting in good faith and in order to
+satisfy what the Vault Board reasonably considers to be its fiduciary or statutory duties,
+and after taking written advice from its legal advisers, determines:
+(a)
+
+Gilbert + Tobin
+
+is reasonably capable of being valued and completed within a reasonable
+timeframe in accordance with its terms; and
+
+40224894_9
+
+Schedule 1 – Dictionary | page | 33
+
+For personal use only
+
+(b)
+
+Gilbert + Tobin
+
+would be more favourable to Vault Shareholders than the Transaction (as modified
+by any Damstra Counterproposal) if completed substantially in accordance with its
+terms,
+
+in each case, taking into account all aspects of the Competing Proposal (including, but
+not limited to, timing considerations, any conditions precedent, the value and type of
+consideration, the level of certainty as to the funding required for the Competing
+Proposal, the identity, reputation and financial condition of the proponent and other
+matters affecting the probability of the Competing Proposal being completed and the
+outcome for Vault Shareholders) as compared to the Transaction (as modified by any
+Damstra Counterproposal).
+Systems means the information technology and telecommunications systems, hardware
+and software owned or used by a member of the Vault Group.
+Takeovers Panel means the Takeovers Panel constituted under the Australian Securities
+and Investments Commission Act 2001 (Cth).
+Third Party means a person other than Damstra and its Associates.
+Timetable means the indicative timetable for the implementation of the Transaction set
+out in Attachment A.
+Transaction means the acquisition of Vault by Damstra by means of the Scheme.
+Transition Committee has the meaning given in clause 5.4(a).
+Vault Board means the board of directors of Vault.
+Vault Director means a director of Vault.
+Vault Disclosure Materials means the written information, documents and responses
+disclosed or made available to Damstra or its Representatives by or on behalf of Vault
+before 6 July 2020 in the “Project Electric” virtual data room.
+Vault Group means, collectively, Vault and each of its Subsidiaries (each a Vault Group
+Member or member of the Vault Group).
+Vault Indemnified Parties means Vault and its Subsidiaries and their respective current
+and former directors, officers, employees and advisers.
+Vault Information means all the information in the Scheme Booklet other than the
+Damstra Information and the Independent Expert’s Report.
+Vault Key Customer Contract means a contract with a customer included on the list of
+key customers agreed in writing by Damstra and Vault.
+Vault Key Employee has the meaning given in clause 5.1(b)(viii).
+Vault Material Adverse Event means:
+(a)
+
+the termination or expiry without renewal of any two or more Vault Key Customer
+Contracts (or valid termination notices being given under any two or more Vault
+Key Customer Contacts); or
+
+40224894_9
+
+Schedule 1 – Dictionary | page | 34
+
+(b)
+
+the Vault Group being subject to a major cyber security incident which is
+reasonably likely to have a material adverse effect on the business, assets,
+operations, performance, prospects or reputation of the Vault Group.
+
+For personal use only
+
+Vault Material Contract means the Vault Key Customer Contracts and any other
+agreement, contract, deed or arrangement which:
+(a)
+
+generates, or is expected to generate, annual revenue for the Vault Group in
+excess of $500,000;
+
+(b)
+
+incurs, or is expected to incur, gross annual expenditure for the Vault Group in
+excess of $500,000; or
+
+(c)
+
+is, or could reasonably be considered to be, material in the context of the
+businesses of the Vault Group taken as a whole.
+
+Vault Option means an unlisted option to acquire a Vault Share.
+Vault Prescribed Occurrences means the occurrence of any of the matters set out in
+Schedule 4.
+Vault Share means a fully paid ordinary share in the capital of Vault.
+Vault Shareholder means a holder of one or more Vault Shares, as shown in the Share
+Register.
+Vault Specified Person means each of Ross Jenkins, David Moylan and Todd Perkins.
+Vault Warranties means the representations and warranties of Vault set out in Schedule
+2.
+Warranty means a Vault Warranty or Damstra Warranty (as applicable).
+
+2
+
+Interpretation
+In this deed, the following rules of interpretation apply unless the contrary intention
+appears.
+(a)
+
+Headings are for convenience only and do not affect the interpretation of this deed.
+
+(b)
+
+The singular includes the plural and vice versa.
+
+(c)
+
+Words that are gender neutral or gender specific include each gender.
+
+(d)
+
+Where a word or phrase is given a particular meaning, other parts of speech and
+grammatical forms of that word or phrase have corresponding meanings.
+
+(e)
+
+The words “include”, “including”, “such as”, “for example” and similar expressions
+are not words of limitation and do not limit what else might be included.
+
+(f)
+
+A reference to:
+(i)
+
+Gilbert + Tobin
+
+40224894_9
+
+a person includes a natural person, partnership, joint venture, government
+agency, association, corporation or other body corporate or entity (as that
+term is defined in section 64A of the Corporations Act);
+
+Schedule 1 – Dictionary | page | 35
+
+For personal use only
+Gilbert + Tobin
+
+(ii)
+
+a thing (including a chose in action or other right) includes a part of that
+thing;
+
+(iii)
+
+a party includes its successors and permitted assigns;
+
+(iv)
+
+a document includes all amendments or supplements to that document;
+
+(v)
+
+a clause, term, party, schedule or attachment is a reference to a clause or
+term of, or a party, schedule or attachment to, this deed (as applicable);
+
+(vi)
+
+this deed includes all schedules and attachments to it;
+
+(vii)
+
+a law includes a constitutional provision, treaty, decree, convention, statute,
+regulation, ordinance, by-law, judgment, rule of common law or equity or a
+Listing Rule and is a reference to that law as amended, consolidated or
+replaced;
+
+(viii)
+
+an agreement (other than this deed) includes an undertaking or legally
+enforceable arrangement or understanding (whether or not in writing);
+
+(ix)
+
+a time period includes the date referred to as that on which the period begins
+and the date referred to as that on which the period ends; and
+
+(x)
+
+a monetary amount is in Australian dollars;
+
+(g)
+
+An agreement on the part of two or more persons binds them jointly and severally.
+
+(h)
+
+When the day on which something must be done is not a Business Day, that thing
+must be done on the following Business Day.
+
+(i)
+
+In determining the time of day where relevant to this deed, the time of day is:
+
+(j)
+
+(i)
+
+for the purposes of giving or receiving Notice, the time of day where the
+party receiving Notice is located; or
+
+(ii)
+
+for any other purpose under this deed, the time of day in the place where the
+party required to perform an obligation is located.
+
+No rule of construction applies to the disadvantage of a party because that party
+was responsible for the preparation of this deed or any part of it.
+
+40224894_9
+
+Schedule 1 – Dictionary | page | 36
+
+For personal use only
+
+Schedule 2
+
+Gilbert + Tobin
+
+Vault Warranties
+
+(a)
+
+Validly existing: Vault is a validly existing corporation registered under the laws of
+its place of incorporation.
+
+(b)
+
+Power: Vault has full corporate power and lawful authority to execute, deliver and
+perform this deed and the Scheme.
+
+(c)
+
+Corporate action: Vault has taken the necessary corporate action to authorise the
+entry into this deed and has taken or will take all necessary corporate action to
+authorise the performance of this deed and the Scheme.
+
+(d)
+
+Binding: This deed constitutes legal, valid and binding obligations on Vault,
+enforceable in accordance with its terms.
+
+(e)
+
+Performance: The execution and performance by Vault of this deed and each
+transaction contemplated by it does not and will not violate or breach any provision
+of:
+
+(f)
+
+(i)
+
+any agreement, deed, writ, order or injunction, judgment, law, rule or
+regulation to which a Vault Group Member is party or by which it is bound; or
+
+(ii)
+
+Vault’s constitution.
+
+Capital structure: The issued capital of Vault as at the date of this deed is:
+(i)
+
+127,997,024 Vault Shares; and
+
+(ii)
+
+14,340,000 Vault Options,
+
+and there are no other Vault options, performance rights, shares, warrants,
+convertible notes, instruments or other securities (or offers, agreements or
+obligations (whether or not subject to conditions) to issue or grant any of the
+foregoing) that may convert or be exercisable into Vault Shares.
+(g)
+
+Vault Information: The Vault Information included in the Scheme Booklet and any
+supplementary disclosure made to Vault Shareholders pursuant to clause 4.1(j)
+(excluding any information provided by Damstra) will be prepared in good faith and,
+as at the date of the Scheme Booklet or supplementary disclosure (as applicable):
+(i)
+
+is not misleading or deceptive in any material respect (whether by omission
+or otherwise); and
+
+(ii)
+
+complies in all material respects with the requirements of the Corporations
+Act and Corporations Regulations, Listing Rules, Takeovers Panel guidance
+notes and ASIC Regulatory Guide 60 (as applicable).
+
+(h)
+
+Information provided to Independent Expert: The information provided to the
+Independent Expert by Vault has been provided in good faith and on the
+understanding that the Independent Expert will rely on that information for the
+purpose of preparing the Independent Expert’s Report.
+
+(i)
+
+Solvency and regulatory action: No member of the Vault Group is the subject of
+an Insolvency Event, nor has any regulatory action of any nature been taken that
+would prevent or restrict its ability to fulfil its obligations under this deed.
+
+3458-5566-9776 v1
+
+Schedule 2 | page | 37
+
+For personal use only
+Gilbert + Tobin
+
+(j)
+
+Continuous disclosure: Vault is in compliance in all material respects with its
+continuous disclosure obligations under Listing Rule 3.1 and, except for Damstra’s
+proposal to acquire Vault, Vault is not withholding from disclosure to ASX any
+material information in reliance on Listing Rule 3.1A.
+
+(k)
+
+all information: it is not aware of any information relating to the Vault Group or its
+respective businesses or operations (having made reasonable enquiries) as at the
+date of this deed that has or could be reasonably be expected to give rise to a
+Vault Material Adverse Event.
+
+(l)
+
+Financial information: Vault's financial statements as disclosed to the ASX:
+
+(m)
+
+(i)
+
+comply with applicable statutory requirements and were prepared in
+accordance with the Corporations Act, the Accounting Standards and all
+other applicable laws and regulations;
+
+(ii)
+
+give a true and fair view of the financial position and the assets and liabilities
+of the Vault Group; and
+
+(iii)
+
+there has not been any event, change, effect or development which would
+require Vault to restate its financial statements as disclosed to the ASX.
+
+Vault Disclosure Materials: The Vault Disclosure Materials were compiled and
+made available to Damstra and its Representatives in good faith with reasonable
+care and:
+(i)
+
+all factual information that forms part of the Vault Disclosure Material is
+accurate in all material respects;
+
+(ii)
+
+the Vault Disclosure Materials are not misleading or deceptive in any
+material respect when taken as a whole (including by omission); and
+
+(iii)
+
+Vault has not knowingly or recklessly omitted any material information, or
+information which would render the information disclosed incomplete or
+misleading in any material respect, from the Vault Disclosure Materials.
+
+(n)
+
+Compliance: each member of the Vault Group has complied in all material
+respects with all Australian and foreign laws and regulations applicable to them and
+orders of Australian and foreign Government Agencies having jurisdiction over
+them and have all Authorisations necessary for them to conduct the business of the
+Vault Group as presently being conducted and those Authorisations are being
+complied with in all material respects.
+
+(o)
+
+Interest: the Vault Disclosure Materials set out full details of any company,
+partnership, trust, joint venture or other enterprise in which Vault or another Vault
+Group Member owns or otherwise holds any interest.
+
+(p)
+
+no existing disputes: no litigation, prosecution, arbitration, mediation, or other
+proceedings relating to the Vault Group and which is material to the business of the
+Vault Group is current or, as far as Vault is aware, pending or threatened or might
+reasonably be expected to arise as a result of current circumstances.
+
+(q)
+
+Material Contracts: each member of the Vault Group has complied in all material
+respects with each Vault Material Contract to which it is a party, and no member of
+the Vault Group is aware of any breaches of a Vault Material Contract or any
+intention on the part of any counterparty to a Vault Material Contract to terminate
+such Vault Material Contract or amend the terms of such Vault Material Contract.
+
+3458-5566-9776 v1
+
+Schedule 2 | page | 38
+
+No Systems failures or breaches: In the 12 months before the date of this deed
+there have been no bugs in, outages, failures, breakdowns, substandard
+performance or breaches of, any Systems, and Vault is not aware of any fact or
+matter that may cause any such bug, outage, failure, breakdown, substandard
+performance or breach following the Implementation Date if the Systems are used
+on substantially the same basis as they are used as at the date of this agreement.
+
+For personal use only
+
+(r)
+
+Gilbert + Tobin
+
+3458-5566-9776 v1
+
+Schedule 2 | page | 39
+
+For personal use only
+
+Schedule 3
+
+Gilbert + Tobin
+
+Damstra Warranties
+
+(a)
+
+Validly existing: Damstra is a validly existing corporation registered under the
+laws of its place of incorporation.
+
+(b)
+
+Power: Damstra has full corporate power and lawful authority to execute, deliver
+and perform this deed and the Deed Poll.
+
+(c)
+
+Corporate action: Damstra has taken all necessary corporate action to authorise
+the entry into this deed and has taken or will take all necessary corporate action to
+authorise the performance of this deed and the Deed Poll.
+
+(d)
+
+Binding: This deed constitutes legal, valid and binding obligations on Damstra,
+enforceable in accordance with its terms.
+
+(e)
+
+Performance: The execution and performance by Damstra of this deed and each
+transaction contemplated by it did not and will not violate or breach any provision
+of:
+
+(f)
+
+(i)
+
+any agreement, deed, writ, order or injunction, judgment, law, rule or
+regulation to which a Damstra Group member is party or by which it is
+bound; or
+
+(ii)
+
+Damstra’s constitution.
+
+Capital structure: The issued capital of Damstra as at the date of this deed is:
+(i)
+
+139,482,567 Damstra Shares; and
+
+(ii)
+
+3,818,722 Damstra Options,
+
+and there are no other Damstra options, performance rights, shares, warrants,
+convertible notes, instruments or other securities (or offers, agreements or
+obligations (whether or not subject to conditions) to issue or grant any of the
+foregoing) that may convert or be exercisable into Damstra Shares (other than in
+connection with the treatment of the Vault Options as contemplated by clause
+3.1(j)).
+(g)
+
+(h)
+
+Damstra Information: The Damstra Information included in the Scheme Booklet,
+and any other information provided by Damstra pursuant to clause 4.2(g), has been
+prepared in good faith and, as at the date of the Scheme Booklet or the date on
+which such information is so provided (as applicable):
+(i)
+
+is not misleading or deceptive in any material respect (whether by omission
+or otherwise); and
+
+(ii)
+
+complies in all material respects with the requirements of the Corporations
+Act and Corporations Regulations, Listing Rules, Takeovers Panel guidance
+notes and ASIC Regulatory Guide 60 (as applicable).
+
+Information provided to Independent Expert: The information provided to the
+Independent Expert by or on behalf of Damstra has been and will be provided in
+good faith and on the understanding that the Independent Expert will rely on that
+information for the purpose of preparing the Independent Expert’s Report.
+
+3458-5566-9776 v1
+
+Schedule 3 | page | 40
+
+For personal use only
+Gilbert + Tobin
+
+(i)
+
+Solvency and regulatory action: No member of the Damstra Group is the subject
+of an Insolvency Event, nor has any regulatory action of any nature been taken that
+would prevent or restrict its ability to fulfil its obligations under this deed.
+
+(j)
+
+Continuous disclosure: Damstra is in compliance in all material respects with its
+continuous disclosure obligations under Listing Rule 3.1 and, except for Damstra’s
+proposal to acquire Vault, Damstra is not withholding from disclosure to ASX any
+material information in reliance on Listing Rule 3.1A.
+
+(k)
+
+all information: it is not aware of any information relating to the Damstra Group or
+its respective businesses or operations (having made reasonable enquiries) as at
+the date of this deed that has or could be reasonably be expected to give rise to a
+Damstra Material Adverse Event.
+
+(l)
+
+Financial information: Damstra's financial statements as disclosed to the ASX:
+
+(m)
+
+(i)
+
+comply with applicable statutory requirements and were prepared in
+accordance with the Corporations Act, the Accounting Standards and all
+other applicable laws and regulations;
+
+(ii)
+
+give a true and fair view of the financial position and the assets and liabilities
+of the Damstra Group; and
+
+(iii)
+
+there has not been any event, change, effect or development which would
+require Damstra to restate its financial statements as disclosed to the ASX.
+
+Damstra Disclosure Materials: The Damstra Disclosure Materials were compiled
+and made available to Vault and its Representatives in good faith with reasonable
+care and:
+(i)
+
+all factual information that forms part of the Damstra Disclosure Material is
+accurate in all material respects;
+
+(ii)
+
+the Damstra Disclosure Materials are not misleading or deceptive in any
+material respect when taken as a whole (including by omission); and
+
+(iii)
+
+Damstra has not knowingly or recklessly omitted any material information, or
+information which would render the information disclosed incomplete or
+misleading in any material respect, from the Damstra Disclosure Materials.
+
+3458-5566-9776 v1
+
+Schedule 3 | page | 41
+
+For personal use only
+
+Schedule 4
+
+Gilbert + Tobin
+
+Vault Prescribed Occurrences
+
+(a)
+
+Vault converting all or any of its shares into a larger or smaller number of shares;
+
+(b)
+
+Vault resolving to reduce its share capital in any way or reclassifying, combining,
+splitting or redeeming or repurchasing directly or indirectly any of its shares;
+
+(c)
+
+Vault:
+(i)
+
+entering into a buy-back agreement; or
+
+(ii)
+
+resolving to approve the terms of a buy-back agreement under the
+Corporations Act;
+
+(d)
+
+a member of the Vault Group issuing shares, or granting a performance right or an
+option over its shares, or agreeing to make such an issue or grant such a
+performance right or an option other than to a member of the Vault Group;
+
+(e)
+
+any member of the Vault Group issuing, or agreeing to issue, securities convertible
+into shares;
+
+(f)
+
+Vault declaring, paying or distributing any dividend, distribution, bonus, special
+payment or other share of its profits or assets;
+
+(g)
+
+a member of the Vault Group disposing, or agreeing to dispose, of the whole, or a
+substantial part, of the Vault Group’s business or property;
+
+(h)
+
+a member of the Vault Group granting, or agreeing to grant, an encumbrance over
+the whole, or a substantial part, of the Vault Group’s business or property;
+
+(i)
+
+an Insolvency Event occurs in relation to a member of the Vault Group,
+
+(j)
+
+a member of the Vault Group making any change to its constitution;
+
+but does not include any occurrence:
+(k)
+
+required or expressly permitted by this deed or the Scheme or transactions
+contemplated by either;
+
+(l)
+
+Fairly Disclosed in the Vault Disclosure Materials, or in any documents lodged with
+ASX in the 5 years period prior to the date of this deed;
+
+(m)
+
+required by any applicable law or by an order of a court or Government Agency
+(except where that requirement arises as a result of an action by a Vault Group
+ember between the date of this deed and the Implementation Date); or
+
+(n)
+
+agreed to, or requested, in writing by Damstra.
+
+3458-5566-9776 v1
+
+Schedule 4 | page | 42
+
+For personal use only
+
+Schedule 5
+
+Gilbert + Tobin
+
+Damstra Prescribed Occurrences
+
+(a)
+
+Damstra converting all or any of its shares into a larger or smaller number of
+shares;
+
+(b)
+
+Damstra resolving to reduce its share capital in any way or reclassifying,
+combining, splitting or redeeming or repurchasing directly or indirectly any of its
+shares;
+
+(c)
+
+Damstra:
+
+(d)
+
+(i)
+
+entering into a buy-back agreement; or
+
+(ii)
+
+resolving to approve the terms of a buy-back agreement under the
+Corporations Act;
+
+a member of the Damstra Group issuing shares, or granting a performance right or
+an option over its shares, or agreeing to make such an issue or grant such a
+performance right or an option other than:
+(i)
+
+on vesting or exercise of a Damstra Option on issue immediately prior to the
+date of this deed;
+
+(ii)
+
+in connection with the treatment of the Vault Options as contemplated by
+clause 3.1(j); or
+
+(iii)
+
+to a member of the Damstra Group;
+
+(e)
+
+any member of the Damstra Group issuing, or agreeing to issue, securities
+convertible into shares;
+
+(f)
+
+Damstra declaring, paying or distributing any dividend, distribution, bonus, special
+payment or other share of its profits or assets;
+
+(g)
+
+a member of the Damstra Group disposing, or agreeing to dispose, of the whole, or
+a substantial part, of the Damstra Group’s business or property;
+
+(h)
+
+a member of the Damstra Group granting, or agreeing to grant, an encumbrance
+over the whole, or a substantial part, of the Damstra Group’s business or property;
+
+(i)
+
+an Insolvency Event occurs in relation to a member of the Damstra Group,
+
+(j)
+
+a member of the Damstra Group making any change to its constitution;
+
+but does not include any occurrence:
+(k)
+
+required or expressly permitted by this deed or the Scheme or transactions
+contemplated by either;
+
+(l)
+
+Fairly Disclosed in the Damstra Disclosure Materials, or in any documents lodged
+with ASX in the 5 years period prior to the date of this deed;
+
+(m)
+
+required by any applicable law or by an order of a court or Government Agency
+(except where that requirement arises as a result of an action by a Damstra Group
+member between the date of this deed and the Implementation Date); or
+
+3458-5566-9776 v1
+
+Schedule 5 | page | 43
+
+agreed to, or requested, in writing by Vault.
+
+For personal use only
+
+(n)
+
+Gilbert + Tobin
+
+3458-5566-9776 v1
+
+Schedule 5 | page | 44
+
+Execution page
+
+For personal use only
+
+Executed as a deed.
+
+Gilbert + Tobin
+
+Signed, sealed and delivered by Damstra
+Holdings Limited (ACN 610 571 607) in
+accordance with section 127 of the Corporations
+Act 2001 (Cth) and by:
+
+Signature of director
+
+J Risseeuw
+Name of director (print)
+
+Signature of director/secretary
+
+PC Scholtz
+Name of director/secretary (print)
+
+Execution page
+
+For personal use only
+
+Signed, sealed and delivered by Vault
+Intelligence Limited (ACN 145 040 857) in
+accordance with section 127 of the Corporations
+Act 2001 (Cth) and by:
+
+Gilbert + Tobin
+
+Signature of director
+
+Signature of director/secretary
+
+Name of director (print)
+
+Name of director/secretary (print)
+
+Execution page
+
+Attachment A
+
+Indicative Timetable
+
+For personal use only
+
+Event
+
+Gilbert + Tobin
+
+Date
+
+Draft Scheme Booklet provided to ASIC
+
+11 August 2020
+
+First Court Hearing
+
+28 August 2020
+
+Scheme Meeting
+
+2 October 2020
+
+Second Court Hearing
+
+7 October 2020
+
+Effective Date
+
+8 October 2020
+
+Record Date
+
+15 October 2020
+
+Implementation Date
+
+22 October 2020
+
+3458-5566-9776 v1
+
+Attachment A
+
+Scheme
+
+For personal use only
+
+Attachment B
+
+Gilbert + Tobin
+
+3458-5566-9776 v1
+
+Attachment B
+
+For personal use only
+
+Scheme of arrangement
+Vault Intelligence Limited
+Scheme Shareholders
+
+Contents
+
+For personal use only
+
+1
+
+Page
+
+Defined terms and interpretation
+
+3
+
+1.1
+
+Defined terms
+
+3
+
+1.2
+
+Interpretation
+
+3
+
+2
+
+Preliminary matters
+
+3
+
+3
+
+Conditions
+
+4
+
+3.1
+
+Conditions precedent
+
+4
+
+3.2
+
+Certificates
+
+4
+
+3.3
+
+End Date
+
+4
+
+4
+
+5
+
+6
+
+Implementation of the Scheme
+
+5
+
+4.1
+
+Lodgement of Court orders with ASIC
+
+5
+
+4.2
+
+Transfer of Scheme Shares
+
+5
+
+Scheme Consideration
+
+5
+
+5.1
+
+Provision of Scheme Consideration
+
+5
+
+5.2
+
+Joint holders
+
+5
+
+5.3
+
+Ineligible Foreign Shareholders
+
+6
+
+5.4
+
+Fractional entitlements and splitting
+
+8
+
+5.5
+
+Unclaimed monies
+
+8
+
+5.6
+
+Orders of a court or Government Agency
+
+8
+
+5.7
+
+Status of New Damstra Shares
+
+9
+
+Dealings in Vault Shares
+
+9
+
+6.1
+
+Determination of Scheme Shareholders
+
+9
+
+6.2
+
+Share Register
+
+10
+
+7
+
+Quotation of Vault Shares
+
+10
+
+8
+
+General Scheme provisions
+
+11
+
+8.1
+
+Consent to amendments to this Scheme
+
+11
+
+8.2
+
+Scheme Shareholders' agreements and warranties
+
+11
+
+8.3
+
+Title to and rights in Scheme Shares
+
+12
+
+8.4
+
+Appointment of sole proxy
+
+12
+
+3477-9088-1804 v1
+
+For personal use only
+
+9
+
+8.5
+
+Authority given to Vault
+
+13
+
+8.6
+
+Instructions and elections
+
+13
+
+8.7
+
+Binding effect of this Scheme
+
+13
+
+General
+
+13
+
+9.1
+
+Stamp Duty
+
+13
+
+9.2
+
+Consent
+
+14
+
+9.3
+
+Notices
+
+14
+
+9.4
+
+Governing law and jurisdiction
+
+14
+
+9.5
+
+Further action
+
+14
+
+9.6
+
+No liability when acting in good faith
+
+14
+
+Dictionary
+
+15
+
+3477-9088-1804 v1
+
+For personal use only
+
+Parties
+1
+
+Vault Intelligence Limited (ACN 145 040 857) of Level 18, 1 Nicholson Street,
+East Melbourne, VIC, 3002 (Vault)
+
+2
+
+The Scheme Shareholders
+
+The parties agree
+
+1
+
+Defined terms and interpretation
+1.1
+
+Defined terms
+A term or expression which is defined in the dictionary in Schedule 1 has the meaning
+given to it in the dictionary.
+
+1.2
+
+Interpretation
+The interpretation clause in Schedule 1 sets out rules of interpretation for this Scheme.
+
+2
+
+Gilbert + Tobin
+
+Preliminary matters
+(a)
+
+Vault is an Australian public company limited by shares and has been admitted to
+the official list of ASX. Vault Shares are quoted for trading on ASX.
+
+(b)
+
+As at the date of the Implementation Deed, Vault had on issue or had granted (as
+applicable):
+(i)
+
+127,997,024 Vault Shares; and
+
+(ii)
+
+14,340,000 Vault Options.
+
+(c)
+
+Damstra is an Australian public company limited by shares and has been admitted
+to the official list of ASX.
+
+(d)
+
+If this Scheme becomes Effective:
+(i)
+
+Damstra will provide or procure the provision of the Scheme Consideration
+to the Scheme Shareholders in accordance with this Scheme and the Deed
+Poll; and
+
+(ii)
+
+all of the Scheme Shares, and all of the rights and entitlements attaching to
+them at the Implementation Date, will be transferred to Damstra and Vault
+will enter the name of Damstra in the Share Register in respect of the
+Scheme Shares.
+
+(e)
+
+Damstra and Vault have entered into the Implementation Deed in respect of
+(among other things) the implementation of this Scheme.
+
+(f)
+
+This Scheme attributes actions to Damstra but does not itself impose any
+obligations on Damstra to perform those actions. By executing the Deed Poll,
+Damstra has agreed to perform the actions attributed to it under this Scheme.
+
+3477-9088-1804 v1
+
+page | 3
+
+3
+
+Conditions
+
+For personal use only
+
+3.1
+
+Gilbert + Tobin
+
+Conditions precedent
+This Scheme is conditional on and will not become Effective until and unless the following
+conditions precedent are satisfied:
+
+3.2
+
+3.3
+
+(a)
+
+all the conditions in clause 3.1 of the Implementation Deed (other than the
+condition in the Implementation Deed relating to Court approval of this Scheme)
+are satisfied or waived in accordance with the terms of the Implementation Deed by
+8:00am on the Second Court Date;
+
+(b)
+
+neither the Implementation Deed nor the Deed Poll is terminated in accordance
+with their terms before 8.00am on the Second Court Date;
+
+(c)
+
+this Scheme is approved by the Court having made orders under section 411(4)(b)
+of the Corporations Act, including with any alterations made or required by the
+Court under section 411(6) of the Corporations Act as are acceptable to Vault and
+Damstra;
+
+(d)
+
+such other conditions made or required by the Court under section 411(6) of the
+Corporations Act in relation to this Scheme as are acceptable to Vault and Damstra
+are satisfied or waived; and
+
+(e)
+
+the order of the Court made under section 411(4)(b) of the Corporations Act
+approving this Scheme becomes Effective.
+
+Certificates
+(a)
+
+Each of Vault and Damstra will provide a certificate (or such other evidence as the
+Court may require) to the Court at the Second Court Hearing confirming (in respect
+of matters within their knowledge) whether or not the conditions precedent in
+clauses 3.1(a) and 3.1(b) have been satisfied or waived (but in the case of the
+condition precedent in clause 3.1(a) only in respect of those conditions in clause
+3.1 of the Implementation Deed (other than the condition relating to Court approval
+of the Scheme) included for that party's benefit).
+
+(b)
+
+The certificates given by Vault and Damstra under clause 3.2(a) constitute
+conclusive evidence that the conditions precedent in clauses 3.1(a) and 3.1(b)
+have been satisfied or waived.
+
+End Date
+Without limiting any rights under the Implementation Deed, this Scheme will lapse and be
+of no further force or effect if:
+(a)
+
+the Effective Date does not occur on or before the End Date; or
+
+(b)
+
+the Implementation Deed or the Deed Poll is terminated in accordance with its
+terms,
+
+unless Damstra and Vault otherwise agree in writing (and if required, as approved by the
+Court).
+
+3477-9088-1804 v1
+
+page | 4
+
+4
+
+Implementation of the Scheme
+
+For personal use only
+
+4.1
+
+Lodgement of Court orders with ASIC
+Vault must lodge with ASIC an office copy of the orders made by the Court under section
+411(4)(b) of the Corporations Act approving this Scheme as soon as possible and in any
+event before 5.00pm on the Business Day immediately following the day on which the
+Court approves this Scheme or 5.00pm on the Business Day on which the Court Orders
+are entered, whichever is the later.
+
+4.2
+
+Transfer of Scheme Shares
+Subject to this Scheme becoming Effective, on the Implementation Date:
+(a)
+
+(b)
+
+5
+
+subject to the provision of the Scheme Consideration in the manner contemplated
+by clause 5, all of the Scheme Shares, together with all rights and entitlements
+attaching to them as at the Implementation Date, must be transferred to Damstra,
+without the need for any further act by any Scheme Shareholder (other than acts
+performed by Vault (or any of Vault’s directors, officers, or secretaries) as attorney
+and agent for Scheme Shareholders under clause 8.5), by:
+(i)
+
+Vault, in its capacity as the attorney and agent of the Scheme Shareholders,
+duly completing and executing the Scheme Transfer on behalf of the
+Scheme Shareholders (as transferors), and delivering it to Damstra; and
+
+(ii)
+
+Damstra duly executing the Scheme Transfer (as transferee), attending to
+the stamping of the Scheme Transfer (if required) and delivering it to Vault
+for registration; and
+
+immediately following receipt of the Scheme Transfer in accordance with clause
+4.2(a)(ii), Vault must enter, or procure the entry of, the name of Damstra in the
+Share Register in respect of all the Scheme Shares transferred to Damstra in
+accordance with this Scheme.
+
+Scheme Consideration
+5.1
+
+Provision of Scheme Consideration
+Damstra must, subject to clauses 5.2, 5.3, 5.4 and 5.6:
+
+5.2
+
+(a)
+
+on or before the Implementation Date, issue to each Scheme Shareholder such
+number of New Damstra Shares as that Scheme Shareholder is entitled to be
+issued as Scheme Consideration and procure that the name and address of the
+Scheme Shareholder is entered in the Damstra Register in respect of those New
+Damstra Shares; and
+
+(b)
+
+procure that on or before the date that is 10 Business Days after the
+Implementation Date, a share certificate or holding statement (or equivalent
+document) is sent to the Registered Address of each Scheme Shareholder
+representing the number of New Damstra Shares issued to the Scheme
+Shareholder pursuant to this Scheme.
+
+Joint holders
+In the case of Scheme Shares held in joint names:
+
+Gilbert + Tobin
+
+3477-9088-1804 v1
+
+page | 5
+
+For personal use only
+Gilbert + Tobin
+
+5.3
+
+(a)
+
+the New Damstra Shares to be issued under this Scheme must be issued to and
+registered in the names of the joint holders;
+
+(b)
+
+any cheque required to be sent under this Scheme will be made payable to the
+joint holders and sent to either, at the sole discretion of Vault, the holder whose
+name appears first in the Share Register as at the Scheme Record Date or to the
+joint holders; and
+
+(c)
+
+any other document required to be sent under this Scheme will be forwarded to
+either, at the sole discretion of Vault, the holder whose name appears first in the
+Share Register as at the Scheme Record Date or to the joint holders.
+
+Ineligible Foreign Shareholders
+(a)
+
+Damstra will be under no obligation to issue any New Damstra Shares under this
+Scheme to any Ineligible Foreign Shareholder and instead:
+(i)
+
+subject to clauses 5.4 and 5.6, Damstra must, on or before the
+Implementation Date, issue the New Damstra Shares which would otherwise
+be required to be issued to the Ineligible Foreign Shareholders under this
+Scheme to the Sale Agent;
+
+(ii)
+
+Damstra must procure that as soon as reasonably practicable after the
+Implementation Date, the Sale Agent, in consultation with Damstra, sells or
+procures the sale of all the New Damstra Shares issued to the Sale Agent
+pursuant to clause 5.3(a)(i) in such manner, at such price and on such other
+terms as the Sale Agent reasonably determines, and remits to Vault the
+proceeds of the sale (after deduction of any applicable brokerage, stamp
+duty, currency conversion costs and other costs, taxes and charges)
+(Proceeds);
+
+(iii)
+
+promptly after receiving the Proceeds in respect of the sale of all of the New
+Damstra Shares referred to in clause 5.3(a)(i), Vault must pay, or procure
+the payment, to each Ineligible Foreign Shareholder, of the amount ‘A’
+calculated in accordance with the following formula and rounded down to the
+nearest cent:
+A = (B ÷ C) x D
+where
+B = the number of New Damstra Shares that would otherwise have been
+issued to that Ineligible Foreign Shareholder had it not been an Ineligible
+Foreign Shareholder and which were issued to the Sale Agent;
+C = the total number of New Damstra Shares which would otherwise have
+been issued to all Ineligible Foreign Shareholders and which were issued to
+the Sale Agent; and
+D = the Proceeds (as defined in clause 5.3(a)(ii)).
+
+(b)
+
+The Ineligible Foreign Shareholders acknowledge that none of Damstra, Vault or
+the Sale Agent gives any assurance as to the price that will be achieved for the
+sale of New Damstra Shares described in clause 5.3(a) and that Damstra, Vault
+and the Sale Agent expressly disclaim any fiduciary duty to the Ineligible Foreign
+Shareholders which may arise in connection with this clause 5.3.
+
+3477-9088-1804 v1
+
+page | 6
+
+For personal use only
+
+(c)
+
+Gilbert + Tobin
+
+Vault must make or procure the making of payments to Ineligible Foreign
+Shareholders under clause 5.3(a) by (in the absolute discretion of Vault):
+(i)
+
+where an Ineligible Foreign Shareholder has, before the Scheme Record
+Date, made a valid election in accordance with the requirements of the
+Share Registry to receive dividend payments from Vault by electronic funds
+transfer to a bank account nominated by the Ineligible Foreign Shareholder,
+paying, or procuring the payment of, the relevant amount in Australian
+currency by electronic means in accordance with that election;
+
+(ii)
+
+paying, or procuring the payment of, the relevant amount in Australian
+currency by electronic means to a bank account nominated by the Ineligible
+Foreign Shareholder by an appropriate authority from the Ineligible Foreign
+Shareholder to Vault; or
+
+(iii)
+
+dispatching, or procuring the dispatch of, a cheque for the relevant amount
+in Australian currency to the Ineligible Foreign Shareholder by prepaid post
+to their Registered Address (as at the Scheme Record Date), such cheque
+being drawn in the name of the Ineligible Foreign Shareholder (or in the case
+of joint holders, in accordance with the procedures set out in clause 5.2).
+
+(d)
+
+If Vault receives professional advice that any withholding or other tax is required by
+law or by a Government Agency to be withheld from a payment to an Ineligible
+Foreign Shareholder, Vault is entitled to withhold the relevant amount before
+making the payment to the Ineligible Foreign Shareholder (and payment of the
+reduced amount shall be taken to be full payment of the relevant amount for the
+purposes of this Scheme, including clause 5.3(a)(iii)). Vault must pay any amount
+so withheld to the relevant taxation authorities within the time permitted by law,
+and, if requested in writing by the relevant Ineligible Foreign Shareholder, provide a
+receipt or other appropriate evidence of such payment (or procure the provision of
+such receipt or other evidence) to the relevant Ineligible Foreign Shareholder.
+
+(e)
+
+Each Ineligible Foreign Shareholder appoints Vault as its agent to receive on its
+behalf any financial services guide (or similar or equivalent document) or other
+notices (including any updates of those documents) that the Sale Agent is required
+to provide to Ineligible Foreign Shareholders under the Corporations Act or any
+other applicable law.
+
+(f)
+
+Payment of the amount calculated in accordance with clause 5.3(a) to an Ineligible
+Foreign Shareholder in accordance with this clause 5.3 satisfies in full the Ineligible
+Foreign Shareholder’s right to Scheme Consideration.
+
+(g)
+
+If there is any surplus Proceeds, that surplus may be retained by Damstra following
+the satisfaction of Vault's obligations under this clause 5.3(a). Any interest on the
+Proceeds (less bank fees and other charges) will be to Damstra's account.
+
+(h)
+
+Where the issue of New Damstra Shares to which a Scheme Shareholder would
+otherwise be entitled under this Scheme would result in a breach of law or of a
+provision of the constitution of Damstra:
+(i)
+
+Damstra will issue the maximum possible number of New Damstra Shares to
+the Scheme Shareholder without giving rise to such a breach; and
+
+(ii)
+
+any further New Damstra Shares to which that Scheme Shareholder is
+entitled, but the issue of which to the Scheme Shareholder would give rise to
+such a breach, will instead be issued to the Sale Agent and dealt with under
+the preceding provisions in this clause 5.3, as if a reference to Ineligible
+
+3477-9088-1804 v1
+
+page | 7
+
+Foreign Shareholders also included that Scheme Shareholder and
+references to that person’s New Damstra Shares in that clause were limited
+to the New Damstra Shares issued to the Sale Agent under this clause.
+
+For personal use only
+
+5.4
+
+Fractional entitlements and splitting
+(a)
+
+Where the calculation of the Scheme Consideration to be issued to a particular
+Scheme Shareholder would result in the Scheme Shareholder becoming entitled to
+a fraction of a cent or of a New Damstra Share, the fractional entitlement will be
+rounded down to the nearest whole cent or number of New Damstra Shares, as
+applicable.
+
+(b)
+
+If Damstra is of the opinion, formed reasonably, that several Scheme
+Shareholders, each of which holds a holding of Vault Shares which results in a
+fractional entitlement to New Damstra Shares have, before the Scheme Record
+Date, been party to a shareholding splitting or division in an attempt to obtain an
+advantage by reference to the rounding provided for in the calculation of each
+Scheme Shareholder’s entitlement to the Scheme Consideration, Damstra may
+direct Vault to give notice to those Scheme Shareholders:
+(ii)
+
+setting out the names and Registered Addresses of all of them;
+
+(iii)
+
+stating that opinion; and
+
+(iv)
+
+attributing to one of them specifically identified in the notice the Vault Shares
+held by all of them,
+
+and, after the notice has been so given, the Scheme Shareholder specifically
+identified in the notice shall, for the purposes of this Scheme, be taken to hold all
+those Vault Shares and each of the other Scheme Shareholders whose names are
+set out in the notice shall, for the purposes of this Scheme, be taken to hold no
+Vault Shares.
+5.5
+
+Unclaimed monies
+(a)
+
+5.6
+
+Vault may cancel a cheque issued under this clause 5 if the cheque:
+(ii)
+
+is returned to Vault; or
+
+(iii)
+
+has not been presented for payment within six months after the date on
+which the cheque was sent.
+
+(a)
+
+During the period of 12 months commencing on the Implementation Date, on
+request in writing from a Scheme Shareholder to Vault (or the Share Registry)
+(which request may not be made until the date which is 60 Business Days after the
+Implementation Date), Vault must reissue a cheque that was previously cancelled
+under this clause 5.5.
+
+(b)
+
+The Unclaimed Money Act 1950 (ACT) will apply in relation to any Scheme
+Consideration which becomes ‘unclaimed money’ (as defined in section 6 of the
+Unclaimed Money Act 1950 (ACT)).
+
+Orders of a court or Government Agency
+If written notice is given to Vault (or the Share Registry) or Damstra (or the Damstra
+Registry) of an order or direction made by a court of competent jurisdiction or by another
+Government Agency that:
+
+Gilbert + Tobin
+
+3477-9088-1804 v1
+
+page | 8
+
+For personal use only
+
+(a)
+
+requires consideration to be provided to a third party (either through payment of a
+sum or the issuance of a security) in respect of Scheme Shares held by a particular
+Scheme Shareholder, which would otherwise be payable or required to be issued
+to that Scheme Shareholder by Vault or Damstra in accordance with this clause 5,
+then Vault or Damstra (as applicable) shall be entitled to procure that provision of
+that consideration is made in accordance with that order or direction; or
+
+(b)
+
+prevents Vault or Damstra from providing consideration to any particular Scheme
+Shareholder in accordance with this clause 5, or the payment or issuance of such
+consideration is otherwise prohibited by applicable law, Vault or Damstra shall be
+entitled to (as applicable):
+(ii)
+
+retain an amount, in Australian dollars, calculated pursuant to clause 5.3(a)
+in respect of that Scheme Shareholder; or
+
+(iii)
+
+not to issue (or direct Damstra not to issue), or to issue to a trustee or
+nominee, such number of New Damstra Shares as that Scheme Shareholder
+would otherwise be entitled to under clause 5.1,
+
+until such time as provision of the Scheme Consideration in accordance with this
+clause 5 is permitted by that (or another) order or direction or otherwise by law.
+5.7
+
+Status of New Damstra Shares
+Subject to this Scheme becoming Effective, Damstra must:
+
+6
+
+Gilbert + Tobin
+
+(a)
+
+issue the New Damstra Shares required to be issued by it under this Scheme on
+terms such that each such New Damstra Share will rank equally in all respects with
+each existing Damstra Share;
+
+(b)
+
+ensure that each such New Damstra Share is duly and validly issued in
+accordance with all applicable laws and Damstra’s constitution, fully paid and free
+from any mortgage, charge, lien, encumbrance or other security interest (except for
+any lien arising under Damstra’s constitution); and
+
+(c)
+
+use all reasonable endeavours to ensure that such New Damstra Shares are, from
+the Business Day following the date this Scheme becomes Effective (or such later
+date as ASX requires), quoted for trading on the ASX initially on a deferred
+settlement basis and thereafter on an ordinary settlement basis.
+
+Dealings in Vault Shares
+6.1
+
+Determination of Scheme Shareholders
+To establish the identity of the Scheme Shareholders, dealings in Vault Shares or other
+alterations to the Share Register will only be recognised if:
+(a)
+
+in the case of dealings of the type to be effected using CHESS, the transferee is
+registered in the Share Register as the holder of the relevant Vault Shares at or
+before the Record Date; and
+
+(b)
+
+in all other cases, registrable transfer or transmission applications in respect of
+those dealings, or valid requests in respect of other alterations, are received at or
+before the Record Date at the place where the Vault Register is kept,
+
+3477-9088-1804 v1
+
+page | 9
+
+For personal use only
+
+and Vault must not accept for registration, nor recognise for any purpose (except a
+transfer to Damstra pursuant to this Scheme and any subsequent transfer by Damstra or
+its successors in title), any transfer or transmission application or other request received
+after the Record Date, or received prior to the Record Date but not in registrable or
+actionable form.
+6.2
+
+7
+
+Gilbert + Tobin
+
+Share Register
+(a)
+
+Vault must register registrable transmission applications or transfers of Vault
+Shares in accordance with clause 6.1(b) at or before the Record Date, provided
+that nothing in this clause 6.2(a) requires Vault to register a transfer that would
+result in a Vault Shareholder holding a parcel of Vault Shares that is less than a
+‘marketable parcel’ (as defined in the operating rules of ASX).
+
+(b)
+
+If this Scheme becomes Effective, a Scheme Shareholder (and any person
+claiming through that Scheme Shareholder) must not dispose of, or purport or
+agree to dispose of, any Scheme Shares or any interest in them after the Record
+Date otherwise than pursuant to this Scheme, and any attempt to do so will have
+no effect and Vault will be entitled to disregard any such disposal, purported
+disposal or agreement.
+
+(c)
+
+For the purpose of determining entitlements to the Scheme Consideration, Vault
+must maintain the Share Register in accordance with the provisions of this clause
+6.2 until the Scheme Consideration has been paid to the Scheme Shareholders.
+The Share Register in this form will solely determine entitlements to the Scheme
+Consideration.
+
+(d)
+
+All statements of holding for Vault Shares (other than statements of holding in
+favour of Damstra) will cease to have effect after the Record Date as documents of
+title in respect of those shares and, as from that date, each entry current at that
+date on the Share Register (other than entries in respect of Damstra) will cease to
+have effect except as evidence of entitlement to the Scheme Consideration in
+respect of the Vault Shares relating to that entry.
+
+(e)
+
+As soon as possible after the Record Date, and in any event by 5:00pm on the first
+Business Day after the Record Date, Vault will ensure that details of the names,
+Registered Addresses and holdings of Vault Shares for each Scheme Shareholder
+as shown in the Share Register as at the Record Date are available to Damstra in
+the form Damstra reasonably requires.
+
+Quotation of Vault Shares
+(a)
+
+Vault will apply to ASX to suspend trading in Vault Shares with effect from the
+close of trading on the Effective Date.
+
+(b)
+
+Vault must apply:
+(i)
+
+for termination of the official quotation of Vault Shares on the ASX; and
+
+(ii)
+
+to have itself removed from the official list of ASX,
+
+in each case with effect on and from the close of trading on the trading day
+immediately following the Implementation Date.
+
+3477-9088-1804 v1
+
+page | 10
+
+8
+
+General Scheme provisions
+8.1
+
+Consent to amendments to this Scheme
+
+For personal use only
+
+If the Court proposes to approve this Scheme subject to any alterations or conditions:
+
+Gilbert + Tobin
+
+8.2
+
+(a)
+
+Vault may by its counsel consent on behalf of all persons concerned to those
+alterations or conditions to which Damstra has consented; and
+
+(b)
+
+each Scheme Shareholder agrees to any such alterations or conditions to which
+counsel for Vault has consented.
+
+Scheme Shareholders' agreements and warranties
+(a)
+
+Each Scheme Shareholder irrevocably:
+(i)
+
+agrees to the transfer of their Scheme Shares, together with all rights and
+entitlements attaching to those shares, to Damstra in accordance with this
+Scheme;
+
+(ii)
+
+agrees to the variation, cancellation or modification of the rights attached to
+their Scheme Shares constituted by or resulting from this Scheme;
+
+(iii)
+
+agrees to, on the direction of the Damstra, destroy any share certificates
+relating to their Scheme Shares;
+
+(iv)
+
+agrees to become a member of Damstra and to be bound by the terms of the
+constitution of Damstra;
+
+(v)
+
+acknowledges and agrees that this Scheme binds Vault and all Scheme
+Shareholders (including those who did not attend the Scheme Meeting and
+those who did not vote, or voted against this Scheme, at the Scheme
+Meeting); and
+
+(vi)
+
+consents to Vault and Damstra doing all things and executing all deeds,
+instruments, transfers or other documents as may be necessary, incidental
+or expedient to the implementation and performance of this Scheme,
+
+without the need for any further act by the Scheme Shareholder.
+(b)
+
+Each Scheme Shareholder is taken to have warranted to Damstra, and appointed
+and authorised Vault as its attorney and agent to warrant to Damstra, that:
+(i)
+
+3477-9088-1804 v1
+
+all their Scheme Shares (including any rights and entitlements attaching to
+their Scheme Shares) which are transferred under this Scheme will, at the
+time of transfer of them to Damstra, be fully paid and free from all:
+(A)
+
+mortgages, charges, liens, encumbrances, pledges, security interests
+(including any 'security interests' within the meaning of section 12 of
+the Personal Property Securities Act 2009 (Cth)) and interests of third
+parties of any kind, whether legal or otherwise; and
+
+(B)
+
+restrictions on transfer of any kind;
+
+page | 11
+
+For personal use only
+Gilbert + Tobin
+
+(ii)
+
+they have full power and capacity to transfer their Scheme Shares to
+Damstra together with any rights and entitlements attaching to those
+Scheme Shares; and
+
+(iii)
+
+as at the Record Date, they have no existing right to be issued any other
+Scheme Shares or any other form of Vault securities,
+
+and Vault undertakes to give such warranties to Damstra as agent and attorney of
+each Scheme Shareholder.
+8.3
+
+Title to and rights in Scheme Shares
+(a)
+
+(b)
+
+8.4
+
+To the extent permitted by law, the Scheme Shares (including all rights and
+entitlements attaching to the Scheme Shares) transferred under this Scheme will,
+at the time of transfer of them to Damstra, vest in Damstra free from all:
+(i)
+
+mortgages, charges, liens, encumbrances, pledges, security interests
+(including any 'security interests' within the meaning of section 12 of the
+Personal Property Securities Act 2009 (Cth)) and interests of third parties of
+any kind, whether legal or otherwise; and
+
+(ii)
+
+restrictions on transfer of any kind.
+
+Immediately upon the provision of the Scheme Consideration in the manner
+contemplated by clause 5, Damstra will be beneficially entitled to the Scheme
+Shares to be transferred to it under this Scheme pending registration by Vault of
+Damstra in the Share Register as the holder of the Scheme Shares. Damstra’s
+entitlement to be registered in the Share Register as the holder of the Scheme
+Shares arises on the Implementation Date in accordance with clause 4.2.
+
+Appointment of sole proxy
+Immediately upon the provision of the Scheme Consideration in the manner contemplated
+by clause 5 and until Vault registers Damstra as the holder of all Scheme Shares in the
+Share Register, each Scheme Shareholder:
+(a)
+
+is deemed to have appointed Damstra as attorney and agent (and directed
+Damstra in each such capacity) to appoint any director, officer, secretary or agent
+nominated by Damstra as its sole proxy and, where applicable or appropriate,
+corporate representative to attend shareholders' meetings, exercise the votes
+attaching to the Scheme Shares registered in their name and sign any
+shareholders' resolution or document whether in person, by proxy or by corporate
+representative;
+
+(b)
+
+must not attend or vote at any shareholders’ meetings or sign any shareholders’
+resolutions, whether in person, by proxy or by corporate representative (other than
+pursuant to clause 8.4(a));
+
+(c)
+
+must take all other actions in the capacity of a registered holder of Scheme Shares
+as Damstra reasonably directs; and
+
+(d)
+
+acknowledges and agrees that in exercising the powers conferred by clause 8.4(a),
+Damstra and any director, officer, secretary or agent nominated by Damstra under
+that clause may act in the best interests of Damstra as the intended registered
+holder of the Scheme Shares.
+
+3477-9088-1804 v1
+
+page | 12
+
+8.5
+
+Authority given to Vault
+
+For personal use only
+
+On and from the Effective Date, each Scheme Shareholder, without the need for any
+further act, irrevocably appoints Vault and each of its directors, officers and secretaries
+(jointly and each of them severally) as its attorney and agent for the purposes of:
+(a)
+
+enforcing the Deed Poll against Damstra; and
+
+(b)
+
+executing any document, or doing or taking any other act, necessary, desirable or
+expedient to give effect to this Scheme and the transactions contemplated by it,
+including executing the Scheme Transfer,
+
+and Vault accepts such appointment. Vault, as attorney and agent of each Scheme
+Shareholder, may sub-delegate its functions, authorities or powers under this clause 8.5
+to all or any of its directors, officers or employees (jointly, severally or jointly and
+severally).
+8.6
+
+Instructions and elections
+If not prohibited by law (and including where permitted or facilitated by relief granted by a
+Government Agency), all instructions, notifications or elections by a Scheme Shareholder
+to Vault that are binding or deemed binding between the Scheme Shareholder and Vault
+relating to Vault or Vault Shares, including instructions, notifications or elections relating
+to:
+(a)
+
+whether dividends are to be paid by cheque or into a specific bank account;
+
+(b)
+
+payments of dividends on Vault Shares; and
+
+(c)
+
+notices or other communications from Vault (including by email),
+
+will be deemed from the Implementation Date (except to the extent determined otherwise
+by Damstra in its sole discretion), by reason of this Scheme, to be made by the Scheme
+Shareholder to Damstra and to be a binding instruction, notification or election to, and
+accepted by, Damstra in respect of the New Damstra Shares issued to that Scheme
+Shareholder until that instruction, notification or election is revoked or amended in writing
+addressed to Damstra at its registry.
+8.7
+
+Binding effect of this Scheme
+This Scheme binds Vault and all of the Scheme Shareholders (including those who did
+not attend the Scheme Meeting and those who did not vote, or voted against this
+Scheme, at the Scheme Meeting) and, to the extent of any inconsistency, overrides the
+constitution of Vault.
+
+9
+
+Gilbert + Tobin
+
+General
+9.1
+
+Stamp Duty
+Damstra will pay any stamp duty payable on the transfer by Scheme Shareholders of the
+Scheme Shares to Damstra.
+
+3477-9088-1804 v1
+
+page | 13
+
+9.2
+
+Consent
+
+For personal use only
+
+Each Scheme Shareholder consents to Vault doing all things necessary or incidental to,
+or give full effect to, the implementation of this Scheme and the transactions
+contemplated by it, whether on behalf of the Scheme Shareholders, Vault or otherwise.
+
+Gilbert + Tobin
+
+9.3
+
+9.4
+
+9.5
+
+Notices
+(a)
+
+If a notice, transfer, transmission application, direction or other communication
+referred to in this Scheme is sent by post to Vault, it will not be taken to be received
+in the ordinary course of post or on a date and time other than the date and time (if
+any) on which it is actually received at Vault's registered office or at the office of the
+Share Registry.
+
+(b)
+
+The accidental omission to give notice of the Scheme Meeting or the non-receipt of
+such notice by a Vault Shareholder will not, unless so ordered by the Court,
+invalidate the Scheme Meeting or the proceedings of the Scheme Meeting.
+
+Governing law and jurisdiction
+(a)
+
+This Scheme and any dispute arising out of or in connection with the subject
+matters of this document is governed by the laws in force in Victoria, Australia.
+
+(b)
+
+Each party irrevocably:
+(i)
+
+submits to the non-exclusive jurisdiction of the courts of Victoria,
+Commonwealth courts having jurisdiction in that state and the courts
+competent to determine appeals from those courts, with respect to any
+proceedings that may be brought at any time relating to this Scheme; and
+
+(ii)
+
+waives any objection it may now or in the future have to the venue of any
+proceedings, and any claim it may now or in the future have that any
+proceedings have been brought in an inconvenient forum, if that venue falls
+within clause 9.4(b)(i).
+
+Further action
+Vault must do all things and execute all documents necessary to give full effect to this
+Scheme and the transactions contemplated by it.
+
+9.6
+
+No liability when acting in good faith
+Each Scheme Shareholder agrees that none of Vault nor Damstra nor any director,
+officer, secretary or employee of Vault or Damstra shall be liable for anything done or
+omitted to be done in the performance of this Scheme or the Deed Poll in good faith.
+
+3477-9088-1804 v1
+
+page | 14
+
+Dictionary
+
+For personal use only
+
+1
+
+Dictionary
+ASIC means the Australian Securities and Investments Commission.
+ASX means ASX Limited (ABN 98 008 624 691) or, where the context requires, the
+financial market operated by it.
+Business Day means a day that is not a Saturday, Sunday or a public holiday or bank
+holiday in Melbourne, Victoria.
+CHESS means the Clearing House Electronic Subregister System operated by ASX
+Settlement Pty Limited and ASX Clear Pty Limited.
+Corporations Act means the Corporations Act 2001 (Cth).
+Court means the Supreme Court of Victoria or such other court of competent jurisdiction
+under the Corporations Act as the parties may agree in writing.
+Damstra means Damstra Holdings Limited (ACN 610 571 607) of Level 1, 38 Garden
+Street, South Yarra Victoria 3141.
+Damstra Register means the register of members of Damstra maintained in accordance
+with the Corporations Act.
+Damstra Register means Computershare Investor Services Pty Limited.
+Deed Poll means the deed poll dated [insert] 2020 under which, among other things,
+Damstra covenants in favour of Scheme Shareholders to perform all actions attributed to
+it under this Scheme.
+Effective means the coming into effect, under section 411(10) of the Corporations Act, of
+the order of the Court made under section 411(4)(b) of the Corporations Act in relation to
+the Scheme.
+Effective Date means the date on which this Scheme becomes Effective.
+End Date means the date that is 6 months after the date of the Implementation Deed or
+such later date as Damstra and Vault agree in writing.
+Government Agency means any foreign or Australian government or governmental,
+semi-governmental, administrative, fiscal, statutory or judicial body, department,
+commission, authority, tribunal, agency or entity, or any minister of the Crown in right of
+the Commonwealth of Australia or any state, or any other federal, state, provincial, local
+or other government, whether foreign or Australian. It also includes any self-regulatory
+organisation established under statute or otherwise discharging substantially public or
+regulatory functions (including ASIC and the Takeovers Panel).
+Implementation Date means the fifth Business Day after the Record Date, or such other
+Business Day as Damstra and Vault agree in writing.
+Implementation Deed means the scheme implementation deed dated 8 July 2020
+between Damstra and Vault relating to, among other things, the implementation of this
+Scheme.
+
+Gilbert + Tobin
+
+3477-9088-1804 v1
+
+page | 15
+
+Ineligible Foreign Shareholder means a Scheme Shareholder whose address shown in
+the Share Register on the Record Date is a place outside Australia and its external
+territories, unless Damstra (acting reasonably) determines that it is lawful and not unduly
+onerous or impracticable to issue that Scheme Shareholder with New Damstra Shares.
+
+For personal use only
+
+Listing Rules means the official listing rules of ASX.
+New Damstra Share means a fully paid ordinary share in the capital of Damstra to be
+issued to Scheme Shareholders under this Scheme.
+Record Date means 7.00pm on the fifth Business Day after the Effective Date of the
+Scheme, or such other time and date as Damstra and Vault agree in writing.
+Registered Address means, in relation to a Scheme Shareholder, the address shown in
+the Share Register as at the Record Date.
+Related Body Corporate has the meaning given in section 50 of the Corporations Act.
+Sale Agent means the sale agent appointed to sell the New Damstra Shares that are to
+be issued under clause 5.3(a)(i) of this Scheme (and where appropriate in relation to
+holdings by it of securities, includes a nominee or custodian holding for it).
+Share Register means the register of members of Vault maintained in accordance with
+the Corporations Act.
+Share Registry means Link Market Services Limited.
+Scheme means this scheme of arrangement under Part 5.1 of the Corporations Act
+between Vault and the Scheme Shareholders, subject to any alterations or conditions
+made or required by the Court under section 411(6) of the Corporations Act and agreed
+to by Damstra and Vault.
+Scheme Consideration means 1 New Damstra Share for every 2.9 Scheme Shares,
+subject to the terms of this Scheme.
+Scheme Meeting means the meeting of Vault Shareholders ordered by the Court to be
+convened under section 411(1) of the Corporations Act to consider and vote on this
+Scheme and includes any meeting convened following any adjournment or postponement
+of that meeting.
+Scheme Share means a Vault Share held by a Scheme Shareholder.
+Scheme Shareholder means a Vault Shareholder as at the Record Date.
+Scheme Transfer means one or more proper instruments of transfer in respect of the
+Scheme Shares for the purposes of section 1071B of the Corporations Act, which may be
+or include a master transfer of all or part of the Scheme Shares.
+Second Court Date means the first day on which an application made to the Court for
+orders under section 411(4)(b) of the Corporations Act approving the Scheme is heard (or
+if the application is adjourned or subject to appeal for any reason, the day on which the
+adjourned application is heard), with such hearing being the Second Court Hearing.
+Vault Option means an unlisted option to acquire a Vault Share.
+Vault Share means a fully paid ordinary share in the capital of Vault.
+
+Gilbert + Tobin
+
+3477-9088-1804 v1
+
+page | 16
+
+Vault Shareholder means a holder or one or more Vault Shares, as shown in the Share
+Register.
+
+For personal use only
+
+2
+
+Interpretation
+In this Scheme, the following rules of interpretation apply unless the contrary intention
+appears.
+(a)
+
+Headings are for convenience only and do not affect the interpretation of this
+Scheme.
+
+(b)
+
+The singular includes the plural and vice versa.
+
+(c)
+
+Words that are gender neutral or gender specific include each gender.
+
+(d)
+
+Where a word or phrase is given a particular meaning, other parts of speech and
+grammatical forms of that word or phrase have corresponding meanings.
+
+(e)
+
+The words “include”, “including”, “such as”, “for example” and similar expressions
+are not words of limitation and do not limit what else might be included.
+
+(f)
+
+A reference to:
+
+(g)
+
+Gilbert + Tobin
+
+(i)
+
+a person includes a natural person, partnership, joint venture, government
+agency, association, corporation or other body corporate or entity (as that
+term is defined in section 64A of the Corporations Act);
+
+(ii)
+
+a thing (including a chose in action or other right) includes a part of that
+thing;
+
+(iii)
+
+a party includes its successors and permitted assigns;
+
+(iv)
+
+a document includes all amendments or supplements to that document;
+
+(v)
+
+a clause, term, party, schedule or attachment is a reference to a clause or
+term of, or a party, schedule or attachment to, this Scheme (as applicable);
+
+(vi)
+
+this Scheme includes all schedules to it;
+
+(vii)
+
+a law includes a constitutional provision, treaty, decree, convention, statute,
+regulation, ordinance, by-law, judgment, rule of common law or equity or a
+Listing Rule and is a reference to that law as amended, consolidated or
+replaced;
+
+(viii)
+
+an agreement (other than this Scheme) includes an undertaking or legally
+enforceable arrangement or understanding (whether or not in writing);
+
+(ix)
+
+a reference to a date or time is to that date or time in Melbourne, Victoria,
+Australia;
+
+(x)
+
+a time period includes the date referred to as that on which the period begins
+and the date referred to as that on which the period ends; and
+
+(xi)
+
+a monetary amount is in Australian dollars.
+
+An agreement on the part of two or more persons binds them jointly and severally.
+
+3477-9088-1804 v1
+
+page | 17
+
+For personal use only
+Gilbert + Tobin
+
+(h)
+
+When the day on which something must be done is not a Business Day, that thing
+must be done on the following Business Day.
+
+(i)
+
+In determining the time of day where relevant to this Scheme, the time of day is:
+
+(j)
+
+(i)
+
+for the purposes of giving or receiving Notice, the time of day where the
+party receiving Notice is located; or
+
+(ii)
+
+for any other purpose under this Scheme, the time of day in the place where
+the party required to perform an obligation is located.
+
+No rule of construction applies to the disadvantage of a party because that party
+was responsible for the preparation of this Scheme or any part of it.
+
+3477-9088-1804 v1
+
+page | 18
+
+Deed Poll
+
+For personal use only
+
+Attachment C
+
+Gilbert + Tobin
+
+3458-5566-9776 v1
+
+Attachment C
+
+For personal use only
+
+Deed poll
+Damstra Holdings Limited
+In favour of the Scheme Shareholders
+
+For personal use only
+
+Contents
+
+Gilbert + Tobin
+
+Page
+
+1
+
+Defined terms and interpretation
+
+2
+
+2
+
+Conditions
+
+3
+
+3
+
+Scheme obligations
+
+3
+
+4
+
+Warranties
+
+4
+
+5
+
+Continuing obligations
+
+4
+
+6
+
+General
+
+4
+
+Execution page
+
+7
+
+page | 1
+
+Date: [ ]
+
+Parties
+
+For personal use only
+
+Damstra Holdings Limited (ACN 610 571 607) of Level 1, 38 Garden Street, South
+Yarra Victoria 3141 (Damstra)
+In favour of the Scheme Shareholders
+
+Background
+A
+
+B
+
+1
+
+Damstra and Vault have entered into the Implementation Deed, under which
+Damstra has agreed to:
+(i)
+
+enter into this deed poll; and
+
+(ii)
+
+provide or procure the provision of the Scheme Consideration, in
+consideration for the acquisition of all of the Scheme Shares by Damstra, in
+accordance with the Scheme.
+
+Damstra is entering into this deed poll for the purpose of covenanting in favour of
+the Scheme Shareholders to undertake the actions attributed to Damstra under the
+Scheme.
+
+Defined terms and interpretation
+1.1
+
+Defined terms
+Unless the context otherwise requires:
+
+1.2
+
+(a)
+
+First Court Date means the first day on which an application made to the Court for
+orders under section 411(1) of the Corporations Act directing Vault to convene the
+Scheme Meeting is heard (or, if the application is adjourned or subject to appeal for
+any reason, the day on which the adjourned application is heard);
+
+(b)
+
+Implementation Deed means the scheme implementation deed dated 8 July 2020
+between Damstra and Vault relating to (among other things) the implementation of
+this Scheme;
+
+(c)
+
+Scheme means the scheme of arrangement under Part 5.1 of the Corporations Act
+between the Scheme Shareholders and Vault, subject to any alterations or
+conditions made or required by the Court under section 411(6) of the Corporations
+Act and agreed to in writing by Damstra and Vault;
+
+(d)
+
+Vault means Vault Intelligence Limited (ACN 145 040 857) of Level 18, 1
+Nicholson Street, East Melbourne, VIC, 3002; and
+
+(e)
+
+terms defined in the Scheme have the same meaning when used in this deed poll.
+
+Interpretation
+Clause 2 of Schedule 1 of the Scheme applies to the interpretation of this deed poll,
+except that references to ‘Scheme’ are to be read as references to ‘deed poll’.
+
+1.3
+
+Nature of deed poll
+Damstra acknowledges and agrees that:
+
+Gilbert + Tobin
+
+page | 2
+
+For personal use only
+
+2
+
+(a)
+
+this deed poll may be relied on and enforced by any Scheme Shareholder in
+accordance with the terms of this deed poll even though the Scheme Shareholders
+are not party to it; and
+
+(b)
+
+under the Scheme, each Scheme Shareholder irrevocably appoints Vault and each
+of its directors, officers and secretaries (jointly and each of them severally) as its
+agent and attorney to enforce this deed poll against Damstra.
+
+Conditions
+2.1
+
+Conditions
+The obligations of Damstra under this deed poll are subject to the Scheme becoming
+Effective.
+
+2.2
+
+Termination
+The obligations of Damstra under this deed poll will automatically terminate and the terms
+of this deed poll will be of no further force or effect if:
+(a)
+
+the Implementation Deed is terminated in accordance with its terms; or
+
+(b)
+
+the Scheme does not become Effective by the End Date,
+
+unless Damstra and Vault otherwise agree in writing.
+2.3
+
+Consequences of termination
+If this deed poll is terminated under clause 2.2:
+
+3
+
+(a)
+
+Damstra is released from its obligations to further perform this deed poll; and
+
+(b)
+
+in addition and without prejudice to any other available rights, powers or remedies
+available to the Scheme Shareholders, each Scheme Shareholder retains the
+rights they have against Damstra in respect of any breach of this deed poll which
+occurs before it was terminated.
+
+Scheme obligations
+3.1
+
+Undertaking to issue Scheme Consideration
+Subject to clause 2, Damstra undertakes in favour of each Scheme Shareholder to:
+(a)
+
+provide, or procure the provision of, the Scheme Consideration to each Scheme
+Shareholder in accordance with the terms of the Scheme; and
+
+(b)
+
+undertake all other actions attributed to it under the Scheme,
+
+in each case subject to and in accordance with the terms of the Scheme.
+3.2
+
+Shares to rank equally
+Damstra covenants in favour of each Scheme Shareholder that the New Damstra Shares
+which are issued to each Scheme Shareholder in accordance with the Scheme will:
+(a)
+
+Gilbert + Tobin
+
+rank equally with all existing Damstra Shares; and
+
+page | 3
+
+(b)
+
+For personal use only
+
+4
+
+be issued fully paid and free from any mortgage, charge, lien, encumbrance or
+other security interest.
+
+Warranties
+Damstra represents and warrants in favour of each Scheme Shareholder that:
+
+5
+
+(a)
+
+it is a corporation validly existing under the laws of its place of incorporation;
+
+(b)
+
+it has the corporate power to enter into and perform its obligations under this deed
+poll and to carry out the transactions contemplated by this deed poll;
+
+(c)
+
+it has taken all necessary corporate action to authorise its entry into this deed poll
+and has taken or will take all necessary corporate action to authorise the
+performance by it of this deed poll and to carry out the transactions contemplated
+by this deed poll;
+
+(d)
+
+this deed poll is valid and binding on it and is enforceable against it in accordance
+with the terms of this deed poll; and
+
+(e)
+
+this deed poll does not conflict with, or result in the breach of or default under, any
+provision of its constitution, or any writ, order or injunction, judgment, law, rule or
+regulation to which it is a party or subject or by which it is bound.
+
+Continuing obligations
+This deed poll is irrevocable and, subject to clause 2, remains in full force and effect until:
+
+6
+
+(a)
+
+Damstra has fully performed its obligations under this deed poll; or
+
+(b)
+
+the earlier termination of this deed poll under clause 2.2.
+
+General
+6.1
+
+Stamp duty
+Damstra must pay any stamp duties and any related fines and penalties in respect of this
+deed poll, the performance of this deed poll and each transaction effected by or made
+under or pursuant to this deed poll.
+
+6.2
+
+Notices
+(a)
+
+Any notice or other communication to Damstra in connection with this deed poll
+must be:
+(i)
+
+in legible writing in English;
+
+(ii)
+
+signed by the person making the communication or that person’s duly
+authorised agent; and
+
+(iii)
+
+given by hand delivery, pre-paid post or email in accordance with the details
+set out below:
+Attention:
+
+Chris Scholtz
+
+Address:
+
+Level 1, 38 Garden Street, South Yarra Victoria 3141
+
+Email:
+
+C.Scholtz@damstratechnology.com
+
+with a copy (for information purposes only) to akauye@gtlaw.com.au
+
+Gilbert + Tobin
+
+page | 4
+
+For personal use only
+
+(b)
+
+Subject to clause 6.2(c), any notice or other communication given in accordance
+with clause 6.2(a) will be deemed to have been duly given as follows:
+(i)
+
+if delivered by hand, on delivery;
+
+(ii)
+
+if sent by pre-paid post, on receipt; and
+
+(iii)
+
+if sent by email:
+(A)
+
+when the sender receives an email from the recipient confirming
+receipt of the email; or
+
+(B)
+
+four hours after the time sent (as recorded on the device from which
+the email was sent), provided that the sender does not receive an
+automated message that the email has not been delivered,
+
+whichever happens first.
+(c)
+
+Any notice or other communication that, pursuant to clause 6.2(b), would be
+deemed to be given:
+(i)
+
+before 9:00am on a Business Day, it will be taken to be received at 9:00am
+on that Business Day; or
+
+(ii)
+
+after 5:00pm on a Business Day or on a non-Business Day, it will be taken to
+be received at 9:00am on the next Business Day,
+
+where references to time are to time in the place the recipient is located.
+6.3
+
+Cumulative rights
+The rights, powers and remedies of Damstra and each Scheme Shareholder under this
+deed poll are cumulative with and do not exclude the rights, powers or remedies provided
+by law independently of this deed poll.
+
+6.4
+
+Waiver
+(a)
+
+A party waives a right under this deed poll only by written notice that it waives that
+right. A waiver is limited to the specific instance to which it relates and to the
+specific purpose for which it is given.
+
+(b)
+
+Failure to exercise or enforce, a delay in exercising or enforcing or the partial
+exercise or enforcement of:
+(i)
+
+any right, power or remedy provided by law or under this deed poll; or
+
+(ii)
+
+any right, power, authority, discretion or remedy created or arising upon
+default under this deed poll,
+
+by any party will not in any way preclude, or operate as a waiver of, any exercise or
+enforcement, or further exercise or enforcement, of that or any other right, power or
+remedy provided by law or under this deed poll.
+6.5
+
+Variation
+A provision of this deed poll may not be varied unless:
+(a)
+
+if before the First Court Date, the variation is agreed to by Vault in writing; or
+
+(b)
+
+if on or after the First Court Date, the variation is agreed to by Vault in writing and
+the Court indicates that the variation would not of itself preclude approval of the
+Scheme,
+
+in which event Damstra must enter into a further deed poll in favour of the Scheme
+Shareholders giving effect to the variation.
+
+Gilbert + Tobin
+
+page | 5
+
+For personal use only
+
+6.6
+
+Gilbert + Tobin
+
+6.7
+
+6.8
+
+Governing law and jurisdiction
+(a)
+
+This deed poll is governed by the laws in force in Victoria, Australia.
+
+(b)
+
+Damstra irrevocably:
+(i)
+
+submits to the non-exclusive jurisdiction of the courts of Victoria,
+Commonwealth courts having jurisdiction in that state and the courts
+competent to determine appeals from those courts, with respect to any
+proceedings that may be brought at any time relating to this Scheme; and
+
+(ii)
+
+waives any objection it may now or in the future have to the venue of any
+proceedings, and any claim it may now or in the future have that any
+proceedings have been brought in an inconvenient forum, if that venue falls
+within clause 6.6(b)(i).
+
+Assignment
+(a)
+
+The rights created by this deed poll are personal to Damstra and each Scheme
+Shareholder, and must not be dealt with at law or in equity without the prior written
+consent of Damstra.
+
+(b)
+
+Any purported dealing in contravention of clause 6.7(a) is invalid.
+
+Further action
+Damstra must, at its own expense, do all things and execute all documents necessary to
+give full effect to this deed poll and the transactions contemplated by it.
+
+page | 6
+
+Execution page
+
+For personal use only
+
+Executed as a deed poll.
+
+Gilbert + Tobin
+
+Signed, sealed and delivered by Damstra
+Holdings Limited (ACN 610 571 607) in
+accordance with section 127 of the Corporations
+Act 2001 (Cth) by:
+
+Signature of director
+
+Signature of director/secretary
+
+Name of director (print)
+
+Name of director/secretary (print)
+
+page | 7
+
+

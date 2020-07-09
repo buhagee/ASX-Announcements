@@ -1,0 +1,168 @@
+`
+
+For personal use only
+
+ASX RELEASE // 09.07.2020
+
+Xped Limited
+XPED ENTERS INTO TERMINATION AGREEMENT
+WITH HEURESY
+
+The directors of XPED Limited (ASX: XPE) (“Xped” or the “Company”) announce that on 7 July 2020
+the Company entered into a termination agreement (“Termination Agreement”) with Heuresy LLC
+and Heuresy Labs LLC (together referred to as “Heuresy”) to terminate the Technology Development
+Agreement (“Development Agreement”) dated 23 May 2018 amongst the parties.
+Pursuant to the Termination Agreement, the parties agreed to i) terminate the Development
+Agreement and any obligations and claims arising therefrom and ii) the Company shall pay Heuresy
+A$360,000 or equivalent to about US$250,000 for terminating the Development Agreement. The
+payment of the A$360,000 shall be made as follows: i) A$50,000 at completion, ii) A$200,000 by
+the issuance of a Converible Note which is further detailed below and in Appendix A, iii) transfer all
+the shares in Xped Holdings Limited which holds certain patents and the ADRC technologies
+(“Technologies”) to Heuresy. In addition, the parties shall enter into a technology licensing
+agreement granting the Company the right to resell the products developed using the Technologies
+and access to the ADRC technology for future development as further detailed below. This
+Termination Agreement is expected to complete on 13 July 2020.
+Background
+As announced on 7 February 2020, the Company was informed by Heuresy LLC that it believes the
+Company has certain obligations or may have breached certain terms under the Development
+Agreement. As discussed in the Company’s announcement that was lodged with the ASX on 28 May
+2018, the Company agreed to developed a new cryptographic Physical Security Token, which is a
+hardware security device that provides authentication and encryption. Pursuant to the terms of the
+Development Agreement, the Company immediately granted to Heuresy a perpetual, royalty-free,
+non-excluisive, worldwide license and right to use and exploit the inventions and technologies,
+comprising of the Company’s relevant intellectual property rights. In consideration, Heuresy paid
+US$250,000 to the Company shortly after execution of the Agreement.
+The Development Agreement also provides that Heuresy would pay an additional U$250,000 upon
+completion of the work described in the Scope of Work attached to the Development Agreement.
+However as announced on ASX on 30 October 2019, due to the need to conserve funds, the
+Company downsized its operations and its Internet of Things Business Unit, which was responsible
+for developing the Physical Security Token. As a result, the Company has been unable to complete
+the Scope of Work.
+
+XPED.COM
+
+MAKING TECHNOLOGY EASY AGAIN
+
+`
+
+For personal use only
+
+ASX RELEASE // 09.07.2020
+
+Xped Limited
+
+The Development Agreement is governed by the laws of Virgina, USA and provides for arbitration
+of any material dispute or alleged breach to be administrered by the American Arbitration
+Association.
+The Company had partially performed the work and still had certain obligations to complete the
+Scope of Works and it became apparent that it would be too costly to complete the development.
+Furthermore, if the Company was to become subject to arbitration and other legal action in the
+United States, there could be no assurance as to what the outcome would be or the costs (and
+management time) to defend such actions. The Termination Agreement crystalize the liability for
+the Company to resolve the matter which is the most desirable outcome for the Company given its
+current financial position.
+A$200,000 Convertible Note
+At completion of the Termination Agreement, the Company shall issue to Heuresy a A$200,000
+Convertible Note that has the following terms: non-interests bearing, unsecured, convertible at
+A$0.001 per share and payable in one year unless earlier converted. The conversion is subject to
+Shareholders approving the issuance of the Shares underlying the Notes pursuant to the ASX Listing
+Rules (if required). The noteholder has agreed that any converted shares will be restricted for sale
+until the first year anniversary date of the issuance of the Convertible Note. Further details of the
+Note are set out in Appendix A.
+Technology Licensing Agreement
+The Technology Licence Agreement between Xped Asia Holdings Limited (“Licensee”) and Heuresy
+Labs LLC (“Licensor”) has the following key terms:
+ Term. The term of this agreement is for 3 years with automatic renew on an annual basis
+unless either party gives 90 days notice of termination prior to the expiry of the then term.
+ Reseller Agreement. Licensee shall have the right to purchase from Licensor the applications
+and products using the Technologies that are developed by Licensor, which Licensee may
+sell and distribute as a reseller, subject to the terms of a further reseller agreement which is
+to be negotiated in good faith by the Parties and include commercially reasonable terms that
+are typical for such a reseller agreement, provided further that such a reseller agreement
+will provide that in no event will Licensee sell or distribute any products in conflict with the
+terms of the applicable reseller or distribution agreement. For all Applications and Products
+purchased by Licensee from Licensor pursuant to a reseller agreement, Licensee will pay the
+lowest amount charged by Licensor for commercial purchases of its similar devices paid by
+any other reseller or distributor.
+ Grant of Non-Exclusive License by Licensor. Licensor grants to Licensee a perpetual, royaltyfree, non-exclusive, Territory license and right to use and exploit the Technologies to
+manufacture, produce, develop, copy, improve, create, modify, use, market, sell, import,
+export, distribute, and publicly display. Territory means Australia and New Zealand. Licensor
+shall have the right to purchase from Licensee applications and products that are developed
+
+XPED.COM
+
+MAKING TECHNOLOGY EASY AGAIN
+
+`
+
+For personal use only
+
+ASX RELEASE // 09.07.2020
+
+Xped Limited
+by Licensee, which Licensor may sell and distribute as a reseller, subject to the terms of a
+further reseller agreement which is to be negotiated in good faith by the Parties and include
+commercially reasonable terms that are typical for such a reseller agreement, provided
+further that as such reseller agreement will provide that in no event will Licensor sell or
+distribute any products in conflict with the terms of the applicable reseller or distribution
+agreement.
+
+Julie Edwards
+Company Secretary
+Xped Limited
+
+XPED.COM
+
+MAKING TECHNOLOGY EASY AGAIN
+
+`
+
+For personal use only
+
+ASX RELEASE // 09.07.2020
+
+Xped Limited
+
+Appendix A – Terms and Conditions of the Convertible Note
+
+Subscription to
+the Note
+Repayment Date
+Interests
+Security
+Voting
+Conversion of
+Shares
+Conversion Price
+Voluntary Escrow
+
+AU$200,000 to be subscribed.
+12 months from the date of the issuance of the Note.
+Non-interest bearing
+Unsecured.
+The Note shall not provide for any voting rights at Shareholder meetings.
+Subject to Shareholders approving the issuance of the Shares underlying the Notes
+pursuant to the ASX Listing Rules (if required), the Note shall automatically and without
+further action required by any person, convert the Note into Shares of the Company.
+A$0.001 per Share.
+Heuresy undertakes to enter into an escrow agreement reasonable acceptable to the
+Company undertaking not to sell the converted shares for one year from the date of this
+Convertible Note.
+
+FOR MORE INFORMATION:
+
+XPED.COM
+
+Contact Xped Limited
+ABN 89 122 203 196
+Level 6, 412 Collins Street
+Melbourne VIC 3000
+
+T 03 9642 0655
+F 03 9642 5177
+E info@xped.com
+www.xped.com
+
+MAKING TECHNOLOGY EASY AGAIN
+
+

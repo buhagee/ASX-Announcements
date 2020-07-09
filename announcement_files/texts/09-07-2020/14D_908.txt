@@ -1,0 +1,105 @@
+For personal use only
+
+Thursday 9th of July
+
+ASX:14D
+Positive outlook for Aurora revenues
+
+•
+•
+
+A green hybrid storage solution for Aurora Project takes shape
+Simulation of past five year data indicates strong revenue prospects
+
+Image: 1414 Degrees concept for Aurora Solar Energy Project with TESS-GRID near Port Augusta, South Australia
+
+A revenue generating hybrid energy storage solution for the Aurora Project near Port Augusta, South
+Australia is looking promising, involving a mix of solar PV, batteries and 1414 Degrees’ TESS. Together
+these allow access to revenue stacks ranging from power purchase agreements (PPAs), ancillary services
+(FCAS), wholesale energy trading and highly valued long-duration firmed power sales.
+1414 Degrees is pioneering this competitive solution for grid stability under the leadership of Marie
+Pavlik, who is preparing for development by commissioning optimal asset modelling from specialist
+agencies CQ Energy and ITP Renewables (ITP), and teaming with energy retailers to bid on PPAs.
+To support marketing of the Aurora Project power, CQ Energy modelled 20 years of solar PV generation
+with allowance for declining output. CQ Energy also provided guidance on maximisation of revenue from
+
+For personal use only
+
+battery storage including spot price arbitrage and FCAS revenue. 1414 Degrees has used the results for
+competitive pricing of PPA tenders and offers.
+ITP have now provided a progress report using solar profile data collected over several years at the
+Aurora site to simulate operation of a 70MW solar PV farm with a battery energy storage system (BESS)
+to maximise National Electricity Market (NEM) wholesale and ancillary services (FCAS) revenue. It varied
+battery size from zero to 140 MWh and allowed for degrading performance to reflect real efficiencies.
+The modelling utilised a maximum 70 MW transmission connection as initially accepted by ElectraNet in
+its Connection Options report for 1414 Degrees. In a subsequent modelling, ITP will extend the optimal
+revenues from additional long duration (firmed) generation by a 1414 Degrees TESS-GRID.
+
+Simulated system of annual revenue for a
+70MW PV plant with battery storage size
+ranging from zero up to 140MWh under a
+range of historical NEM market data for
+South Australia.
+Source: ITP Renewables
+
+Their simulation based on the past five years of NEM and FCAS trading showed that an optimum battery
+size of 70 MWh with sale of electricity from the PV would have generated annual revenues ranging from
+$44m to $80m. The historical pricing showed that 70 MW of PV without batteries would have generated
+annual revenues ranging from $12.5m to $28m.
+1414 Degrees Executive Chairman Dr Kevin Moriarty, said, “Although based on historical data that may
+or may not be a guide to future conditions, these revenue simulations are very encouraging for the
+development of our Aurora Project. We are working to lock in PPA’s to secure cash flows for the first
+stage of PV generation to complement the BESS revenue streams. The addition of our TESS will provide a
+complete green hybrid solution for a global market as renewable penetration increases.
+The Aurora Project can provide robust system strength throughout the NEM because it is situated on
+major transmission lines, generating revenue stacks from many different services.”
+
+For personal use only
+
+Background
+1414 Degrees is developing thermal energy storage systems (TESS) in South Australia. A NEM connected
+solar PV farm with BESS and TESS will attract revenues across wholesale energy, frequency control and
+ancillary services (FCAS) markets. The full system under consideration is depicted in the following block
+diagram:
+
+The progress report describes the modelling to maximise NEM revenues under a configuration that
+includes only the Solar PV Farm and the BESS system. The combined system is assumed to be
+transmission network connected and can participate both in wholesale energy and FCAS markets.
+The second phase of this modelling will include TESS-GRID operational dispatch decisions of the
+complete system.
+
+For personal use only
+
+AUTHORISED BY:
+Kevin Moriarty, Executive Chairman
++61 8 8357 8273
+
+ABOUT 1414 DEGREES LIMITED
+1414 Degrees believes in a sustainable energy future, where energy is available to all, at all times. Its
+clean energy storage is set to reduce energy costs by increasing the efficiency of renewable generation
+and stabilising grid supply. The 1414 Degrees thermal energy storage system (TESS) is unlike any other
+energy storage system in the world.
+1414 Degrees’ technology stores energy generated from electricity or gas and supplies both heat and
+electricity in the proportions required by consumers. It is unique in its combination of low cost, flexibility
+of location, scalability, and sustainability. Following the successful development of its electrically
+charged TESS demonstrator, and commissioning of its pilot GAS-TESS at SA Water’s Wastewater
+Treatment Plant, the Company is now in an early stage of product development and commercialisation.
+
+ABOUT CQ ENERGY
+CQ Energy was established in 2008 to provide corporate advice and services in electricity, gas and
+renewables. It is recognised as one of the leading energy advisory firms in Australia and has developed a
+substantial client base both within Australia and overseas. CQ Energy is a multi-faceted energy business
+with a proven record of delivering value to clients in the energy sector. It focuses on assisting clients
+with optimal commercial solutions in electricity, gas and renewable energy.
+
+ABOUT ITP RENEWABLES
+ITP Renewables (ITP) is a global leader in renewable energy engineering, strategy, construction, and
+energy sector analytics. Its technical and policy expertise spans the breadth of renewable energy, energy
+storage, energy efficiency and smart integration technologies. It is part of the international ITPEnergised
+Group, one of the world’s largest specialist engineering consultancies focusing on renewable energy,
+energy efficiency, and carbon markets. The Group has undertaken over 2,000 contracts in energy
+projects encompassing over 150 countries since it was formed in 1981.
+
+For more information please visit www.1414degrees.com.au
+
+

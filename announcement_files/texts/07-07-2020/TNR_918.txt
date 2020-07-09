@@ -1,0 +1,3983 @@
+For personal use only
+
+PROSPECTUS
+
+Torian Resources Limited
+ABN 72 002 261 565
+A partially underwritten renounceable pro rata entitlement offer to Eligible Shareholders of
+approximately 135,972,430 New Shares at an issue price of $0.016 per New Share on the
+basis of 1 New Share for every 4 Existing Shares held, together with 1 attaching New
+Option for every 2 New Shares subscribed for, to raise up to approximately $2.2 million
+before issue costs (Entitlement Offer).
+This Prospectus is also being issued for the Shortfall Offer and for the purpose of section
+708A(11) of the Corporations Act to remove any trading restrictions on the sale of Shares
+issued by the Company prior to the last closing date under the Offers without disclosure
+under Part 6D of the Corporations Act.
+
+LEAD MANAGER AND UNDERWRITER
+Mahe Capital Pty Ltd
+
+This Prospectus is a transaction-specific prospectus issued in accordance with section 713 of the
+Corporations Act 2001 (Cth). If you are an Eligible Shareholder, this is an important document that
+requires your immediate attention. It should be read in its entirety with the Entitlement and Acceptance
+Form. If after reading this Prospectus you have any questions about the Securities being offered under
+this Prospectus or any other matter, then you should consult your stockbroker, accountant or other
+professional adviser. An investment in the New Securities offered under this Prospectus is highly
+speculative.
+This Prospectus is not for publication or distribution, directly or indirectly, in or into the United States of
+America (including its territories and possessions, any state of the US and the District of Columbia).
+This Prospectus is not an offer of securities for sale into the United States or to, or for the account or
+benefit of, US Persons. The securities referred to herein have not been and will not be registered under
+the US Securities Act of 1933, as amended, and may not be offered or sold in the United States or to,
+or for the account or benefit of, US Persons. No public offering of securities is being made in the United
+States.
+
+Important Notices
+
+For personal use only
+
+This Prospectus is dated 7 July 2020 and was lodged with
+ASIC on that date. Neither ASIC, ASX nor any of their
+respective officers take any responsibility for the contents
+of this Prospectus or the merits of the investment to which
+this Prospectus relates.
+This Prospectus is a transaction specific prospectus for an
+offer of ‘continuously quoted securities’ (as defined in the
+Corporations Act) and options to acquire continuously
+quoted securities. It has been prepared in accordance with
+section 713 of the Corporations Act. It does not contain the
+same level of disclosure as an initial public offering or ‘full
+form’ prospectus. In preparing this Prospectus, regard has
+been had to the fact that the Company is a ‘disclosing
+entity’ for the purposes of the Corporations Act and that
+certain matters may reasonably be expected to be known
+to investors and their professional advisers.
+No securities will be allotted or issued on the basis of this
+Prospectus later than 13 months after the date of this
+Prospectus.
+Prospectus availability
+Eligible Shareholders can obtain a copy of this Prospectus
+during the Offer Period on the Company’s website at
+www.torianresources.com.au or by contacting the
+Company. The electronic version of this Prospectus is
+provided for information purposes only. A paper copy of
+the Prospectus may be obtained free of charge on request
+during the relevant Offer Period by contacting the
+Company. The information on the Company’s website
+does not form part of this Prospectus. If you access an
+electronic copy of this Prospectus, you should ensure that
+you download and read the entire Prospectus.
+Foreign jurisdictions
+This Prospectus is not, and is not intended to constitute,
+an offer, invitation or issue in any place in which, or to any
+person to whom, it would be unlawful to make such an
+offer, invitation or issue.
+
+consider these risk factors in light of personal
+circumstances and should consider consulting their
+professional advisers before deciding whether to apply for
+New Securities pursuant to this Prospectus.
+Publicly available information
+Information about the Company is publicly available and
+can be obtained from ASIC and ASX (including the ASX
+website at www.asx.com.au). The contents of any website
+or ASIC or ASX filing by the Company are not incorporated
+into this Prospectus and do not constitute part of the
+Offers. This Prospectus is intended to be read in
+conjunction with the publicly available information in
+relation to the Company which has been notified to ASX.
+Investors should therefore have regard to the other
+publicly available information in relation to the Company
+before making a decision whether or not to invest in the
+Company or subscribe for New Securities.
+The Company has not authorised any person to give any
+information or make any representation in connection with
+an Offer which is not contained in this Prospectus. Any
+such extraneous information or representation may not be
+relied upon as having been authorised by the Company in
+connection with this Prospectus.
+Statements of past performance
+Past performance and pro forma financial information
+included in this Prospectus is given for illustrative
+purposes only and should not be relied upon as (and is
+not) an indication of the Company's views on its future
+financial performance or condition. Investors should note
+that past performance, including past Share price
+performance, of the Company cannot be relied upon as an
+indicator of (and provides no guidance as to) the
+Company's future performance including future Share
+price performance. The historical information included in
+this Prospectus is, or is based on, information that has
+previously been released to the market.
+
+The distribution of this Prospectus and accompanying
+Entitlement and Acceptance Forms (including electronic
+copies) outside Australia, New Zealand and Singapore
+may be restricted by law and persons who come into
+possession of these documents should observe any such
+restrictions. Any failure to comply with such restrictions
+may contravene applicable securities laws. The Company
+disclaims all liability to such persons. Please refer to
+Section 8.7 for further information.
+
+Investors should also be aware that certain financial data
+included in this Prospectus may be 'non-IFRS financial
+information' under Regulatory Guide 230 Disclosing nonIFRS financial information published by ASIC. The
+Company believes this non-IFRS financial information
+provides useful information to users in measuring the
+financial performance and condition of the Company. The
+non-IFRS financial information do not have a standardised
+meaning prescribed by Australian Accounting Standards
+and, therefore, may not be comparable to similarly titled
+measures presented by other entities, nor should they be
+construed as an alternative to other financial measures
+determined in accordance with Australian Accounting
+Standards. Investors are cautioned, therefore, not to place
+undue reliance on any non-IFRS financial information and
+ratios (if any) included in this Prospectus.
+
+Risk factors
+
+Forward-looking statements
+
+Potential investors should be aware that subscribing for
+securities in the Company involves a number of risks. The
+key risk factors are set out in Section 6 of this Prospectus.
+These risks together with other general risks applicable to
+all investments in quoted securities not specifically
+referred to, may affect the value of the Company’s
+securities in the future. An investment in the Company
+should be considered speculative. Investors should
+
+This Prospectus may contain forward-looking statements
+been based on current expectations about future acts,
+events and circumstances, such as ‘intends’, ‘may’,
+‘could’, ‘believes’, ‘estimates’, ‘targets’ or ‘expects’. These
+forward-looking statements are subject to risks,
+uncertainties and assumptions that could cause those
+acts, events and circumstances to differ materially from
+
+By applying for New Securities, including by submitting an
+Entitlement and Acceptance Form or making a payment
+using BPAY® an Applicant represents and warrants that
+there has been no breach of such laws.
+
+the expectations described in such forward-looking
+statements.
+
+For personal use only
+
+Accordingly, the Company cannot and does not give any
+assurance that the results, performance or achievements
+expressed or implied by the forward- looking statements
+contained in this Prospectus will actually occur. Further,
+except during an offer period and otherwise as required by
+law, the Company may not update or revise any forwardlooking statement if events subsequently occur or
+information subsequently becomes available that affects
+the original forward-looking statement.
+Applications
+Applications for New Securities offered by this Prospectus
+can only be made on an original Application Form
+accompanying this Prospectus. Please read the
+instructions in this Prospectus and on the accompanying
+Application Form regarding the acceptance of an Offer.
+By returning an Application Form, lodging an Application
+Form with a stockbroker or otherwise arranging for
+payment of New Securities in accordance with the
+instructions on the Application Form, an Applicant
+acknowledges that they have received and read this
+Prospectus, acted in accordance with the terms of the
+Offer to which the Application Form relates and agree to
+all of the terms and conditions as detailed in this
+Prospectus.
+Applications for the Shortfall Offer by persons other than
+Eligible Shareholders can only be submitted by invitation
+from the Company.
+No cooling-off period
+No cooling off rights apply to Applications submitted under
+the Offers.
+Disclaimer of representations
+No person is authorised to provide any information or
+make any representation in connection with the Offers
+which is not contained in this Prospectus.
+Except as required by law, and only to the extent so
+required, neither the Company nor any other person
+warrants or guarantees the future performance of the
+Company, or any return on any investment made pursuant
+to this Prospectus.
+Privacy
+Please read the privacy information located in Section
+8.15 of this Prospectus. By submitting an Entitlement and
+Acceptance Form, you consent to the matters outlined in
+that section.
+Definitions
+Certain terms and abbreviations used in this Prospectus
+have defined meanings which are explained in the
+Glossary.
+Photographs and Diagrams
+Photographs used in this Prospectus which do not have
+descriptions are for illustration only and should not be
+interpreted to mean that any person endorses the
+Prospectus or its contents or that the assets shown in them
+are owned by the Company. Diagrams used in this
+Prospectus are illustrative only and may not be drawn to
+scale.
+
+Enquiries
+Before making a decision about investing in the
+Entitlement Offer, you should seek advice from your
+stockbroker, accountant, financial adviser, taxation
+adviser or other independent professional adviser to
+determine whether it meets your objectives, financial
+situation and needs.
+If you are in any doubt as to how to deal with any of the
+matters raised in this Prospectus, you should consult with
+your broker, or legal, financial or other professional adviser
+without delay. Should you have any questions about the
+Entitlement Offer or how to accept the Entitlement Offer,
+please call the Company Secretary.
+If you have misplaced your Entitlement and Acceptance
+Form and would like a replacement form, please call the
+applicable number below. Alternatively, if you have the
+Securityholder Reference Number or Holder Identification
+Number for your holding(s), you can download a
+replacement form from the Share Registry's secure
+website at https://www.advancedshare.com.au/.
+If you have any questions, please call the Company
+Secretary on + 61 8 9420 8208 at any time between
+8.00am and 5.00pm (Perth time) Monday to Friday until
+the Closing Date. Alternatively, consult your broker,
+accountant or other professional adviser.
+Website
+To view annual reports, shareholder and other information
+about the Company, announcements, background
+information on the Company’s operations and historical
+information,
+visit
+the
+Company's
+website
+at
+www.torianresources.com.au.
+
+CONTENTS
+TIMETABLE TO THE OFFERS ................................................................................................ 2
+
+2.
+
+KEY OFFER TERMS ................................................................................................................ 2
+
+3.
+
+CHAIRMANS LETTER ............................................................................................................. 3
+
+4.
+
+INVESTMENT OVERVIEW AND KEY RISKS .......................................................................... 4
+
+5.
+
+PURPOSE AND EFFECT OF THE OFFERS ......................................................................... 10
+
+6.
+
+RISK FACTORS ..................................................................................................................... 15
+
+7.
+
+ACTIONS REQUIRED BY ELIGIBLE SHAREHOLDERS ...................................................... 22
+
+8.
+
+DETAILS OF THE OFFERS ................................................................................................... 26
+
+9.
+
+RIGHTS AND LIABILITIES ATTACHING TO SECURITIES .................................................. 34
+
+10.
+
+ADDITIONAL INFORMATION ................................................................................................ 38
+
+11.
+
+DIRECTORS' STATEMENT ................................................................................................... 43
+
+12.
+
+GLOSSARY ............................................................................................................................ 44
+
+13.
+
+PRO FORMA STATEMENT OF FINANCIAL POSITION ....................................................... 46
+
+For personal use only
+
+1.
+
+For personal use only
+
+1.
+
+2.
+
+TIMETABLE TO THE OFFERS
+Event
+
+Target Date
+
+Announcement of the Offers
+
+6 July 2020
+
+Lodgement of this Prospectus
+
+7 July 2020
+
+Ex date (Shares trade ex entitlement)
+
+9 July 2020
+
+Rights trading commences on a deferred settlement basis
+Record date to determine Entitlement (Record Date)
+
+10 July 2020
+
+Prospectus with Entitlement and Acceptance Form dispatched
+
+14 July 2020
+
+Entitlement Offer and Shortfall Offer opens for receipt of
+Applications
+Rights trading ends
+
+21 July 2020
+
+Last date to extend the Entitlement Offer
+
+23 July 2020
+
+Closing date for acceptances under the Entitlement Offer
+
+28 July 2020
+
+Notify ASX of under-subscriptions
+
+30 July 2020
+
+Issue of New Securities under the Entitlement Offer
+
+3 August 2020
+
+Dispatch of holding statements
+Underwriting settlement date
+
+3 August 2020
+
+Normal trading of New Shares and New Options expected to
+commence
+
+4 August 2020
+
+Last date to issue Shortfall Securities (see Section 8.6)
+
+28 October 2020
+
+Note:
+
+Dates and times in this Prospectus are indicative only and subject to change. All times and dates refer to WST time.
+The Company, in consultation with the Underwriter, reserves the right, subject to the Corporations Act, ASX Listing
+Rules and other applicable laws, to vary the dates of the Offers without prior notice, including extending the Offers or
+accepting late applications, either generally or in particular cases, or to withdraw the Offers without prior notice.
+Applicants are encouraged to submit their personalised Entitlement and Acceptance Forms as soon as possible. The
+commencement of quotation of New Shares is subject to confirmation from ASX.
+
+KEY OFFER TERMS
+Full Subscription
+Shares currently on issue1
+
+543,889,723
+
+Total Options currently on issue
+
+315,556,358
+
+New Shares offered under this Prospectus, on a 1 for 4
+basis
+
+135,972,430
+
+New Options offered on a 1 for 2 New Shares basis
+
+67,986,215
+
+Issue price per New Share
+Amount raised under this Prospectus (before costs)
+
+$0.016
+$2.2 million
+
+Note:
+1. This assumes that no further Shares are issued prior to the Record Date.
+
+2
+
+3.
+
+CHAIRMANS LETTER
+
+For personal use only
+
+Dear Shareholder,
+On behalf of Torian’s Directors, I am pleased to offer Eligible Shareholders the opportunity to participate
+in a partially underwritten 1:4 renounceable entitlement offer of New Shares in the Company at an Offer
+Price of A$0.016 per New Share together with 1 attaching New Option for every 2 New Shares
+subscribed for, to raise up to approximately $2.2 million before issue costs.
+Mahe Capital have agreed to partially underwrite the Entitlement Offer for an amount of $1 million.
+The funds raised will enable the company to proceed to undertake a 12,000- 15,000M RC & Diamond
+drill programme including assaying and additional mapping, sampling and geophysics of the Stirling
+Gold Camp as it progresses through its systematic exploration approach. In addition, the company will
+commence its maiden mapping & sampling program of additional targets at the Mt Monger project.
+As announced on 2 July 2020, Nova Minerals Limited (Nova) elected for an early conversion of their
+Convertible Notes and accrued interest into 94,605,500 Shares so that they can participate in the
+Entitlement Offer as a major shareholder.
+Since coming on board at the end of March this year, Nova have been exceptionally supportive of
+Torian. In addition to the excellent technical expertise that they have provided, we have consistently
+utilised synergies across the two companies that has enabled us to bring various costs down as a
+result.
+We look forward to working very closely with the team at Nova in the months and years ahead.
+Details of your Entitlement
+Eligible Shareholders are entitled to subscribe for 1 New Share for every 4 Existing Shares held at
+5.00pm (Perth time) on 10 July 2020, together with 1 attaching New Option for every 2 New Shares
+subscribed for.
+Eligible Shareholders may also apply for Shortfall Securities at the Offer Price in excess of their
+Entitlement. Shortfall Securities will only be allocated to Eligible Shareholders if available and if and to
+the extent that the Company so determines, in its absolute discretion. The Company may elect to scaleback applications for Shortfall Securities in its absolute discretion in consultation with Mahe Capital.
+Further information
+Further information on the Entitlement Offer is detailed in this Prospectus. You should read the entirety
+of this Prospectus carefully before deciding whether to participate in the Entitlement Offer. There are
+risks in investing in the Company, including risks associated with markets generally, and ongoing
+requirements for additional funding. Please see section 6 for details. If any of these risks or other
+material risks eventuate, it will likely have a material adverse impact on the Company's future financial
+performance and position.
+Executive Directors Paul Summers and Peretz Schaprio have agreed to subscribe for their full
+entitlement under the Entitlement Offer. We look forward to the ongoing support of all Shareholders as
+we continue on this exciting journey.
+The Board recommends the Entitlement Offer to you and looks forward to your support.
+Yours sincerely
+
+Louie Simens
+Non-Executive Chairman
+TORIAN RESOURCES LIMITED
+
+4.
+
+INVESTMENT OVERVIEW AND KEY RISKS
+
+For personal use only
+
+This information is a selective overview only. Prospective investors should read the Prospectus in full
+before deciding to invest in New Securities.
+Question
+
+Response
+
+What is the
+Entitlement
+Offer?
+
+A partially underwritten renounceable entitlement offer
+to subscribe for 1 New Share for every 4 Existing Shares
+held on the Record Date at an issue price of $0.016, with
+1 attaching New Option for every 2 New Shares
+subscribed for.
+The Entitlement Offer seeks to issue up to 135,972,340
+New Shares and 67,986,215 million New Options to
+raise up to approximately $2.2 million (before costs) if
+fully subscribed. Up to a further approximately $1.36
+million may be raised if all New Options to be issued
+under the Entitlement Offer are exercised.
+A secondary purpose of this Prospectus is to meet the
+requirements of section 708A(11) of the Corporations
+Act to remove any trading restrictions on the sale of
+Shares issued by the Company pursuant to the
+conversion of Nova’s Convertible Notes and any other
+Shares issued at the Company’s recent annual general
+meeting.
+
+Am I an Eligible
+Shareholder?
+
+The Entitlement Offer is made to Eligible Shareholders,
+being Shareholders who:
+(a)
+
+are the registered holder of Shares as at
+5.00pm (Perth time) on the Record Date; and
+
+(b)
+
+have a registered address in Australia, New
+Zealand or Singapore.
+
+What is my
+Entitlement?
+
+Your Entitlement is the right granted to you under the
+Entitlement Offer to subscribe for 1 New Share at the
+Offer Price for every 4 Existing Shares you hold as at
+the Record Date with 1 attaching New Option for every
+2 New Shares subscribed for.
+Your Entitlement will be noted on your personalised
+Entitlement and Acceptance Form.
+
+What can I do
+with my
+Entitlement?
+
+As an Eligible Shareholder, you may do any one of the
+following:
+(a)
+take up all or part of your Entitlement;
+(b)
+take up all of your Entitlement and apply for
+Shortfall Securities;
+(c)
+sell all or part of your Entitlement; or
+(d)
+
+do nothing, in which case you will be deemed
+to have renounced your Entitlement and your
+Shareholding will be diluted if New Shares are
+issued under the Offers.
+
+Where to find more
+information
+Section 8
+
+Section 7
+
+For personal use only
+
+What happens if
+I am an
+Ineligible
+Shareholder?
+
+The Company will not be extending the Entitlement
+Offer to Ineligible Shareholders. However, for the
+purposes of Listing Rule 7.7.1(c), the Company has
+appointed the Underwriter as nominee to arrange for the
+sale of the Ineligible Shareholders' Entitlements and to
+account for the net proceeds of the sale to them.
+
+Section 8.8
+
+How will the
+proceeds of the
+Entitlement
+Offer be used?
+
+The Company will use funds raised under the
+Entitlement Offer (together with existing cash on hand):
+
+Section 5.2
+
+Use of funds
+
+Full
+Subscription
+
+% of funds
+raised
+
+12,000- 15,000M
+RC & Diamond drill
+programme
+including assaying
+
+$1,200,000
+
+55%
+
+Mapping
+&
+Sampling
+of
+additional targets
+at Mt Monger
+
+$400,000
+
+19%
+
+Corporate
+and
+Administration
+
+$353,819
+
+16%
+
+Costs
+of
+the
+Entitlement Offer
+
+$221,740
+
+10%
+
+$2,175,559
+
+100%
+
+Total
+
+A further breakdown of the use of funds, including where
+only the Underwritten Amount is raised, is set out in
+Section 5.2.
+What are the
+key risks of a
+subscription
+under the
+Entitlement
+Offer?
+
+An investment in the Company has risks that you should
+consider before making a decision to invest. Please
+carefully consider these risks and the information
+contained in other sections of this Prospectus before
+deciding whether or not to apply for New Securities.
+These risks include:
+Assessment of stamp duty
+Following the acquisition of Cascade Resources Limited
+in 2017 (Acquisition), the Company paid stamp duty in
+accordance with the Duties Act 2008 (WA).
+Subsequently, the Office of State Revenue (OSR) has
+given notice to the Company that it had reassessed the
+value of the Acquisition and advised the Company that,
+in the view of the OSR, additional duty and penalties
+may be payable on the Acquisition.
+The Company has questioned this reassessment and,
+following submissions to the Commissioner, a new
+designated valuation of the transaction is being
+undertaken. The ultimate duty payable will be
+dependent on the value provided under this new
+valuation and on acceptance of that value by the OSR
+which may result in the payment of additional duty (and
+
+Section 6
+
+For personal use only
+
+associated penalties) on the Acquisition, at a level to be
+determined.
+There is a risk that the Company’s liability for stamp duty
+may be higher than the amount paid to date and if this
+is the case, it may be necessary for the Company to
+raise additional funding to meet this liability. There is no
+guarantee such funds will be able to be raised and if so
+on what terms.
+Exploration risk
+The mineral mining licenses of the Company are at
+various stages of exploration, and potential investors
+should understand that mineral exploration and
+development are high-risk undertakings. There can be
+no assurance that exploration of these mining licenses,
+or any other mining licenses that may be acquired in the
+future, will result in the discovery of an economic ore
+deposit. Even if an apparently viable deposit is
+identified, there is no guarantee that it can be
+economically exploited.
+The future exploration activities of the Company may be
+affected by a range of factors including geological
+conditions, limitations on activities due to seasonal
+weather patterns, unanticipated operational and
+technical difficulties, industrial and environmental
+accidents, native title process, changing government
+regulations, mill capacity availability and many other
+factors beyond the control of the Company.
+The success of the Company will also depend upon the
+Company having access to sufficient development
+capital, being able to maintain title to its mining licenses
+and obtaining all required approvals for its activities. In
+the event that exploration programmes prove to be
+unsuccessful this could lead to a diminution in the value
+of the mining licenses, a reduction in the case reserves
+of the Company and possible relinquishment of the
+mining licenses.
+The exploration costs of the Company are based on
+certain assumptions with respect to the method and
+timing of exploration. By their nature, these estimates
+and assumptions are subject to significant uncertainties
+and, accordingly, the actual costs may materially differ
+from these estimates and assumptions. Accordingly, no
+assurance can be given that the cost estimates and the
+underlying assumptions will be realised in practice,
+which may materially and adversely affect the
+Company’s viability.
+Operational risks
+The operations of the Company may be affected by
+various factors which are beyond the control of the
+Company, including failure to locate or identify mineral
+deposits, failure to achieve predicted grades in
+exploration or mining, operational and technical
+difficulties encountered in exploration, difficulties in
+commissioning or operating plant and equipment or
+mechanical failure which may affect extraction costs,
+adverse weather conditions, environmental accidents,
+
+For personal use only
+
+industrial disputes and unexpected shortages or
+increases in the costs of consumables, spare parts,
+plant and equipment, fire, explosions and other
+incidents beyond the control of the Company.
+These risks and hazards could also result in damage to,
+or destruction of, equipment, personal injury,
+environmental damage, business interruption and
+possible legal liability. While the Company currently
+intends to maintain insurance within ranges of coverage
+consistent with industry practice, no assurance can be
+given that the Company will be able to obtain such
+insurance coverage at reasonable rates (or at all), or
+that any coverage it obtains will be adequate and
+available to cover any such claims.
+Fluctuations in gold prices
+The price of gold and other minerals fluctuates widely
+and is affected by numerous factors beyond the control
+of the Company such as industrial and retail supply and
+demand, exchange rates, inflation rates, changes in
+global economies, confidence in the global monetary
+system, forward sales of metals by producers and
+speculators as well as other global or regional political,
+social or economic events. Future serious price declines
+in the market value of gold could cause the continued
+development of, and eventually the commercial
+production from, the Company’s projects and the
+Company’s other properties to be rendered
+uneconomic. Depending on the price of gold the
+Company could be forced to discontinue production or
+development and may lose its interest in, or may be
+forced to sell, some of its properties. There is no
+assurance that, even as commercial quantities of gold is
+produced, a profitable market will exist for it.
+In addition to adversely affecting the reserve estimates
+of the Company and its financial condition, declining
+commodity prices can impact operations by requiring a
+reassessment of the feasibility of a particular project.
+Such a reassessment may be the result of a
+management decision or may be required under
+financing arrangements related to a particular project.
+Even if a project is ultimately determined to be
+economically viable, the need to conduct such a
+reassessment may cause substantial delays or may
+interrupt operations until the reassessment can be
+completed.
+Future capital needs
+Additional funding may be required in the event costs
+exceed the Company’s estimates and to effectively
+implement its business and operational plans in the
+future to take advantage of opportunities for acquisition,
+joint ventures or other business opportunities, and to
+meet any unanticipated liabilities or expenses which the
+Company may incur. If such events occur, additional
+funding will be required.
+The Company may seek to raise further funds through
+equity or debt financing, joint ventures, licensing
+arrangements, or other means. Failure to obtain
+
+For personal use only
+
+sufficient financing for the Company’s activities and
+future projects may result in delay and indefinite
+postponement of the Company’s activities and potential
+development programs. There can be no assurance that
+additional finance will be available when needed or, if
+available, the terms of the financing may not be
+favourable to the Company and might involve
+substantial dilution to shareholders.
+COVID-19 risk
+In December 2019, a strain of coronavirus (COVID-19)
+was identified in Wuhan, China. On 11 March 2020, the
+World Health Organisation declared COVID-19 a
+pandemic. The outbreak of COVID-19 has resulted in
+the implementation of governmental measures,
+including closures, quarantines and travel bans,
+intended to control the spread of the virus.
+The Directors are constantly monitoring the situation
+and, as at the date of this Prospectus, COVID-19 has
+not had, and is not expected to have, a material adverse
+effect on the Company’s exploration activities and
+financial performance.
+However, in the event that the Federal Government or
+Western Australian Government implement any
+increase in containment measures in response to the
+ongoing pandemic, this may prevent the Company, and
+other business partners, from conducting business
+activities for periods of time and may impact on the
+Company’s ability undertake exploration activities and
+could cause delays to future work program activities.
+Such measures taken in response to COVID-19 may
+adversely impact the Company’s operations and are
+likely to be beyond the control of the Company.
+Further, the outbreak of COVID-19 is impacting global
+economic markets. The nature and extent of the effect
+of the outbreak on the performance of the Company
+remains unknown. The Company’s share price may be
+adversely affected in the short to medium term by the
+economic uncertainty caused by COVID-19.
+Is the
+Entitlement
+Offer
+underwritten?
+
+Yes - the Entitlement Offer is partially underwritten by
+Mahe Capital to the amount of $1 million (Underwritten
+Amount). The Underwriter will also act as lead manager
+for the remaining amount.
+For further information on the Underwriter please refer
+to Section 8.3.
+
+Section 8.3
+
+What will be the
+effect of the
+Offers on
+control of the
+Company?
+
+The effect of the Entitlement Offer on control of the
+Company will vary with the level of Entitlements taken
+up by Eligible Shareholders and the number of Shortfall
+Securities placed in the Shortfall Offer.
+The Company and the Underwriter will cap the extent to
+which a Shareholder may take up Shortfall Securities
+issued under the Shortfall Offer such that there will be
+no Shareholder whose interest would exceed 19.9% as
+a result of the Offers except to the extent permitted by
+law.
+
+Section 5.6
+
+For personal use only
+
+What is the
+effect of the
+Offers on the
+Company?
+
+The maximum number of New Shares and New Options
+that will be issued under the Offers is 135,972,430 New
+Shares and 72,337,333 New Options, representing 20%
+of the issued share capital and 19% of the option capital
+of the Company on completion of the Offers
+respectively.
+
+Section 5.4
+
+Can I apply for
+New Shares
+and New
+Options in
+excess of my
+Entitlement?
+
+Yes, you can apply for New Shares and New Options in
+excess of your Entitlement (Shortfall Securities).
+
+Section 8.6
+
+How do I apply
+for New
+Securities and
+Shortfall
+Securities under
+the Entitlement
+Offer?
+
+Applications for New Securities and Shortfall Securities
+can be made by Eligible Shareholders completing the
+relevant sections of the personalised Entitlement and
+Acceptance Form and sending it to the Share Registry
+together with payment by cheque or BPAY® in the
+amount of Entitlement and Shortfall Securities applied
+for.
+
+Section 7.2
+
+How will the
+Shortfall
+Securities be
+allocated?
+
+Eligible Shareholders can apply for Shortfall Securities.
+The Directors, together with the Underwriter, reserve the
+right to place any Shortfall Securities at their discretion
+within 3 months of the Closing Date.
+
+Section 8.6
+
+How do I accept
+the Entitlement
+Offer?
+
+If you are within Australia, New Zealand or Singapore
+and you have an account with an Australian financial
+institution that supports BPAY® payments, you may pay
+your Application Monies via BPAY®.
+Alternatively, you may complete and return the
+personalised Entitlement and Acceptance Form with the
+requisite Application Monies, by following the
+instructions set out on the personalised Entitlement and
+Acceptance Form.
+
+Section 7.9
+
+Is the
+Entitlement
+Offer subject to
+Shareholder
+approval?
+
+No, shareholder approval is not required for the
+Entitlement Offer or the Offers.
+
+How can I
+obtain further
+advice?
+
+Contact the Company Secretary on +61 8 9420 8208 at
+any time between 8.00am and 5.00pm (Perth time)
+Monday to Friday until the Closing Date. Alternatively,
+consult your broker, accountant or other professional
+adviser.
+
+PURPOSE AND EFFECT OF THE OFFERS
+
+5.1
+
+Introduction
+
+For personal use only
+
+5.
+
+5.2
+
+5.3
+
+The Company is seeking to raise up to approximately $2.2 million before issue costs under the
+Entitlement Offer at a price of $0.016 per New Share on the basis of 1 New Share for every 4 Existing
+Shares held as at the Record Date, with 1 attaching New Option for every 2 New Shares subscribed
+for.
+Shareholders may, in addition to their Entitlement apply for Shortfall Securities at the Offer Price.
+
+Purpose of the Offers
+The Directors intend to apply the proceeds from the Entitlement Offer together with existing cash on
+hand as follows:
+Use of funds
+
+Underwritten
+Amount
+
+% of funds raised Full Subscription % of funds raised
+
+Exploration at Mt
+Stirling
+
+$750,000
+
+75%
+
+1,600,000
+
+74%
+
+12,000- 15,000M RC
+& Diamond drill
+programme including
+assaying
+
+$750,000
+
+75%
+
+$1,200,000
+
+55%
+
+Mapping & Sampling
+of additional targets at
+Mt Monger
+
+-
+
+$400,000
+
+19%
+
+Corporate and
+Administration
+
+$98,794
+
+10%
+
+$353,819
+
+16%
+
+Costs of the
+Entitlement Offer
+
+$151,206
+
+15%
+
+$221,740
+
+10%
+
+Total use of funds
+
+$1,000,000
+
+100%
+
+$2,175,559
+
+100%
+
+Notes:
+1.
+
+This table is a statement of the proposed application of the funds raised as at the date of this Prospectus. As with any
+budget, intervening events and new circumstances have the potential to affect the Company’s decisions. The Company
+reserves the right to vary the way funds are applied.
+
+2.
+
+There is no minimum subscription condition for any Offer to proceed. The Entitlement Offer and Shortfall Offer are partially
+underwritten, for the value of the Underwritten Amount, which will result in at least $1 million being raised irrespective of
+any subscription by Eligible Shareholders. In the event the Company does not achieve Full Subscription and only raises
+funds for the Underwritten Amount, the funds raised will be applied in the manner set out in the second column of the
+table above.
+
+3.
+
+Corporate and Administration includes general working capital which is intended to accelerate and/or extend/continue the
+above initiatives as required, and other corporate administration and operating costs (including directors’ fees, ASX and
+share registry fees, legal, tax and audit fees, insurance and travel costs).
+
+4.
+
+See section 10.5 for further details relating to the estimated expenses of the Entitlement Offer. Please note that in addition
+to the costs of the Entitlement Offer, the Underwriter is entitled to be issued 2 New Options for every $1 raised under the
+Entitlement Offer. For further details on the Underwriter’s remuneration please refer to Section 8.3 for further information.
+
+Statement of financial position
+Set out in section 13 is the unaudited consolidated statement of financial position of the Company as at
+31 May 2020 and the unaudited pro-forma statement of financial position as at 31 May 2020, and on
+the basis of the following assumptions:
+(a)
+
+take up of the Entitlement Offer under two scenarios: where the Underwritten Amount is raised
+and where the Full Subscription is raised;
+
+(b)
+
+the issue of 94,605,000 Shares on 6 July 2020 on conversion of Nova’s Convertibles Notes
+and accrued interest at a conversion price of 0.45 cents per Share;
+
+For personal use only
+
+5.4
+
+(c)
+
+the issue of 1,677,900 Shares and 2,120,000 Shares to Paul Summers (current Director) and
+Angus Middleton (previous Director) respectively, in satisfaction of unpaid accrued director
+fees on 2 July 2020;
+
+(d)
+
+the payment of cash costs related to the Entitlement Offer estimated to be $151,206 for the
+Underwritten Amount and $221,740 for Full Subscription; and
+
+(e)
+
+no further Shares are issued other than all New Shares offered under this Prospectus
+(including that no Options on issue are exercised).
+
+The pro-forma statement of financial position has been prepared to provide investors with information
+on the assets and liabilities of the Company and pro-forma assets and liabilities of the Company set out
+in section 13. The pro-forma financial information is presented in an abbreviated form, insofar as it does
+not include all of the disclosures required by Australian Accounting Standards applicable to annual
+financial statements. The pro-forma statement is indicative only and is not intended to be a statement
+of the Company’s current of future financial position.
+
+Effect of the Offers on the Company’s securities
+Assuming that no further Shares are issued prior to the Record Date, at the close of the Offers the
+capital structure of the Company will be:
+
+Shares
+
+Underwritten Amount
+Number
+
+Full Subscription
+%
+
+Number
+
+%
+
+Existing Shares
+
+543,889,723
+
+89.69%
+
+543,889,723
+
+80.00%
+
+New Shares offered
+under this
+Prospectus1
+
+62,500,000
+
+10.31%
+
+135,972,430
+
+20.00%
+
+Total Shares
+
+606,389,723
+
+100%
+
+679,862,153
+
+100%
+
+Note:
+1.
+
+Per the Underwriting Agreement, the Underwriter (or its nominee) is entitled to subscribe for additional New Shares if it
+exercises its right to subscribe for scrip in consideration of the underwriting and lead manager fees. Please refer to
+Section 8.3 for further information.
+
+Assuming that no further Options are issued prior to the Record Date, at the close of the Offers, the
+number of Options on issue will be:
+Underwritten Amount
+
+For personal use only
+
+Options
+
+5.5
+
+5.6
+
+Options exercisable at $0.10
+expiring 9 April 2023
+Options exercisable at $0.02
+expiring 7 February 2022
+New Options offered on a 1 for
+2 New Shares basis Options
+exercisable at $0.02 expiring 7
+February 2022
+Underwriter Options (2 New
+Options for every $1 raised)
+Total Options
+
+Full Subscription
+
+Number
+
+%
+
+Number
+
+%
+
+11,000,000
+
+3.15%
+
+11,000,000
+
+2.83%
+
+304,556,358
+
+87.32%
+
+304,556,358
+
+78.52%
+
+31,250,000
+
+8.96%
+
+67,986,215
+
+17.53%
+
+2,000,000
+
+0.57%
+
+4,351,118
+
+1.12%
+
+348,806,358
+
+100%
+
+387,893,691
+
+100%
+
+Note:
+1.
+
+Per the Underwriting Agreement, the Underwriter (or its nominee) is entitled to be issued 2 New Options for every $1
+raised under the Entitlement Offer and is entitled to subscribe for additional New Options if it exercises its right to
+subscribe for scrip in consideration of the underwriting and lead manager fees. Please refer to Section 8.3 for further
+information.
+
+Details of substantial holders
+Based on public available information as at the date of this Prospectus, the following persons which
+(together with their associates) have a relevant interest in 5% or more of the Shares.
+Shareholder
+
+Shares
+
+%
+
+Nova Minerals Limited
+
+94,605,000
+
+17.39%
+
+In the event all Entitlements are accepted in full there will be no change. However, Nova’s holdings and
+the holdings of other Shareholders may change as a result of their participation in the Offers.
+
+Effect of the Offers on the control of the Company
+(a)
+
+General
+There potential effect that the Offers could have on the control of the Company, and the
+consequences of that effect, will depend upon a number of factors, including investor demand
+and existing shareholdings.
+As at the date of this Prospectus, the Company has 543,889,723 Shares and 315,556,358
+Options on issue. As noted above, Nova has a relevant interest in 17.39% of the Company
+and, to the extent it participates in the Entitlement Offer, will not subscribe for New Securities
+that would result in it having a voting power of 19.9% of more of the Shares on issue following
+completion of the Offers except to the extent permitted by law.
+
+(b)
+
+Underwriter and control of the Company
+If no existing Shareholders and no third party investors participate in either the Entitlement
+Offer or the Shortfall Offer, the maximum amount of New Securities to be issued to the
+Underwriter is 62,500,000 New Shares and 33,250,000 New Options which would result in
+the Underwriter acquiring a relevant interest in 10.31% of the Company. Currently, the
+Underwriter is not a Shareholder of the Company nor a related party of the Company for the
+purposes of the Corporations Act. The extent to which Shares are issued pursuant to the
+underwriting will increase the Underwriter’s voting power in the Company accordingly.
+The Underwriter has agreed in the Underwriting Agreement that neither it nor any investor
+who subscribes for a portion of the underwriting commitment in its place will obtain voting
+
+power of 19.9% or more in relation to the Shares on issue following closing of the Offers,
+except to the extent permitted by law.
+
+For personal use only
+
+The potential interests of the Underwriter (assuming the Underwriter subscribed in its own
+right) and each substantial Shareholder prior to the Record Date, assuming different scenarios
+under the Offers, are shown in the table below.
+
+5.7
+
+Name
+
+%
+of
+total
+Shares before
+the Offers
+
+% of total Shares after the Offers
+100% take
+up
+
+75%
+up
+
+take
+
+50%
+up
+
+take
+
+0% take up
+
+Mahe Capital
+
+0%
+
+0%
+
+0%
+
+0%
+
+10.31%
+
+Nova
+Minerals
+Limited
+
+17.39%
+
+17.39%
+
+18.31%
+
+19.33%
+
+19.50%
+
+Notes:
+1.
+2.
+
+3.
+
+This table assumes that no Options are exercised prior to the issue of New Securities under the Offers.
+The level of take up in this table assumes that all Eligible Shareholder accept their Entitlements at the
+different levels shown (e.g. a “50% take up” assumes all Eligible Shareholders accept 50% of their
+Entitlements, and the Underwriter completes the issue to the Underwritten Amount).
+The Underwriter is entitled to be issued New Shares if it exercises its right to subscribe for scrip in
+consideration of the underwriting and lead manager fees. The maximum number of New Shares to be
+issued have not been included in the percentage calculations above. However, the Underwriter has agreed
+that it will not subscribe for additional New Shares where it will obtain voting power of 19.9% or more.
+
+If all of the Eligible Shareholders under the Entitlement Offer accept their Entitlements in full
+then the Entitlement Offer will not have any effect on the control of the Company. In this case,
+Eligible Shareholders will maintain their percentage shareholding interest in the Company
+(subject to the Underwriter’s right to subscribe for New Securities in consideration for certain
+fees payable under the Underwriting Agreement as set out in section 8.3).
+(c)
+
+Mitigating control effects
+In order to mitigate the potential contract effects of the underwriting commitment, the Company
+has included alongside the Entitlement Offer, a Shortfall Offer pursuant to section 8.6 of this
+Prospectus and a shortfall allocation strategy.
+Unless otherwise agreed between the Company and the Underwriter, if there is a shortfall, the
+Company will allocate Shortfall Securities according to the following priority:
+(i)
+
+Shortfall Securities may be allocated to any Eligible Shareholders, at the absolute
+discretion of the Directors in consultation with the Underwriter.
+
+(ii)
+
+If following the allocation in paragraph (i), there remains a Shortfall, those
+unallocated Shortfall Shares will then be allocated to the Underwriter in accordance
+with the Underwriting Agreement.
+
+Shortfall Securities will not be offered or issued to any Applicant if, in the view of the Directors,
+to do so would increase that Applicant's voting power in the Company above 19.9% or
+otherwise result in a breach of the Listing Rules, the Corporations Act or any other applicable
+law.
+For the purposes of Listing Rule 7.7.1(c), the Company has appointed the Underwriter to
+arrange for the sale of the renounceable entitlements that would have been given to Ineligible
+Shareholders and to account to them for the net proceeds of the sale. The Company has not
+appointed a nominee in accordance with section 615 of the Corporations Act, as no person
+will acquire a relevant interest in 20% or more of the Company’s Shares as a result of the
+Offers. For further information please refer to Section 8.8.
+
+Dilution
+Shareholders who do not participate in the Entitlement Offer will have their holdings diluted. Following
+is a table which sets out the dilutionary effect, assuming the full amount is raised and no further Shares
+are issued or Options exercised:
+
+Holding following the Entitlement
+Offer if no Entitlement taken up
+
+Holding at Record Date
+
+For personal use only
+
+Holder
+
+Number
+
+%
+
+Entitlement
+
+Number
+
+%
+
+1
+
+543,890
+
+0.1
+
+135,972
+
+543,890
+
+0.08%
+
+2
+
+5,438,897
+
+1
+
+1,359,724
+
+5,438,897
+
+0.80%
+
+3
+
+54,388,972
+
+10
+
+13,597,243
+
+54,388,972
+
+8.00%
+
+4
+
+543,889,723
+
+100
+
+135,972,431
+
+543,889,723
+
+80.00%
+
+For personal use only
+
+6.
+
+6.2
+
+RISK FACTORS
+This section identifies the major risks the Board has identified regarding an investment in the Company.
+The Company’s business is subject to risk factors, both specific to its business activities, and risks of a
+general nature. Individually, or in combination, these might affect the future operating performance of
+the Company and the value of an investment in the Company. There can be no guarantee that the
+Company will achieve its stated objectives or that any forward looking statements will be achieved. An
+investment in the Company should be considered in light of relevant risks, both general and specific.
+Each of the risks set out below could, if it eventuates, have a material adverse impact on the Company’s
+prospects, and the market price of the Shares.
+The following is not intended to be an exhaustive list of the risk factors to which the Company is exposed.
+Before deciding to invest in the Company, potential investors should:
+(a)
+
+read the entire Prospectus;
+
+(b)
+
+consider the assumptions underlying any forward looking statements;
+
+(c)
+
+review these factors in light of their personal circumstances; and
+
+(d)
+
+seek professional advice from their accountant, stockbroker, lawyer or other professional
+adviser before deciding whether to invest.
+
+Risk specific to the Offer
+(a)
+
+Assessment of stamp duty
+Following the acquisition of Cascade Resources Limited in 2017 (Acquisition), the Company
+paid stamp duty in accordance with the Duties Act 2008 (WA). Subsequently, the Office of
+State Revenue (OSR) has given notice to the Company that it had reassessed the value of
+the Acquisition and advised the Company that, in the view of the OSR, additional duty and
+penalties may be payable on the Acquisition.
+The Company has questioned this reassessment and, following submissions to the
+Commissioner, a new designated valuation of the transaction is being undertaken. The
+ultimate duty payable will be dependent on the value provided under this new valuation and
+on acceptance of that value by the OSR which may result in the payment of additional duty
+(and associated penalties) on the Acquisition, at a level to be determined.
+There is a risk that the Company’s liability for stamp duty may be higher than the amount paid
+to date and if this is the case, it may be necessary for the Company to raise additional funding
+to meet this liability. There is no guarantee such funds will be able to be raised and if so on
+what terms.
+
+(b)
+
+COVID-19 risk
+In December 2019, a strain of coronavirus (COVID-19) was identified in Wuhan, China. On 11
+March 2020, the World Health Organisation declared COVID-19 a pandemic. The outbreak of
+COVID-19 has resulted in the implementation of governmental measures, including closures,
+quarantines and travel bans, intended to control the spread of the virus.
+The Directors are constantly monitoring the situation and, as at the date of this Prospectus,
+COVID-19 has not had, and is not expected to have, a material adverse effect on the
+Company’s exploration activities and financial performance.
+However, in the event that the Federal Government or Western Australian Government
+implement any increase in containment measures in response to the ongoing pandemic, this
+may prevent the Company, and other business partners, from conducting business activities
+for periods of time and may impact on the Company’s ability undertake exploration activities
+and could cause delays to future work program activities. Such measures taken in response
+to COVID-19 may adversely impact the Company’s operations and are likely to be beyond the
+control of the Company.
+Further, the outbreak of COVID-19 is impacting global economic markets. The nature and
+extent of the effect of the outbreak on the performance of the Company remains unknown.
+The Company’s share price may be adversely affected in the short to medium term by the
+economic uncertainty caused by COVID-19.
+
+(c)
+
+Financial markets risks
+
+For personal use only
+
+Share market conditions may affect the value of the Company's quoted Securities regardless
+of the Company's operating performance. Share market conditions may be affected by many
+factors including, but not limited to, the following:
+(i)
+
+general economic outlook;
+
+(ii)
+
+interest rates and inflation rates;
+
+(iii)
+
+currency fluctuations;
+
+(iv)
+
+commodity price fluctuations;
+
+(v)
+
+changes in investor sentiment toward particular market sectors;
+
+(vi)
+
+the demand for, and supply of, capital; and
+
+(vii)
+
+terrorism or other hostilities.
+
+The market price of Securities can fall as well as rise and may be subject to varied and
+unpredictable influences on the market for equities in general, and mining securities in
+particular. Neither the Company, nor the Directors warrant the future performance of the
+Company or any return on an investment in the Company.
+(d)
+
+Mineral Resource estimates
+The interpretation of exploration results and Mineral Resource estimates are expressions of
+judgement based on knowledge, experience and industry practice. Estimates which were
+valid when originally made may alter significantly when new information or techniques become
+available. In addition, by their very nature, exploration results and Mineral Resource estimates
+are imprecise and depend to some extent on interpretations, which may prove to be
+inaccurate. As further information becomes available through additional fieldwork and
+analysis, the estimates are likely to change. This may result in alterations to development and
+mining plans which may, in turn, adversely affect the Company’s operations.
+The inclusion of Mineral Resource estimates should not be regarded as a representation that
+these amounts can be economically exploited and investors are cautioned not to place undue
+reliance on Mineral Resource estimates, particularly Inferred Mineral Resource estimates, are
+highly uncertain.
+Mineral Resources that lie solely within the “Inferred” category are in the lowest resource
+categorisation under the JORC Code. According to the commentary accompanying the JORC
+Code, “the Inferred category is intended to cover situations where a mineral concentration or
+occurrence has been identified and limited measurements and sampling completed, but
+where the data are insufficient to allow the geological and/or grade continuity to be
+confidently interpreted. Commonly, it would be reasonable to expect that the majority of
+Inferred Mineral Resources would upgrade to Indicated Mineral Resources with continued
+exploration. However, due to the uncertainty of Inferred Mineral Resources, it should not be
+assumed that such upgrading will always occur. Confidence in the estimate of Inferred Mineral
+Resources is usually not sufficient to allow the results of the application of technical and
+economic parameters to be used for detailed planning. For this reason, there is no direct link
+from an Inferred Mineral Resource to any category of Ore Reserves. Caution should be
+exercised if this category is considered in technical and economic studies.”
+Consequently, Mineral Resource estimates are often regularly revised based on actual
+production experience or new information and are therefore expected to change. Furthermore,
+should Torian encounter mineralisation or formations different from those predicted by past
+drilling, sampling and similar examinations, Torian’s Mineral Resource estimates may have to
+be adjusted and mining plans, processing and infrastructure may have to be altered in a way
+that might adversely affect Torian’s operations. Moreover, a decline in the price of gold,
+increases in production costs, decreases in recovery rates or changes in applicable laws and
+regulations, including environment, permitting, title or tax regulations, that are adverse to
+Torian, may mean the volumes of mineralisation that Torian can feasibly extract may be
+significantly lower than the Mineral Resource estimates indicated in this Prospectus.
+If it is determined that mining of certain of Torian’s Mineral Resources or any Ore Reserves
+derived from them have become uneconomic, this may ultimately lead to a reduction in the
+
+quantity of Torian’s aggregate Mineral Resources being mined, or result in Torian deciding
+not to proceed with the project.
+
+For personal use only
+
+If the Company’s actual Mineral Resources are less than current estimates, its prospects,
+value, business, results of operations and financial condition may be materially adversely
+affected.
+(e)
+
+Exploration risk
+The mineral mining licenses of the Company are at various stages of exploration, and potential
+investors should understand that mineral exploration and development are high-risk
+undertakings. There can be no assurance that exploration of these mining licenses, or any
+other mining licenses that may be acquired in the future, will result in the discovery of an
+economic ore deposit. Even if an apparently viable deposit is identified, there is no guarantee
+that it can be economically exploited.
+The future exploration activities of the Company may be affected by a range of factors
+including geological conditions, limitations on activities due to seasonal weather patterns,
+unanticipated operational and technical difficulties, industrial and environmental accidents,
+native title process, changing government regulations, mill capacity availability and many other
+factors beyond the control of the Company.
+The success of the Company will also depend upon the Company having access to sufficient
+development capital, being able to maintain title to its mining licenses and obtaining all
+required approvals for its activities. In the event that exploration programmes prove to be
+unsuccessful this could lead to a diminution in the value of the mining licenses, a reduction in
+the case reserves of the Company and possible relinquishment of the mining licenses.
+The exploration costs of the Company are based on certain assumptions with respect to the
+method and timing of exploration. By their nature, these estimates and assumptions are
+subject to significant uncertainties and, accordingly, the actual costs may materially differ from
+these estimates and assumptions. Accordingly, no assurance can be given that the cost
+estimates and the underlying assumptions will be realised in practice, which may materially
+and adversely affect the Company’s viability.
+
+(f)
+
+Metallurgy
+Mineral recoveries are dependent upon the metallurgical process, and by its nature contain
+elements of significant risk such as:
+
+(g)
+
+(i)
+
+identifying a metallurgical process through test work to produce a saleable product;
+
+(ii)
+
+developing an economic process route to produce a product; and
+
+(iii)
+
+changes in mineralogy in the deposit can result in inconsistent recovery, affecting
+the economic viability of a project.
+
+Operational risks
+The operations of the Company may be affected by various factors which are beyond the
+control of the Company, including failure to locate or identify mineral deposits, failure to
+achieve predicted grades in exploration or mining, operational and technical difficulties
+encountered in exploration, difficulties in commissioning or operating plant and equipment or
+mechanical failure which may affect extraction costs, adverse weather conditions,
+environmental accidents, industrial disputes and unexpected shortages or increases in the
+costs of consumables, spare parts, plant and equipment, fire, explosions and other incidents
+beyond the control of the Company.
+These risks and hazards could also result in damage to, or destruction of, equipment, personal
+injury, environmental damage, business interruption and possible legal liability. While the
+Company currently intends to maintain insurance within ranges of coverage consistent with
+industry practice, no assurance can be given that the Company will be able to obtain such
+insurance coverage at reasonable rates (or at all), or that any coverage it obtains will be
+adequate and available to cover any such claims.
+
+(h)
+
+Fluctuations in gold prices
+
+For personal use only
+
+The price of gold and other minerals fluctuates widely and is affected by numerous factors
+beyond the control of the Company such as industrial and retail supply and demand, exchange
+rates, inflation rates, changes in global economies, confidence in the global monetary system,
+forward sales of metals by producers and speculators as well as other global or regional
+political, social or economic events. Future serious price declines in the market value of gold
+could cause the continued development of, and eventually the commercial production from,
+the Company’s projects and the Company’s other properties to be rendered uneconomic.
+Depending on the price of gold the Company could be forced to discontinue production or
+development and may lose its interest in, or may be forced to sell, some of its properties.
+There is no assurance that, even as commercial quantities of gold is produced, a profitable
+market will exist for it.
+In addition to adversely affecting the reserve estimates of the Company and its financial
+condition, declining commodity prices can impact operations by requiring a reassessment of
+the feasibility of a particular project. Such a reassessment may be the result of a management
+decision or may be required under financing arrangements related to a particular project.
+Even if a project is ultimately determined to be economically viable, the need to conduct such
+a reassessment may cause substantial delays or may interrupt operations until the
+reassessment can be completed.
+(i)
+
+Native Title
+The mining tenements in which the Company holds, or intends to acquire, an interest extend
+over areas in which legitimate native title rights of indigenous Australians exist. The ability of
+the Company to gain access to some or all of the mining tenements and to conduct exploration
+development and mining operations remains subject to native title rights and the terms of
+registered native title agreements.
+The right to negotiate process under Native Title matters can result in significant delays to the
+implementation of any project or stall it. Negotiated native title agreements may adversely
+impact on the economics of projects depending on the nature of any commercial terms agreed.
+
+(j)
+
+Aboriginal Heritage
+The Company must comply with Aboriginal heritage legislation requirements which include
+the requirement to conduct heritage survey work prior to the commencement of operations.
+The Company is aware of various areas of indigenous significance and Aboriginal heritage
+sites of considerable cultural value both to the local indigenous communities and the broader
+community generally. These heritage sites require the Company to comply with the Aboriginal
+Heritage Act in respect of any ground disturbing activities. Prior to commencing significant
+ground disturbing activities, including mining, the Company will need to consult with local
+traditional owners regarding the likely impact that the proposed activities may have on such
+areas.
+There is no guarantee that the Company will be able to deal with the above issues in a
+satisfactory or timely manner and accordingly such issues may increase the proposed time
+periods for the conduct of the Company's proposed activities and also limit the Company's
+ability to conduct its proposed activities on the tenements including ultimately commencing
+mining operations.
+
+(k)
+
+Tenement title
+Interests in tenements in Western Australia are governed by legislation and are evidenced by
+the granting of licences. Each licence is granted for a specific term and carries with it annual
+expenditure and reporting commitments, as well as other conditions requiring compliance.
+Consequently, the Company could lose title to, or its interest in, the Tenement if licence
+conditions are not met or if insufficient funds are available to meet expenditure commitments
+as and when they arise.
+The tenements (including tenements in which the Company may acquire an interest in the
+future), will be subject to applications for renewal or exemption from expenditure (as the case
+may be). The renewal or exemption from expenditure for a tenement is usually determined at
+the discretion of the relevant government authority.
+
+If a tenement is not renewed or granted an exemption from expenditure, the Company may
+suffer damage through loss of opportunity to develop and discover minerals on that tenement.
+
+For personal use only
+
+(l)
+
+Environmental
+Exploration and mining activities on tenements are subject to laws and regulations regarding
+environmental impact matters and the discharge or emission of wastes and materials to the
+environment. As with all mineral projects, the Company's activities on the Tenement are
+expected to have a variety of environmental impacts. The Company's activities on the
+Tenement will be subject to the satisfaction of environmental guidelines and requisite
+approvals from applicable government authorities.
+The Company intends to conduct its activities in an environmentally responsible manner and
+in accordance with all applicable laws but may still be subject to accidents or other unforeseen
+events which may compromise its environmental performance and which may have adverse
+financial implications for the Company.
+In addition, the cost and complexity of complying with the applicable environmental laws and
+regulations may prevent the Company from being able to develop potentially economically
+viable mineral deposits.
+Environmental matters applicable to the Company’s tenements are within the remit of
+Commonwealth (and potentially State) authorities, including under legislation in the form of
+the Environment Protection and Biodiversity Conservation Act 1999 (Cth) (EPBC Act). The
+Company will need to seek pre-approval on environmental matters for any mining operations
+and the Environmental Protection Authority will, among other things, assess the impact of
+proposed activities on flora and fauna and matters of national environmental significance
+under the EPBC Act as part of an accredited assessment. The Company understands that the
+Company’s tenements area is likely to contain matters of national environmental significance
+including threatened and endangered fauna.
+The assessment process under the EPBC Act requires approval of the Commonwealth (and
+potentially State) authorities and there is no fixed time for the process to complete. Significant
+delays in the process can potentially have a material adverse effect on the Company’s
+business, financial condition and operations and affect the Company’s ability to pursue the
+projects. In addition, there is no guarantee that the assessments undertaken by these
+authorities will be favourable or the approvals sought will be granted. Failure to obtain such
+approvals will prevent the Company from undertaking its desired activities and this will have
+a material adverse effect on the Company’s business, financial condition and operations.
+Future legislation and regulations governing mineral exploration and production may impose
+significant environmental obligations on the Company. The Company is unable to predict the
+effect of additional environmental laws and regulations, which may be adopted in the future,
+including whether any such laws or regulations would materially increase the Company’s cost
+of doing business or affect its operations in any area. There can be no assurances that new
+environmental laws, regulations or stricter enforcement policies, once implemented, will not
+oblige the Company to incur significant expenses and undertake significant investments in
+such respect which could have a material adverse effect on the Company’s business, financial
+condition and results of operations.
+
+(m)
+
+Future capital needs
+Additional funding may be required in the event costs exceed the Company’s estimates and
+to effectively implement its business and operational plans in the future to take advantage of
+opportunities for acquisition, joint ventures or other business opportunities, and to meet any
+unanticipated liabilities or expenses which the Company may incur. If such events occur,
+additional funding will be required.
+The Company may seek to raise further funds through equity or debt financing, joint ventures,
+licensing arrangements, or other means. Failure to obtain sufficient financing for the
+Company’s activities and future projects may result in delay and indefinite postponement of
+the Company’s activities and potential development programs. There can be no assurance
+that additional finance will be available when needed or, if available, the terms of the financing
+may not be favourable to the Company and might involve substantial dilution to shareholders.
+
+(n)
+
+Reliance on key personnel and ability to recruit additional personnel
+
+For personal use only
+
+6.3
+
+The Company’s future depends, in part, on its ability to attract and retain key personnel. It
+may not be able to hire and retain such personnel at compensation levels consistent with its
+existing compensation and salary structure. Its future also depends on the continued
+contributions of its executive management team and other key management and technical
+personnel, the loss of whose services would be difficult to replace. In addition, the inability to
+continue to attract appropriately qualified personnel could have a material adverse effect on
+the Company’s business.
+
+General Investment Risks
+(a)
+
+Economic and government risks
+The future viability of the Company is also dependent on a number of other factors affecting
+performance of all industries and not just the mining industry including, but not limited to, the
+following:
+
+(b)
+
+(i)
+
+general economic conditions in jurisdictions in which the Company operates;
+
+(ii)
+
+changes in government policies, taxation and other laws in jurisdictions in which the
+Company operates;
+
+(iii)
+
+the interpretation of taxation laws by the relevant taxation authority differing from the
+Company's interpretation;
+
+(iv)
+
+the strength of the equity and share markets in Australia and throughout the world,
+and in particular investor sentiment towards the mining industry;
+
+(v)
+
+movement in, or outlook on, exchange rates, interest rates and inflation rates in
+jurisdictions in which the Company operates; and
+
+(vi)
+
+natural disasters, industrial disputes, social upheaval or war in jurisdictions in which
+the Company operates
+
+Risk of litigation, claims and disputes
+The Company is exposed to the risk of actual or threatened litigation or legal disputes in the
+form of claims by joint venture partners, personal injury and property damage claims,
+environmental and indemnity claims, employee claims and other litigation and disputes. There
+is a risk that such litigation, claims and disputes could materially and adversely affect the
+Company's operating and financial performance due to the cost of defending and/or settling
+such claims, and could affect the Company's reputation.
+
+(c)
+
+Management of risk
+There is a risk that management of the Company will not be able to implement the Company’s
+growth strategy after completion of the Offer. The capacity of management to properly
+implement and manage the strategic direction of the Company may affect the Company’s
+financial performance.
+
+(d)
+
+Investment risk
+An investment in the Shares to be issued pursuant to this Prospectus should be considered
+speculative. They carry no guarantee as to payment of dividends, return of capital or the
+market value of the Shares. The prices at which an investor may be able to trade the Shares
+may be above or below the price paid for the Shares. Prospective investors must make their
+own assessment of the likely risks and determine whether an investment in the Company is
+appropriate to their own circumstances.
+
+(e)
+
+Share market
+There are general risks associated with an investment and the share market. The price of the
+Company's securities on the ASX may rise and fall depending on a range of factors beyond
+the Company's control and which are unrelated to the Company's financial performance.
+These factors may include movements on international stock markets, interest rates and
+exchange rates, together with domestic and international economic conditions, inflation rates,
+investor perceptions, changes in government policy, commodity supply and demand,
+government taxation and royalties, war, global hostilities and acts of terrorism.
+
+For personal use only
+
+6.4
+
+Investment speculative
+The above list of risk factors ought not to be taken as exhaustive of the risks faced by the Company
+or by investors in the Company. The above factors, and others not specifically referred to above, may in
+the future materially affect the financial performance of the Company and the value of the Shares
+offered under this Prospectus. Therefore, the Shares to be issued pursuant to this Prospectus carry no
+guarantee with respect to the payment of dividends, returns of capital or the market value of those
+Shares. Potential investors should consider that the investment in the Company is speculative and
+should consult their professional adviser before deciding whether to apply for Shares pursuant to this
+Prospectus.
+
+7.
+
+ACTIONS REQUIRED BY ELIGIBLE SHAREHOLDERS
+
+7.1
+
+What you may do
+
+For personal use only
+
+As an Eligible Shareholder, you may:
+
+7.2
+
+7.3
+
+7.4
+
+7.5
+
+(a)
+
+subscribe for all or part of your Entitlement (see Section 7.2);
+
+(b)
+
+subscribe for all of your Entitlement and apply for Shortfall Securities (see Section 7.3);
+
+(c)
+
+sell all of your Entitlement (see Section 7.4);
+
+(d)
+
+take up part of your Entitlement and sell the balance (see Section 7.5);
+
+(e)
+
+take up part of your Entitlement and transfer the balance other than on ASX (see Section 7.6);
+or
+
+(f)
+
+allow all or part of your Entitlement to lapse (see Section 7.7).
+
+Subscribe for all or part of your Entitlement
+Applicants should read this Prospectus in its entirety in order to make an informed decision on the
+prospects of the Company and the rights attaching to the New Shares and attaching New Options
+offered by this Prospectus before deciding to apply for New Shares and New Options. If you do not
+understand this Prospectus you should consult your stockbroker, accountant or other professional
+adviser in order to satisfy yourself as to the contents of this Prospectus.
+If you wish to subscribe for all or part of your Entitlement, complete the accompanying Entitlement and
+Acceptance Form in accordance with the instructions set out on that form. The Entitlement and
+Acceptance Form sets out the number of New Shares and attaching New Options you are entitled to
+subscribe for.
+
+Subscribe for all of your Entitlement and apply for Shortfall Securities
+Eligible Shareholders who take up their Entitlement in full may, in addition to their Entitlement, apply for
+Shortfall Securities regardless of the size of their present holding by completing the accompanying
+Entitlement and Acceptance Form in accordance with the instructions set out on that form. See section
+8.6 for details of the manner in which Shortfall Securities will be allocated.
+A cheque, bank draft or money order should be used for the application money for your Entitlement and
+the number of Shortfall Securities you wish to apply for as stated on the Entitlement and Acceptance
+Form.
+Alternatively, if you are paying by BPAY®, refer to your personalised instructions on your Entitlement
+and Acceptance Form. Shareholders who wish to pay by BPAY® must ensure that payment is received
+by no later than 5.00pm (Perth time) on 28 July 2020.
+Any refund of application monies will be returned to Applicants as soon as practicable following the
+issue of all Shortfall Securities.
+
+Sell all of your Entitlement
+Refer to the section within the box on the front of the Entitlement and Acceptance Form (which
+accompanies this Prospectus) regarding the full or partial sale of your Entitlement through your
+stockbroker and follow those instructions as soon as possible.
+Rights trading will commence (on a deferred settlement basis) on ASX on 9 July 2020. Sale of your
+Rights must be completed by 21 July 2020 when Rights trading is expected to cease.
+
+Take up part of your Entitlement and sell the balance on ASX
+Please complete the Entitlement and Acceptance Form, which accompanies this Prospectus, by
+inserting the number of New Shares for which you wish to accept (being less than as specified on the
+Entitlement and Acceptance Form) and follow the instructions on the front of the form within the box
+relating to selling your shares via your stockbroker.
+Cash will not be accepted and no receipts will be issued.
+Rights trading will commence (on a deferred settlement basis) on ASX on 9 July 2020. Sale of your
+Rights must be completed by 21 July 2020 when Rights trading is expected to cease.
+
+For personal use only
+
+7.6
+
+7.7
+
+7.8
+
+Take up part of your Entitlement and transfer the balance other than on ASX
+If you are a Shareholder and hold Existing Shares on the issuer sponsored sub-register, forward a
+completed renunciation form (obtainable through your stockbroker or the Share Registry) together with
+your personalised Entitlement and Acceptance Form completed by the transferee together with a
+cheque for the appropriate application money to reach the Company’s share registry (at the postal
+address shown below), by 5.00pm (Perth time) on 28 July 2020.
+If you are a Shareholder and hold Existing Shares registered on CHESS, you should contact your
+sponsoring broker.
+Cash will not be accepted and no receipts will be issued.
+
+Allow all or part of your Entitlement to lapse
+If you are an Eligible Shareholder and do not wish to accept all or part of your Entitlement, you are not
+obliged to do anything.
+If you take no action, your Entitlement will lapse. You will receive no benefit or New Securities and your
+Entitlement will become Shortfall Securities.
+The number of Existing Shares you hold as at the Record Date and the rights attached to those Existing
+Shares will not be affected if you choose not to accept any of your Entitlement.
+
+Payment methods
+BPAY®
+If you are paying by BPAY®, refer to your personalised instructions on your Entitlement and Acceptance
+Form. Shareholders who wish to pay by BPAY® do not need to complete and return the Entitlement
+and Acceptance Form; however must ensure that payment is received by no later than 5.00pm (Perth
+time) on the Closing Date.
+You should be aware that your own financial institution may implement earlier cut-off times with regard
+to electronic payment, and you should therefore take this into consideration when making payment. It
+is your responsibility to ensure that funds submitted through BPAY® are received by 5.00pm (Perth
+time) on the Closing Date.
+If you have more than one shareholding and consequently receive more than one Entitlement and
+Acceptance Form, when taking up your Entitlement in respect of one of those shareholdings only use
+the Customer Reference Number specific to that shareholding as set out in the applicable Entitlement
+and Acceptance Form. Do not use the same Customer Reference Number for more than one of your
+shareholdings. This can result in your application monies being applied to your Entitlement in respect
+of only one of your shareholdings (with the result that any application in respect of your remaining
+shareholdings will not be recognised as valid).
+The Company shall not be responsible for any postal or delivery delays or delay in the receipt of the
+BPAY® payment.
+Cheque, bank draft or money order
+Alternatively, if you are paying by cheque, bank draft or money order, the completed Entitlement and
+Acceptance Form must be accompanied by a cheque, bank draft or money order made payable to
+‘Torian Resources Limited’ and crossed ‘Not Negotiable’ for the appropriate application money in
+Australian dollars calculated at $0.016 per New Share accepted. Your cheque, bank draft or money
+order must be paid in Australian currency and be drawn on an Australian branch of an Australian
+financial institution. The Company will present the cheque or bank draft on the day of receipt of the
+Entitlement and Acceptance Form. You must ensure that your cheque account has sufficient funds to
+cover your payment, as your cheque will be presented for payment on receipt. If your bank dishonours
+your cheque your application will be rejected. Dishonoured cheques will not be represented.
+If the amount of your cheque(s), bank draft(s) or money order(s) for application money (or the amount
+for which those cheque(s) or bank draft(s) clear in time for allocation) is insufficient to pay for the number
+of New Shares and New Options you have applied for in your Entitlement and Acceptance Form, you
+may be taken to have applied for such lower number of New Shares and New Options as your cleared
+application money will pay for or your Application may be rejected.
+
+The Entitlement and Acceptance Form must be received by the Company via their Share Registry at
+the following addresses by no later than 5.00pm (Perth time) on the Closing Date:
+
+For personal use only
+
+By Post To:
+
+7.9
+
+Torian Resources Limited
+c/o Advanced Share Registry Limited
+PO Box 1156
+Nedlands WA 6909
+
+Entitlement and Acceptance Form is binding
+Receipt of a completed and lodged Entitlement and Acceptance Form together with a cheque, bank
+draft or money order for the application monies, or by making a payment in respect of an Application by
+BPAY®, constitutes a binding offer to acquire New Securities on the terms and conditions set out in this
+Prospectus and, once lodged, cannot be withdrawn.
+By completing and returning your Entitlement and Acceptance Form with the requisite application
+monies, or by making a payment in respect of an Application by BPAY®, you will be deemed to have
+represented that you are an Eligible Shareholder. In addition, you will also be deemed to have
+represented and warranted on behalf of yourself or each person on whose account you are acting that
+the law in your place of residence and/or where you have been given the Prospectus, does not prohibit
+you from being given the Prospectus and that you:
+(a)
+
+acknowledge that you have fully read and understood both this Prospectus (particularly the
+risks set out in Section 6) and your Entitlement and Acceptance Form in their entirety and you
+acknowledge the matters and make the warranties and representations and agreements
+contained in this Prospectus and the Entitlement and Acceptance Form;
+
+(b)
+
+agree to be bound by the terms of the Entitlement Offer;
+
+(c)
+
+authorise the Company to register you as the holder(s) of New Securities issued to you;
+
+(d)
+
+declare that all details and statements in the Entitlement and Acceptance Form are complete
+and accurate;
+
+(e)
+
+declare that you were the registered holder(s) at the Record Date of the Shares indicated on
+the Entitlement and Acceptance Form as being held by you on the Record Date;
+
+(f)
+
+declare that you are over 18 years of age and have full legal capacity and power to perform
+all your rights and obligations under the Entitlement and Acceptance Form;
+
+(g)
+
+authorise the Company and its respective officers or agents, to do anything on your behalf
+necessary for the New Shares to be issued to you, including to act on instructions of the
+Company’s share registry upon using the contact details set out in the Entitlement and
+Acceptance Form;
+
+(h)
+
+declare that you are the current registered holder of Shares and are an Australian, New
+Zealand or Singaporean resident, and you are not in the United States or a US Person, or
+acting for the account or benefit of a US Person;
+
+(i)
+
+agree to provide (and direct your nominee or custodian to provide) any requested
+substantiation of your eligibility to participate in the Entitlement Offer and of your holding of
+Shares on the Record Date;
+
+(j)
+
+acknowledge that the information contained in, or accompanying, the Prospectus is not
+investment or financial product advice or a recommendation that New Shares are suitable for
+you given your investment objectives, financial situation or particular needs;
+
+(k)
+
+acknowledge that the New Securities have not, and will not be, registered under the securities
+laws in any other jurisdictions outside Australia, New Zealand and Singapore and accordingly,
+the New Securities may not be offered, sold or otherwise transferred except in accordance
+with an available exemption from, or in a transaction not subject to, the registration
+requirements of applicable securities laws in particular the US Securities Act;
+
+(l)
+
+if you (or any person for whom you are acquiring the securities) are in Singapore, you (and
+any such person):
+
+For personal use only
+
+(i)
+
+are an "institutional investor" or an "accredited investor" (as such terms are defined
+in the Securities and Futures Act of Singapore ("SFA"));
+
+(ii)
+
+will acquire the securities in accordance with applicable provisions of the SFA; and
+
+(iii)
+
+acknowledge that the offer of the securities is subject to the restrictions (including
+selling restrictions) set out in the SFA;
+
+(m)
+
+acknowledge that the Entitlement and Acceptance Form does not need to be signed to be a
+valid application. An Application will be deemed to have been accepted by the Company upon
+the issue of the New Securities; and
+
+(n)
+
+understand that if the Entitlement and Acceptance Form is not completed correctly or if the
+accompanying payment of the application monies is for the wrong amount, it may still be
+treated as a valid application for New Securities. The Directors’ decision whether to treat an
+acceptance as valid and how to construe, amend or complete the Entitlement and Acceptance
+Form is final. However, an Applicant will not be treated as having applied for more New
+Securities than is indicated by the amount of the application monies received by the Company.
+
+DETAILS OF THE OFFERS
+
+8.1
+
+Securities offered for subscription
+
+For personal use only
+
+8.
+
+8.2
+
+8.3
+
+The Company is undertaking a partially underwritten renounceable pro rata offer to Eligible
+Shareholders on the basis of 1 New Share for every 4 Existing Shares held as at the Record Date at a
+price of $0.016 per New Share, with 1 New Option for every 2 New Shares subscribed for, to raise up
+to approximately $2.2 million before issue costs. Fractional entitlements will be rounded up to the
+nearest whole number.
+The Entitlement Offer is only open to Eligible Shareholders. The Company reserves the right to reject
+any application that it believes comes from a person who is not an Eligible Shareholder.
+Details of how to apply for New Securities are set out at Section 7.
+All New Shares offered under this Prospectus will rank equally with Existing Shares. The rights and
+liabilities of the New Shares offered under this Prospectus are summarised in Section 9.1. The rights
+and liabilities of the New Options offered under this Prospectus are summarised in Section 9.2
+
+Acceptances
+The Entitlement Offer may be accepted in whole or in part prior to the Closing Date subject to the rights
+of the Company to extend the Offer Period or close the Entitlement Offer early.
+Instructions for accepting your Entitlement are set out in Section 7 and on the Entitlement and
+Acceptance Form which accompanies this Prospectus.
+
+Lead Manager and Underwriting arrangements
+On 22 June 2020, the Company entered into a mandate with Mahe Capital for Mahe Capital to act as
+lead manager and underwriter to the Entitlement Offer and Shortfall Offer on certain terms and
+conditions (Capital Raising Mandate), subject to the Company entering into an underwriting
+agreement.
+On 6 July 2020, the Company entered into an underwriting agreement with Mahe Capital (Underwriter)
+for the Underwriter to underwrite the subscription of the Underwritten Securities up to an aggregate
+value of approximately $1 million on certain terms and conditions (Underwriting Agreement).
+The terms and conditions set out in the Capital Raising Mandate have been reflected in the Underwriting
+Agreement.
+Unless otherwise defined, capitalised terms below have the meaning given to that term in the
+Underwriting Agreement.
+The terms of the Underwriting Agreement are standard commercial terms for a transaction of this type,
+with the material terms summarised below:
+(a)
+
+(Conditions Precedent) the Underwriting Agreement is subject to and conditional upon the
+Underwriter being satisfied with the Due Diligence Program and Due Diligence Results which
+are ongoing until the time of settlement of the Underwritten Securities;
+
+(b)
+
+(Fees payable to Underwriter) The Underwriter will be paid the following fees:
+(i)
+
+2 New Options for every $1 raised under the Entitlement and Shortfall Offer;
+
+(ii)
+
+$60,000 and the right for the Underwriter (or its nomine) to subscribe for scrip in
+fulfilment of that fee;
+
+(iii)
+
+1% of the total amount raised under the Entitlement Offer and Shortfall Offer and the
+right for the Underwriter (or its nominee) to subscribe for scrip in fulfilment of that
+fee;
+
+(iv)
+
+5% of the Underwritten Amount; and
+
+(v)
+
+up to 5% of any shortfall securities placed beyond the Underwritten Amount,
+
+The Company will also be required to reimburse the Underwriter for other costs and expenses
+of and incidental to the Entitlement Offer, including, disbursements, accommodation and travel
+expenses, to a limit of $1,500.
+
+For personal use only
+
+(c)
+
+(Determination of Allocation) the Underwriter has the sole right to determine the allocation
+of shortfall, including any applications by shareholders for additional shares;
+
+(d)
+
+(Sub-underwriters) the Underwriter may at any time appoint sub-underwriters to subunderwrite the Offer;
+
+(e)
+
+(Share Limit) the Underwriter must ensure that no person, unless disclosed in this
+Prospectus, will acquire, through participation in sub-underwriting the Offer, a holding of
+Shares of, or increase their holding, to an amount in excess of 19.9% of all the Shares on
+issue on completion of the Offer;
+
+(f)
+
+(Company obligations) the Company has several standard obligations in relation to the
+Underwriting Agreement including:
+
+(g)
+
+(i)
+
+ensuring that this Prospectus and the Offer comply with the Corporations Act and
+the Listing Rules;
+
+(ii)
+
+conducting the Due Diligence Program until the Underwritten Securities are issued
+and maintain Due Diligence Program files; and
+
+(iii)
+
+requesting the Underwriter’s approval in relation to lodgement of this Prospectus,
+announcements as to the success or otherwise of the Offer; and
+
+(Termination) the Underwriting Agreement contains customary termination events, including
+where;
+(i)
+
+the Conditions Precedent at 1.1(a)(i) is not satisfied; or
+
+(ii)
+
+if at any time before completion of the Offer any of the below termination events
+occur:
+(A)
+
+(Indices fall) the S&P ASX 200 Index is at any time after the date of the
+Underwriting Agreement 7% or more below its respective level as at the
+close of business on the business day prior to the date of the Underwriting
+Agreement;
+
+(B)
+
+(Commodities) the price of COMEX gold or NYMEX WTI crude is at any
+time after the date of the Underwriting Agreement 7% or more below its
+respective level as at the close of business on the business day prior to
+the date of the Underwriting Agreement;
+
+(C)
+
+(Price) the Price is greater than the volume weighted average price of
+Shares calculated over three trading days after the date of the
+Underwriting Agreement;
+
+(D)
+
+(Misleading Announcement) it transpires that the Company has made a
+statement via the ASX that is misleading or deceptive or likely to mislead
+or deceive;
+
+(E)
+
+(Adverse change) an event occurs which gives rise to a Material Adverse
+Effect or any adverse change or any development including a prospective
+adverse change after the date of the Underwriting Agreement in the
+assets, liabilities, financial position, trading results, profits, forecasts,
+losses, prospects, business or operations of any Relevant Company
+including, without limitation, if any forecast in this Prospectus becomes
+incapable of being met or in the Underwriter's reasonable opinion, unlikely
+to be met in the projected time;
+
+(F)
+
+(Board and senior management composition) there is a change in the
+composition of the Board or a change in the senior management of the
+Company before the date of the issue of the Underwritten Securities
+without the prior written consent of the Underwriter, such consent not to be
+unreasonably withheld;
+
+(G)
+
+(Change in shareholdings) there is a material change in the major or
+controlling shareholdings of a Relevant Company (other than as a result
+of the Offer or a matter disclosed in this Prospectus) or a takeover offer or
+
+scheme of arrangement pursuant to Chapter 5 or 6 of the Corporations Act
+is publicly announced in relation to a Relevant Company; or
+
+For personal use only
+
+(H)
+
+8.4
+
+8.5
+
+8.6
+
+(Market Conditions) a suspension or material limitation in trading
+generally on ASX occurs or any material adverse change or disruption
+occurs in the existing financial markets, political or economic conditions of
+Australia, Japan, the United Kingdom, the United States of America or
+other international financial markets.
+
+In the event the Underwriting Agreement is terminated, the Underwriter will receive $30,000
+as the termination fee, unless the termination is due to termination events at 8.3(g)(ii)(A) or
+8.3(g)(ii)(B)above, in which case the termination fee is $10,000.
+The Underwriting Agreement also contains a number of indemnities, representations and warranties
+from the Company to the Underwriter that are considered customary and usual for an agreement of its
+type.
+
+Cleansing prospectus
+As announced to ASX on 2 July 2020, Nova elected for an early conversion of its Convertible Notes
+(including any accrued interest) at a conversion price of 0.45 cents per Share, with 94,605,000 Shares
+issued on 6 July 2020. In addition, the Company issued Shares to Paul Summers and Angus Middleton
+in lieu of director fees as approved by Shareholders at the Company’s recent annual general meeting
+and Options to sophisticated and professional investors. These Shares and Options were issued without
+disclosure under Part 6D of the Corporations Act.
+Generally, section 707(3) of the Corporations Act requires that a prospectus is issued in order for a
+person to whom securities were issued without disclosure under Part 6D of the Corporations Act to onsell those securities within 12 months of the date of their issue.
+Section 708A(11) of the Corporations Act provides an exemption from this general requirement where:
+(a)
+
+the relevant securities are in a class of securities of the company that are already quoted on
+ASX;
+
+(b)
+
+a prospectus is lodged with ASIC either:
+
+(c)
+
+(i)
+
+on or after the day on which the relevant securities were issued; or
+
+(ii)
+
+before the day on which the relevant securities are issued and offers of securities
+that have been made under the prospectus are still open for acceptance on the day
+on which the relevant securities were issued; and
+
+the prospectus is for an offer of securities issued by the company that are in the same class
+of securities as the relevant securities.
+
+A secondary purpose of this Prospectus is to comply with section 708A(11) of the Corporations Act so
+that the holders of Shares and Options issued without disclosure can, if they choose to, sell those
+Shares within the next twelve months without disclosure.
+The issue of the Shares and Options was not undertaken by the Company with the purpose of selling
+or transferring. However, the Directors consider that the holders should be able to sell those Shares
+and Options should they wish to do so, without being required to issue a prospectus
+
+Entitlement to Offer
+The Offer is made to Eligible Shareholders, who are those Shareholders that:
+(a)
+
+are the registered holder of Shares as at 5.00pm (Perth time) on the Record Date; and
+
+(b)
+
+have a registered address in Australia, New Zealand or Singapore.
+
+Shortfall
+Any New Securities not applied for under the Entitlement Offer will become Shortfall Securities. The
+Directors reserve the right to issue any Shortfall Securities at their discretion within 3 months after the
+Closing Date (Shortfall Offer).
+The Shortfall Offer is, to the extent it is made in Australia, made under this Prospectus. To the extent
+the Shortfall Offer is made outside Australia, the Shortfall Offer is made without disclosure, a prospectus,
+
+For personal use only
+
+lodgement, filing or registration, or other requirements of any applicable securities law, and only in
+circumstances where it is lawful to do so (such as to institutional or sophisticated investors).
+
+8.7
+
+Eligible Shareholders may apply for Shortfall Securities by completing the accompanying Entitlement
+and Acceptance Form in accordance with the instructions set out on that form. Other investors who are
+not Eligible Shareholders may apply for Shortfall Securities using the Shortfall Application Form
+attached to this Prospectus. Persons outside Australia doing so represent to the Company that they can
+apply for Shortfall Securities in circumstances which do not require the offer for Shortfall Securities or
+this Prospectus to be registered.
+It is possible that there may be no Shortfall Securities available for issue.
+Subject to the above, the Directors, together with the Underwriter, reserve the right at their absolute
+discretion and subject to the Corporations Act and Listing Rules, to:
+(a)
+
+issue Shortfall Securities at their discretion by applying a policy of allocating Shortfall
+Securities in a manner that is in the Company’s best interests; and
+
+(b)
+
+to reject any application for Shortfall Securities or to issue a lesser number of Shortfall
+Securities than that applied for.
+
+No Shortfall Securities will be issued to an applicant under this Prospectus if the issue of Shortfall
+Securities would contravene the takeover prohibition in section 606 of the Corporations Act.
+It is an express term of the Shortfall Offer that applicants for Shortfall Securities will be bound to accept
+a lesser number of Shortfall Securities allocated to them than applied for. If a lesser number is allocated,
+excess application money will be refunded without interest as soon as practicable after the closing date
+of the Shortfall Offer being 28 October 2020.
+
+Applicants outside of Australia
+(a)
+
+General
+This Prospectus does not constitute an offer of New Securities in any jurisdiction where, or to
+any person to whom, it would not be lawful to issue the Prospectus or make the Offers.
+It is the responsibility of any Applicant who is resident outside Australia to ensure compliance
+with all laws of any country relevant to their Application, and any such Applicant should consult
+their professional adviser as to whether any government or other consents are required, or
+whether any formalities need to be observed to enable them to apply for and be issued New
+Securities. Return of a duly completed Entitlement and Acceptance Form will constitute a
+representation and warranty by an Applicant that there has not been any breach of such
+regulations.
+The Company has not taken any action to register or qualify the New Securities or an Offer,
+or otherwise to permit a public offering of the New Securities, in any jurisdiction outside
+Australia.
+
+(b)
+
+New Zealand resident Eligible Shareholders
+The New Securities offered under the Entitlement Offer pursuant to this Prospectus are not
+being offered or sold to the public within New Zealand other than to Eligible Shareholders with
+registered addresses in New Zealand and to whom the Entitlement Offer is being made in
+reliance on the Securities Act (Overseas Companies) Exemption Notice 2013 (New Zealand).
+This Prospectus has not been registered, filed with or approved by any New Zealand
+regulatory authority under the Securities Act 1978 (New Zealand).
+This Prospectus is not an investment statement or prospectus under New Zealand law and is
+not required to, and may not, contain all the information that an investment statement or
+prospectus under New Zealand law is required to contain.
+
+(c)
+
+Other overseas resident Shareholders
+Each Offer does not, and is not intended to, constitute an offer in any place or jurisdiction in
+which, or to any person to whom, it would not be lawful to make such an offer or to issue this
+Prospectus. In particular, this document may not be distributed to any person, and the
+Securities may not be offer or sold, in any country outside Australia and New Zealand except
+to the extent permitted below.
+
+For personal use only
+
+Singapore
+
+8.8
+
+8.9
+
+This Prospectus and any other materials relating to the securities have not been, and will not
+be, lodged or registered as a prospectus in Singapore with the Monetary Authority of
+Singapore. Accordingly, this document and any other document or materials in connection
+with the offer or sale, or invitation for subscription or purchase, of Securities, may not be
+issued, circulated or distributed, nor may the Securities be offered or sold, or be made the
+subject of an invitation for subscription or purchase, whether directly or indirectly, to persons
+in Singapore except pursuant to and in accordance with exemptions in Subdivision (4) Division
+1, Part XIII of the Securities and Futures Act, Chapter 289 of Singapore (the "SFA"), or as
+otherwise pursuant to, and in accordance with the conditions of any other applicable
+provisions of the SFA.
+This document has been given to you on the basis that you are (i) an existing holder of the
+Company’s shares, (ii) an "institutional investor" (as defined in the SFA) or (iii) an "accredited
+investor" (as defined in the SFA). In the event that you are not an investor falling within any of
+the categories set out above, please return this document immediately. You may not forward
+or circulate this document to any other person in Singapore.
+Any offer is not made to you with a view to the Securities being subsequently offered for sale
+to any other party. There are on-sale restrictions in Singapore that may be applicable to
+investors who acquire Securities. As such, investors are advised to acquaint themselves with
+the SFA provisions relating to resale restrictions in Singapore and comply accordingly.
+
+Treatment of Ineligible Shareholders and sale of Ineligible Shareholders’ Entitlement
+Given the small number of Ineligible Shareholders and the cost of complying with applicable regulations
+outside Australia, New Zealand and Singapore, the Company has decided that it would be unreasonable
+to extend the Entitlement Offer to Ineligible Shareholders. The Prospectus will not be sent to those
+Shareholders.
+This Prospectus does not constitute an offer of securities in any jurisdiction where, or to any person to
+whom, it would not be lawful to issue the Prospectus or make the Entitlement Offer. No action has been
+taken to register or qualify the New Securities or the Entitlement Offer or otherwise to permit an offering
+of the New Securities in any jurisdiction other than as set out in this section.
+This document is not for publication or distribution, directly or indirectly, in or into the United States of
+America (including its territories and possessions, any state of the US and the District of Columbia).
+This document is not an offer of securities for sale into the United States or to, or for the account or
+benefit of, US Persons. The securities referred to herein have not been and will not be registered under
+the US Securities Act, and may not be offered or sold in the United States or to, or for the account or
+benefit of, US Persons. No public offering of securities is being made in the United States.
+Recipients may not send or otherwise distribute this Prospectus or the Entitlement and Acceptance
+Form to any person outside Australia, New Zealand or Singapore (other than to Eligible Shareholders).
+For the purposes of Listing Rule 7.7.1(c), the Company has appointed the Underwriter as nominee to
+arrange for the sale of the Ineligible Shareholders' Entitlements and to account to them for the net
+proceeds of the sale. The Company will then distribute to each of those Ineligible Shareholders their
+proportion of the sale net of expenses.
+The proceeds of sale (in Australian dollars) will be distributed to the Ineligible Shareholders for whose
+benefits the Rights have been sold in proportion to their shareholdings as at the Record Date (after
+deducting the costs of the sale). There is no guarantee the Underwriter will be able to sell Ineligible
+Shareholders’ Entitlements and if so at what price.
+
+Beneficial holders, nominees, trustees and custodians
+The foreign selling restrictions under the Entitlement Offer summarised in section 8.7 of this Prospectus
+apply to the underlying beneficial holder. Nominees, trustees and custodians must not apply on behalf
+of any beneficial holder that would not itself be an Eligible Shareholder. Shareholders who are
+nominees, trustees or custodians are advised to seek independent advice as to how they should
+proceed. Shareholders who hold Shares on behalf of persons whose registered address is not in
+
+For personal use only
+
+Australia, New Zealand or Singapore are responsible for ensuring that applying for New Securities does
+not breach securities laws in the relevant overseas jurisdictions.
+
+8.10
+
+8.11
+
+Nominees and custodians that hold Shares should note that the Entitlement Offer is available only to
+Eligible Shareholders. The Company is not required to determine whether or not any registered holder
+is acting as a nominee or the identity or residence of any beneficial owners of securities. If any nominee
+or custodian is acting on behalf of a foreign person, that holder, in dealing with its beneficiary, will need
+to assess whether indirect participation by the beneficiary in the Entitlement Offer is compatible with
+applicable foreign laws.
+
+Allotment and application money
+New Securities will be issued only after all application money has been received and ASX has granted
+permission for the New Shares to be quoted. It is expected that New Securities will be issued on 3
+August 2020 and normal trading of the New Shares and New Options on ASX is expected to commence
+on 4 August 2020.
+All application monies will be deposited into a separate bank account of the Company and held in trust
+for Applicants until the New Securities are issued or application monies returned. Any interest that
+accrues will be retained by the Company and will not be paid to Applicants.
+
+Quotation
+(a)
+
+New Shares
+The Company will apply to ASX within 7 days after the date of this Prospectus for quotation
+of the New Shares offered by this Prospectus on ASX. If ASX does not grant permission for
+the quotation of the New Shares offered under this Prospectus within 3 months after the date
+of this Prospectus, or such longer period as modified by ASIC, none of the New Shares offered
+by this Prospectus will be allotted or issued. In these circumstances, all Applications will be
+dealt with in accordance with the Corporations Act including the return of all application monies
+without interest.
+A decision by ASX to grant official quotation of the New Shares is not to be taken in any way
+as an indication of ASX's view as to the merits of the Company or of the New Shares.
+Quotation, if granted, of the New Shares offered by this Prospectus will commence as soon
+as practicable after statements of holdings of the New Shares are dispatched.
+
+(b)
+
+New Options
+The Company will apply to ASX within 7 days after the date of this Prospectus for quotation
+of the New Options offered by this Prospectus on ASX. If ASX does not grant permission for
+the quotation of the New Options offered under this Prospectus within 3 months after the date
+of this Prospectus, or such longer period as modified by ASIC, none of the New Options
+offered by this Prospectus will be allotted or issued. In these circumstances, all Applications
+will be dealt with in accordance with the Corporations Act including the return of all application
+monies without interest.
+A decision by ASX to grant official quotation of the New Options is not to be taken in any way
+as an indication of ASX's view as to the merits of the Company or of the New Options.
+Quotation, if granted, of the New Options offered by this Prospectus will commence as soon
+as practicable after statements of holdings of the New Options are dispatched.
+
+For personal use only
+
+8.12
+
+8.13
+
+8.14
+
+8.15
+
+Market prices of Existing Shares and Options on ASX
+The highest and lowest market sale price of the Existing Shares and listed Options, which are on the
+same terms and conditions as the New Shares and New Options being offered under this Prospectus,
+during the 3 months immediately preceding the lodgement of this Prospectus with the ASIC, and the
+last market sale price on the date before the lodgement date of this Prospectus, are set out below.
+(a)
+
+Shares
+
+Existing
+Shares
+
+3 month high
+
+3 month low
+
+Last market sale
+price
+
+Price ($)
+
+$0.044
+
+$0.004
+
+$0.02
+
+9 June 2020
+
+24 March 2020
+
+7 July 2020
+
+Existing
+listed
+Options1
+
+3 month high
+
+3 month low
+
+Last market sale
+price
+
+Price ($)
+
+$0.023
+
+$0.005
+
+$0.007
+
+2 June 2020
+
+1 July 2020
+
+7 July 2020
+
+Date
+(b)
+
+Options
+
+Date
+Note:
+1.
+
+The TNRO class of Options were admitted to Official Quotation on ASX on 5 May 2020.
+
+CHESS
+The Company participates in the Clearing House Electronic Subregister System (CHESS). CHESS is
+operated by ASX Settlement Pty Ltd (ASPL), a wholly owned subsidiary of ASX.
+Under CHESS, the Company does not issue certificates to investors. Instead, security holders will
+receive a statement of their holdings in the Company, including New Securities issued under this
+Prospectus. If an investor is broker sponsored, ASPL will send a CHESS statement.
+The CHESS statement will set out the number of New Securities issued under this Prospectus, provide
+details of your holder identification number and give the participation identification number of the
+sponsor.
+If you are registered on the issuer sponsored sub register, your statement will be dispatched by the
+Company’s share registrar and will contain the number of New Securities issued to you under this
+Prospectus and your security holder reference number.
+A CHESS statement or issuer sponsored statement will routinely be sent to Shareholders at the end of
+any calendar month during which the balance of their shareholding changes. Shareholders may request
+a statement at any other time, however, a charge may be made for additional statements.
+
+Taxation and duty implications
+The Directors do not consider that it is appropriate to give Shareholders advice regarding the taxation
+consequences of the Company conducting the Offer or Shareholders applying for New Securities under
+this Prospectus, as it is not possible to provide a comprehensive summary of the possible taxation
+positions of Shareholders. The Company, its advisers and officers, do not accept any responsibility or
+liability for any taxation consequences to Shareholders in the Offers. Shareholders should, therefore,
+consult their own professional tax adviser in connection with the taxation implications of the Offers.
+No brokerage or stamp duty is payable by Applicants in respect of Applications for New Securities under
+this Prospectus.
+
+Privacy
+The Company collects information about each Applicant provided on an Entitlement and Acceptance
+Form for the purposes of processing the Application and, if the Application is successful, to administer
+the Applicant’s security holding in the Company.
+
+For personal use only
+
+By submitting an Entitlement and Acceptance Form, each Applicant agrees that the Company may use
+the information provided by an Applicant on the Entitlement and Acceptance Form for the purposes set
+out in this privacy disclosure statement and may disclose it for those purposes to the Share Registry,
+the Company’s related body corporates, agents, contractors and third party service providers, including
+mailing houses and professional advisers, and to ASX and regulatory authorities.
+
+8.16
+
+The Corporations Act requires the Company to include information about the Shareholder (including
+name, address and details of the Shares held) in its public register. The information contained in the
+Company’s public register must remain there even if that person ceases to be a Shareholder.
+Information contained in the Company’s register is also used to facilitate distribution payments and
+corporate communications (including the Company’s financial results, annual reports and other
+information that the Company may wish to communicate to its security holders) and compliance by the
+Company with legal and regulatory requirements.
+If you do not provide the information required on the Entitlement and Acceptance Form, the Company
+may not be able to accept or process your Application. An Applicant has the right to gain access to the
+information that the Company holds about that person subject to certain exceptions under law. A fee
+may be charged for access. Such requests must be made in writing to the Company’s registered office.
+
+Enquiries
+Any queries regarding the Offers or Entitlement and Acceptance Form should be directed to the
+Company Secretary on +61 (0)8 9420 8208.
+You can also contact your stockbroker or professional adviser with any queries in relation to the
+Entitlement Offer.
+
+RIGHTS AND LIABILITIES ATTACHING TO SECURITIES
+
+9.1
+
+Rights and liability attaching to New Shares
+
+For personal use only
+
+9.
+
+A summary of the rights attaching to Shares in the Company is set out below. This summary is qualified
+by the full terms of the Constitution (a full copy of the Constitution will be provided by the Company on
+request free of charge) and does not purport to be exhaustive or to constitute a definitive statement of
+the rights and liabilities of Shareholders. These rights and liabilities can involve complex questions of
+law arising from an interaction of the Constitution with statutory and common law requirements. For a
+Shareholder to obtain a definitive assessment of the rights and liabilities which attach to Shares in
+specific circumstances, the Shareholder should seek legal advice.
+(a)
+
+General meeting and notices
+Each eligible Shareholder is entitled to receive notice of, and to attend and vote at, general
+meetings of the Company and to receive all notices, accounts and other documents required
+to be sent to Shareholders under the Constitution, the Corporations Act or the Listing Rules.
+
+(b)
+
+Voting rights
+Subject to any rights or restrictions for the time being attached to any class or classes of
+shares, at general meetings of Shareholders or classes of Shareholders:
+
+(c)
+
+(i)
+
+each eligible Shareholder entitled to vote, may vote in person or by proxy, attorney
+or representative;
+
+(ii)
+
+on a show of hands every person present who is an eligible Shareholder or a proxy,
+attorney or representative of an eligible Shareholder has one vote; and
+
+(iii)
+
+on a poll, every person present who is an eligible Shareholder or a proxy, attorney
+or representative of an eligible Shareholder shall, in respect of each fully paid share
+held by him, or in respect of which he is appointed a proxy, attorney or
+representative, have one vote per Share, but in respect of partly paid shares shall
+have such number of votes as bears the same proportion to the total of such shares
+registered in the Shareholder's name as the amount paid (not credited) bears to the
+total amounts paid and payable (excluding amounts credited).
+
+Issues of further Shares
+The Directors may, on behalf of the Company, issue shares and grant options over or
+unissued shares to any person on the terms, with the rights, and at the times that the Directors
+decide. However, the Directors must act in accordance with the restrictions imposed by the
+Constitution, Listing Rules, the Corporations Act and any rights and restrictions attached to a
+class of shares.
+
+(d)
+
+Variation of Rights
+Unless otherwise provided by the Constitution or by the terms of issue of a class of shares,
+the rights attached to the shares in any class may be varied or cancelled only with the written
+consent of the holders of at least three-quarters of the issued shares of the affected class, or
+by special resolution passed at a separate meeting of the holders of the issued shares of the
+affected class.
+
+(e)
+
+Transfer of Shares
+Generally, shares in the Company are freely transferable, subject to formal requirements, the
+registration of the transfer not resulting in a contravention of or failure to observe the provisions
+of a law of Australia and the transfer not being in breach of the Corporations Act or the Listing
+Rules.
+The Directors may decline to register a transfer of shares (other than a proper transfer in
+accordance with the ASX Settlement Operating Rules) where permitted to do so under the
+Listing Rules. If the Directors decline to register a transfer, the Company must, within 5
+business days after the transfer is delivered to the Company, give the party lodging the transfer
+written notice of the refusal and the reason for the refusal.
+
+(f)
+
+Partly paid Shares
+The Directors may, subject to compliance with the Constitution, the Corporations Act and
+Listing Rules, issue partly paid shares upon which there are outstanding amounts payable.
+These shares will have limited rights to vote and to receive dividends.
+
+For personal use only
+
+(g)
+
+Dividend rights
+Subject to and in accordance with the Corporations Act, the Listing Rules, the rights of any
+preference shares and to the rights of the holders of any shares created or raised under any
+special arrangement as to dividend, the Directors may from time to time declare dividend to
+be paid to the shareholders entitled to the dividend. Subject to the rights of any preference
+shares and to the rights of the holders of any shares created or raised under any special
+arrangement as to dividend, the dividend as declared shall be payable on all shares according
+to the proportion that the amount paid (not credited) is of the total amounts paid and payable
+(excluding amounts credited) in respect of such shares.
+
+(h)
+
+Winding up
+Subject to any rights or restrictions attached to a class of Shares, on a winding up of the
+Company, any surplus must be divided among the Shareholders in the proportions which the
+amount paid (including amounts credited) on the shares of a Shareholders is of the total
+amounts paid and payable (including amounts credited) on the shares of all Shareholders.
+
+(i)
+
+Dividend reinvestment and Share plans
+Subject to the requirements in the Corporations Act and the Listing Rules, the Directors may
+implement and maintain dividend reinvestment plans (under which any member may elect that
+dividends payable by the Company be reinvested by way of subscription for fully paid shares
+in the Company) and any other share plans (under which any member may elect to forego
+any dividends that may be payable on all or some of the shares held by that member and to
+receive instead some other entitlement, including the issue of fully paid shares).
+
+(j)
+
+Directors
+The Constitution states that the minimum number of Directors is three and the maximum
+number is nine.
+
+(k)
+
+Powers of the Board
+Except as otherwise required by the Corporations Act, any other law, the Listing Rules or the
+Constitution, the Directors have the power to manage the business of the Company and may
+exercise every right, power or capacity of the Company.
+
+(l)
+
+Share buy backs
+Subject to the provisions of the Corporations Act and the Listing Rules, the Company may buy
+back shares in itself on the terms and at times determined by the Directors.
+
+(m)
+
+Unmarketable parcels
+The Company's constitution permits the Board to sell the shares held by a Shareholder if they
+comprise less than a marketable parcel within the meaning of ASX Business Rules. The
+procedure may only be invoked once in any 12 month period and requires the Company to
+give the shareholder notice of the intended sale.
+If a Shareholder does not want his shares sold, he may notify the Company accordingly.
+
+(n)
+
+Capitalisation of profits
+The Directors may capitalise any profits of the Company and distribute that capital to the
+Shareholders, in the same proportions as the Shareholders are entitled to a distribution by
+dividend.
+
+(o)
+
+Capital reduction
+Subject to the Corporations Act and Listing Rules, the Company may reduce its share capital.
+
+(p)
+
+Preference Shares
+The Company may issue preference shares, including preference shares that are liable to be
+redeemed. The rights attaching to preference shares are those set out in the Constitution
+unless other rights have been approved by special resolution of the Company’s Shareholders.
+
+For personal use only
+
+9.2
+
+Rights and liability attaching to New Options
+The terms and conditions of the New Options are as follows:
+(a)
+
+Each New Option entitles the holder to subscribe for one fully paid ordinary share in the capital
+of the Company at an exercise price of 2 cents (Exercise Price).
+
+(b)
+
+The New Options are exercisable at any time on or before 5.00pm Western Standard Time on
+7 February 2022 (Expiry Date). Any New Options not exercised by the Expiry Date shall
+lapse.
+
+(c)
+
+New Options may not be exercised if the effect of such exercise and subsequent allotment of
+the Shares would be to create a holding of less than a marketable parcel of Shares unless the
+allottee is already a shareholder of the Company at the time of exercise.
+
+(d)
+
+Exercise of the New Option is effected by completing a notice of exercise of option and
+delivering it to the registered office of the Company together with payment of 2 cents per New
+Option exercised.
+
+(e)
+
+A notice of exercise is only effective when the Company has received the full amount of the
+Exercise Price in cash or cleared funds.
+
+(f)
+
+The New Options are freely transferable, subject to any offer for sale of the New Options
+complying with section 707 of the Corporations Act (if applicable).
+
+(g)
+
+The Company will apply for Official Quotation by ASX of the New Options.
+
+(h)
+
+All Shares issued upon exercise of the New Options and payment of the Exercise Price will
+rank equally in all respects with the Company’s then existing Shares. The Company will apply
+for Official Quotation by ASX of all Shares issued upon exercise of the New Options within
+three days of the issue of the Shares.
+
+(i)
+
+There are no participating rights or entitlements inherent in the New Options and the holder
+will not be entitled to participate in new entitlement issues of capital offered to shareholders
+during the currency of the New Options. However, the Company will ensure that for the
+purposes of determining entitlements to any such issue, Optionholders are given such period
+required by the Listing Rules of ASX to give Optionholders the opportunity to exercise their
+New Options prior to the date for determining entitlements to participate in any such issue.
+
+(j)
+
+If from time to time before the expiry of the New Options the Company makes an issue of
+shares to the holders of ordinary shares by way of capitalisation of profits or reserves (a
+"bonus issue") other than in lieu of a dividend payment, then upon exercise of a New Option
+the Optionholder will be entitled to have issued to it (in addition to the shares which it is
+otherwise entitled to have issued to it upon such exercise) additional shares in the Company.
+The number of additional shares is the number of shares which would have been issued to it
+under that bonus issue (bonus shares) if on the date on which entitlements were calculated it
+had been registered as the holder of the number of shares which it would have been registered
+as holder if immediately before that date it had exercised its New Options. The bonus shares
+will be paid up by the Company out of profits or reserves (as the case may be) in the same
+manner as was applied in relation to the bonus issue and upon issue will rank pari passu in
+all respects with the other shares allotted upon exercise of the New Options.
+
+(k)
+
+The period during which the New Options may be exercised cannot be extended.
+
+(l)
+
+In the event of any reconstruction, including a consolidation, subdivision, reduction or return
+of the issued capital of the Company prior to the Expiry Date, the number of New Options
+which each holder is entitled or the Exercise Price of the Options or both will be reconstructed
+as appropriate in a manner which is in accordance with the Listing Rules and will not result in
+any benefits being conferred on Optionholders which are not conferred on shareholders,
+subject to such provision with respect to the rounding of entitlements as may be sanctioned
+by the meeting of shareholders approving the reconstruction of capital, but in all other respects
+
+the terms of exercise of the New Options will remain unchanged. The rights of an Optionholder
+may be changed to comply with the Listing rules applying to a reorganisation of capital at the
+time of the reconstruction.
+
+For personal use only
+
+(m)
+
+If there is a pro-rata issue (except a bonus issue) to the holders of the ordinary Shares, the
+exercise price of New Options shall be reduced according to the following formula:
+O’ = O - E[P-(S+D)]
+N+1
+Where
+O’ = the new exercise price of New Options.
+O = the old exercise price of New Options.
+E = the number of ordinary Shares into which one New Option is exercisable.
+P = the average market price per ordinary Share (weighted by reference to volume) of the
+ordinary Shares during the 5 (five) trading days ending on the day before the ex-rights or exentitlements date.
+S = the subscription price for an ordinary Share under the pro-rata issue.
+D = the dividend due but not yet paid on the ordinary Shares (except those to be issued under
+the pro-rata issue).
+N = the number of ordinary Shares with rights or entitlements that must be held to receive a
+right to one new ordinary Share.
+
+(n)
+
+Shares allotted and issued pursuant to the exercise of a New Option will be allotted and issued
+not more than 14 days after the receipt of a proper notice and payment of the exercise price
+in respect of the New Options exercised.
+
+(o)
+
+Other than as referred to above, a New Option does not confer the right to a change in
+Exercise Price, or a change to the number of underlying securities over which it can be
+exercised.
+
+ADDITIONAL INFORMATION
+
+10.1
+
+Continuous disclosure obligations
+
+For personal use only
+
+10.
+
+The Company is a ‘disclosing entity’ (as defined in section 111AC of the Corporations Act) for the
+purposes of section 713 of the Corporations Act and, as such, is subject to regular reporting and
+disclosure obligations. Specifically, like all listed companies, the Company is required to continuously
+disclose any information it has to the market which a reasonable person would expect to have a material
+effect on the price or the value of the Company's securities. The New Shares and New Options which
+will be issued pursuant to this Prospectus are in the same class of Shares and listed Options
+respectively that have been quoted on the Official List during the 12 months prior to the issue of this
+Prospectus. The New Options are options to subscribe for continuously quoted securities (i.e. Shares).
+This Prospectus is a “transaction specific prospectus” to which the special content rules under section
+713 of the Corporations Act apply. That provision allows the issue of a more concise prospectus in
+relation to an offer of securities in a class which has been continuously quoted by ASX in the three
+months prior to the date of the prospectus. In general terms "transaction specific prospectuses" are only
+required to contain information in relation to the effect of the issue of New Shares on the Company and
+the rights attaching to the New Shares. It is not necessary to include general information in relation to
+all of the assets and liabilities, financial position, profits and losses or prospects of the issuing company.
+This Prospectus is intended to be read in conjunction with the publicly available information in relation
+to the Company which has been notified to ASX and does not include all of the information that would
+be included in a prospectus for an initial public offering of securities in an entity that is not already listed
+on a stock exchange. Investors should therefore have regard to the other publicly available information
+in relation to the Company before making a decision whether or not to invest.
+Having taken such precautions and having made such enquires as are reasonable, the Company
+believes that it has complied with the general and specific requirements of ASX as applicable from time
+to time throughout the period from lodgement of the Company’s annual financial statements of the
+Company for the financial year ended 31 December 2019 to the issue of this Prospectus which required
+the Company to notify ASX of information about specified events or matters as they arise for the purpose
+of ASX making that information available to the stock market conducted by ASX.
+The Company confirms that, to the extent to which it is reasonable for investors and their professional
+advisers to expect to find the information in this Prospectus, there is no information:
+(a)
+
+that has been excluded from a continuous disclosure notice in accordance with the Listing
+Rules; and
+
+(b)
+
+is information that investors and their professional advisers would reasonably require for the
+purpose of making an informed assessment of:
+(i)
+
+the assets and liabilities, financial position and performance, profits and losses and
+prospects of the Company; and
+
+(ii)
+
+the rights and liabilities attaching to New Shares and New Options.
+
+Information that is already in the public domain has not been reported in this Prospectus other than that
+which is considered necessary to make this Prospectus complete.
+The Company, as a disclosing entity under the Corporations Act states that:
+(a)
+
+it is subject to regular reporting and disclosure obligations;
+
+(b)
+
+copies of documents lodged with the ASIC in relation to the Company (not being documents
+referred to in section 1274(2)(a) of the Corporations Act) may be obtained from, or inspected
+at, the offices of the ASIC; and
+
+(c)
+
+it will provide a copy of each of the following documents, free of charge, to any person on
+request between the date of issue of this Prospectus and the Closing Date:
+(i)
+
+the annual financial statements of the Company for the financial year ended 31
+December 2019 being the last financial statements for a financial year, of the
+Company lodged with the ASIC before the issue of this Prospectus;
+
+(ii)
+
+any half-year financial report lodged with ASIC by the Company after the lodgement
+of that annual report and before the lodgement of this Prospectus; and
+
+(iii)
+
+any continuous disclosure notices given by the Company after the lodgement of the
+financial statements referred to in paragraph (i) and before the lodgement of this
+Prospectus with ASIC.
+
+For personal use only
+
+Copies of all documents lodged with the ASIC in relation to the Company can be obtained free
+of charge from the Company’s registered office during normal office hours or from asx.com.au.
+The Company has lodged the following announcements with ASX since the lodgement of the
+Company’s 2019 annual report to shareholders on 7 April 2020:
+Date
+
+Description of ASX Announcement
+
+6 July 2020
+
+Becoming a substantial holder from NVA
+
+6 July 2020
+
+Underwritten Renounceable Rights Issue to Raise Up to $2.2M
+
+6 July 2020
+
+Proposed Issue of Securities
+
+3 July 2020
+
+Change of Directors’ Interest Notice
+
+2 July 2020
+
+Appendix 2A
+
+2 July 2020
+
+Appendix 2A
+
+2 July 2020
+
+Appendix 2A
+
+2 July 2020
+
+Appendix 2A
+
+2 July 2020
+
+NVA: Convertible Note Conversion
+
+2 July 2020
+
+Conversion of Nova Minerals Debt
+
+1 July 2020
+
+Mt Stirling Phase 1 Drilling Complete & Phase 2 Targeting
+
+30 June 2020
+
+Results of Meeting
+
+18 June 2020
+
+Annual General Meeting Venue Change
+
+9 June 2020
+
+Mt Stirling Gold Confirms Potential for Major Discovery
+
+2 June 2020
+
+DAU: First Drill Program at Credo Delivers JORC Resources
+
+1 June 2020
+
+Mt Stirling Gold Camp Drilling Update
+
+28 May 2020
+
+Notice of Annual General Meeting/Proxy Form
+
+28 May 2020
+
+NVA: Nova Secured Prepayment Funding Facility
+
+21 May 2020
+
+Cleansing Prospectus
+
+21 May 2020
+
+Appendix 2A – Shares
+
+21 May 2020
+
+Appendix 2A - Options
+
+18 May 2020
+
+Proposed issue of Securities – TNR
+
+18 May 2020
+
+Proposed issue of Securities – TNR
+
+18 May 2020
+
+Placement Completed and Exploration Update
+
+14 May 2020
+
+Trading Halt
+
+13 May 2020
+
+New Era of Exploration at Mt Stirling Gold Camp
+
+6 May 2020
+
+Mt Monger Gold Exploration Strategy
+
+5 May 2020
+
+Appendix 2A
+
+1 May 2020
+
+Cleansing Prospectus
+
+30 April 2020
+
+Drilling Contract Awarded for Mt Stirling Gold
+
+30 April 2020
+
+Quarterly Activities Report
+
+30 April 2020
+
+Quarterly Cashflow Report
+
+28 April 2020
+
+Appendix 2A
+
+28 April 2020
+
+Appendix 3G
+
+28 April 2020
+
+Appendix 3G
+
+28 April 2020
+
+Mt Stirling Gold Drilling & Mapping Preparation Underway
+
+For personal use only
+
+10.2
+
+24 April 2020
+
+Completion of Convertible Note Raising
+
+22 April 2020
+
+Commencement of Zuleika Project Farm-in Joint Venture
+
+22 April 2020
+
+DAU: Zuleika Farm-in Joint Venture Commences
+
+21 April 2020
+
+Final Director’s Interest Notice
+
+21 April 2020
+
+Resignation of Director
+
+15 April 2020
+
+Mt Stirling Gold Camp Exploration Strategy
+
+15 April 2020
+
+Credo Well Exploration Update – Phase 1 Drilling
+
+14 April 2020
+
+Cancellation of Unquoted Securities
+
+14 April 2020
+
+Grant of ASX Waivers
+
+14 April 2020
+
+Mt Malcolm Option Sale Agreement
+
+14 April 2020
+
+Final Director’s Interest Notice
+
+14 April 2020
+
+Resignation of Director
+
+8 April 2020
+
+Reinstatement to Official Quotation
+
+8 April 2020
+
+Appendix 3G
+
+7 April 2020
+
+Appendix 4G & Corporate Governance Statement
+
+7 April 2020
+
+Annual Report to shareholders
+
+ASX maintains files containing publicly available information for all listed companies. The Company's
+file is available for inspection at ASX during normal office hours or from www.asx.com.au.
+
+Directors’ interests
+Other than as set out above or elsewhere in this Prospectus, no Director or proposed Director holds at
+the date of this Prospectus, or held at any time during the last 2 years before the date of lodgement of
+this Prospectus with ASIC, any interest in:
+(a)
+
+the formation or promotion of the Company; or
+
+(b)
+
+any property acquired or proposed to be acquired by the Company in connection with its
+formation or promotion of the Company or the Offer; or
+
+(c)
+
+the Offers,
+
+and no amounts have been paid or agreed to be paid and no benefits have been given or agreed to be
+given:
+(d)
+
+to a Director or proposed Director or to any firm which any such Director is a partner, to induce
+him or her to become, or to qualify as, a Director; or
+
+(e)
+
+for services provided by a Director or proposed Director or to any firm which any such Director
+is a partner, in connection with the formation or promotion of the Company or the Offers.
+
+As at the date of this Prospectus the Directors have a relevant interest in securities of the Company as
+set out below.
+Director
+
+Louie
+
+Simens2
+
+Shares
+
+Options1
+
+Entitlement
+New Shares
+
+New Options
+
+11,000,000
+
+30,263,334
+
+2,750,000
+
+1,375,000
+
+Paul Summers
+
+4,804,810
+
+16,118,600
+
+1,201,203
+
+600,601
+
+Peretz Schapiro
+
+1,156,619
+
+7,566,668
+
+289,155
+
+144,577
+
+Note:
+1.
+2.
+
+Quoted Options exercisable at $0.02 expiring on 7 February 2022 (TNRO).
+Mr Simens is an executive director of Nova Minerals Limited.
+
+Executive Directors Paul Summers and Peretz Schaprio have agreed to subscribe for their full
+entitlement under the Entitlement Offer.
+
+For personal use only
+
+The Constitution provides that the Directors may be paid for their services as Directors. Non-executive
+directors may only be paid a sum not exceeding such fixed sum per annum as may be determined by
+the Company in general meeting, to be divided among the non-executive directors and in default of
+agreement then in equal shares.
+
+10.3
+
+10.4
+
+The Company also pays premiums to insure all of the Directors against liabilities for costs and expenses
+incurred by them in defending legal proceedings arising from their conduct whilst acting in the capacity
+as a Director of the Company.
+The Directors’ total remuneration for the 2018 and 2019 financial years, together with the anticipated
+remuneration of the Directors for the current financial year are set out in the table below:
+Director
+
+Remuneration
+for FY2019
+
+Remuneration for
+FY2020
+
+Current financial
+year
+
+Louie Simens1
+
+N/A
+
+$72,000
+
+$36,000
+
+Paul Summers
+
+$34,871
+
+$120,000
+
+$96,000
+
+Peretz
+Schapiro2
+
+N/A
+
+$36,000
+
+$96,000
+
+Notes:
+1.
+2.
+
+Mr Simens was appointed on 26 March 2020.
+Mr Schapiro was appointed on 11 March 2020 and as an Executive Director on 25 June 2020.
+
+Interests of promoters and named persons
+Except as disclosed in this Prospectus, no expert, promoter or any other person named in this
+Prospectus as performing a function in a professional advisory or other capacity in connection with the
+preparation or distribution of the Prospectus, nor any firm in which any of those persons is or was a
+partner nor any company in which any of those persons is or was associated with, has now, or has had,
+in the 2 year period ending on the date of this Prospectus, any interest in:
+(a)
+
+the formation or promotion of the Company; or
+
+(b)
+
+property acquired or proposed to be acquired by the Company in connection with its formation
+or promotion or the Offers; or
+
+(c)
+
+the Offers.
+
+Mahe Capital has acted as Underwriter and as lead manager to the Entitlement Offer. The fees to be
+paid for this service are set out in Section 8.3. Mahe Capital has not received any fees for services to
+the Company in the 2 years prior to the date of this Prospectus.
+Allion Partners Pty Ltd has acted as solicitor to the Offers. In respect of this work, the Company will pay
+approximately $12,000 exclusive of GST. Subsequently fees will be paid in accordance with normal
+hourly rates. Allion Partners has not received any fees for services to the Company in the 2 years prior
+to the date of this Prospectus.
+
+Consents
+Each of the persons referred to in this section:
+(a)
+
+has given and has not, before the date of lodgement of this Prospectus with ASIC withdrawn
+their written consent:
+(i)
+
+to be named in the Prospectus in the form and context which it is named; and
+
+(ii)
+
+where applicable, to the inclusion in this Prospectus of the statement(s) and/or
+reports (if any) by that person in the form and context in which it appears in this
+Prospectus;
+
+(b)
+
+has not caused or authorised the issue of this Prospectus;
+
+(c)
+
+has not made any statement in this Prospectus or any statement on which a statement in this
+Prospectus is based, other than specified below;
+
+(d)
+
+to the maximum extent permitted by law, expressly disclaims all liability in respect of, makes
+no representation regarding, and takes no responsibility for, any part of this Prospectus, other
+
+For personal use only
+
+than the references to their name and the statement(s) and/or report(s) (if any) specified below
+and included in this Prospectus with the consent of that person.
+
+10.5
+
+10.6
+
+Name
+
+Role
+
+Mahe Capital
+
+Underwriter and lead manager
+
+Allion Partners
+
+Solicitors to the Entitlement Offer
+
+Expenses of the Offers
+The total (cash) expenses of the Offers (assuming Full Subscription and no further New Shares are
+issued or New Options exercised) are estimated to be up to $221,740, consisting of the following:
+Cost
+
+1
+
+$
+
+Legal fees
+
+12,000
+
+ASX and ASIC fees
+
+13,206
+
+Capital raising fees
+
+190,534
+
+Printing, postage and other expenses
+Total
+
+6,000
+221,740
+
+Note:
+1. These expenses have or will be paid by the Company.
+2. In addition, the Underwriter is entitled to be issued 2 New Options for every $1 raised under the Entitlement Offer and a fee
+of up to 5% on funds placed under the Shortfall Offer beyond the Underwritten Amount , including any additional amount that
+might be placed under a follow-on placement pursuant to the Company’s placement capacity. Please refer to Section 8.3(b)
+for further information.
+
+Litigation
+As at the date of this Prospectus, the Company is not involved in any other legal proceedings of a
+material nature and the Directors are not aware of any other material legal proceedings pending or
+threatened against the Company.
+
+11.
+
+DIRECTORS' STATEMENT
+The Prospectus is issued by the Company and its issue has been authorised by a resolution of the
+Directors.
+
+For personal use only
+
+In accordance with section 720 of the Corporations Act, each Director has consented to the lodgement
+of this Prospectus with ASIC and has not withdrawn that consent.
+This Prospectus is signed for and on behalf of the Company pursuant to a resolution of the Board by:
+
+Louie Simens
+Non-Executive Chairman
+
+12.
+
+GLOSSARY
+
+For personal use only
+
+Where the following terms are used in this Prospectus they have the following meanings:
+$, A$ or Dollars means Australian dollars unless otherwise stated.
+Applicant means a person who submits a valid Application Form pursuant to this Prospectus.
+Application means a valid application made on an Application Form to subscribe for New Securities
+pursuant to this Prospectus.
+Application Form means an Entitlement and Acceptance Form and Shortfall Application Form, or any
+one or more of those forms as the case may be.
+ASIC means the Australian Securities & Investments Commission.
+ASX means ASX Limited ACN 008 624 691 and where the context permits the Australian Securities
+Exchange operated by ASX Limited.
+Board means the board of Directors.
+Business Day means Monday to Friday inclusive, except any day that ASX declares is not a business
+day.
+Closing Date means the date set out in section 1.
+Company or Torian means Torian Resources Limited (ACN 002 261 565).
+Constitution means the constitution of the Company.
+Convertible Notes means the convertibles notes issued to Nova Minerals Limited on receipt of
+shareholder approval at the Company’s general meeting on 30 June 2020, on the terms and conditions
+set out in the notice of meeting lodged on 28 May 2020.
+Corporations Act means the Corporations Act 2001 (Cth).
+Director means a director of the Company.
+Eligible Shareholders means a Shareholder as at the Record Date with a registered address in
+Australia, New Zealand or Singapore.
+Entitlement or Right means a Shareholder’s entitlement to subscribe for New Securities offered under
+the Entitlement Offer.
+Entitlement and Acceptance Form means the personalised entitlement and acceptance form
+attached to this Prospectus.
+Entitlement Offer means the renounceable pro rata entitlement offer to Eligible Shareholders of
+approximately135,972,430 New Shares at an issue price of $0.016 per New Share on the basis of 1
+New Share for every 4 Existing Shares held, together with 1 attaching New Option for every 2 New
+Share subscribed for, to raise up to approximately $2.2 million before issue costs.
+Existing Share means a Share issued as at 5.00pm (Perth time) on the Record Date.
+Full Subscription means approximately $2.2 million before costs.
+Ineligible Shareholder means a Shareholder at the Record Date who is not an Eligible Shareholder.
+Listing Rules means the listing rules of the ASX.
+Mahe Capital means Mahe Capital Pty Ltd (ABN 91 634 087 684).
+New Option means an Option on the terms set out in section 9.2 and offered under this Prospectus,
+being a free attaching Option with an exercise price of 2 cents, expiring on 7 February 2020 and trading
+under the ASX code “TNRO”.
+New Securities means the Securities offered under the Offers contained in this Prospectus.
+New Shares means Shares issued pursuant to this Prospectus.
+Nova means Nova Minerals Limited (ABN 84 006 690 348).
+Offers means the Entitlement Offer and the Shortfall Offer or any one or more of those offers as the
+case may be.
+Offer Price means the issue price per New Share being $0.016.
+Offer Period means the period that the Entitlement Offer is open, being the period between the
+Opening Date and the Closing Date.
+Official List means the official list of the ASX.
+Opening Date means the date set out in section 1.
+Option means an option to subscribe for a Share.
+
+For personal use only
+
+Prospectus means this Prospectus and includes the electronic prospectus.
+Record Date means the date set out in section 1.
+Securities means has the meaning given to that term in section 761A of the Corporations Act and
+includes a Share and an Option.
+Share means a fully paid ordinary share in the Company.
+Shareholder means the registered holder of Shares in the Company.
+Share Registry means Advanced Share Registry Services as set out in the Corporate Directory.
+Shortfall Application Form means the shortfall application form attached to this Prospectus.
+Shortfall Offer has the meaning given in Section 8.6.
+Shortfall Securities means New Securities offered under the Offer for which valid Applications have
+not been received and accepted by the Closing Date.
+Underwriter has the meaning given in Section 8.3.
+Underwritten Amount has the meaning given to it in Section 4, being an underwritten amount of $1
+million.
+US Person has the meaning given to that term in Regulation S under the US Securities Act.
+US Securities Act means the United States Securities Act of 1933, as amended.
+
+For personal use only
+
+13.
+
+PRO FORMA STATEMENT OF FINANCIAL POSITION
+A pro forma balance sheet based upon the Company’s unaudited consolidated balance sheet as at 31
+May 2020 is set out below. It has been prepared on the basis of accounting policies normally adopted
+by the Company and reflects the changes the Entitlement Offer has on its financial position. It sets out
+the financial position in the event the Underwritten Amount and Full Subscription under the Entitlement
+Offer, on the assumption that no Options are exercised prior to the Record Date.
+Pro Forma Balance Sheet as at 31 May 2020
+Underwritten Amount
+
+ASSETS
+CURRENT ASSETS
+Cash and cash equivalents
+Trade and other receivables
+Right of use asset
+TOTAL CURRENT ASSETS
+NON-CURRENT ASSETS
+Available-for-sale financial asset
+Property, plant and equipment
+Exploration and evaluation
+expenditure
+
+Full Subscription
+
+Pro forma
+Torian Resources adjustments Pro forma
+
+Pro forma
+adjustments Pro forma
+
+Unaudited
+31-May-20
+
+Unaudited
+31-May-20
+
+Unaudited
+31-May-20
+
+779,141
+155,869
+21,509
+956,519
+
+848,794
+
+848,794
+
+Unaudited
+31-May-20
+
+1,627,935
+155,869
+21,509
+1,805,313
+
+1,953,819
+
+1,953,819
+
+Unaudited
+31-May-20
+
+2,732,960
+155,869
+21,509
+2,910,339
+
+1,429
+22,436
+
+1,429
+22,436
+
+1,429
+22,436
+
+19,406,421
+
+19,406,421
+
+19,406,421
+
+TOTAL NON-CURRENT ASSETS
+
+19,430,286
+
+19,430,286
+
+19,430,286
+
+TOTAL ASSETS
+
+20,386,805
+
+LIABILITIES
+CURRENT LIABILITIES
+Trade and other payables
+Borrowings
+Lease liability
+TOTAL CURRENT LIABILITIES
+TOTAL LIABILITIES
+NET ASSETS
+EQUITY
+Issued capital
+Reserves
+Accumulated losses
+TOTAL EQUITY
+
+612,442
+110,246
+22,303
+744,991
+744,991
+19,641,815
+
+84,139,170
+705,825
+(65,203,180)
+19,641,815
+
+848,794
+
+(37,999)
+
+(37,999)
+(37,999)
+810,795
+
+21,235,599
+
+574,443
+110,246
+22,303
+706,992
+706,992
+20,528,608
+
+1,331,324
+85,470,494
+(413,325)
+292,500
+(31,206) (65,234,386)
+886,793 20,528,608
+
+1,953,819
+
+(37,999)
+
+(37,999)
+(37,999)
+1,915,820
+
+22,340,625
+
+574,443
+110,246
+22,303
+706,992
+706,992
+21,633,633
+
+2,436,349
+86,575,519
+(413,325)
+292,500
+(31,206) (65,234,386)
+2,405,143
+21,633,634
+
+Corporate Directory
+
+For personal use only
+
+Directors
+Louie Simens, Non-Executive Chairman
+Paul Summers, Executive Director
+Peretz Schapiro, Executive Director
+
+Company Secretary
+Matthew Foy
+
+Registered Office
+Torian Resources Limited
+104 Colin Street
+West Perth WA 6005
+Lead Manager and Underwriter
+Mahe Capital Pty Ltd
+Level 8, 99 St Georges Terrace
+Perth WA 6000
+
+Solicitor to the Offer
+Allion Partners Pty Ltd
+863 Hay Street
+Perth WA 6000
+
+Auditor*
+RSM Bird Cameron Sydney
+Level 12, 60 Castlereagh Street
+Sydney NSW 2000
+
+Share Registry*
+Advanced Share Registry Services
+150 Stirling Highway
+Nedlands WA 6009
+
+*This party is named for informational purposes only and was not involved in the preparation of this Prospectus.
+
+

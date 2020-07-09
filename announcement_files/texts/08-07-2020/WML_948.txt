@@ -1,0 +1,5037 @@
+This appendix is available as an online form
+Only use this form if the online version is not available
+
++Rule 3.10.3
+
+Appendix 3B
+
+For personal use only
+
+Proposed issue of +securities
+Information and documents given to ASX become ASX’s property and may be made public.
+If you are an entity incorporated outside Australia and you are proposing to issue a new class of
++securities other than CDIs, you will need to obtain and provide an International Securities
+Identification Number (ISIN) for that class. Similarly, if you are an entity incorporated outside Australia,
+the +securities proposed to be issued are in an existing class of +security but the event timetable
+includes a period of rights or +deferred settlement trading, you will need to obtain and provide an ISIN
+code for the rights and/or the deferred settlement +securities. Further information on the requirement
+for the notification of an ISIN is available from the Create Online Forms page. ASX is unable to create
+the new ISIN for non-Australian issuers.
+*Denotes minimum information required for first lodgement of this form, with exceptions provided in
+specific notes for certain questions. The balance of the information, where applicable, must be
+provided as soon as reasonably practicable by the entity.
+
+Part 1 – Entity and announcement details
+Question
+no
+
+Question
+
+Answer
+
+1.1
+
+*Name of entity
+We (the entity here named)
+give ASX the following
+information about a proposed
+issue of +securities and, if ASX
+agrees to +quote any of the
++
+securities (including any
+rights) on a +deferred
+settlement basis, we agree to
+the matters set out in
+Appendix 3B of the ASX
+Listing Rules
+
+Woomera Mining Limited (ASX: WML)
+
+1.2
+
+*Registration type and number
+
+ACN 073 155 781
+
+Please supply your ABN, ARSN,
+ARBN, ACN or another registration
+type and number (if you supply
+another registration type, please
+specify both the type of registration
+and the registration number).
+
+1.3
+
+*ASX issuer code
+
+1.4
+
+*This announcement is
+
+☒ A new announcement
+
+Tick whichever is applicable.
+
+☐ An update/amendment to a previous announcement
+☐ A cancellation of a previous announcement
+
+1.4a
+
+*Reason for update
+Mandatory only if “Update” ticked in
+Q1.4 above. A reason must be
+provided for an update.
+
+1.4b
+
+*Date of previous
+announcement to this update
+Mandatory only if “Update” ticked in
+Q1.4 above.
+
++ See chapter 19 for defined terms
+31 January 2020
+
+Page 1
+
+This appendix is available as an online form
+Only use this form if the online version is not available
+1.4c
+
+Appendix 3B
+Proposed issue of +securities
+
+*Reason for cancellation
+Mandatory only if “Cancellation” ticked
+in Q1.4 above.
+
+For personal use only
+
+1.4d
+
+*Date of previous
+announcement to this
+cancellation
+Mandatory only if “Cancellation” ticked
+in Q1.4 above.
+
+1.5
+
+*Date of this announcement
+
+8 July 2020
+
+1.6
+
+*The proposed issue is:
+
+☐ A +bonus issue (complete Parts 2 and 8)
+
+Note: You can select more than one
+type of issue (e.g. an offer of
+securities under a securities purchase
+plan and a placement, however ASX
+may restrict certain events from being
+announced concurrently). Please
+contact your listing adviser if you are
+unsure.
+
+☒ A standard +pro rata issue (non-renounceable or
+renounceable) (complete Q1.6a and Parts 3 and 8)
+☐ An accelerated offer (complete Q1.6b and Parts 3 and 8)
+☐ An offer of +securities under a +securities purchase
+plan (complete Parts 4 and 8)
+☐ A non-+pro rata offer of +securities under a
++disclosure document or +PDS (complete Parts 5 and 8)
+☐ A non-+pro rata offer to wholesale investors under an
+information memorandum (complete Parts 6 and 8)
+☒ A placement or other type of issue (complete Parts 7 and
+8)
+
+1.6a
+
+*The proposed standard +pro
+rata issue is:
+Answer this question if your response
+to Q1.6 is “A standard pro rata issue
+(non-renounceable or renounceable).”
+
+☒ Non-renounceable
+☐ Renounceable
+
+Select one item from the list
+
+1.6b
+
+*The proposed accelerated
+offer is:
+
+☐ Accelerated non-renounceable entitlement offer
+(commonly known as a JUMBO or ANREO)
+
+Answer this question if your response
+to Q1.6 is “An accelerated offer”
+
+☐ Accelerated renounceable entitlement offer
+(commonly known as an AREO)
+
+Select one item from the list
+
+☐ Simultaneous accelerated renounceable entitlement
+offer (commonly known as a SAREO)
+☐ Accelerated renounceable entitlement offer with dual
+book-build structure (commonly known as a
+RAPIDS)
+☐ Accelerated renounceable entitlement offer with retail
+rights trading (commonly known as a PAITREO)
+
++ See chapter 19 for defined terms
+31 January 2020
+
+Page 2
+
+This appendix is available as an online form
+Only use this form if the online version is not available
+
+Appendix 3B
+Proposed issue of +securities
+
+Part 2 – Details of proposed +bonus issue
+If your response to Q1.6 is “A bonus issue”, please complete Parts 2A – 2D and the details of the securities proposed to be
+issued in Part 8. Refer to section 1 of Appendix 7A of the Listing Rules for the timetable for bonus issues.
+
+For personal use only
+
+Part 2A – Proposed +bonus issue – conditions
+Question
+No.
+
+Question
+
+Answer
+
+2A.1
+
+*Are any of the following approvals required
+for the +bonus issue to be unconditional?
+• +Security holder approval
+• Court approval
+• Lodgement of court order with +ASIC
+• ACCC approval
+• FIRB approval
+• Another approval/condition external to
+the entity.
+
+Yes or No
+
+If any of the above approvals apply to the bonus issue,
+they must be obtained before business day 0 of the
+timetable. The relevant approvals must be received
+before ASX can establish an ex market in the
+securities.
+
+2A.1a
+
+Conditions
+Answer these questions if your response to Q2A.1 is “Yes”.
+Select the applicable approval(s) from the list. More than one approval can be selected. The “date for
+determination” is the date that you expect to know if the approval is given (for example, the date of the security
+holder meeting in the case of security holder approval or the date of the court hearing in the case of court
+approval).
+
+*Approval/ condition
+Type
+
+*Date for
+determination
+
+*Is the date
+estimated or
+actual?
+
+*Approval received/
+condition met?
+
+Comments
+
+Please respond “Yes” or
+“No”. Only answer this
+question when you know
+the outcome of the
+approval. Please advise
+before business day 0 of
+the Appendix 7A bonus
+issue timetable.
+
++Security holder
+approval
+Court approval
+Lodgement of court
+order with +ASIC
+ACCC approval
+FIRB approval
+Other (please specify
+in comment section)
+
++ See chapter 19 for defined terms
+31 January 2020
+
+Page 3
+
+This appendix is available as an online form
+Only use this form if the online version is not available
+
+Appendix 3B
+Proposed issue of +securities
+
+For personal use only
+
+Part 2B – Proposed +bonus issue - issue details
+Question
+No.
+
+Question
+
+2B.1
+
+*Class or classes of +securities that will
+participate in the proposed +bonus issue
+(please enter both the ASX security code &
+description)
+
+Answer
+
+If more than one class of security will participate in the
+proposed bonus issue, make sure you clearly identify
+any different treatment between the classes.
+
+2B.2
+
+*Class of +securities that will be issued in
+the proposed +bonus issue (please enter
+both the ASX security code & description)
+
+2B.3
+
+*Issue ratio
+
+for
+
+Enter the quantity of additional securities to be issued
+for a given quantity of securities held (for example, 1
+for 2 means 1 new security issued for every 2 existing
+securities held).
+Please only enter whole numbers (for example, a
+bonus issue of 1 new security for every 2.5 existing
+securities held should be expressed as “2 for 5”).
+
+2B.4
+
+*What will be done with fractional
+entitlements?
+
+☐ Fractions rounded up to the next whole
+number
+
+Select one item from the list.
+
+☐ Fractions rounded down to the nearest
+whole number or fractions disregarded
+☐ Fractions sold and proceeds distributed
+☐ Fractions of 0.5 or more rounded up
+☐ Fractions over 0.5 rounded up
+☐ Not applicable
+
+2B.5
+
+*Maximum number of +securities proposed
+to be issued (subject to rounding)
+
+Part 2C – Proposed +bonus issue – timetable
+Question
+No.
+
+Question
+
+2C.1
+
+*+Record date
+
+Answer
+
+Record date to identify security holders entitled to
+participate in the bonus issue. Per Appendix 7A section
+1 the record date must be at least 4 business days
+from the announcement date (day 0).
+
+2C.3
+
+*Ex date
+Per Appendix 7A section 1 the ex date is one business
+day before the record date. This is also the date that
+the bonus securities will commence quotation on a
+deferred settlement basis.
+
+2C.4
+
+*Record date
+Same as Q2C.1 above
+
++ See chapter 19 for defined terms
+31 January 2020
+
+Page 4
+
+This appendix is available as an online form
+Only use this form if the online version is not available
+
+For personal use only
+
+2C.5
+
+Appendix 3B
+Proposed issue of +securities
+
+*+Issue date
+Per Appendix 7A section 1 the issue date should be at
+least one business day and no more than 5 business
+days after the record date (the last day for the entity to
+issue the bonus securities and lodge an Appendix 2A
+with ASX to apply for quotation of the bonus
+securities). Deferred settlement trading will end at
+market close on this day.
+
+2C.6
+
+*Date trading starts on a normal T+2 basis
+Per Appendix 7A section 1 this is one business day
+after the issue date.
+
+2C.7
+
+*First settlement date of trades conducted
+on a +deferred settlement basis and on a
+normal T+2 basis
+Per Appendix 7A section 1 this is two business days
+after trading starts on a normal T+2 basis (3 business
+days after the issue date).
+
+Part 2D – Proposed +bonus issue – further information
+Question
+No.
+
+Question
+
+Answer
+
+2D.1
+
+*Will holdings on different registers or sub
+registers be aggregated for the purposes of
+determining entitlements to the +bonus
+issue?
+
+Yes or No
+
+2D.1a
+
+Please explain how holdings on different
+registers or subregisters will be aggregated
+for the purposes of determining entitlements
+Answer this question if your response to Q2D.1 is
+“Yes”.
+
+2D.2
+
+*Countries in which the entity has +security
+holders who will not be eligible to participate
+in the proposed +bonus issue
+Note: The entity must send each holder to whom it will
+not offer the securities details of the issue and advice
+that the entity will not offer securities to them (listing
+rule 7.7.1(b)).
+
+2D.3
+
+*Will the entity be changing its
+dividend/distribution policy as a result of the
+proposed +bonus issue
+
+2D.3a
+
+Please explain how the entity will change its
+dividend/distribution policy if the proposed
++bonus issue proceeds
+
+Yes or No
+
+Answer this question if your response to Q2D.3 is
+“Yes”.
+
+2D.4
+
+*Details of any material fees or costs to be
+incurred by the entity in connection with the
+proposed +bonus issue
+
+2D.5
+
+Any other information the entity wishes to
+provide about the proposed +bonus issue
+
++ See chapter 19 for defined terms
+31 January 2020
+
+Page 5
+
+This appendix is available as an online form
+Only use this form if the online version is not available
+
+Appendix 3B
+Proposed issue of +securities
+
+Part 3 – Details of proposed entitlement offer
+
+For personal use only
+
+If your response to Q1.6 is “A standard pro rata issue (non-renounceable or renounceable)” or “An accelerated offer”, please
+complete parts 3A, 3F and 3G and the details of the securities proposed to be issued in Part 8. Please also complete Parts 3B
+and 3C if your response to Q1.6 is “A standard pro rata issue (non-renounceable or renounceable)” and Parts 3D and 3E if your
+response to Q1.6 is “An accelerated offer”. Refer to sections 2,3,4,5 and 6 of Appendix 7A of the Listing Rules for the respective
+timetables for entitlement offers, including non-renounceable, renounceable and accelerated offers.
+
+Part 3A – Proposed entitlement offer – conditions
+Question
+No.
+
+Question
+
+Answer
+
+3A.1
+
+*Are any of the following approvals required
+for the entitlement offer to be unconditional?
+• +Security holder approval
+• Court approval
+• Lodgement of court order with +ASIC
+• ACCC approval
+• FIRB approval
+• Another approval/condition external to
+the entity.
+
+No
+
+If any of the above approvals apply to the entitlement
+offer, they must be obtained before business day 0 of
+the timetable. The relevant approvals must be received
+before ASX can establish an ex market in the
+securities.
+
+3A.1a
+
+Conditions
+Answer these questions if your response to Q3A.1 is “Yes”.
+Select the applicable approval(s) from the list. More than one approval can be selected. The “date for
+determination” is the date that you expect to know if the approval is given (for example, the date of the security
+holder meeting in the case of +security holder approval or the date of the court hearing in the case of court
+approval).
+
+*Approval/ condition
+Type
+
+*Date for
+determination
+
+*Is the date
+estimated or
+actual?
+
+**Approval received/
+condition met?
+
+Comments
+
+Please respond “Yes” or
+“No”. Only answer this
+question when you know
+the outcome of the
+approval. Please advise
+before +business day 0
+of the relevant Appendix
+7A entitlement offer
+timetable.
+
++Security holder
+approval
+Court approval
+Lodgement of court
+order with +ASIC
+ACCC approval
+FIRB approval
+Other (please specify
+in comment section)
+
++ See chapter 19 for defined terms
+31 January 2020
+
+Page 6
+
+This appendix is available as an online form
+Only use this form if the online version is not available
+
+Appendix 3B
+Proposed issue of +securities
+
+Part 3B – Proposed standard pro rata issue entitlement offer - offer details
+
+For personal use only
+
+If your response to Q1.6 is “A standard pro rata issue (non-renounceable or renounceable)”, please complete the relevant
+questions in this part.
+
+Question
+No.
+
+Question
+
+Answer
+
+3B.1
+
+*Class or classes of +securities that will
+participate in the proposed entitlement offer
+(please enter both the ASX security code &
+description)
+
+WML – Quoted fully paid Ordinary Shares
+
+If more than one class of security will participate in the
+proposed entitlement offer, make sure you clearly
+identify any different treatment between the classes.
+
+3B.2
+
+*Class of +securities that will be issued in
+the proposed entitlement offer (please enter
+both the ASX security code & description)
+
+a) WML – Quoted fully paid Ordinary
+Shares
+b) Quoted Options with an exercise price
+of $0.03 each and exercisable on or
+before 30 June 2023
+
+3B.3
+
+*Offer ratio
+
+2 for 3
+
+Enter the quantity of additional securities to be offered
+for a given quantity of securities held (for example, 1
+for 2 means 1 new security will be offered for every 2
+existing securities held).
+Please only enter whole numbers (for example, an
+entitlement offer of 1 new security for every 2.5 existing
+securities held should be expressed as “2 for 5”).
+
+3B.4
+
+*What will be done with fractional
+entitlements?
+
+☒Fractions rounded up to the next whole
+number
+
+Select one item from the list.
+
+☐Fractions rounded down to the nearest
+whole number or fractions disregarded
+☐Fractions sold and proceeds distributed
+☐Fractions of 0.5 or more rounded up
+☐Fractions over 0.5 rounded up
+☐Not applicable
+
+3B.5
+
+*Maximum number of +securities proposed
+to be issued (subject to rounding)
+
+a) 136,050,911 Ordinary Shares; and
+b) 68,025,456 free attaching Options with
+an exercise price of $0.03 each and
+exercisable on or before 30 June 2023
+
+3B.6
+
+*Will individual +security holders be
+permitted to apply for more than their
+entitlement (i.e. to over-subscribe)?
+
+Yes
+
+3B.6a
+
+*Describe the limits on over-subscription
+
+Total Offer cannot exceed 136,050,911
+Ordinary Shares and 68,025,456 Quoted
+Options (with exercise price of $0.03 each
+and exercisable on or before 30 June 2023)
+No person will be permitted to acquire
+shares under the Offer which would result in
+the voting power of such person exceeding
+20% or more of the Company’s shares.
+
+Answer this question if your response to Q3B.6 is
+“Yes”.
+
+3B.7
+
+*Will a scale back be applied if the offer is
+over-subscribed?
+
++ See chapter 19 for defined terms
+31 January 2020
+
+Yes
+
+Page 7
+
+This appendix is available as an online form
+Only use this form if the online version is not available
+3B.7a
+
+*Describe the scale back arrangements
+Answer this question if your response to Q3B.7 is
+“Yes”.
+
+3B.8
+
+*In what currency will the offer be made?
+
+Appendix 3B
+Proposed issue of +securities
+Director discretion in consultation with the
+Underwriter
+AUD
+
+For personal use only
+
+For example, if the consideration for the issue is
+payable in Australian Dollars, state AUD.
+
+3B.9
+
+*Has the offer price been determined?
+
+Yes
+
+3B.9a
+
+*What is the offer price per +security?
+
+a) $0.012 per Ordinary Shares
+b) Options issued for nil cash consideration
+
+Answer this question if your response to Q3B.9 is “Yes”
+using the currency specified in your answer to Q3B.8.
+
+3B.9b
+
+*How and when will the offer price be
+determined?
+
+-
+
+Answer this question if your response to Q3B.9 is “No”.
+
+Part 3C – Proposed standard pro rata issue – timetable
+If your response to Q1.6 is “A standard pro rata issue (non-renounceable or renounceable)”, please complete the relevant
+questions in this part.
+
+Question
+No.
+
+Question
+
+Answer
+
+3C.1
+
+*+Record date
+
+15 July 2020
+
+Record date to identify security holders entitled to
+participate in the issue. Per Appendix 7A sections 2
+and 3 the record date must be at least 3 business days
+from the announcement date (day 0)
+
+3C.2
+
+*Ex date
+
+14 July 2020
+
+Per Appendix 7A sections 2 and 3 the Ex Date is one
+business day before the record date. For renounceable
+issues, this is also the date that rights will commence
+quotation on a deferred settlement basis.
+
+3C.3
+
+*Date rights trading commences
+
+-
+
+For renounceable issues only - this is the date that
+rights will commence quotation initially on a deferred
+settlement basis
+
+3C.4
+
+*Record date
+
+15 July 2020
+
+Same as Q3C.1 above
+
+3C.5
+
+*Date on which offer documents will be sent
+to +security holders entitled to participate in
+the +pro rata issue
+
+20 July 2020
+
+The offer documents can be sent to security holders as
+early as business day 4 but must be sent no later than
+business day 6. Business day 6 is the last day for the
+offer to open.
+For renounceable issues, deferred settlement trading in
+rights ends at the close of trading on this day. Trading
+in rights on a normal (T+2) settlement basis will start
+from market open on the next business day (i.e.
+business day 7) provided that the entity tells ASX by
+12pm Sydney time that the offer documents have been
+sent or will have been sent by the end of the day.
+
+3C.6
+
+*Offer closing date
+
+10 August 2020
+
+Offers close at 5pm on this day. The date must be at
+least 7 business days after the entity announces that
+the offer documents have been sent to holders.
+
++ See chapter 19 for defined terms
+31 January 2020
+
+Page 8
+
+This appendix is available as an online form
+Only use this form if the online version is not available
+3C.7
+
+*Last day to extend the offer closing date
+
+Appendix 3B
+Proposed issue of +securities
+5 August 2020
+
+At least 3 business days’ notice must be given to
+extend the offer closing date.
+
+For personal use only
+
+3C.8
+
+*Date rights trading ends
+
+-
+
+For renounceable issues only - rights trading ends at
+the close of trading 5 business days before the
+applications closing date.
+
+3C.9
+
+*Trading in new +securities commences on
+a deferred settlement basis
+
+11 August 2020
+
+Non-renounceable issues - the business day after the
+offer closing date
+Renounceable issues – the business day after the date
+rights trading ends
+
+3C.10
+
+*Last day for entity to announce the results
+of the offer to ASX, including the number
+and percentage of +securities taken up by
+existing +security holders and any shortfall
+taken up by underwriters or other investors
+
+13 August 2020
+
+No more than 3 business days after the offer closing
+date
+
+3C.11
+
+*Issue date
+
+17 August 2020
+
+Per Appendix 7A section 2 and section 3, the issue
+date should be no more than 5 business days after the
+offer closes date (the last day for the entity to issue the
+securities taken up in the pro rata issue and lodge an
+Appendix 2A with ASX to apply for quotation of the
+securities). Deferred settlement trading will end at
+market close on this day.
+
+3C.12
+
+*Date trading starts on a normal T+2 basis
+
+18 August 2020
+
+Per Appendix 7A section 2 and 3 this is one business
+day after the issue date.
+
+3C.13
+
+*First settlement date of trades conducted
+on a +deferred settlement basis and on a
+normal T+2 basis
+
+21 August 2020
+
+Per Appendix 7A section 2 and 3 1 this is two business
+days after trading starts on a normal T+2 basis (3
+business days after the issue date).
+
+Part 3D – Proposed accelerated offer – offer details
+Question
+No.
+
+Question
+
+3D.1
+
+*Class or classes of +securities that will
+participate in the proposed entitlement offer
+(please enter both the ASX security code &
+description)
+
+Answer
+
+If more than one class of security will participate in the
+proposed entitlement offer, make sure you clearly
+identify any different treatment between the classes.
+
+3D.2
+
+*Class of +securities that will issued in the
+proposed entitlement offer (please enter
+both the ASX security code & description)
+
+3D.3
+
+*Has the offer ratio been determined?
+
++ See chapter 19 for defined terms
+31 January 2020
+
+Yes or No
+
+Page 9
+
+This appendix is available as an online form
+Only use this form if the online version is not available
+3D.3a
+
+*Offer ratio
+
+Appendix 3B
+Proposed issue of +securities
+for
+
+For personal use only
+
+Answer this question if your response to Q3D.3 is
+“Yes” or “No”. If your response to Q3D.3 is “No” please
+provide an indicative ratio and state as indicative.
+Enter the quantity of additional securities to be offered
+for a given quantity of securities held (for example, 1
+for 2 means 1 new security will be offered for every 2
+existing securities held).
+Please only enter whole numbers (for example, an
+entitlement offer of 1 new security for every 2.5 existing
+securities held should be expressed as “2 for 5”).
+
+3D.3b
+
+*How and when will the offer ratio be
+determined?
+Answer this question if your response to Q3D.3 is “No”.
+Note that once the offer ratio is determined, this must
+be provided via an update announcement.
+
+3D.4
+
+*What will be done with fractional
+entitlements?
+
+☐ Fractions rounded up to the next whole
+number
+
+Select one item from the list.
+
+☐ Fractions rounded down to the nearest
+whole number or fractions disregarded
+☐ Fractions sold and proceeds distributed
+☐ Fractions of 0.5 or more rounded up
+☐ Fractions over 0.5 rounded up
+☐ Not applicable
+
+3D.5
+
+*Maximum number of +securities proposed
+to be issued (subject to rounding)
+
+3D.6
+
+*Will individual +security holders be
+permitted to apply for more than their
+entitlement (i.e. to over-subscribe)?
+
+3D.6a
+
+*Describe the limits on over-subscription
+
+Yes or No
+
+Answer this question if your response to Q3D.6 is
+“Yes”.
+
+3D.7
+
+*Will a scale back be applied if the offer is
+over-subscribed?
+
+3D.7a
+
+*Describe the scale back arrangements
+
+Yes or No
+
+Answer this question if your response to Q3D.7 is
+“Yes”.
+
+3D.8
+
+*In what currency will the offer be made?
+For example, if the consideration for the issue is
+payable in Australian Dollars, state AUD.
+
+3D.9
+
+*Has the offer price for the institutional offer
+been determined?
+
+3D.9a
+
+*What is the offer price per +security for the
+institutional offer?
+
+Yes or No
+
+Answer this question if your response to Q3D.9 is
+“Yes” using the currency specified in your answer to
+Q3D.8.
+
+3D.9b
+
+*How and when will the offer price for the
+institutional offer be determined?
+Answer this question if your response to Q3D.9 is “No”.
+
++ See chapter 19 for defined terms
+31 January 2020
+
+Page 10
+
+This appendix is available as an online form
+Only use this form if the online version is not available
+3D.9c
+
+*Will the offer price for the institutional offer
+be determined by way of a bookbuild?
+
+Appendix 3B
+Proposed issue of +securities
+Yes or No
+
+For personal use only
+
+Answer this question if your response to Q3D.9 is “No”.
+If your response to this question is “yes”, please note
+the information that ASX expects to be announced
+about the results of the bookbuild set out in
+section 4.12 of Guidance Note 30 Notifying an Issue of
+Securities and Applying for their Quotation.
+
+3D.9d
+
+*Provide details of the parameters that will
+apply to the bookbuild for the institutional
+offer (e.g. the indicative price range for the
+bookbuild)
+Answer this question if your response to Q3D.9 is “No”
+and your response to Q5B.9c is “Yes”.
+
+3D.10
+
+*Has the offer price for the retail offer been
+determined?
+
+3D.10a
+
+*What is the offer price per +security for the
+retail offer?
+
+Yes or No
+
+Answer this question if your response to Q3D.10 is
+“Yes” using the currency specified in your answer to
+Q3B.8.
+
+3D.10b
+
+*How and when will the offer price for the
+retail offer be determined?
+Answer this question if your response to Q3D.10 is
+“No”.
+
+Part 3E – Proposed accelerated offer – timetable
+If your response to Q1.6 is “An accelerated offer”, please complete the relevant questions in this Part.
+
+Question
+No.
+
+Question
+
+3E.1a
+
+*First day of trading halt
+
+Answer
+
+The entity is required to announce the accelerated offer
+and give a completed Appendix 3B to ASX. If the
+accelerated offer is conditional on security holder
+approval or any other requirement, that condition must
+have been satisfied and the entity must have
+announced that fact to ASX. An entity should also
+consider the rights of convertible security holders to
+participate in the issue and what, if any, notice needs
+to be given to them in relation to the issue
+
+3E.1b
+
+*Announcement date of accelerated offer
+
+3E.2
+
+*Trading resumes on an ex-entitlement
+basis (ex date)
+For JUMBO, ANREO, AREO, SAREO, RAPIDs offers
+
+3E.3
+
+*Trading resumes on ex-rights basis
+For PAITREO offers only
+
+3E.4
+
+*Rights trading commences
+For PAITREO offers only
+
+3E.5
+
+*Date offer will be made to eligible
+institutional +security holders
+
+3E.6
+
+*Application closing date for institutional
++security holders
+
++ See chapter 19 for defined terms
+31 January 2020
+
+Page 11
+
+This appendix is available as an online form
+Only use this form if the online version is not available
+3E.7
+
+Appendix 3B
+Proposed issue of +securities
+
+*Institutional offer shortfall book build date
+For AREO, SAREO, RAPIDs, PAITREO offers
+
+For personal use only
+
+3E.8
+
+*Announcement of results of institutional
+offer
+The announcement should be made before the
+resumption of trading following the trading halt.
+
+3E.9
+
+*+Record date
+Record date to identify security holders entitled to
+participate in the offer. Per Appendix 7A sections 4, 5
+and 6 the record date must be at least 2 business days
+from the announcement date (day 0).
+
+3E.10
+
+*Settlement date of new +securities issued
+under institutional entitlement offer
+If DvP settlement applies, provided the Appendix 2A is
+given to ASX before noon (Sydney time) this day,
+normal trading in the securities will apply on the next
+business day, and if DvP settlement does not apply on
+the business day after that.
+
+3E.11
+
+*+Issue date for institutional +security
+holders
+
+3E.12
+
+*Normal trading of new +securities issued
+under institutional entitlement offer
+
+3E.13
+
+*Date on which offer documents will be sent
+to retail +security holders entitled to
+participate in the +pro rata issue
+The offer documents can be sent to security holders as
+early as business day 4 but must be sent no later than
+business day 6. Business day 6 is the last day for the
+offer to open. For renounceable offers, deferred
+settlement trading in rights ends at the close of trading
+on this day. Trading in rights on a normal (T+2)
+settlement basis will start from market open on the next
+business day (i.e. business day 7) provided that the
+entity tells ASX by 12pm Sydney time that the offer
+documents have been sent or will have been sent by
+the end of the day.
+
+3E.14
+
+*Offer closing date for retail +security
+holders
+Offers close at 5pm on this day. The date must be at
+least 7 business days after the entity announces that
+the offer documents have been sent to holders.
+
+3E.15
+
+*Last day to extend the retail offer closing
+date
+At least 3 business days’ notice must be given to
+extend the offer closing date.
+
+3E.16
+
+*Rights trading end date
+For PAITREO offers only
+
+3E.17
+
+*Trading in new +securities commences on
+a deferred settlement basis
+For PAITREO offers only
+The business day after rights trading end date
+
+3E.18
+
+*Entity announces results of the retail offer
+to ASX, including the number and
+percentage of +securities taken up by
+existing retail +security holders
+
+3E.19
+
+*Bookbuild for any shortfall (if applicable)
+For all offers except JUMBO, ANREO
+
++ See chapter 19 for defined terms
+31 January 2020
+
+Page 12
+
+This appendix is available as an online form
+Only use this form if the online version is not available
+3E.20
+
+Appendix 3B
+Proposed issue of +securities
+
+*Entity announces results of bookbuild
+(including any information about the
+bookbuild expected to be disclosed under
+section 4.12 of Guidance Note 30)
+
+For personal use only
+
+For all offers except JUMBO, ANREO
+
+3E.21
+
+*+Issue date for retail +security holders
+Per Appendix 7A section 2 and section 3, the issue
+date should be no more than 5 business days after the
+offer closes date. This is the last day for the entity to
+issue the securities taken up in the pro rata issue and
+lodge an Appendix 2A with ASX to apply for quotation
+of the securities. Deferred settlement trading will end at
+market close on this day.
+
+3E.22
+
+*Date trading starts on a normal T+2 basis
+For PAITREO offers only
+This is one business day after the issue date.
+
+3E.23
+
+*First settlement date of trades conducted
+on a +deferred settlement basis and on a
+normal T+2 basis
+For PAITREO offers only
+This is two business days after trading starts on a
+normal T+2 basis (3 business days after the issue
+date).
+
+Part 3F – Proposed entitlement offer – fees and expenses
+Question
+No.
+
+Question
+
+Answer
+
+3F.1
+
+*Will there be a lead manager or broker to
+the proposed offer?
+
+Yes
+
+3F.1a
+
+*Who is the lead manager/broker?
+
+Adelaide Equity Partners Limited
+
+Answer this question if your response to Q3F.1 is
+“Yes”.
+
+Answer this question if your response to Q3F.1 is
+“Yes”.
+
+The lead manager and Underwriter will
+receive the following in relation to the Offers:
+a) 6% of the amount underwritten by the
+Underwriter being $1,632,611; and
+b) Issue of 10,000,000 Options at an issue
+price of $0.0001 per Option (with
+exercise price of $0.03 each and
+exercisable on or before 30 June 2023)
+
+3F.2
+
+*Is the proposed offer to be underwritten?
+
+Yes
+
+3F.2a
+
+*Who are the underwriter(s)?
+
+Adelaide Equity Partners Limited
+
+3F.1b
+
+*What fee, commission or other
+consideration is payable to them for acting
+as lead manager/broker?
+
+Answer this question if your response to Q3F.2 is
+“Yes”.
+Note for issuers that are an ASX Listing (i.e. not an
+ASX Debt Listing or ASX Foreign Exempt Listing): If
+you are seeking to rely on listing rule 7.2 exception 2 to
+issue the securities without security holder approval
+under listing rule 7.1 and without using your placement
+capacity under listing rules 7.1 or 7.1A, you must
+include the details asked for in this and the next 3
+questions.
+
++ See chapter 19 for defined terms
+31 January 2020
+
+Page 13
+
+This appendix is available as an online form
+Only use this form if the online version is not available
+3F.2b
+
+*What is the extent of the underwriting (i.e.
+the amount or proportion of the offer that is
+underwritten)?
+
+Appendix 3B
+Proposed issue of +securities
+$1,632,611
+
+For personal use only
+
+Answer this question if your response to Q3F.2 is
+“Yes”.
+
+3F.2c
+
+*What fees, commissions or other
+consideration are payable to them for acting
+as underwriter(s)?
+
+As per 3F.1b above
+
+Answer this question if your response to Q3F.2 is
+“Yes”.
+This includes any applicable discount the underwriter
+receives to the issue price payable by participants in
+the issue.
+
++ See chapter 19 for defined terms
+31 January 2020
+
+Page 14
+
+This appendix is available as an online form
+Only use this form if the online version is not available
+3F.2d
+
+*Provide a summary of the significant
+events that could lead to the underwriting
+being terminated
+
+For personal use only
+
+Answer this question if your response to Q3F.2 is
+“Yes”.
+You may cross-refer to a disclosure document, PDS,
+information memorandum, investor presentation or
+other announcement with this information provided it
+has been released on the ASX Market Announcements
+Platform.
+
+Appendix 3B
+Proposed issue of +securities
+The Underwriter may terminate the
+Underwriting Agreement on the occurrence
+of certain events which are typical for an
+underwriting agreement, including (but not
+limited to) where:
+(a) the ASX/S&P 200 Index is at a level
+which is 85% or less than the level at the
+close of ASX trading on the date of the
+Underwriting Agreement for a prescribed
+period;
+(b) the share price of the Company as shown
+on the ASX is at a level which is 60% or
+less than the issue price of the Shares for
+a prescribed period;
+(c) a change of law occurs which does or is
+likely to prohibit, restrict or adversely
+regulate the issue of Shares or materially
+reduces the level or likely level of valid
+applications under the Offer;
+(d) a significant or material contract referred
+to in the Offer documents is, without the
+prior consent of the Underwriter,
+breached, terminated, altered or voided;
+(e) the Company ceases to be admitted to
+the Official List or the Company's
+ordinary shares are suspended from
+Quotation;
+(f) an officer of the Company or a Related
+Body Corporate is charged with an
+indictable offence relating to a financial or
+corporate matter;
+(g) an insolvency event occurs with respect
+to the Company or Related Body
+Corporate; and
+(h) there is a disruption to the Australian
+financial market, the effect of which is
+such as to make it, in the judgment of the
+Underwriter, impractical to promote the
+Offer or to enforce contracts to issue and
+allot the New Shares.
+
+3F.2e
+
+*Is a party referred to in listing rule 10.11
+underwriting or sub-underwriting the
+proposed offer?
+
+Yes
+
+Answer this question if the issuer is an ASX Listing (i.e.
+not an ASX Debt Listing or ASX Foreign Exempt
+Listing) and your response to Q3F.2 is “Yes”.
+
++ See chapter 19 for defined terms
+31 January 2020
+
+Page 15
+
+This appendix is available as an online form
+Only use this form if the online version is not available
+3F.2e(i)
+
+*What is the name of that party?
+
+For personal use only
+
+Answer this question if the issuer is an ASX Listing and
+your response to Q3F.2e is “Yes”.
+
+Appendix 3B
+Proposed issue of +securities
+Adelaide Equity Partners Limited, being a
+related party of Non-Executive Director, Mr
+David Lindh
+
+Note: If you are seeking to rely on listing rule 10.12
+exception 2 to issue the securities to the underwriter or
+sub-underwriter without security holder approval under
+listing rule 10.11, you must include the details asked
+for in this and the next 2 questions. If there is more
+than one party referred to in listing rule 10.11 acting as
+underwriter or sub-underwriter include all of their
+details in this and the next 2 questions.
+
+3F.2e(ii)
+
+*What is the extent of their underwriting or
+sub-underwriting (i.e. the amount or
+proportion of the issue they have
+underwritten or sub-underwritten)?
+
+As per 3F.2b above
+
+Answer this question if the issuer is an ASX Listing and
+your response to Q3F.2e is “Yes”.
+
+3F.2e(iii)
+
+*What fee, commission or other
+consideration is payable to them for acting
+as underwriter or sub-underwriter?
+
+As per 3F.1b above
+
+Answer this question if the issuer is an ASX Listing and
+your response to Q3F.2e is “Yes”.
+Note: This includes any applicable discount the
+underwriter or sub-underwriter receives to the issue
+price payable by participants in the issue.
+
+3F.3
+
+*Will brokers who lodge acceptances or
+renunciations on behalf of eligible +security
+holders be paid a handling fee or
+commission?
+
+No
+
+3F.3a
+
+*Will the handling fee or commission be
+dollar based or percentage based?
+
+Dollar based ($) or percentage based (%)
+
+Answer this question if your response to Q3F.3 is
+“Yes”.
+
+3F.3b
+
+*Amount of handling fee or commission
+payable to brokers who lodge acceptances
+or renunciations on behalf of eligible
++security holders
+
+$
+
+Answer this question if your response to Q3F.3 is “Yes”
+and your response to Q3F.3a is “dollar based”.
+
+3F.3c
+
+*Percentage handling fee or commission
+payable to brokers who lodge acceptances
+or renunciations on behalf of eligible
++security holders
+
+%
+
+Answer this question if your response to Q3F.3 is “Yes”
+and your response to Q3F.3a is “percentage based”.
+
+3F.3d
+
+Please provide any other relevant
+information about the handling fee or
+commission method
+Answer this question if your response to Q3F.3 is
+“Yes”.
+
+3F.4
+
+Details of any other material fees or costs to
+be incurred by the entity in connection with
+the proposed offer
+
++ See chapter 19 for defined terms
+31 January 2020
+
+There are no other material fees or costs to
+be incurred in connection with the Offer
+
+Page 16
+
+This appendix is available as an online form
+Only use this form if the online version is not available
+
+Appendix 3B
+Proposed issue of +securities
+
+For personal use only
+
+Part 3G – Proposed entitlement offer – further information
+Question
+No.
+
+Question
+
+Answer
+
+3G.1
+
+*The purpose(s) for which the entity intends
+to use the cash raised by the proposed
+issue
+
+☒ For additional working capital
+
+You may select one or more of the items in the list.
+
+☐ To fund the retirement of debt
+☐ To pay for the acquisition of an asset
+[provide details below]
+☐ To pay for services rendered [provide
+details below]
+☐ Other [provide details below]
+Additional details:
+a) exploration expenditure in relation to Mt
+Venn Gold Project
+b) exploration expenditure in relation to
+Musgrave Nickel-Copper Project
+c) expenses of the Offer and Placement
+
+3G.2
+
+*Will holdings on different registers or
+subregisters be aggregated for the
+purposes of determining entitlements to the
+issue?
+
+No
+
+3G.2a
+
+*Please explain how holdings on different
+registers or subregisters will be aggregated
+for the purposes of determining
+entitlements.
+
+-
+
+Answer this question if your response to Q3G.2 is
+“Yes”.
+
+3G.3
+
+*Will the entity be changing its
+dividend/distribution policy if the proposed
+issue is successful?
+
+No
+
+3G.3a
+
+*Please explain how the entity will change
+its dividend/distribution policy if the
+proposed issue is successful
+
+-
+
+Answer this question if your response to Q3G.3 is
+“Yes”.
+
+3G.4
+
+*Countries in which the entity has +security
+holders who will not be eligible to participate
+in the proposed issue
+
+Any countries other than Australia and New
+Zealand
+
+For non-renounceable issues (including
+accelerated): The entity must send each holder to
+whom it will not offer the securities details of the issue
+and advice that the entity will not offer securities to
+them (listing rule 7.7.1(b)).
+For renounceable issues (including accelerated):
+The entity must send each holder to whom it will not
+offer the securities details of the issue and advice that
+the entity will not offer securities to them. It must also
+appoint a nominee to arrange for the sale of the
+entitlements that would have been given to those
+holders and to account to them for the net proceeds of
+the sale and advise each holder not given the
+entitlements that a nominee in Australia will arrange for
+sale of the entitlements and, if they are sold, for the net
+proceeds to be sent to the holder (listing rule 7.7.1(b)
+and (c)).
+
++ See chapter 19 for defined terms
+31 January 2020
+
+Page 17
+
+For personal use only
+
+This appendix is available as an online form
+Only use this form if the online version is not available
+
+Appendix 3B
+Proposed issue of +securities
+
+3G.5
+
+*Will the offer be made to eligible
+beneficiaries on whose behalf eligible
+nominees or custodians hold existing
++securities
+
+Yes
+
+3G.5a
+
+*Please provide further details of the offer to
+eligible beneficiaries
+
+The Company is not required to determine
+whether or not any registered holder is
+acting as a nominee or the identity of any
+residence of any beneficial owner of
+securities. If any nominee or custodian is
+acting on behalf of a foreign person, that
+holder, will need to assess whether indirect
+participation by the beneficiary in the Offer is
+compatible with applicable foreign laws.
+
+Answer this question if your response to Q3G.5 is
+“Yes”.
+If, for example, the entity intends to issue a notice to
+eligible nominees and custodians please indicate here
+where it may be found and/or when the entity expects
+to announce this information. You may enter a URL.
+
+3G.6
+
+*URL on the entity's website where
+investors can download information about
+the proposed issue
+
+www.woomeramining.com.au
+
+3G.7
+
+Any other information the entity wishes to
+provide about the proposed issue
+
+-
+
+3G.8
+
+*Will the offer of rights under the rights issue
+be made under a disclosure document or
+product disclosure statement under Chapter
+6D or Part 7.9 of the Corporations Act (as
+applicable)?
+
+Yes
+
++ See chapter 19 for defined terms
+31 January 2020
+
+Page 18
+
+This appendix is available as an online form
+Only use this form if the online version is not available
+
+Appendix 3B
+Proposed issue of +securities
+
+Part 4 – Details of proposed offer under +securities purchase plan
+If your response to Q1.6 is “An offer of securities under a securities purchase plan”, please complete Parts 4A – 4F and the
+details of the securities proposed to be issued in Part 8. Refer to section 12 of Appendix 7A of the Listing Rules for the timetable
+for securities purchase plans.
+
+For personal use only
+
+Part 4A – Proposed offer under +securities purchase plan – conditions
+Question
+No.
+
+Question
+
+Answer
+
+4A.1
+
+*Are any of the following approvals required
+for the offer of +securities under the
++securities purchase plan issue to be
+unconditional?
+• +Security holder approval
+• Court approval
+• Lodgement of court order with +ASIC
+• ACCC approval
+• FIRB approval
+• Another approval/condition external to
+the entity.
+Conditions
+
+Yes or No
+
+4A.1a
+
+Answer these questions if your response to 4A.1 is “Yes”.
+Select the applicable approval(s) from the list. More than one approval can be selected. The “date for
+determination” is the date that you expect to know if the approval is given (for example, the date of the security
+holder meeting in the case of +security holder approval or the date of the court hearing in the case of court
+approval).
+
+*Approval/ condition
+Type
+
+*Date for
+determination
+
+*Is the date
+estimated or
+actual?
+
+**Approval received/
+condition met?
+
+Comments
+
+Please respond “Yes” or
+“No”. Only answer this
+question when you know
+the outcome of the
+approval.
+
++Security holder
+approval
+Court approval
+Lodgement of court
+order with +ASIC
+ACCC approval
+FIRB approval
+Other (please specify
+in comment section)
+
+Part 4B – Proposed offer under +securities purchase plan – offer details
+Question
+No.
+
+Question
+
+4B.1
+
+*Class or classes of +securities that will
+participate in the proposed offer (please
+enter both the ASX security code &
+description)
+
+Answer
+
+If more than one class of security will participate in the
+securities purchase plan, make sure you clearly identify
+any different treatment between the classes.
+
+4B.2
+
+*Class of +securities to be offered to them
+under the +securities purchase plan (please
+enter both the ASX security code &
+description)
+
++ See chapter 19 for defined terms
+31 January 2020
+
+Page 19
+
+For personal use only
+
+This appendix is available as an online form
+Only use this form if the online version is not available
+4B.3
+
+*Maximum total number of those +securities
+that could be issued if all offers under the
++securities purchase plan are accepted
+
+4B.4
+
+*Will the offer be conditional on applications
+for a minimum number of +securities being
+received or a minimum amount being raised
+(i.e. a minimum subscription condition)?
+
+4B.4a
+
+*Describe the minimum subscription
+condition
+
+Appendix 3B
+Proposed issue of +securities
+
+Yes or No
+
+Answer this question if your response to Q4B.4 is
+“Yes”.
+
+4B.5
+
+*Will the offer be conditional on applications
+for a maximum number of +securities being
+received or a maximum amount being
+raised (i.e. a maximum subscription
+condition)?
+
+4B.5a
+
+*Describe the maximum subscription
+condition
+
+Yes or No
+
+Answer this question if your response to Q4B.5 is
+“Yes”.
+
+4B.6
+
+*Will individual +security holders be
+required to accept the offer for a minimum
+number or value of +securities (i.e. a
+minimum acceptance condition)?
+
+4B.6a
+
+*Describe the minimum acceptance
+condition
+
+Yes or No
+
+Answer this question if your response to Q4B.6 is
+“Yes”.
+
+4B.7
+
+*Will individual +security holders be limited
+to accepting the offer for a maximum
+number or value of +securities (i.e. a
+maximum acceptance condition)?
+
+4B.7a
+
+*Describe the maximum acceptance
+condition
+
+Yes or No
+
+Answer this question if your response to Q4B.7 is
+“Yes”.
+
+4B.8
+
+*Describe all the applicable parcels
+available for this offer in number of
+securities or dollar value
+For example, the offer may allow eligible holders to
+subscribe for one of the following parcels: $2,500,
+$7,500, $10,000, $15,000, $20,000, $30,000.
+
+4B.9
+
+*Will a scale back be applied if the offer is
+over-subscribed?
+
+4B.9a
+
+*Describe the scale back arrangements
+
+Yes or No
+
+Answer this question if your response to Q4B.9 is
+“Yes”.
+
+4B.10
+
+*In what currency will the offer be made?
+For example, if the consideration for the issue is
+payable in Australian Dollars, state AUD.
+
+4B.11
+
+*Has the offer price been determined?
+
++ See chapter 19 for defined terms
+31 January 2020
+
+Yes or No
+
+Page 20
+
+This appendix is available as an online form
+Only use this form if the online version is not available
+4B.11a
+
+Appendix 3B
+Proposed issue of +securities
+
+*What is the offer price per +security?
+Answer this question if your response to Q4B.11 is
+“Yes” using the currency specified in your answer to
+Q4B.9.
+
+For personal use only
+
+4B.11b
+
+*How and when will the offer price be
+determined?
+Answer this question if your response to Q4B.11 is
+“No”.
+
+Part 4C – Proposed offer under +securities purchase plan – timetable
+Question
+No.
+
+Question
+
+4C.1
+
+*Date of announcement of +security
+purchase plan
+
+Answer
+
+The announcement of the security purchase plan must
+be made prior to the commencement on trading on the
+announcement date.
+
+4C.2
+
+*+Record date
+This is the date to identify security holders who may
+participate in the security purchase plan. Per Appendix
+7A section 12 of the Listing Rules, this day is one
+business day before the entity announces the security
+purchase plan.
+Note: the fact that an entity's securities may be in a
+trading halt or otherwise suspended from trading on
+this day does not affect this date being the date for
+identifying which security holders may participate in the
+security purchase plan.
+
+4C.3
+
+*Date on which offer documents will be
+made available to investors
+
+4C.4
+
+*Offer open date
+
+4C.5
+
+*Offer closing date
+
+4C.6
+
+*Announcement of results
+Per Appendix 7A section 12 of the Listing Rules, the
+entity should announce the results of the security
+purchase plan no more than 3 business days after the
+offer closing date
+
+4C.7
+
+*+Issue date
+Per Appendix 7A section 12 of the Listing Rules, the
+last day for the entity to issue the securities purchased
+under the plan is no more than 7 business days after
+the closing date. The entity should lodge an Appendix
+2A with ASX applying for quotation of the securities
+before 12pm Sydney time on this day
+
++ See chapter 19 for defined terms
+31 January 2020
+
+Page 21
+
+This appendix is available as an online form
+Only use this form if the online version is not available
+
+Appendix 3B
+Proposed issue of +securities
+
+For personal use only
+
+Part 4D – Proposed offer under +securities purchase plan – listing rule requirements
+Question
+No.
+
+Question
+
+Answer
+
+4D.1
+
+*Does the offer under the +securities
+purchase plan meet the requirements of
+listing rule 7.2 exception 5 that:
+• the number of +securities to be issued is
+not greater than 30% of the number of
+fully paid +ordinary securities already on
+issue; and
+
+Yes or No
+
+• the issue price of the +securities is at
+least 80% of the +volume weighted
+average market price for +securities in
+that +class, calculated over the last 5
+days on which sales in the +securities
+were recorded, either before the day on
+which the issue was announced or before
+the day on which the issue was made?
+Answer this question if the issuer is an ASX Listing (i.e.
+not an ASX Debt Listing or ASX Foreign Exempt
+Listing).
+
+4D.1a
+
+*Are any of the +securities proposed to be
+issued without +security holder approval
+using the entity's 15% placement capacity
+under listing rule 7.1?
+
+Yes or No
+
+Answer this question if the issuer is an ASX Listing and
+your response to Q4D.1 is “No”.
+
+4D.1a(i)
+
+*How many +securities are proposed to be
+issued without +security holder approval
+using the entity’s 15% placement capacity
+under listing rule 7.1?
+Answer this question if the issuer is an ASX Listing,
+your response to Q4D.1 is “No” and your response to
+Q4D.1a is “Yes”.
+Please complete and separately send by email to your
+ASX listings adviser a work sheet in the form of
+Annexure B to Guidance Note 21 confirming the entity
+has the available capacity under listing rule 7.1 to issue
+that number of securities.
+
+4D.1b
+
+*Are any of the +securities proposed to be
+issued without +security holder approval
+using the entity's additional 10% placement
+capacity under listing rule 7.1A (if
+applicable)?
+
+Yes or No
+
+Answer this question if the issuer is an ASX Listing and
+your response to Q4D.1 is “No”.
+
+4D.1b(i)
+
+*How many +securities are proposed to be
+issued without +security holder approval
+using the entity's additional 10% placement
+capacity under listing rule 7.1A?
+Answer this question if the issuer is an ASX Listing,
+your response to Q4D.1 is “No” and your response to
+Q4D.1b is “Yes”.
+Please complete and separately send by email to your
+ASX listings adviser a work sheet in the form of
+Annexure C to Guidance Note 21 confirming the entity
+has the available capacity under listing rule 7.1A to
+issue that number of securities.
+
++ See chapter 19 for defined terms
+31 January 2020
+
+Page 22
+
+This appendix is available as an online form
+Only use this form if the online version is not available
+
+Appendix 3B
+Proposed issue of +securities
+
+For personal use only
+
+Part 4E – Proposed offer under +securities purchase plan – fees and expenses
+Question
+No.
+
+Question
+
+Answer
+
+4E.1
+
+*Will there be a lead manager or broker to
+the proposed offer?
+
+Yes or No
+
+4E.1a
+
+*Who is the lead manager/broker?
+Answer this question if your response to Q4E.1 is
+“Yes”.
+
+4E.1b
+
+*What fee, commission or other
+consideration is payable to them for acting
+as lead manager/broker?
+Answer this question if your response to Q4E.1 is
+“Yes”.
+
+4E.2
+
+*Is the proposed offer to be underwritten?
+
+4E.2a
+
+*Who are the underwriter(s)?
+
+Yes or No
+
+Answer this question if your response to Q4E.2 is
+“Yes”.
+Note for issuers that are an ASX Listing (i.e. not an
+ASX Debt Listing or ASX Foreign Exempt Listing):
+listing rule 7.2 exception 5 does not extend to an issue
+of securities to or at the direction of an underwriter of
+an SPP. The issue will require security holder approval
+under listing rule 7.1 if you do not have the available
+placement capacity under listing rules 7.1 and/or 7.1A
+to cover the issue. Likewise, listing rule 10.12
+exception 4 does not extend to an issue of securities to
+or at the direction of an underwriter of an SPP. If a
+party referred to in listing rule 10.11 is underwriting the
+proposed offer, this will require security holder approval
+under listing rule 10.11.
+
+4E.2b
+
+*What is the extent of the underwriting (i.e.
+the amount or proportion of the offer that is
+underwritten)?
+Answer this question if your response to Q4E.2 is
+“Yes”.
+
+4E.2c
+
+*What fees, commissions or other
+consideration are payable to them for acting
+as underwriter(s)?
+Answer this question if your response to Q4E.2 is
+“Yes”.
+This information includes any applicable discount the
+underwriter receives to the issue price payable by
+participants in the issue.
+
+4E.2d
+
+*Provide a summary of the significant
+events that could lead to the underwriting
+being terminated
+Answer this question if your response to Q4E.2 is
+“Yes”.
+You may cross-refer to a disclosure document, PDS,
+information memorandum, investor presentation or
+other announcement with this information provided it
+has been released on the ASX Market Announcements
+Platform.
+
++ See chapter 19 for defined terms
+31 January 2020
+
+Page 23
+
+This appendix is available as an online form
+Only use this form if the online version is not available
+4E.2e
+
+*Is a party referred to in listing rule 10.11
+underwriting or sub-underwriting the
+proposed offer?
+
+Appendix 3B
+Proposed issue of +securities
+Yes or No
+
+For personal use only
+
+Answer this question if the issuer is an ASX Listing (i.e.
+not an ASX Debt Listing or ASX Foreign Exempt
+Listing) and your response to Q4E.2 is “Yes”.
+Note: If your response is “Yes”, this will require security
+holder approval under listing rule 10.11. Listing rule
+10.12 exception 4 does not extend to an issue of
+securities to an underwriter or sub-underwriter of an
+SPP.
+
+4E.2e(i)
+
+*What is the name of that party?
+Answer this question if the issuer is an ASX Listing and
+your response to Q4E.2e is “Yes”.
+Note: If there is more than one such party acting as
+underwriter or sub-underwriter include all of their
+details in this and the next 2 questions.
+
+4E.2e(ii)
+
+*What is the extent of their underwriting or
+sub-underwriting (i.e. the amount or
+proportion of the issue they have
+underwritten or sub-underwritten)?
+Answer this question if the issuer is an ASX Listing and
+your response to Q4E.2e is “Yes”.
+
+4E.2e(iii)
+
+*What fee, commission or other
+consideration is payable to them for acting
+as underwriter or sub-underwriter?
+Answer this question if the issuer is an ASX Listing and
+your response to Q4E.2e is “Yes”.
+Note: This includes any applicable discount the
+underwriter or sub-underwriter receives to the issue
+price payable by participants in the issue.
+
+4E.3
+
+*Will brokers who lodge acceptances or
+renunciations on behalf of eligible +security
+holders be paid a handling fee or
+commission?
+
+Yes or No
+
+4E.3a
+
+*Will the handling fee or commission be
+dollar based or percentage based?
+
+Dollar based ($) or percentage based (%)
+
+Answer this question if your response to Q4E.3 is
+“Yes”.
+
+4E.3b
+
+*Amount of handling fee or commission
+payable to brokers who lodge acceptances
+or renunciations on behalf of eligible
++security holders
+
+$
+
+Answer this question if your response to Q4E.3 is “Yes”
+and your response to Q4E.3a is “dollar based”.
+
+4E.3c
+
+*Percentage handling fee or commission
+payable to brokers who lodge acceptances
+or renunciations on behalf of eligible
++security holders
+
+%
+
+Answer this question if your response to Q4E.3 is “Yes”
+and your response to Q4E.3a is “percentage based”.
+
+4E.3d
+
+Please provide any other relevant
+information about the handling fee or
+commission method
+Answer this question if your response to Q4E.3 is
+“Yes”.
+
+4E.4
+
+Details of any other material fees or costs to
+be incurred by the entity in connection with
+the proposed offer
+
++ See chapter 19 for defined terms
+31 January 2020
+
+Page 24
+
+This appendix is available as an online form
+Only use this form if the online version is not available
+
+Appendix 3B
+Proposed issue of +securities
+
+For personal use only
+
+Part 4F – Proposed offer under +securities purchase plan – further information
+Question
+No.
+
+Question
+
+Answer
+
+4F.1
+
+*The purpose(s) for which the entity intends
+to use the cash raised by the proposed
+issue
+
+☐ For additional working capital
+
+You may select one or more of the items in the list.
+
+☐ To fund the retirement of debt
+☐ To pay for the acquisition of an asset
+[provide details below]
+☐ To pay for services rendered [provide
+details below]
+☐ Other [provide details below]
+Additional details:
+
+4F.2
+
+*Will the entity be changing its
+dividend/distribution policy if the proposed
+issue is successful?
+
+4F.2a
+
+*Please explain how the entity will change
+its dividend/distribution policy if the
+proposed issue is successful
+
+Yes or No
+
+Answer this question if your response to Q4F.2 is
+“Yes”.
+
+4F.3
+
+*Countries in which the entity has +security
+holders who will not be eligible to participate
+in the proposed offer
+
+4F.4
+
+*URL on the entity's website where
+investors can download information about
+the proposed offer
+
+4F.5
+
+Any other information the entity wishes to
+provide about the proposed offer
+
++ See chapter 19 for defined terms
+31 January 2020
+
+Page 25
+
+This appendix is available as an online form
+Only use this form if the online version is not available
+
+Appendix 3B
+Proposed issue of +securities
+
+Part 5 – Details of proposed non-pro rata offer under a +disclosure
+document or +PDS
+
+For personal use only
+
+If your response to Q1.6 is “A non-pro rata offer of securities under a disclosure document or PDS”, please complete Parts 5A –
+5F and the details of the securities proposed to be issued in Part 8. Refer to Listing Rule 7.10 for the rules that apply to non-pro
+rata issues to existing security holders.
+
+Part 5A - Proposed non-pro rata offer under a +disclosure document or +PDS –
+conditions
+Question
+No.
+
+Question
+
+Answer
+
+5A.1
+
+*Are any of the below approvals required for
+the non-pro rata offer of +securities under a
++disclosure document or + PDS?
+• +Security holder approval
+• Court approval
+• Lodgement of court order with +ASIC
+• ACCC approval
+• FIRB approval
+• Another approval/condition external to
+the entity.
+
+Yes or No
+
+5A.1a
+
+Conditions
+Answer these questions if your response to 5A.1 is “Yes”.
+Select the applicable approval(s) from the list. More than one approval can be selected. The “date for
+determination” is the date that you expect to know if the approval is given (for example, the date of the security
+holder meeting in the case of +security holder approval or the date of the court hearing in the case of court
+approval).
+
+*Approval/ condition
+Type
+
+*Date for
+determination
+
+*Is the date
+estimated or
+actual?
+
+**Approval received/
+condition met?
+
+Comments
+
+Please respond “Yes” or
+“No”. Only answer this
+question when you know
+the outcome of the
+approval.
+
++Security holder
+approval
+Court approval
+Lodgement of court
+order with +ASIC
+ACCC approval
+FIRB approval
+Other (please specify
+in comment section)
+
++ See chapter 19 for defined terms
+31 January 2020
+
+Page 26
+
+This appendix is available as an online form
+Only use this form if the online version is not available
+
+Appendix 3B
+Proposed issue of +securities
+
+For personal use only
+
+Part 5B – Proposed non-pro rata offer under a +disclosure document or +PDS –
+offer details
+Question
+No.
+
+Question
+
+5B.1
+
+*Class of +securities to be offered under the
++disclosure document or +PDS (please
+enter both the ASX security code &
+description)
+
+5B.2
+
+*The number of +securities to be offered
+under the +disclosure document or +PDS
+
+5B.3
+
+*Will the offer be conditional on applications
+for a minimum number of +securities being
+received or a minimum amount being raised
+(i.e. a minimum subscription condition)?
+
+5B.3a
+
+*Describe the minimum subscription
+condition
+
+Answer
+
+Yes or No
+
+Answer this question if your response to Q5B.3 is
+“Yes”.
+
+5B.4
+
+*Will the entity be entitled to accept oversubscriptions?
+
+5B.4a
+
+*Provide details of the number or value of
+over-subscriptions that the entity may
+accept
+
+Yes or No
+
+Answer this question if your response to Q5B.4 is
+“Yes”.
+
+5B.5
+
+*Will individual investors be required to
+accept the offer for a minimum number or
+value of +securities (i.e. a minimum
+acceptance condition)?
+
+5B.5a
+
+*Describe the minimum acceptance
+condition
+
+Yes or No
+
+Answer this question if your response to Q5B.5 is
+“Yes”.
+
+5B.6
+
+*Will individual investors be limited to
+accepting the offer for a maximum number
+or value of +securities (i.e. a maximum
+acceptance condition)?
+
+5B.6a
+
+*Describe the maximum acceptance
+condition
+
+Yes or No
+
+Answer this question if your response to Q5B.6 is
+“Yes”.
+
+5B.7
+
+*Will a scale back be applied if the offer is
+over-subscribed?
+
+5B.7a
+
+*Describe the scale back arrangements
+
+Yes or No
+
+Answer this question if your response to Q5B.7 is
+“Yes”.
+
+5B.8
+
+*In what currency will the offer be made?
+For example, if the consideration for the issue is
+payable in Australian Dollars, state AUD.
+
+5B.9
+
+*Has the offer price been determined?
+
++ See chapter 19 for defined terms
+31 January 2020
+
+Yes or No
+
+Page 27
+
+This appendix is available as an online form
+Only use this form if the online version is not available
+5B.9a
+
+Appendix 3B
+Proposed issue of +securities
+
+*What is the offer price per +security?
+Answer this question if your response to Q5B.9 is “Yes”
+using the currency specified in your answer to Q5B.8.
+
+For personal use only
+
+5B.9b
+
+*How and when will the offer price be
+determined?
+Answer this question if your response to Q5B.9 is “No”.
+
+5B.9c
+
+*Will the offer price be determined by way of
+a bookbuild?
+
+Yes or No
+
+Answer this question if your response to Q5B.9 is “No”.
+If your response to this question is “yes”, please note
+the information that ASX expects to be announced
+about the results of the bookbuild set out in
+section 4.12 of Guidance Note 30 Notifying an Issue of
+Securities and Applying for their Quotation.
+
+5B.9d
+
+*Provide details of the parameters that will
+apply to the bookbuild (e.g. the indicative
+price range for the bookbuild)
+Answer this question if your response to Q5B.9 is “No”
+and your response to Q5B.9c is “Yes”.
+
+Part 5C – Proposed non-pro rata offer under a +disclosure document or +PDS –
+timetable
+Question
+No.
+
+Question
+
+5C.1
+
+*Lodgement date of +disclosure document
+or +PDS with ASIC
+
+Answer
+
+Note: If the securities are to be quoted on ASX, you
+must lodge an Appendix 2A Application for Quotation
+of Securities with ASX within 7 days of this date.
+
+5C.2
+
+*Date when +disclosure document or +PDS
+and acceptance forms will be made
+available to investors
+
+5C.3
+
+*Offer open date
+
+5C.4
+
+*Closing date for receipt of acceptances
+
+5C.6
+
+*Proposed +issue date
+
+Part 5D – Proposed non-pro rata offer under a +disclosure document or +PDS –
+listing rule requirements
+Question
+No.
+
+Question
+
+Answer
+
+5D.1
+
+*Has the entity obtained, or is it obtaining,
++security holder approval for the issue
+under listing rule 7.1?
+
+Yes or No
+
+Answer this question if the issuer is an ASX Listing (i.e.
+not an ASX Debt Listing or ASX Foreign Exempt
+Listing).
+
+5D.1a
+
+*Date of meeting or proposed meeting to
+approve the issue under listing rule 7.1
+Answer this question if the issuer is an ASX Listing and
+your response to Q5D.1 is “Yes”.
+
++ See chapter 19 for defined terms
+31 January 2020
+
+Page 28
+
+This appendix is available as an online form
+Only use this form if the online version is not available
+5D.1b
+
+*Are any of the +securities proposed to be
+issued without +security holder approval
+using the entity’s 15% placement capacity
+under listing rule 7.1?
+
+Appendix 3B
+Proposed issue of +securities
+Yes or No
+
+For personal use only
+
+Answer this question if the issuer is an ASX Listing and
+your response to Q5D.1 is “No”.
+
+5D.1b(i)
+
+*How many +securities are proposed to be
+issued without +security holder approval
+using the entity's 15% placement capacity
+under listing rule 7.1?
+Answer this question if the issuer is an ASX Listing,
+your response to Q5D.1 is “No” and your response to
+Q5D.1b is “Yes”.
+Please complete and separately send by email to your
+ASX listings adviser a work sheet in the form of
+Annexure B to Guidance Note 21 confirming the entity
+has the available capacity under listing rule 7.1 to issue
+that number of securities.
+
+5D.1c
+
+*Are any of the +securities proposed to be
+issued without +security holder approval
+using the entity's additional 10% placement
+capacity under listing rule 7.1A (if
+applicable)?
+
+Yes or No
+
+Answer this question if the issuer is an ASX Listing and
+your response to Q5D.1 is “No”.
+
+5D.1c(i)
+
+*How many +securities are proposed to be
+issued without +security holder approval
+using the entity’s additional 10% placement
+capacity under listing rule 7.1A?
+Answer this question if the issuer is an ASX Listing,
+your response to Q5D.1 is “No” and your response to
+Q5D.1c is “Yes”.
+Please complete and separately send by email to your
+ASX listings adviser a work sheet in the form of
+Annexure C to Guidance Note 21 confirming the entity
+has the available capacity under listing rule 7.1A to
+issue that number of securities.
+
+Part 5E – Proposed non-pro rata offer under a disclosure document or PDS – fees
+and expenses
+Question
+No.
+
+Question
+
+Answer
+
+5E.1
+
+*Will there be a lead manager or broker to
+the proposed offer?
+
+Yes or No
+
+5E.1a
+
+*Who is the lead manager/broker?
+Answer this question if your response to Q5E.1 is
+“Yes”.
+
+5E.1b
+
+*What fee, commission or other
+consideration is payable to them for acting
+as lead manager/broker?
+Answer this question if your response to Q5E.1 is
+“Yes”.
+
+5E.2
+
+*Is the proposed offer to be underwritten?
+
+5E.2a
+
+*Who are the underwriter(s)?
+
+Yes or No
+
+Answer this question if your response to Q5E.2 is
+“Yes”.
+
++ See chapter 19 for defined terms
+31 January 2020
+
+Page 29
+
+This appendix is available as an online form
+Only use this form if the online version is not available
+5E.2b
+
+Appendix 3B
+Proposed issue of +securities
+
+*What is the extent of the underwriting (i.e.
+the amount or proportion of the offer that is
+underwritten)?
+
+For personal use only
+
+Answer this question if your response to Q5E.2 is
+“Yes”.
+
+5E.2c
+
+*What fees, commissions or other
+consideration are payable to them for acting
+as underwriter(s)?
+Answer this question if your response to Q5E.2 is
+“Yes”.
+Note: This includes any applicable discount the
+underwriter receives to the issue price payable by
+participants in the offer.
+
+5E.2d
+
+*Provide a summary of the significant
+events that could lead to the underwriting
+being terminated
+Answer this question if your response to Q5E.2 is
+“Yes”.
+You may cross-refer to another document with this
+information provided it has been released on the ASX
+Market Announcements Platform.
+
+5E.2e
+
+*Is a party referred to in listing rule 10.11
+underwriting or sub-underwriting the
+proposed offer?
+
+Yes or No
+
+Answer this question if the issuer is an ASX Listing (i.e.
+not an ASX Debt Listing or ASX Foreign Exempt
+Listing) and your response to Q5E.2 is “Yes”.
+Note: If your response is “Yes”, this will require security
+holder approval under listing rule 10.11.
+
+5E.2e(i)
+
+*What is the name of that party?
+Answer this question if the issuer is an ASX Listing and
+your response to Q5E.2e is “Yes”.
+Note: If there is more than one such party acting as
+underwriter or sub-underwriter include all of their
+details in this and the next 2 questions.
+
+5E.2e(ii)
+
+*What is the extent of their underwriting or
+sub-underwriting (ie the amount or
+proportion of the issue they have
+underwritten or sub-underwritten)?
+Answer this question if the issuer is an ASX Listing and
+your response to Q5E.2e is “Yes”.
+
+5E.2e(iii)
+
+*What fee, commission or other
+consideration is payable to them for acting
+as underwriter or sub-underwriter?
+Answer this question if the issuer is an ASX Listing and
+your response to Q5E.2e is “Yes”.
+Note: This includes any applicable discount the
+underwriter or sub-underwriter receives to the issue
+price payable by participants in the issue.
+
+5E.3
+
+*Will brokers who lodge acceptances or
+renunciations on behalf of eligible +security
+holders be paid a handling fee or
+commission?
+
+Yes or No
+
+5E.3a
+
+* Will the handling fee or commission be
+dollar based or percentage based?
+
+Dollar based ($) or percentage based (%)
+
+Answer this question if your response to Q5E.3 is
+“Yes”.
+
++ See chapter 19 for defined terms
+31 January 2020
+
+Page 30
+
+This appendix is available as an online form
+Only use this form if the online version is not available
+5E.3b
+
+*Amount of handling fee or commission
+payable to brokers who lodge acceptances
+or renunciations on behalf of eligible
++security holders
+
+Appendix 3B
+Proposed issue of +securities
+$
+
+For personal use only
+
+Answer this question if your response to Q5E.3 is “Yes”
+and your response to Q5E.3a is “dollar based”.
+
+5E.3c
+
+*Percentage handling fee or commission
+payable to brokers who lodge acceptances
+or renunciations on behalf of eligible
++security holders
+
+%
+
+Answer this question if your response to Q5E.3 is “Yes”
+and your response to Q5E.3a is “percentage based”.
+
+5E.3d
+
+Please provide any other relevant
+information about the handling fee or
+commission method
+Answer this question if your response to Q5E.3 is
+“Yes”.
+
+5E.4
+
+Details of any other material fees or costs to
+be incurred by the entity in connection with
+the proposed offer
+
+Part 5F – Proposed non-pro rata offer under a +disclosure document or +PDS –
+further information
+Question
+No.
+
+Question
+
+Answer
+
+5F.1
+
+*The purpose(s) for which the entity intends
+to use the cash raised by the proposed offer
+
+☐ For additional working capital
+
+You may select one or more of the items in the list.
+
+☐ To fund the retirement of debt
+☐ To pay for the acquisition of an asset
+[provide details below]
+☐ To pay for services rendered [provide
+details below]
+☐ Other [provide details below]
+Additional details:
+
+5F.2
+
+*Will the entity be changing its
+dividend/distribution policy if the proposed
+issue is successful?
+
+5F.2a
+
+*Please explain how the entity will change
+its dividend/distribution policy if the
+proposed issue is successful
+
+Yes or No
+
+Answer this question if your response to Q5F.2 is
+“Yes”.
+
+5F.3
+
+*Please explain the entity’s allocation policy
+for the offer, including whether or not
+acceptances from existing +security holders
+will be given priority
+
+5F.4
+
+*URL on the entity’s website where
+investors can download the +disclosure
+document or +PDS
+
+5F.5
+
+Any other information the entity wishes to
+provide about the proposed offer
+
++ See chapter 19 for defined terms
+31 January 2020
+
+Page 31
+
+This appendix is available as an online form
+Only use this form if the online version is not available
+
+Appendix 3B
+Proposed issue of +securities
+
+Part 6 – Details of proposed non-pro rata offer to wholesale investors
+under an +information memorandum
+
+For personal use only
+
+If your response to Q1.6 is “A non-+pro rata offer to wholesale investors under an information memorandum”, please complete
+Parts 6A – 6F and the details of the securities proposed to be issued in Part 8. Refer to Listing Rule 7.10 for the rules that apply
+to non-pro rata issues to existing security holders.
+
+Part 6A – Proposed non-pro rata offer to wholesale investors under an +information
+memorandum – conditions
+Question
+No.
+
+Question
+
+Answer
+
+6A.1
+
+*Are any of the below approvals required for
+the non-pro rata offer to wholesale investors
+under an information memorandum issue?
+• +Security holder approval
+• Court approval
+• Lodgement of court order with +ASIC
+• ACCC approval
+• FIRB approval
+• Another approval/condition external to
+the entity required to be given/met for
+the offer to wholesale investors under
+an information memorandum issue.
+
+Yes or No
+
+6A.1a
+
+Conditions
+Answer these questions if your response to 6A.1 is Yes
+Select the applicable approvals from the list. More than one approval can be selected. The “date for
+determination” is the date that you expect to know if the approval is given (for example, the date of the security
+holder meeting in the case of +security holder approval or the date of the court hearing in the case of court
+approval).
+
+*Approval/ condition
+Type
+
+*Date for
+determination
+
+*Is the date
+estimated or
+actual?
+
+**Approval received/
+condition met?
+
+Comments
+
+Please respond “Yes” or
+“No”. Only answer this
+question when you know
+the outcome of the
+approval.
+
++Security holder
+approval
+Court approval
+Lodgement of court
+order with +ASIC
+ACCC approval
+FIRB approval
+Other (please specify
+in comment section)
+
+Part 6B – Proposed non-pro rata offer to wholesale investors under an +information
+memorandum – offer details
+Question
+No.
+
+Question
+
+6B.1
+
+*Class of +securities to be offered under the
++information memorandum (please enter
+both the ASX security code & description)
+
++ See chapter 19 for defined terms
+31 January 2020
+
+Answer
+
+Page 32
+
+For personal use only
+
+This appendix is available as an online form
+Only use this form if the online version is not available
+6B.2
+
+*The number of +securities to be offered
+under the +information memorandum
+
+6B.3
+
+*Will the offer be conditional on applications
+for a minimum number of +securities being
+received or a minimum amount being raised
+(i.e. a minimum subscription condition)?
+
+6B.3a
+
+*Describe the minimum subscription
+condition
+
+Appendix 3B
+Proposed issue of +securities
+
+Yes or No
+
+Answer this question if your response to Q6B.3 is
+“Yes”.
+
+6B.4
+
+*Will the entity be entitled to accept oversubscriptions?
+
+6B.4a
+
+*Provide details of the number or value of
+over-subscriptions that the entity may
+accept
+
+Yes or No
+
+Answer this question if your response to Q6B.4 is
+“Yes”.
+
+6B.5
+
+*Will individual investors be required to
+accept the offer for a minimum number or
+value of +securities (i.e. a minimum
+acceptance condition)?
+
+6B.5a
+
+*Describe the minimum acceptance
+condition
+
+Yes or No
+
+Answer this question if your response to Q6B.5 is
+“Yes”.
+
+6B.6
+
+*Will individual investors be limited to
+accepting the offer for a maximum number
+or value of +securities (i.e. a maximum
+acceptance condition)?
+
+6B.6a
+
+*Describe the maximum acceptance
+condition
+
+Yes or No
+
+Answer this question if your response to Q6B.6 is
+“Yes”.
+
+6B.7
+
+*Will a scale back be applied if the offer is
+over-subscribed?
+
+6B.7a
+
+*Describe the scale back arrangements
+
+Yes or No
+
+Answer this question if your response to Q6B.7 is
+“Yes”.
+
+6B.8
+
+*In what currency will the offer be made?
+For example, if the consideration for the issue is
+payable in Australian Dollars, state AUD.
+
+6B.9
+
+*Has the offer price been determined?
+
+6B.9a
+
+*What is the offer price per +security?
+
+Yes or No
+
+Answer this question if your response to Q6B.9 is “Yes”
+using the currency specified in your answer to Q6B.8.
+
+6B.9b
+
+*How and when will the offer price be
+determined?
+Answer this question if your response to Q6B.9 is “No”.
+
++ See chapter 19 for defined terms
+31 January 2020
+
+Page 33
+
+This appendix is available as an online form
+Only use this form if the online version is not available
+6B.9c
+
+*Will the offer price be determined by way of
+a bookbuild?
+
+Appendix 3B
+Proposed issue of +securities
+Yes or No
+
+For personal use only
+
+Answer this question if your response to Q6B.9 is “No”.
+If your response to this question is “yes”, please note
+the information that ASX expects to be announced
+about the results of the bookbuild set out in
+section 4.12 of Guidance Note 30 Notifying an Issue of
+Securities and Applying for their Quotation.
+
+6B.9d
+
+*Provide details of the parameters that will
+apply to the bookbuild (e.g. the indicative
+price range for the bookbuild)
+Answer this question if your response to Q6B.9 is “No”
+and your response to Q6B.9c is “Yes”.
+
+Part 6C – Proposed non-pro rata offer to wholesale investors under an +information
+memorandum – timetable
+Question
+No.
+
+Question
+
+6C.1
+
+*Expected date of +information
+memorandum
+
+6C.2
+
+*Date when +information memorandum and
+acceptance forms will be made available to
+investors
+
+6C.3
+
+*Offer open date
+
+6C.4
+
+*Closing date for receipt of acceptances
+
+6C.6
+
+*Proposed +Issue date
+
+Answer
+
+Part 6D – Proposed non-pro rata offer to wholesale investors under an +information
+memorandum – listing rule requirements
+Question
+No.
+
+Question
+
+Answer
+
+6D.1
+
+*Has the entity obtained, or is it obtaining,
++security holder approval for the issue
+under listing rule 7.1?
+
+Yes or No
+
+Answer this question if the issuer is an ASX Listing (i.e.
+not an ASX Debt Listing or ASX Foreign Exempt
+Listing).
+
+6D.1a
+
+*Date of meeting or proposed meeting to
+approve the issue under listing rule 7.1
+Answer this question if the issuer is an ASX Listing and
+your response to Q6D.1 is “Yes”.
+
+6D.1b
+
+*Are any of the +securities proposed to be
+issued without +security holder approval
+using the entity's 15% placement capacity
+under listing rule 7.1?
+
+Yes or No
+
+Answer this question if the issuer is an ASX Listing and
+your response to Q6D.1 is “No”.
+
++ See chapter 19 for defined terms
+31 January 2020
+
+Page 34
+
+This appendix is available as an online form
+Only use this form if the online version is not available
+
+For personal use only
+
+6D.1b(i)
+
+Appendix 3B
+Proposed issue of +securities
+
+*How many +securities are proposed to be
+issued without +security holder approval
+using the entity's 15% placement capacity
+under listing rule 7.1?
+Answer this question if the issuer is an ASX Listing,
+your response to Q6D.1 is “No” and your response to
+Q6D.1b is “Yes”.
+Please complete and separately send by email to your
+ASX listings adviser a work sheet in the form of
+Annexure B to Guidance Note 21 confirming the entity
+has the available capacity under listing rule 7.1 to issue
+that number of securities.
+
+6D.1c
+
+*Are any of the +securities proposed to be
+issued without +security holder approval
+using the entity's additional 10% placement
+capacity under listing rule 7.1A (if
+applicable)?
+
+Yes or No
+
+Answer this question if the issuer is an ASX Listing
+your response to Q6D.1 is “No”.
+
+6D.1c(i)
+
+*How many +securities are proposed to be
+issued without +security holder approval
+using the entity's additional 10% placement
+capacity under listing rule 7.1A?
+Answer this question if the issuer is an ASX Listing,
+your response to Q6D.1 is “No” and your response to
+Q6D.1c is “Yes”.
+Please complete and separately send by email to your
+ASX listings adviser a work sheet in the form of
+Annexure C to Guidance Note 21 confirming the entity
+has the available capacity under listing rule 7.1A to
+issue that number of securities.
+
+Part 6E – Proposed non-pro rata offer to wholesale investors under an +information
+memorandum – fees and expenses
+Question
+No.
+
+Question
+
+Answer
+
+6E.1
+
+*Will there be a lead manager or broker to
+the proposed offer?
+
+Yes or No
+
+6E.1a
+
+*Who is the lead manager/broker?
+Answer this question if your response to Q6E.1 is
+“Yes”.
+
+6E.1b
+
+*What fee, commission or other
+consideration is payable to them for acting
+as lead manager/broker?
+Answer this question if your response to Q6E.1 is
+“Yes”.
+
+6E.2
+
+*Is the proposed offer to be underwritten?
+
+6E.2a
+
+*Who are the underwriter(s)?
+
+Yes or No
+
+Answer this question if your response to Q6E.2 is
+“Yes”.
+
+6E.2b
+
+*What is the extent of the underwriting (i.e.
+the amount or proportion of the offer that is
+underwritten)?
+Answer this question if your response to Q6E.2 is Yes
+
++ See chapter 19 for defined terms
+31 January 2020
+
+Page 35
+
+This appendix is available as an online form
+Only use this form if the online version is not available
+6E.2c
+
+Appendix 3B
+Proposed issue of +securities
+
+*What fees, commissions or other
+consideration are payable to them for acting
+as underwriter(s)?
+
+For personal use only
+
+Answer this question if your response to Q6E.2 is
+“Yes”.
+Note: This includes any applicable discount the
+underwriter receives to the issue price payable by
+participants in the issue.
+
+6E.2d
+
+*Provide a summary of the significant
+events that could lead to the underwriting
+being terminated
+Answer this question if your response to Q6E.2 is
+"Yes”.
+You may cross-refer to another document with this
+information provided it has been released on the ASX
+Market Announcements Platform.
+
+6E.2e
+
+*Is a party referred to in listing rule 10.11
+underwriting or sub-underwriting the
+proposed offer?
+
+Yes or No
+
+Answer this question if the issuer is an ASX Listing and
+your response to Q6E.2 is “Yes”.
+Note: If your response is “Yes”, this will require security
+holder approval under listing rule 10.11.
+
+6E.2e(i)
+
+*What is the name of that party?
+Answer this question if the issuer is ASX Listing and
+your response to Q6E.2e is “Yes”.
+Note: If there is more than one such party acting as
+underwriter or sub-underwriter include all of their
+details in this and the next 2 questions
+
+6E.2e(ii)
+
+*What is the extent of their underwriting or
+sub-underwriting (ie the amount or
+proportion of the issue they have
+underwritten or sub-underwritten)?
+Answer this question if the issuer is an ASX Listing and
+your response to Q6E.2e is “Yes”.
+
+6E.2e(iii)
+
+*What fee, commission or other
+consideration is payable to them for acting
+as underwriter or sub-underwriter?
+Answer this question if the issuer is ASX Listing and
+your response to Q6E.2e is “Yes”.
+Note: This includes any applicable discount the
+underwriter or sub-underwriter receives to the issue
+price payable by participants in the issue.
+
+6E.3
+
+*Will brokers who lodge acceptances or
+renunciations on behalf of eligible +security
+holders be paid a handling fee or
+commission?
+
+Yes or No
+
+6E.3a
+
+* Will the handling fee or commission be
+dollar based or percentage based?
+
+Dollar based ($) or percentage based (%)
+
+Answer this question if your response to Q6E.3 is
+“Yes”.
+
+6E.3b
+
+*Amount of handling fee or commission
+payable to brokers who lodge acceptances
+or renunciations on behalf of eligible
++security holders
+
+$
+
+Answer this question if your response to Q6E.3 is “Yes”
+and your response to Q6E.3a is “dollar based”.
+
++ See chapter 19 for defined terms
+31 January 2020
+
+Page 36
+
+This appendix is available as an online form
+Only use this form if the online version is not available
+6E.3c
+
+Appendix 3B
+Proposed issue of +securities
+
+*Percentage handling fee or commission
+payable to brokers who lodge acceptances
+or renunciations on behalf of eligible
++security holders
+
+%
+
+For personal use only
+
+Answer this question if your response to Q6E.3 is “Yes”
+and your response to Q6E.3a is “percentage based”.
+
+6E.3d
+
+Please provide any other relevant
+information about the handling fee or
+commission method
+Answer this question if your response to Q6E.3 is
+“Yes”.
+
+6E.4
+
+Details of any other material fees or costs to
+be incurred by the entity in connection with
+the proposed offer
+
+Part 6F – Proposed non-pro rata offer to wholesale investors under an +information
+memorandum – further information
+Question
+No.
+
+Question
+
+Answer
+
+6F.1
+
+*The purpose(s) for which the entity intends
+to use the cash raised by the proposed offer
+
+☐ For additional working capital
+
+You may select one or more of the items in the list.
+
+☐ To fund the retirement of debt
+☐ To pay for the acquisition of an asset
+[provide details below]
+☐ To pay for services rendered [provide
+details below]
+☐ Other [provide details below]
+Additional details:
+
+6F.2
+
+*Will the entity be changing its
+dividend/distribution policy if the proposed
+issue is successful?
+
+6F.2a
+
+*Please explain how the entity will change
+its dividend/distribution policy if the
+proposed issue is successful
+
+Yes or No
+
+Answer this question if your response to Q6F.2 is
+“Yes”.
+
+6F.3
+
+*The entity’s allocation policy for the offer,
+including whether or not acceptances from
+existing +security holders will be given
+priority
+
+6F.4
+
+*URL on the entity’s website where
+wholesale investors can download the
++information memorandum
+
+6F.5
+
+Any other information the entity wishes to
+provide about the proposed offer
+
++ See chapter 19 for defined terms
+31 January 2020
+
+Page 37
+
+This appendix is available as an online form
+Only use this form if the online version is not available
+
+Appendix 3B
+Proposed issue of +securities
+
+Part 7 – Details of proposed placement or other issue
+If your response to Q1.6 is “A placement or other type of issue”, please complete Parts 7A – 7F and the details of the securities
+proposed to be issued in Part 8.
+
+For personal use only
+
+Part 7A – Proposed placement or other issue – conditions
+Question
+No.
+
+Question
+
+Answer
+
+7A.1
+
+*Are any of the following approvals required
+for the placement or other type of issue?
+• +Security holder approval
+• Court approval
+• Lodgement of court order with +ASIC
+• ACCC approval
+• FIRB approval
+• Another approval/condition external to
+the entity.
+
+No
+
+7A.1a
+
+Conditions
+Answer these questions if your response to 7A.1 is “Yes”.
+Select the applicable approval(s) from the list. More than one approval can be selected. The “date for
+determination” is the date that you expect to know if the approval is given (for example, the date of the security
+holder meeting in the case of +security holder approval or the date of the court hearing in the case of court
+approval).
+
+*Approval/ condition
+Type
+
+*Date for
+determination
+
+*Is the date
+estimated or
+actual?
+
+**Approval received/
+condition met?
+
+Comments
+
+Please answer “Yes” or
+“No”. Only answer this
+question when you know
+the outcome of the
+approval.
+
++Security holder
+approval
+Court approval
+Lodgement of court
+order with +ASIC
+ACCC approval
+FIRB approval
+Other (please specify
+in comment section)
+
+Part 7B – Details of proposed placement or other issue - issue details
+Question
+No.
+
+Question
+
+Answer
+
+7B.1
+
+Number of +securities proposed to be
+issued
+
+21,000,000 Ordinary Shares
+10,500,000 Quoted Options (with exercise
+price of $0.03 each and exercisable on or
+before 30 June 2023)
+
+7B.2
+
+*Are the +securities proposed to be issued
+being issued for a cash consideration?
+
+Yes
+
+If the securities are being issued for nil cash consideration, answer
+this question “No”.
+
++ See chapter 19 for defined terms
+31 January 2020
+
+Page 38
+
+This appendix is available as an online form
+Only use this form if the online version is not available
+7B.2a
+
+*In what currency is the cash consideration
+being paid
+
+Appendix 3B
+Proposed issue of +securities
+AUD
+
+For example, if the consideration is being paid in
+Australian Dollars, state AUD.
+
+For personal use only
+
+Answer this question if your response to Q7B.1 is
+“Yes”.
+
+7B.2b
+
+*What is the issue price per +security
+
+$0.012
+
+Answer this question if your response to Q7B.1 is “Yes”
+and by reference to the issue currency provided in your
+response to Q7B.1a.
+Note: you cannot enter a nil amount here. If the
+securities are being issued for nil cash consideration,
+answer Q7B.1 as “No” and complete Q7B.1c.
+
+7B.2c
+
+Please describe the consideration being
+provided for the +securities
+
+-
+
+Answer this question if your response to Q7B.1 is “No”.
+
+7B.2d
+
+Please provide an estimate of the AUD
+equivalent of the consideration being
+provided for the +securities
+
+-
+
+Answer this question if your response to Q7B.1 is “No”.
+
+Part 7C – Proposed placement or other issue – timetable
+Question
+No.
+
+Question
+
+Answer
+
+7C.1
+
+*Proposed +issue date
+
+14 July 2020
+
+Part 7D – Proposed placement or other issue – listing rule requirements
+Question
+No.
+
+Question
+
+Answer
+
+7D.1
+
+*Has the entity obtained, or is it obtaining,
++security holder approval for the issue
+under listing rule 7.1?
+
+No
+
+Answer this question if the issuer is an ASX Listing (i.e.
+not an ASX Debt Listing or ASX Foreign Exempt
+Listing).
+
+7D.1a
+
+*Date of meeting or proposed meeting to
+approve the issue under listing rule 7.1
+
+-
+
+Answer this question if the issuer is an ASX Listing and
+your response to Q7D.1 is “Yes”.
+
+7D.1b
+
+*Are any of the +securities proposed to be
+issued without +security holder approval
+using the entity's 15% placement capacity
+under listing rule 7.1?
+
+Yes
+
+Answer this question if the issuer is an ASX Listing and
+your response to Q7D.1 is “No”.
+
++ See chapter 19 for defined terms
+31 January 2020
+
+Page 39
+
+This appendix is available as an online form
+Only use this form if the online version is not available
+
+For personal use only
+
+7D.1b(i)
+
+*How many +securities are proposed to be
+issued without +security holder approval
+using the entity’s 15% placement capacity
+under listing rule 7.1?
+
+Appendix 3B
+Proposed issue of +securities
+16,961,455 Ordinary Shares
+10,500,000 Quoted Options (with exercise
+price of $0.03 each and exercisable on or
+before 30 June 2023)
+
+Answer this question the issuer is an ASX Listing, your
+response to Q7D.1 is “No” and if your response to
+Q7D.1b is “Yes”.
+Please complete and separately send by email to your
+ASX listings adviser a work sheet in the form of
+Annexure B to Guidance Note 21 confirming the entity
+has the available capacity under listing rule 7.1 to issue
+that number of securities.
+
+7D.1c
+
+*Are any of the +securities proposed to be
+issued without +security holder approval
+using the entity's additional 10% placement
+capacity under listing rule 7.1A (if
+applicable)?
+
+Yes
+
+Answer this question if the issuer is an ASX Listing and
+your response to Q7D.1 is “No”.
+
+7D.1c(i)
+
+*How many +securities are proposed to be
+issued without +security holder approval
+using the entity's additional 10% placement
+capacity under listing rule 7.1A?
+
+4,038,545 Ordinary Shares
+
+Answer this question if the issuer is an ASX Listing,
+your response to Q7D.1 is “No” and your response to
+Q7D.1c is “Yes”.
+Please complete and separately send by email to your
+ASX listings adviser a work sheet in the form of
+Annexure C to Guidance Note 21 confirming the entity
+has the available capacity under listing rule 7.1A to
+issue that number of securities.
+
+7D.1c(ii)
+
+*Please explain why the entity has chosen
+to do a placement or other issue rather than
+a +pro rata issue or an offer under a
++security purchase plan in which existing
+ordinary +security holders would have been
+eligible to participate
+
+Placement is being conducted in conjunction
+with a pro rata issue to shareholders on the
+same terms
+
+Answer this question if the issuer is an ASX Listing,
+your response to Q7D.1 is “No” and your response to
+Q7D.1c is “Yes”.
+
+7D.2
+
+*Is a party referred to in listing rule 10.11.1
+participating in the proposed issue?
+
+No
+
+Answer this question if the issuer is an ASX Listing.
+Note: If your response is “Yes”, this will require security
+holder approval under listing rule 10.11.
+
+7D.3
+
+*Will any of the +securities to be issued be
++restricted securities for the purposes of the
+listing rules?
+
+No
+
+Note: the entity should not apply for quotation of
+restricted securities
+
+7D.3a
+
+*Please enter, the number and +class of the
++restricted securities and the date from
+which they will cease to be +restricted
+securities
+
+-
+
+Answer this question if your response to Q7D.3 is
+“Yes”.
+
+7D.4
+
+*Will any of the +securities to be issued be
+subject to +voluntary escrow?
+
++ See chapter 19 for defined terms
+31 January 2020
+
+No
+
+Page 40
+
+This appendix is available as an online form
+Only use this form if the online version is not available
+7D.4a
+
+*Please enter the number and +class of the
++securities subject to +voluntary escrow
+and the date from which they will cease to
+be subject to +voluntary escrow
+
+Appendix 3B
+Proposed issue of +securities
+-
+
+For personal use only
+
+Answer this question if your response to Q7D.4 is
+“Yes”.
+
+Part 7E – Proposed placement or other issue – fees and expenses
+Question
+No.
+
+Question
+
+Answer
+
+7E.1
+
+*Will there be a lead manager or broker to
+the proposed issue?
+
+Yes
+
+7E.1a
+
+*Who is the lead manager/broker?
+
+Adelaide Equity Partners Limited
+
+Answer this question if your response to Q7E.1 is
+“Yes”.
+
+7E.1b
+
+*What fee, commission or other
+consideration is payable to them for acting
+as lead manager/broker?
+
+A fee equal to 6% of the placement amount
+of $252,000
+
+Answer this question if your response to Q7E.1 is
+“Yes”.
+
+7E.2
+
+*Is the proposed issue to be underwritten?
+
+No
+
+7E.2a
+
+*Who are the underwriter(s)?
+
+-
+
+Answer this question if your response to Q7E.2 is
+“Yes”.
+
+7E.2b
+
+*What is the extent of the underwriting (i.e.
+the amount or proportion of the issue that is
+underwritten)?
+
+-
+
+Answer this question if your response to Q7E.2 is
+“Yes”.
+
+7E.2c
+
+*What fees, commissions or other
+consideration are payable to them for acting
+as underwriter(s)?
+
+-
+
+Answer this question if your response to Q7E.2 is
+“Yes”.
+Note: This includes any applicable discount the
+underwriter receives to the issue price payable by
+participants in the issue.
+
+7E.2d
+
+*Provide a summary of the significant
+events that could lead to the underwriting
+being terminated
+
+-
+
+Answer this question if your response to Q7E.2 is
+“Yes”.
+Note: You may cross-refer to a covering
+announcement or to a separate annexure with this
+information.
+
+7E.3
+
+*Is a party referred to in listing rule 10.11
+underwriting or sub-underwriting the
+proposed issue?
+
+No
+
+Answer this question if the issuer is an ASX Listing (i.e.
+not an ASX Debt Listing or ASX Foreign Exempt
+Listing) and your response to Q7E.2 is “Yes”.
+Note: If your response is “Yes”, this will require security
+holder approval under listing rule 10.11.
+
++ See chapter 19 for defined terms
+31 January 2020
+
+Page 41
+
+This appendix is available as an online form
+Only use this form if the online version is not available
+7E.3a
+
+*What is the name of that party?
+
+Appendix 3B
+Proposed issue of +securities
+-
+
+Answer this question if the issuer is an ASX Listing and
+your response to Q7E.3 is “Yes”.
+
+For personal use only
+
+Note: If there is more than one such party acting as
+underwriter or sub-underwriter include all of their
+details in this and the next 2 questions.
+
+7E.3b
+
+*What is the extent of their underwriting or
+sub-underwriting (i.e. the amount or
+proportion of the issue they have
+underwritten or sub-underwritten)?
+
+-
+
+Answer this question if the issuer is an ASX Listing and
+your response to Q7E.3 is “Yes”.
+
+7E.3c
+
+*What fee, commission or other
+consideration is payable to them for acting
+as underwriter or sub-underwriter?
+
+-
+
+Answer this question if the issuer is an ASX Listing and
+your response to Q7E.3 is “Yes”.
+Note: This includes any applicable discount the
+underwriter or sub-underwriter receives to the issue
+price payable by participants in the issue.
+
+7E.4
+
+Details of any other material fees or costs to
+be incurred by the entity in connection with
+the proposed issue
+
+There are no other material fees or costs to
+be incurred in connection with the
+Placement
+
+Part 7F – Proposed placement or other issue – further information
+Question
+No.
+
+Question
+
+Answer
+
+7F.1
+
+*The purpose(s) for which the entity is
+issuing the securities
+
+☒ To raise additional working capital
+
+You may select one or more of the items in the list.
+
+☐ To fund the retirement of debt
+☐ To pay for the acquisition of an asset
+[provide details below]
+☐ To pay for services rendered [provide
+details below]
+☐ Other [provide details below]
+Additional details:
+a) exploration expenditure in relation to Mt
+Venn Gold Project
+b) exploration expenditure in relation to
+Musgrave Nickel-Copper Project
+c) expenses of the Offer and Placement
+
+7F.2
+
+*Will the entity be changing its
+dividend/distribution policy if the proposed
+issue proceeds?
+
+No
+
+7F.2a
+
+*Please explain how the entity will change
+its dividend/distribution policy if the
+proposed issue proceeds
+
+-
+
+Answer this question if your response to Q7F.2 is
+“Yes”.
+
+7F.3
+
+Any other information the entity wishes to
+provide about the proposed issue
+
++ See chapter 19 for defined terms
+31 January 2020
+
+-
+
+Page 42
+
+This appendix is available as an online form
+Only use this form if the online version is not available
+
+Appendix 3B
+Proposed issue of +securities
+
+Part 8 – details of +securities proposed to be issued
+Answer the relevant questions in this part for the type of +securities the entity proposes to issue. If the entity is proposing to
+issue more than one class of security, including free attaching securities, please complete a separate version of Part 8 for each
+class of security proposed to be issued.
+
+For personal use only
+
+Part 8A – type of +securities proposed to be issued
+Question
+No.
+
+Question
+
+Answer
+
+8A.1
+
+*The +securities proposed to be issued are:
+
+☒ Additional +securities in a class that is
+already quoted on ASX ("existing
+quoted class")
+
+Tick whichever is applicable
+Note: SPP offers must select “existing quoted class”
+
+☐ Additional +securities in a class that is
+not currently quoted, and not intended
+to be quoted, on ASX ("existing
+unquoted class")
+☒ New +securities in a class that is not yet
+quoted, but is intended to be quoted, on
+ASX ("new quoted class")
+☐ New +securities in a class that is not
+quoted, and not intended to be quoted,
+on ASX ("new unquoted class")
+Note: If the +securities referred to in this form are being offered under a +disclosure document or
++PDS and the entity selects the first or third option in its response to question 8A.1 above (existing
+quoted class or new quoted class), then by lodging this form with ASX, the entity will be taken, for the
+purposes of sections 711(5) and 1013H (as applicable) of the Corporations Act, to have applied for
+quotation of those +securities. However, once the final number of +securities offered under the
++disclosure document or +PDS is known, the entity must complete and lodge with ASX an
+Appendix 2A applying for the quotation of that number of +securities.
+
+Part 8B – details of +securities proposed to be issued (existing quoted class or
+existing unquoted class)
+Answer the questions in this Part if your response to Q8A.1 is “existing quoted class” or “existing unquoted class”.
+
+Question
+No.
+
+Question
+
+Answer
+
+8B.1
+
+*ASX security code & description
+
+WML
+
+8B.2a
+
+*Will the +securities to be quoted rank
+equally in all respects from their issue date
+with the existing issued +securities in that
+class?
+
+Yes
+
+8B.2b
+
+*Is the actual date from which the
++securities will rank equally (non-ranking
+end date) known?
+Answer this question if your response to Q8B.2a is
+“No”.
+
+8B.2c
+
+*Provide the actual non-ranking end date
+Answer this question if your response to Q8B.2a is
+“No” and your response to Q8B.2b is “Yes”.
+
+8B.2d
+
+*Provide the estimated non-ranking end
+period
+Answer this question if your response to Q8B.2a is
+“No” and your response to Q8B.2b is “No”.
+
++ See chapter 19 for defined terms
+31 January 2020
+
+Page 43
+
+This appendix is available as an online form
+Only use this form if the online version is not available
+8B.2e
+
+Appendix 3B
+Proposed issue of +securities
+
+*Please state the extent to which the
++securities do not rank equally:
+• in relation to the next dividend,
+distribution or interest payment; or
+
+For personal use only
+
+• for any other reason
+Answer this question if your response to Q8B.2a is
+“No”.
+For example, the securities may not rank at all, or may
+rank proportionately based on the percentage of the
+period in question they have been on issue, for the
+next dividend, distribution or interest payment or they
+may not be entitled to participate in some other event,
+such as an entitlement issue.
+
+Part 8C – details of +securities proposed to be issued (new quoted class or new
+unquoted class)
+Answer the questions in this Part if your response to Q8A.1 is “new quoted class” or “new unquoted class”.
+
+Question
+No.
+
+Question
+
+Answer
+
+8C.1
+
+*+Security description
+The ASX security code for this security will be
+confirmed by ASX in due course.
+
+Quoted Options with exercise price of
+$0.03 each and exercisable on or before 30
+June 2023
+
+*Security type
+
+☐ Ordinary fully or partly paid shares/units
+
+Select one item from the list.
+
+☒ Options
+
+Please select the most appropriate security type from
+the list. This will determine more detailed questions to
+be asked about the security later in this section. Select
+“ordinary fully or partly paid shares/units” for stapled
+securities or CDIs. For interest rate securities, please
+select the appropriate choice from either “Convertible
+debt securities” or “Non-convertible debt securities”.
+Select “Other” for performance shares/units and
+performance options/rights or if the selections available
+in the list do not appropriately describe the security
+being issued.
+
+☐ +Convertible debt securities
+
+8C.2
+
+8C.3
+
+☐ Non-convertible +debt securities
+☐ Redeemable preference shares/units
+☐ Other
+
+ISIN code
+Answer this question if you are an entity incorporated
+outside Australia and you are proposing to issue a new
+class of securities other than CDIs. See also the note
+at the top of this form.
+
+8C.4a
+
+*Will all the +securities proposed to be
+issued in this class rank equally in all
+respects from the issue date?
+
+8C.4b
+
+*Is the actual date from which the
++securities will rank equally (non-ranking
+end date) known?
+
+Yes
+
+Answer this question if your response to Q8C.4a is
+“No”.
+
+8C.4c
+
+*Provide the actual non-ranking end date
+Answer this question if your response to Q8C.5a is
+“No” and your response to Q8C.4b is “Yes”.
+
+8C.4d
+
+*Provide the estimated non-ranking end
+period
+Answer this question if your response to Q8C.4a is
+“No” and your response to Q8C.4b is “No”.
+
++ See chapter 19 for defined terms
+31 January 2020
+
+Page 44
+
+This appendix is available as an online form
+Only use this form if the online version is not available
+8C.4e
+
+Appendix 3B
+Proposed issue of +securities
+
+*Please state the extent to which the
++securities do not rank equally:
+• in relation to the next dividend,
+distribution or interest payment; or
+
+For personal use only
+
+• for any other reason
+Answer this question if your response to Q8C.4a is
+“No”.
+For example, the securities may not rank at all, or may
+rank proportionately based on the percentage of the
+period in question they have been on issue, for the
+next dividend, distribution or interest payment; or they
+may not be entitled to participate in some other event,
+such as an entitlement issue.
+
+8C.5
+
+Please attach a document or provide a URL
+link for a document lodged with ASX setting
+out the material terms of the +securities
+proposed to be issued
+
+ASX Announcement on the Placement and
+Offer lodged with ASX in conjunction with
+this Appendix 3b
+
+You may cross-reference a disclosure document, PDS,
+information memorandum, investor presentation or
+other announcement with this information provided it
+has been released to the ASX Market Announcements
+Platform.
+
+8C.6
+
+*Have you received confirmation from ASX
+that the terms of the +securities are
+appropriate and equitable under listing rule
+6.1?
+
+No
+
+Answer this question only if you are an ASX Listing.
+(ASX Foreign Exempt Listings and ASX Debt Listings
+do not have to answer this question).
+If your response is “No” and the securities have any
+unusual terms, you should approach ASX as soon as
+possible for confirmation under listing rule 6.1 that the
+terms are appropriate and equitable.
+
+8C.7a
+
+Ordinary fully or partly paid shares/units details
+Answer the questions in this section if you selected this security type in your response to Question 8C.2.
+
+*+Security currency
+This is the currency in which the face amount of an
+issue is denominated. It will also typically be the
+currency in which distributions are declared.
+
+*Will there be CDIs issued over the
++securities?
+
+Yes or No
+
+*CDI ratio
+
+X:Y
+
+Answer this question if you answered “Yes” to the
+previous question. This is the ratio at which CDIs can
+be transmuted into the underlying security (e.g. 4:1
+means 4 CDIs represent 1 underlying security whereas
+1:4 means 1 CDI represents 4 underlying securities).
+
+*Is it a partly paid class of +security?
+
+Yes or No
+
+*Paid up amount: unpaid amount
+
+X:Y
+
+Answer this question if answered “Yes” to the previous
+question.
+The paid up amount represents the amount of
+application money and/or calls which have been paid
+on any security considered ‘partly paid’
+The unpaid amount represents the unpaid or yet to be
+called amount on any security considered ‘partly paid’.
+The amounts should be provided per the security
+currency (e.g. if the security currency is AUD, then the
+paid up and unpaid amount per security in AUD).
+
++ See chapter 19 for defined terms
+31 January 2020
+
+Page 45
+
+This appendix is available as an online form
+Only use this form if the online version is not available
+*Is it a stapled +security?
+
+Appendix 3B
+Proposed issue of +securities
+Yes or No
+
+This is a security class that comprises a number of
+ordinary shares and/or ordinary units issued by
+separate entities that are stapled together for the
+purposes of trading.
+
+For personal use only
+
+8C.7b
+
+Option details
+Answer the questions in this section if you selected this security type in your response to Question Q8C.2.
+
+*+Security currency
+
+AUD
+
+This is the currency in which the exercise price is
+payable.
+
+*Exercise price
+
+$0.03
+
+The price at which each option can be exercised and
+convert into the underlying security.
+The exercise price should be provided per the security
+currency (i.e. if the security currency is AUD, the
+exercise price should be expressed in AUD).
+
+*Expiry date
+
+30 June 2023
+
+The date on which the options expire or terminate.
+
+*Details of the number and type of +security
+(including its ASX security code if the
++security is quoted on ASX) that will be
+issued if an option is exercised
+
+One fully paid Ordinary Share (ASX: WML)
+
+For example, if the option can be exercised to receive
+one fully paid ordinary share with ASX security code
+ABC, please insert “One fully paid ordinary share
+(ASX:ABC)”.
+
+8C.7c
+
+Details of non-convertible +debt securities, +convertible debt securities, or
+redeemable preference shares/units
+Answer the questions in this section if you selected one of these security types in your response to Question
+Q8C.2.
+Refer to Guidance Note 34 and the “Guide to the Naming Conventions and Security Descriptions for ASX Quoted
+Debt and Hybrid Securities” for further information on certain terms used in this section
+
+*Type of +security
+
+☐ Simple corporate bond
+
+Select one item from the list
+
+☐ Non-convertible note or bond
+☐ Convertible note or bond
+☐ Preference share/unit
+☐ Capital note
+☐ Hybrid security
+☐ Other
+
+*+Security currency
+This is the currency in which the face value of the
+security is denominated. It will also typically be the
+currency in which interest or distributions are paid.
+
+*Face value
+This is the principal amount of each security.
+The face value should be provided per the security
+currency (i.e. if security currency is AUD, then the face
+value per security in AUD).
+
++ See chapter 19 for defined terms
+31 January 2020
+
+Page 46
+
+For personal use only
+
+This appendix is available as an online form
+Only use this form if the online version is not available
+
+Appendix 3B
+Proposed issue of +securities
+
+*Interest rate type
+
+☐ Fixed rate
+
+Select one item from the list
+
+☐ Floating rate
+
+Select the appropriate interest rate type per the terms
+of the security. Definitions for each type are provided in
+the Guide to the Naming Conventions and Security
+Descriptions for ASX Quoted Debt and Hybrid
+Securities
+
+☐ Indexed rate
+☐ Variable rate
+☐ Zero coupon/no interest
+☐ Other
+
+*Frequency of coupon/interest payments
+per year
+Select one item from the list.
+
+☐ Monthly
+☐ Quarterly
+☐ Semi-annual
+☐ Annual
+☐ No coupon/interest payments
+☐ Other
+
+*First interest payment date
+A response is not required if you have selected “No
+coupon/interest payments” in response to the question
+above on the frequency of coupon/interest payments
+
+*Interest rate per annum
+
+% p.a.
+
+Answer this question if the interest rate type is fixed.
+
+*Is the interest rate per annum estimated at
+this time?
+
+Yes or No
+
+Answer this question if the interest rate type is fixed.
+
+*If the interest rate per annum is estimated,
+then what is the date for this information to
+be announced to the market (if known)
+Answer this question if the interest rate type is fixed
+and your response to the previous question is “Yes”.
+Answer “Unknown” if the date is not known at this time.
+
+*Does the interest rate include a reference
+rate, base rate or market rate (e.g. BBSW
+or CPI)?
+
+Yes or No
+
+Answer this question if the interest rate type is floating
+or indexed.
+
+*What is the reference rate, base rate or
+market rate?
+Answer this question if the interest rate type is floating
+or indexed and your response to the previous question
+is “Yes”.
+
+*Does the interest rate include a margin
+above the reference rate, base rate or
+market rate?
+
+Yes or No
+
+Answer this question if the interest rate type is floating
+or indexed.
+
+*What is the margin above the reference
+rate, base rate or market rate (expressed as
+a percent per annum)
+
+% p.a.
+
+Answer this question if the interest rate type is floating
+or indexed and your response to the previous question
+is “Yes”.
+
+*Is the margin estimated at this time?
+
+Yes or No
+
+Answer this question if the interest rate type is floating
+or indexed.
+
++ See chapter 19 for defined terms
+31 January 2020
+
+Page 47
+
+This appendix is available as an online form
+Only use this form if the online version is not available
+
+Appendix 3B
+Proposed issue of +securities
+
+*If the margin is estimated, then what is the
+date for this information to be announced to
+the market (if known)
+
+For personal use only
+
+Answer this question if the interest rate type is floating
+or indexed and your response to the previous question
+is “Yes”.
+Answer “Unknown” if the date is not known at this time.
+
+*S128F of the Income Tax Assessment Act
+status applicable to the +security
+Select one item from the list
+For financial products which are likely to give rise to a
+payment to which s128F of the Income Tax
+Assessment Act applies, ASX requests issuers to
+confirm the s128F status of the security:
+•
+
+“s128F exempt” means interest payments are not
+taxable to non-residents;
+
+•
+
+“Not s128F exempt” means interest payments are
+taxable to non-residents;
+
+•
+
+“s128F exemption status unknown” means the
+issuer is unable to advise the status;
+
+☐ s128F exempt
+☐ Not s128F exempt
+☐ s128F exemption status unknown
+☐ Not applicable
+
+“Not applicable” means s128F is not applicable to this
+security
+
+*Is the +security perpetual (i.e. no maturity
+date)?
+
+Yes or No
+
+*Maturity date
+Answer this question if the security is not perpetual
+
+*Select other features applicable to the
++security
+Up to 4 features can be selected. Further information is
+available in the Guide to the Naming Conventions and
+Security Descriptions for ASX Quoted Debt and Hybrid
+Securities.
+
+☐ Simple
+☐ Subordinated
+☐ Secured
+☐ Converting
+☐ Convertible
+☐ Transformable
+☐ Exchangeable
+☐ Cumulative
+☐ Non-Cumulative
+☐ Redeemable
+☐ Extendable
+☐ Reset
+☐ Step-Down
+☐ Step-Up
+☐ Stapled
+☐ None of the above
+
+*Is there a first trigger date on which a right
+of conversion, redemption, call or put can
+be exercised (whichever is first)?
+
+Yes or No
+
+*If yes, what is the first trigger date
+Answer this question if your response to the previous
+question is “Yes”.
+
++ See chapter 19 for defined terms
+31 January 2020
+
+Page 48
+
+This appendix is available as an online form
+Only use this form if the online version is not available
+
+Appendix 3B
+Proposed issue of +securities
+
+For personal use only
+
+*Details of the number and type of +security
+(including its ASX security code if the
++security is quoted on ASX) that will be
+issued if the +securities to be quoted are
+converted, transformed or exchanged
+Answer this question if the security features include
+“converting”, “convertible”, “transformable” or
+“exchangeable”.
+For example, if the security can be converted into
+1,000 fully paid ordinary shares with ASX security code
+ABC, please insert “1,000 fully paid ordinary shares
+(ASX:ABC)”.
+Introduced 01/12/19; amended 31/01/20
+
++ See chapter 19 for defined terms
+31 January 2020
+
+Page 49
+
+

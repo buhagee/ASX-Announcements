@@ -1,0 +1,2049 @@
+ASX Announcement
+
+For personal use only
+
+3 July 2020
+
+OncoSil presents clinical data at ESMO World Congress highlighting greater
+median overall survival rates vs other treatment methods
+Sydney, Australia – 3 July 2020: OncoSil Medical Ltd (ASX: OSL) (OncoSil or the Company), is pleased to
+share poster presentations from its PanCO Study Results and Naïve indirect treatment comparison which
+were presented at the ESMO conference on 1 July 2020.
+Key takeaways:
+•
+
+The European Society of Medical Oncology (ESMO) is the leading professional organisation for
+medical oncology and is the pre-eminent oncology society in Europe
+
+•
+
+OncoSil Medical presented (virtually) and shared two posters at the 2020 ESMO World Congress
+on Gastrointestinal Cancer, the premier event in the field attended by clinicians, researchers and
+healthcare industry executives globally
+
+•
+
+Data presented in the posters includes findings from the PanCO study alongside a naïve indirect
+treatment comparison, whereby the median overall survival was significantly longer (p<0.001) in
+the PanCO study than other treatment regimens
+
+OncoSil CEO, Daniel Kenny, added, “We are pleased to be able to share our compelling data with clinicians
+and partners at the ESMO Congress, the pre-eminent scientific event for our field. OncoSil’s strong
+presence at the event, which included a presentation and two posters, is testament to the performance
+of our device and further highlights the significance of the PanCO study thus far.”
+The OncoSil presentation and posters are attached to this announcement.
+End
+Authorisation & Additional Information
+This announcement was authorised by the Board of Directors of OncoSil Medical Limited.
+Company
+Mr Daniel Kenny
+CEO & Managing Director
+E: daniel.kenny@oncosil.com.au
+T: +61 2 9223 3344
+
+ONCOSIL MEDICAL LIMITED ABN 89 113 824 141 ASX | OSL
+Suite 402, Level 4, 50 Berry Street, North Sydney, NSW 2060 AUSTRALIA
+TELEPHONE +61 2 9223 3344 FACSIMILE +61 2 9252 3988
+WEB www.oncosil.com.au
+
+Investor Relations
+Leijie Li
+Vesparum Capital
+E: oncosil@vesparum.com
+T: +61 3 8582 4800
+
+For personal use only
+
+About OncoSil
+OncoSil Medical is a medical device company seeking to advance radiation for cancer patients. OncoSil Medical’s lead product,
+OncoSil™ is a targeted radioactive isotope (Phosphorus-32), implanted directly into a patient’s pancreatic tumours via an
+endoscopic ultrasound.
+Treatment with the OncoSil™ is intended to deliver more concentrated and localised beta radiation compared to external beam
+radiation. OncoSil Medical has conducted six clinical studies with positive results on tolerability, safety and efficacy. CE Marking
+has been granted for the OncoSil™ device which can be marketed in the European Union and the United Kingdom.
+An Investigational Device Exemption (IDE) has been granted by the United States Food and Drug Administration (FDA) to conduct
+a clinical study of the OncoSil™ device aimed at supporting a PMA approval.
+In December 2018, the FDA granted Humanitarian Use Designation (HUD) for the OncoSil™ device for the treatment of
+unresectable intrahepatic and distal cholangiocarcinoma. In March 2020, the FDA granted Breakthrough Device Designation for
+the OncoSil™ for unresectable pancreatic cancer in conjunction with systemic chemotherapy.
+Pancreatic cancer is typically diagnosed at a later stage, when there is a poor prognosis for long-term survival. The World Cancer
+Research Fund estimated that in 2012, 338,000 people globally were diagnosed with pancreatic cancer. The prognosis for patients
+diagnosed with pancreatic cancer, regardless of stage, is generally poor; the relative five-year survival rate for all stages combined
+is approximately 5%. The estimated world-wide market opportunity for OncoSil™ in pancreatic cancer exceeds $3b.
+
+Forward Looking Statements
+This document contains certain forward-looking statements, relating to OncoSil’s business, which can be identified by the use of
+forward-looking terminology such as “promising”, “plans”, “anticipated”, “will”, “project”, “believe”, “forecast”, “expected”,
+“estimated”, “targeting”, “aiming”, “set to”, “potential”, “seeking to”, “goal”, “could provide”, “intends”, “is being developed”,
+“could be”, “on track”, or similar expressions, or by express or implied discussions regarding potential filings or marketing
+approvals, or potential future sales of product candidates. Such forward-looking statements involve known and unknown risks,
+uncertainties and other factors that may cause actual results to be materially different from any future results, performance or
+achievements expressed or implied by such statements. There can be no assurance that any existing or future regulatory filings
+will satisfy the FDA and other authorities’ requirements regarding any one or more product candidates nor can there be any
+assurance that such product candidates will be approved by any authorities for sale in any market or that they will reach any
+particular level of sales. In particular, management’s expectations regarding the approval and commercialisation of the product
+candidates could be affected by, among other things, unexpected trial results, including additional analysis of existing data, and
+new data; unexpected regulatory actions or delays, or government regulation generally; our ability to obtain or maintain patent
+or other proprietary intellectual property protection; competition in general; government, industry, and general public pricing
+pressures; and additional factors that involve significant risks and uncertainties about our products, product candidates, financial
+results and business prospects. Should one or more of these risks or uncertainties materialise, or should underlying assumptions
+prove incorrect, actual results may vary materially from those described herein as anticipated, believed, estimated or expected.
+OncoSil Medical is providing this information as of the date of this document and does not assume any obligation to update any
+forward-looking statements contained in this document as a result of new information, future events or developments or
+otherwise.
+
+ONCOSIL MEDICAL LIMITED ABN 89 113 824 141 ASX | OSL
+Suite 402, Level 4, 50 Berry Street, North Sydney, NSW 2060 AUSTRALIA
+TELEPHONE +61 2 9223 3344 FACSIMILE +61 2 9252 3988
+WEB www.oncosil.com.au
+
+Abs. P-260
+Naïve Indirect Treatment Comparison of PanCO, a Pilot Study of OncoSil P-32
+Microparticles Combined with Gemcitabine + Nab-Paclitaxel or FOLFIRINOX Chemotherapy,
+Versus Standard-of-Care Treatment in Unresectable Locally Advanced Pancreatic Cancer
+S Allerdice1, N Wilson2, D Turner3, P McCloud4, D Kenny2, A Cowley1, C Taylor1.
+1
+
+Health Technology Analysts, Lilyfield, NSW, Australia, 2OncoSil Medical Ltd., Sydney, NSW, Australia, 3Adjuvantyx Ltd., Sevenoaks, Kent, UK, 4McCloud Consulting Group, Belrose, NSW, Australia.
+
+Background
+• Pancreatic cancer is a malignancy with a very poor prognosis and remains an area
+of high unmet medical need.
+
+For personal use only
+
+• Current standard treatment for patients with unresectable locally advanced
+pancreatic cancer (LAPC) is limited to chemotherapy (CT-only) or
+chemoradiotherapy following induction CT (ICT + CCRT).
+• International guidelines (e.g. ESMO, ASCO and NCCN) recommend gemcitabinebased regimens or monotherapy as well as regimens containing fluoropyrimidines
+(capecitabine, 5FU) plus other agents, or ICT + CCRT, for the treatment of
+unresectable LAPC.1–3
+• Brachytherapy using beta-emitting phosphorus (P-32) microparticles enables a
+predetermined radiation dose to be implanted into pancreatic tumours via
+endoscopic ultrasound (EUS) guidance.
+• The results of a prospective, international, multi-centre, interventional, open-label,
+single-arm pilot study of P-32 microparticles (OncoSilTM; OncoSil Medical) in
+combination with gemcitabine + nab-paclitaxel or FOLFIRINOX chemotherapy
+demonstrated encouraging safety and efficacy in patients with unresectable LAPC
+(the PanCO study: NCT03003078).4
+
+Objective
+
+• In the absence of a head-to-head randomised controlled trial, a naïve indirect
+treatment comparison (a universally accepted method to provide a valid
+categorical and statistical comparison of reported outcomes) was used to assess
+the results of the PanCO study against ‘state-of-the-art’ (SOTA) therapy obtained
+from a systematic literature review (SLR) of published scientific literature from
+prospective Phase II and III clinical studies.
+• This enabled a robust determination as to whether the improvements observed in
+the PanCO study were due to CT alone or the combination of CT with OncoSilTM.
+
+Methods
+
+• A SLR was conducted, based on a previous systematic review and meta-analysis
+by Chang et al (2018),5 to identify published clinical data on SOTA/’standard-ofcare’ treatments from prospective Phase II and III clinical studies in patients with
+unresectable LAPC treated with CT-only or ICT + CCRT (excluding borderline
+resectable LAPC; for inclusion criteria, see Table 1).
+• A weighted median of medians method and meta-analysis of proportional
+outcomes were used to provide summary statistics for SLR outcomes.6
+• Meta-analysis was performed in the statistical software R and R studio using the
+R Functions meta,7 metaprop8 and metamedian.9
+• The SLR outcomes were then compared with the results of the PanCO study in a
+naïve indirect treatment comparison.
+• A binomial test was applied to assess the strength of the PanCO results relative to
+the SOTA CT-only and ICT + CCRT (comparator) studies of the meta-analysis for
+overall survival (OS), progression-free survival (PFS), one-year survival, resection
+rate, disease control rate (DCR) and overall response rate (ORR).
+
+Table 1: Inclusion Criteria for Systematic Literature Search
+
+Population
+
+Intervention
+
+Title/Abstract Screening
+
+Full Text Screening
+
+Includes LAPC
+
+Patients with unresectable, non-metastatic
+LAPC
+If other populations are included, outcomes
+are reported separately
+
+Any CT or CCRT
+Trials that include
+immunotherapy or other
+biological agents excluded if
+no chemotherapy control arm
+
+Any CT or ICT and CCRT
+Trials that include immunotherapy or other
+biological agents excluded (chemotherapy
+control arm may be included)
+
+Phase II or Phase III studies only
+
+SLR Cohort
+
+All Treatments
+(CT-only and
+ICT + CCRT)
+CT-Only
+CCRT-Only
+
+Number
+of Study
+Arms
+
+Number
+of
+Patients
+
+58
+
+2,398
+
+38
+20
+
+1,690
+708
+
+1,418
+616
+
+15
+7
+
+406
+288
+
+na
+7
+
+na
+199
+
+na
+11
+
+na
+371
+
+Cohort
+
+N
+
+Median PFS (95% CI)
+
+PanCO ITT
+PanCO PP
+
+50
+42
+
+9.3 months (5.9, 12.2)
+9.3 months (7.2, 12.2)
+
+1,936 (43 arms)
+1,355 (27 arms)
+581 (16 arms)
+
+7.6 months (6.6, 7.8)
+6.6 months (6.2, 7.8)
+9.1 months (7.6, 9.3)
+
+SLR: CT-only and ICT + CCRT
+SLR: CT-Only
+SLR: ICT + CCRT only
+
+Abbreviations: CCRT, consolidation chemoradiotherapy; C.I., confidence interval; CT, chemotherapy;
+ICT, induction chemotherapy; ITT, intention-to-treat (enrolled participants); PP, per protocol
+(enrolled/implanted participants); SLR, study arms identified by Systematic Literature Review.
+
+• The PanCO study enrolled 50 patients (Intention-to-Treat [ITT] population) of
+which 42 were implanted with P-32 microparticles (Per Protocol [PP] population),
+with a median follow-up of 16.1 months.4
+
+Overall Survival
+
+Table 8: PanCO PFS Outcomes vs. ‘SOTA’ Regimens
+
+• Median OS was significantly longer (p<0.001) in the PanCO study ITT and PP
+cohorts than CT-only and ICT + CCRT regimens (Tables 3 and 4), representing a
+~20% reduction in the risk of death compared to CT-only and ICT + CCRT studies
+(Hazard Ratio PP: 0.79; ITT: 0.82). The PanCO median OS for ITT and PP cohorts
+were also significantly longer than the CT-only (p<0.001) and ICT + CCRT subgroups (p=0.0001 or <0.0001).
+
+Parameter
+
+Naïve Indirect
+PanCO PanCO mPFS N Comparator n ≥ p-value
+Treatment Comparator Cohort Outcome
+Trials
+PanCO
+CT-only and ICT + CCRT
+
+mPFS
+
+CT-only
+
+• One-year survival rates in PanCO were significantly higher than SOTA (p<0.001 for
+CT-only and ICT + CCRT; see Tables 3 and 4).
+
+ICT + CCRT
+
+Records identified through
+database searching
+
+Full text articles
+assessed for eligibility
+
+Records excluded on basis
+of title/abstract screening:
+924
+
+(A) Duplicate citation = 255
+(B) Incorrect intervention = 55
+(C) Incorrect population = 230
+(D) Non-human study = 6
+(E) Wrong study type = 136
+(F) Wrong publication type = 42
+Total excluded = 724
+
+200
+
+Studies identified
+from other sources:
+
+Records excluded according
+to selection criteria:
+
+Reference lists of
+identified studies = 10
+
+(A) Incorrect intervention = 15
+(B) Incorrect population = 36
+(C) Wrong outcomes = 8
+(D) Duplicate data = 14
+(E) Not in English = 1
+(F) Study population <10 = 1
+(G) Insufficient data = 73
+(H) Incorrect study type = 10
+(I) Study ID’d by Chang 2018 = 10
+
+Total additional = 10
+
+15
+Total excluded = 195
+
+– Removal of treatment arms containing S-1.
+
+Table 9: DCR and ORR Outcomes for PanCO vs. Meta-Analyses of
+‘SOTA’ Regimens
+
+– Removal of all S-1 studies.
+– Note: base case includes first randomisation LAP07 data from Hammel 2016,11
+SCALOP1 cohort data from Hurt 201710 and all S-1 treatment arms.
+
+Cohort
+
+• This demonstrated that the meta-analyses of the median OS did not differ
+significantly for all ‘state-of-the-art’ CT and ICT + CCRT regimens (median OS
+range: 12.6–13.0 months vs. 12.7 months for the base case) and the subgroups
+(median OS range for CT-only arms: 12.3–13.0 months vs. 12.7 months for
+the base case; median OS range for ICT + CCRT arms: 12.6–13.4 months vs.
+12.6 months for the base case) irrespective of the inclusion of studies and
+treatment arms that are subject to patient selection bias and confounders.
+
+PanCO ITT
+PanCO PP
+SLR: CT-only and
+ICT + CCRT
+SLR: CT-Only
+SLR: ICT +
+CCRT only
+
+Table 3: Survival Outcomes for PanCO vs. Meta-Analyses of ‘SOTA’
+Regimens
+Cohort
+
+N
+
+Median OS (95% CI)
+
+One-Year Survival (95% CI)
+
+PanCO ITT
+PanCO PP
+
+50
+42
+
+15.5 months (11.3, nc)
+16.0 months (11.1, nc)
+
+63.4% (47.8%, 75.4%)
+64.0% (47.5%, 76.5%)
+
+SLR: CT-only and 2,350 (54 arms) [OS] 12.7 months (12.2, 13.6)
+ICT + CCRT
+
+52.5% (48.7%, 56.3%)
+
+SLR: CT-Only
+
+1,642 (34 arms) [OS] 12.7 months (11.9, 13.6)
+
+50.4% (45.3%, 55.5%)
+
+708 (20 arms) [OS] 12.6 months (12.2, 14.0)
+
+55.2% (49.4%, 60.9%)
+
+SLR: ICT +
+CCRT only
+
+N (DCR/ORR)
+
+DCR (95% CI)
+
+ORR (95% CI)
+
+47/47
+42/42
+
+95.7% (85.5%, 99.5%)
+100.0% (91.6%, 100.0%)
+
+29.8% (17.3%, 44.9%)
+31.0% (17.6%, 47.1%)
+
+751 (19 arms)/
+962 (26 arms)
+440 (10 arms)/
+640 (16 arms)
+311 (9 arms)/
+322 (10 arms)
+
+70.1% (72.9%, 86.4%)
+
+18.2% (13.3%, 23.7%)
+
+71.3% (61.4%, 80.3%)
+
+14.7% (9.0%, 21.3%)
+
+88.5% (80.4%, 94.9%)
+
+24.2% (15.8%, 33.7%)
+
+Abbreviations: C.I., confidence interval; ITT, intention-to-treat (enrolled participants); DCR, disease control
+rate (stable disease, partial response or complete response by RECIST v1.1 for best response on imaging);
+ORR, overall response rate; PP, per protocol (enrolled/implanted participants); SLR, study arms identified by
+Systematic Literature Review.
+
+Table 10: PanCO Response Outcomes vs. ‘SOTA’ Regimens
+Parameter
+
+Naïve Indirect
+PanCO
+Treatment Comparator Cohort
+CT-only and ICT + CCRT
+
+DCR
+
+Abbreviations: CCRT, consolidation chemoradiotherapy; CI, confidence interval; CT, chemotherapy;
+ICT, induction CT; ITT, intention-to-treat (enrolled participants); nc, non-calculable; OS, overall survival;
+PP, per protocol (enrolled/implanted participants); SLR, study arms identified by Systematic Literature Review.
+
+CT-only
+ICT + CCRT
+CT-only and ICT + CCRT
+
+ORR
+Parameter
+
+Naïve Indirect
+PanCO PanCO mOS N Comparator n ≥ p-value
+Treatment Comparator Cohort Outcome
+Trials
+PanCO
+CT-only and ICT + CCRT
+
+mOS
+
+CT-only
+
+CT-only and ICT + CCRT
+One-Year
+Survival
+
+CT-only
+
+ITT
+PP
+ITT
+PP
+ITT
+PP
+
+15.5 months
+16.0 months
+15.5 months
+16.0 months
+15.5 months
+16.0 months
+
+54
+54
+34
+34
+20
+20
+
+10
+6
+7
+4
+3
+2
+
+<0.001
+<0.001
+<0.001
+<0.001
+0.001
+<0.001
+
+ITT
+PP
+ITT
+PP
+ITT
+PP
+
+63.4%
+64.0%
+63.4%
+64.0%
+63.4%
+64.0%
+
+40
+40
+21
+21
+19
+19
+
+8
+7
+6
+5
+2
+2
+
+<0.001
+<0.001
+0.039
+0.013
+<0.001
+<0.001
+
+Table 5: Resection Rate Outcomes for PanCO vs. Meta-Analyses
+of ‘SOTA’ Regimens
+Cohort
+
+N
+
+Resection Rate (95% CI)
+
+PanCO ITT
+PanCO PP
+
+50
+42
+
+20.0% (10.0%, 33.7%)
+23.8% (12.1%, 39.5%)
+
+391 (16 arms)
+149 (7 arms)
+242 (9 arms)
+
+9.9% (6.7%, 13.5%)
+7.7% (3.1%, 13.5%)
+11.5% (7.4%, 16.2%)
+
+Abbreviations: CCRT, consolidation chemoradiotherapy; C.I., confidence interval; CT, chemotherapy;
+ICT, induction chemotherapy; ITT, intention-to-treat (enrolled participants); PP, per protocol
+(enrolled/implanted participants); SLR, study arms identified by Systematic Literature Review.
+
+Table 6: PanCO Resection Rate Outcomes vs. ‘SOTA’ Regimens
+Parameter
+
+Total additional = 41
+
+(A) Wrong population = 10
+Total excluded = 10
+
+46
+
+ESMO World Congress on Gastrointestinal Cancer, 1-4 July 2020
+
+Resection
+Rate
+
+Naïve Indirect
+PanCO
+Treatment Comparator Cohort
+
+CT-only
+ICT + CCRT
+
+PanCO
+Outcome
+
+N Comparator n ≥ p-value
+Trials
+PanCO
+
+ITT
+PP
+ITT
+PP
+ITT
+PP
+
+95.7%
+100.0%
+95.7%
+100.0%
+95.7%
+100.0%
+
+19
+19
+10
+10
+9
+9
+
+3
+2
+0
+0
+3
+2
+
+0.002
+<0.001
+<0.001
+<0.001
+0.254
+0.090
+
+ITT
+PP
+ITT
+PP
+ITT
+PP
+
+29.8%
+31.0%
+29.8%
+31.0%
+29.8%
+31.0%
+
+26
+26
+16
+16
+10
+10
+
+6
+6
+2
+2
+4
+4
+
+0.005
+0.005
+0.002
+0.002
+0.377
+0.377
+
+Abbreviations: CCRT, consolidation chemoradiotherapy; CT, chemotherapy; DCR, disease control rate; ICT,
+induction chemotherapy; ITT, intention-to-treat (enrolled participants); n ≥ PanCO, number of comparator
+trials where the result is the same as or greater than the PanCO study outcome; ORR, overall response rate;
+PP, per protocol (enrolled/implanted participants).
+
+Conclusions
+• The results from the PanCO study provide a broad and consistently positive
+outcomes compared to standard-of-care CT-only and ICT + CCRT regimens.
+• The naïve indirect treatment comparison to state-of-the-art therapy
+indicated that P-32 microparticles combined with standard-of-care
+chemotherapy may provide significant and clinically relevant benefits for
+patients with unresectable LAPC and a valuable treatment option in an area
+of high unmet medical need.
+
+References
+
+Surgical Resection
+
+SLR: CT-only and ICT + CCRT
+SLR: CT-Only
+SLR: ICT + CCRT only
+
+CT-only
+ICT + CCRT
+
+Abbreviations: CCRT, consolidation chemoradiotherapy; CT, chemotherapy; ICT, induction chemotherapy;
+ITT, intention-to-treat (enrolled participants); mOS, median overall survival; n ≥ PanCO, number of
+comparator trials where the result is the same as or greater than the PanCO study outcome; PP, per
+protocol (enrolled/implanted participants).
+
+CT-only and ICT + CCRT
+Articles excluded for
+other reasons:
+
+<0.001
+<0.001
+<0.001
+0.010
+0.227
+0.227
+
+• DCR and ORR were significantly higher than the combined CT-only and ICT +
+CCRT or CT-only regimens (Tables 9 and 10).
+
+Studies identified
+by Chang 2018:
+Reference lists and
+other sources = 41
+
+11
+11
+5
+7
+6
+6
+
+Disease Control and Overall Response Rates
+
+• The rate of surgical resection in PanCO was significantly greater than SOTA
+(p<0.001; Tables 5 and 6).
+
+Figure 1. PRISMA Flowchart
+
+43
+43
+27
+27
+16
+16
+
+– Substitution of first randomisation LAP07 data with second randomisation
+LAP07 data from Hammel 2016.11
+
+Results
+
+• In total, there were 46 included studies, comprising 58 study arms and 4,342
+patients, 2,398 of whom had unresectable LAPC (see Figure 1 and Table 2).10–55
+
+9.3 months
+9.3 months
+9.3 months
+9.3 months
+9.3 months
+9.3 months
+
+– Substitution of SCALOP1 data in Hurt 201710 with defined ITT data in
+Mukherjee 2013.56
+
+ICT + CCRT
+
+• The SLR identified clinical outcomes including OS, PFS, one-year survival,
+resection rate, DCR and ORR. No studies reported LPFS or LDCR.
+
+ITT
+PP
+ITT
+PP
+ITT
+PP
+
+Abbreviations: CCRT, consolidation chemoradiotherapy; CT, chemotherapy; ICT, induction chemotherapy;
+ITT, intention-to-treat (enrolled participants); mPFS, median progression-free survival; n ≥ PanCO, number of
+comparator trials where the result is the same as or greater than the PanCO study outcome; PP, per
+protocol (enrolled/implanted participants).
+
+• Sensitivity analyses were performed to determine the impact of patient selection
+and choice of therapy on the median OS. These involved:
+
+Phase II or Phase III studies only
+
+Abbreviations: CCRT, consolidation chemoradiotherapy; CT, chemotherapy; DCR, disease control rate;
+ICT, induction chemotherapy; ITT, intention-to-treat (enrolled participants); LAPC, locally advanced
+pancreatic cancer; LDCR, local DCR; LPFS, local PFS; PFS, progression-free survival; ORR, overall response
+rate; OS, overall survival.
+
+Publications included
+in analysis
+
+29
+17
+
+Table 7: PFS Outcomes for PanCO vs. Meta-Analyses of ‘SOTA’
+Regimens
+
+Abbreviations: CCRT, consolidation chemoradiotherapy; CT, chemotherapy; ICT, induction CT; FP,
+fluoropyrimidine (e.g. Fluorouracil [5FU], capecitabine, S-1); Gem, gemcitabine; na, not applicable; Pts, Patients.
+
+ICT + CCRT
+
+Publications meeting
+selection criteria
+
+Gem-Based FP-Based Gem-Based FP-Based
+CT
+CT
+CCRT
+CCRT
+(CT or ICT) (CT or ICT)
+Arms Pts Arms Pts Arms Pts Arms Pts
+46
+2,034 22
+694
+7
+199
+11 371
+
+• Median PFS was significantly longer (p<0.001) than the combined CT-only and
+ICT + CCRT or CT-only regimens (Tables 7 and 8).
+
+Table 4: PanCO OS Outcomes vs. ‘SOTA’ Regimens
+Median OS
+Median PFS (and LPFS, where available)
+One-year survival rate
+DCR (and LDCR where available)
+ORR
+Resection rate
+
+Outcomes
+
+Other limits
+
+Progression-Free Survival
+
+Table 2. Summary of SLR Study Numbers10–55
+
+ITT
+PP
+ITT
+PP
+ITT
+PP
+
+PanCO
+Outcome
+20.0%
+23.8%
+20.0%
+23.8%
+20.0%
+23.8%
+
+N Comparator n ≥ p-value
+Trials
+PanCO
+16
+16
+7
+7
+9
+9
+
+1
+0
+1
+0
+0
+0
+
+<0.001
+<0.001
+0.063
+0.008
+0.002
+0.002
+
+Abbreviations: CCRT, consolidation chemoradiotherapy; CT, chemotherapy; ICT, induction chemotherapy;
+ITT, intention-to-treat (enrolled participants); n ≥ PanCO, number of comparator trials where the result is the
+same as or greater than the PanCO study outcome; PP, per protocol (enrolled/implanted participants).
+
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+15.
+16.
+17.
+18.
+19.
+20.
+21.
+22.
+23.
+24.
+25.
+26.
+27.
+28.
+
+Ducreux M et al. Ann Oncol 2015;26 Suppl 5:v56–68.
+Balaban EP et al. J Clin Oncol 2016;34:2654–67.
+Tempero MA et al. J Natl Compr Canc Netw 2019;17:202–10.
+Ross P et al. Ann Oncol 2020;31(Suppl 3);Abs. O-1.
+Chang JS et al. Cancer Res Treat 2018;50:562–74.
+McGrath S et al. Stat Med 2019;38:969–984.
+Schwarzer G. 2019; www.imbi.unifreiburg.de/lehre/lehrbuecher/meta-analysis-with-r
+Wang N. Conducting meta-analyses of proportions in R. 2018.
+McGrath S. 2019; https://github.com/stmcg/metamedian.
+Hurt C et al. Br J Cancer 2017;116:1264–70.
+Hammel P et al. JAMA 2016;315:1844–53.
+Hazel JJ et al. J Can Assoc Radiol 1981;32:164–5.
+Klaassen DJ et al. J Clin Oncol 1985;3:373–8.
+GITSG. et al. J Natl Cancer Inst 1988;80:751–5.
+Todd KE et al. J Gastrointest Surg 1998;2:159–66.
+Conroy T et al. J Clin Oncol 2005;23:1228–36.
+Isacoff WH et al. J Clin Oncol 2007;25:1665–9.
+Chauffert B et al. Ann Oncol 2008;19:1592–9.
+Ishii H et al. Jpn J Clin Oncol 2010;40:573–9.
+Loehrer PJ et al. J Clin Oncol 2011;29:4105–12.
+Kindler HL et al. Lancet Oncol 2011;12:256–62.
+Nakai Y et al. Br J Cancer 2012;106:1934–9.
+Ozaka M et al. Cancer Chemother Pharmacol 2012;69:1197–204.
+Ueno H et al. J Clin Oncol 2012;31:1640–8.
+Heinemann V et al. Br J Cancer 2013;108:766–70.
+Borad MJ et al. J Clin Oncol 2015;33:1475–81.
+Deplanque G et al. Ann Oncol 2015;26:1194–200.
+Dalgleish AG et al. Br J Cancer 2016;115:789–96.
+
+29. Evans JTRJ et al. Ann Oncol 2017;28:354–61.
+30. Middleton G et al. Lancet Oncol 2017;18:486–99.
+31. Schultheis B et al. Ann Oncol 2017;28:2429–35.
+32. Yoshida K et al. Oncotarget 2017;8:111346–55.
+33. Reni M et al. Eur J Cancer 2018;102:95–102.
+34. Saito K et al. Invest New Drugs 2018 37:338–44.
+35. Saito K et al. Med Oncol 2018;35:100.
+36. Akahori T et al. Oncologist 2019;24:749–e224.
+37. Wagener DJT et al. Cancer Chemother Pharmacol 1989;25:131–4.
+38. Wagener DJT et al. Eur J Cancer 1996;32A:1310–3.
+39. Epelbaum R et al. J Surg Oncol 2002;81:138–43.
+40. Al-Sukhun S et al. Am J Clin Oncol 2003;26:543–9.
+41. Mishra G et al. J Clin Oncol 2005;28:345–50.
+42. Kurt E et al. Tumori 2006;92:481–6.
+43. Ko AH et al. Int J Radiat Oncol Biol Phys 2007;68:809–16.
+44. Goldstein D et al. Br J Cancer 2007;97:464–71.
+45. Moureau–Zabotto L et al. J Clin Oncol 2008;26:1080–5.
+46. Nakachi K et al. Cancer Chemother Pharmacol 2010;66:527–34.
+47. Milandri C et al. Hepatogastroenterology 2011;58:599–603.
+48. Goldstein D et al. Br J Cancer 2012;106:61–9.
+49. Kim JS et al. Cancer Chemother Pharmacol 2012;70:381–9
+50. Leone F et al. Cancer 2013;119:277–84.
+51. Esnaola NF et al. Int J Radiat Oncol Biol Phys 2014;88:837–44
+52. Ke QH et al. World J Gastroenterol 2014;20:13987–92.
+53. Herman JM et al. Cancer 2015;121:1128–37.
+54. Sudo K et al. Cancer Chemother Pharmacol 2017;80:195–202.
+55. Quan K et al. Pract Radiat Oncol 2018;8:95–106.
+56. Mukherjee S et al. Lancet Oncol 2013;14:317–26.
+
+Acknowledgements
+The PanCO study and naive indirect treatment comparison are supported by OncoSil Medical Ltd .
+
+Disclosures
+S Allerdice, D Turner, P McCloud, A Cowley and C Taylor are consultants to OncoSil Medical Ltd. N Wilson & D Kenny are employees of
+OncoSil Medical Ltd.
+Contact: stephanie.allerdice@htanalysts.com.au
+
+PanCO: Updated Results of an Open-Label, Single-Arm Pilot Study of OncoSil
+P-32 Microparticles in Unresectable Locally Advanced Pancreatic Adenocarcinoma
+(LAPC) with Gemcitabine + Nab-Paclitaxel or FOLFIRINOX Chemotherapy
+
+Abstract 0-1
+
+P Ross1, A Hendlisz2, T Ajithkumar3, C Iwuji4, M Harris5, D Croagh5, M Aghmesheh6, A Nagrial7, N Nguyen8, M Nikfarjam9, N Wilson10, D Kenny10, D Turner11, HS Wasan12
+1
+
+Guy’s & St Thomas’ NHS Foundation Trust, London, UK; 2Institut Jules Bordet Université Libre de Bruxelles, Brussels, Belgium; 3Cambridge University Hospitals NHS Foundation Trust, Cambridge, UK;
+University Hospitals of Leicester NHS Trust, Leicester, UK; 5Monash Health, Melbourne, Australia; 6Southern Medical Day Care Centre, Wollongong, Australia; 7Westmead Hospital, Sydney, Australia;
+8
+Royal Adelaide Hospital, Adelaide, Australia; 9Austin Health, Melbourne, Australia; 10OncoSil Medical Ltd., Sydney, Australia; 11Adjuvantyx Ltd, Sevenoaks, UK; 12Imperial College Healthcare NHS Trust, London, UK.
+4
+
+Table 3: Most Commonly Reported AEs (≥20% Incidence in PP Cohort)
+
+Methods
+
+• International, multicentre, single-arm pilot study (Fig. 1); with 10 sites in
+3 countries: Australia, Belgium and the UK. Recruitment period: March 2017
+to June 2018.
+• Chemotherapy: gemcitabine + nab-paclitaxel or FOLFIRINOX, by physician
+choice, per SoC.
+• 32P Microparticles was implanted directly into the pancreatic tumour via EUS
+guidance, using fine needle aspiration; 32P activity was calculated from the tumour
+volume to administer a predicted absorbed dose of 100 Gy; 32P diffusion pattern
+following implantation was assessed by EUS and Bremsstrahlung SPECT/CT
+within 4 hours and at 7 days post-implantation.
+• Safety data was collected weekly with toxicity graded using CTCAE v4.0.
+• Independent central reader analysis of 8-weekly CT scans for response
+assessment by RECIST 1.1 and tumour volume (using Voxels of Interest and
+eMass software [ERT; Brussels]) and FDG-PET scans (Baseline vs. Week 12).
+Key Eligibility Criteria
+• Histologically or cytologically proven adenocarcinoma of the pancreas;
+Unresectable locally advanced pancreatic carcinoma; Target tumour diameter
+2–6cm; ECOG Performance Status 0 to 1; No distant metastases; No prior
+radiotherapy or chemotherapy for pancreatic cancer.
+Primary Endpoint: Safety and Tolerability
+Primary Performance Outcome: Local Disease Control Rate at 16 weeks (LDCR16 weeks)
+Statistical Assumptions for LDCR16 weeks Efficacy Assessment
+• Null hypothesis H0: p = 0.55; Alternative hypothesis H1: p = 0.75. Level of
+significance = 0.05 with a 2-sided test to achieve a power of 80%.
+
+Study Design
+
+Figure 1. Study Design
+
+Screening
+(1–14 days)
+Enrollment
+
+OncoSilTM Device Implantation
+
+Chemo to
+begin
+≤14 days
+post
+enrollment
+
+Continuation of
+chemotherapy
+
+FOLFIRINOX or
+gemcitabine + nab-paclitaxel
+Week 1
+
+Week 2
+
+Week 3
+
+Week 4
+
+PD
+
+Overall
+survival
+
+• 50 study participants were enrolled – Intent-to-Treat (ITT) population; 42 were
+implanted with the OncoSil™ device – Per Protocol (PP) population (Table 1).
+
+Table 1: Participant Demographics & Baseline Characteristics (ITT)
+Demographic/Characteristic, n (%) unless stated
+
+Sex
+Race
+
+ECOG Performance Status
+CA 19-9, (U/mL) [N = 49]
+Pancreatic tumour location
+Target lesion longest diameter, cm
+Tumour volume, cc
+Study Days to OncoSil Implantation [N = 42]
+
+Chemotherapy
+
+Diarrhoea
+Nausea
+
+27 (64.3%)
+26 (61.9%)
+
+Abdominal pain*
+Constipation
+Vomiting
+Fatigue
+Pyrexia
+Peripheral oedema*
+Neutropenia*
+Thrombocytopenia*
+Anaemia*
+Alopecia
+Rash
+Decreased appetite
+Peripheral neuropathy*
+Weight decreased
+
+21 (50.0%) 5 (11.9%)
+20 (47.6%) 1 (2.4%)
+14 (33.3%) 4 (9.5%)
+35 (83.3%) 6 (14.3%)
+16 (38.1%) 3 (7.1%)
+10 (23.8%)
+23 (54.8%) 18 (42.9%)
+13 (31.0%) 4 (9.5%)
+14 (33.3%) 7 (16.7%)
+16 (38.1%)
+13 (31.0%)
+19 (45.2%) 1 (2.4%)
+15 (35.7%) 1 (2.4%)
+12 (28.6%) 1 (2.4%)
+
+N = 50
+
+Median (Range)
+
+65 (42–84)
+
+Male : Female
+White/Caucasian
+Black/African American
+Asian
+Other
+0:1
+Median (Range)
+Head : Body
+Median (Range)
+Median (Range)
+Median (Range)
+
+28 (56%) : 22 (44%)
+40 (80%)
+2 (4%)
+7 (14%)
+1 (2%)
+26 (58%) : 24 (42%)
+163 (1–6576)
+41 (82%) : 9 (18%)
+4.5 (2.6–7.1)
+24.35 (7.9–68.7)
+31 (21–77)
+
+gemcitabine + nab-paclitaxel
+FOLFIRINOX
+
+40 (80%)
+10 (20%)
+
+N
+
+Median
+
+Range
+
+p-value
+
+Maximal Change, %
+
+32/34
+
+-80.8
+
++50.0 to -90.9
+
+<0.0001
+
+16 (38.1%)
+
+3 (7.1%)
+
+42 (100%)
+
+28 (66.7%)
+
+p-value for one-sample. Wilcoxon test, percent change from baseline.
+
+3 (7.1%)
+
+-
+
+22 (52.4%)
+23 (54.8%)
+
+1 (2.4%)
+2 (4.8%)
+
+3 (7.1%)
+5 (11.9%)
+2 (4.8%)
+1 (2.4%)
+1 (2.4%)
+1 (2.4%)
+
+1 (2.4%)
+1 (2.4%)
+1 (2.4%)
+1 (2.4%)
+0 (0.0%)
+
+5 (11.9%)
+10 (23.8%)
+10 (23.8%)
+34 (81.0%)
+10 (23.8%)
+8 (19.0%)
+21 (50.0%)
+12 (28.6%)
+12 (28.6%)
+16 (38.1%)
+13 (31.0%)
+16 (38.1%)
+15 (35.7%)
+10 (23.8%)
+
+1 (2.4%)
+1 (2.4%)
+5 (11.9%)
+2 (4.8%)
+16 (38.1%)
+3 (7.1%)
+5 (11.9%)
+1 (2.4%)
+1 (2.4%)
+
+2 (4.8%)
+3 (7.1%)
+
+ITT Cohort (N=50)
+
+PP Cohort (N=42)
+
+gemcitabine + nab-paclitaxel (28-day Cycle, N)
+Cycles, median (range)
+Median Relative Dose Intensity (1st 6 Cycles)
+Any dose reduction/delay(s) ≥1 week
+Pre-implantation dose reduction/delay(s) ≥1 week
+
+40
+4 (1–22)
+47.9%
+45 (90.0%)
+na
+
+34
+5 (1–22)
+48.5%
+31 (91.2%)
+76.5%
+
+FOLFIRINOX (14-day Cycle, N)
+Cycles, median (range)
+Median Relative Dose Intensity (1st 12 Cycles)
+Any dose reduction/delay(s) ≥1 week
+Pre-implantation dose reduction/delay(s) ≥1 week
+
+10
+6 (2–13)
+42.5%
+10 (100%)
+na
+
+8
+6 (3–13)
+46.0%
+8 (100%)
+87.5%
+
+Safety and Tolerability (PP Cohort)
+• 988 AEs reported; 148 were Grade ≥3 (see Table 3). No serious device- or
+radiation-related toxicities were reported.
+• 330 AEs (33%) occurred pre-OncoSil™ implantation (35 Grade ≥3) vs. 658 AEs
+(67%) post-implant (113 Grade ≥3) [median follow-up: 1 vs. 15.1 months,
+respectively], with 41 vs. 609 attributed to the OncoSil™ device and/or
+implantation procedure vs. chemotherapy, respectively (see Figure. 2).
+• No increased incidence of AEs pre-implantation vs. per cycle, overall and by key
+categories, post-implantation (see Table 4).
+
+ESMO World Congress on Gastrointestinal Cancer, 1-4 July 2020
+
+25
+0
+-25
+-29 -29 -31
+-33
+
+-38
+
+-50
+
+-50
+-66 -67 -68
+-70 -71 -73
+
+-75
+
+FDG-PET, PP Cohort
+
+4
+0
+-90
+20
+16
+12
+8
+4
+0
+-90
+
+41
+-60
+
+-30
+
+0
+
+30
+
+60
+
+90
+
+120
+
+150
+
+180
+
+210
+
+240
+
+300
+
+330
+
+360
+
+-30
+
+0
+
+30
+
+60
+
+90
+
+120
+
+150
+
+180
+
+210
+
+240
+
+270
+
+300
+
+330
+
+390
+
+Range
+
+p-value
+
+-65.2
+
++319 to -100
+
+0.0010
+
+SUV Max Change, %
+
+39/42
+
+-41.0
+
++76 to -100
+
+0.0002
+
+319 277
+
+97 97
+
+50
+
+Total Lesion Glycolysis (TLG)
+
+42
+50.0%
+21.4%
+19.0%
+33.3%
+9.5%
+
+45
+12 11
+
+0
+-6
+-23
+
+-70 -71
+
+420
+
+450
+
+480
+
+390
+
+420
+
+450
+
+49
+
+50
+
+41 37
+23
+
+15 15
+
+0
+-9 -10 -12
+-25 -27 -27
+-29 -29
+
+-50
+
+40
+15.0%
+5.0%
+0%
+12.5%
+2.5%
+
+39
+10.3%
+0%
+0%
+10.3%
+5.1%
+
+37
+18.9%
+0%
+0%
+18.9%
+2.7%
+
+ITT Cohort (N=50)
+
+PP Cohort (N=42)
+
+41 (82.0%)
+0.82 (0.68–0.91)
+0.0001
+31 (62.0%)
+0.62 (0.47–0.75)
+
+38 (90.5%)
+0.90 (0.77–0.97)
+<0.0001
+30 (71.4%)
+0.71 (0.55–0.84)
+
+R0 Margin Status vs. R1, n (% of resections)
+Resection Rate
+
+ITT Cohort, n (%) (N=47/50)
+
+PP Cohort, n (%) (N=42/42)
+
+0 (0%)
+
+0 (0%)
+13 (31.0%)
+29 (69.0%)
+0 (0%)
+13 (31.0%)
+42 (100%; 95% CI: 91.6–100%)
+
+Table 7/Figure 3: Maximum Change in Tumour Volume from Baseline
+by Outcome (PP Cohort Prior to Surgical Resection)
+Median
+
+Mean
+
+Range of Change
+
+p-value
+
+-52.0
+
+-49.0
+
++11.0 to -90.0
+
+<0.0001
+
+p-value for one-sample. Wilcoxon test, percent change from baseline.
+
+Change from baseline (%)
+
+7* 5*
+
+0
+-6^ -9*
+-17† -20‡
+-31*-31^-33^ -34*
+
+-75
+-100
+
+Key: Other outcomes
+PR (by RECIST), not resected
+Resected, SD (by RECIST)
+Resected, PR (by RECIST)
+SD (by RECIST), not resected
+
+-35^ -37†-38*
+
+-40^ -41^
+
+Time Point:
+Week 8
+^
+Week 16
+†
+Week 24
+‡
+Week 32
+#
+Week 48
+
+10 (20.0%)
+
+10 (23.8%)
+
+-45‡ -46†
+
+-51‡ -52‡ -52‡ -52^
+
+-56* -57* -58^ -58*
+
+-61^ -63† -65*
+
+‡
+
+8 (80.0%) vs. 2 (20.0%) 8 (80.0%) vs. 2 (20.0%)
+20.0%
+23.8%
+
+Survival
+(see Table 11/Figure 6)
+
+Table 11/Figure 6: Kaplan-Meier Analysis of Survival
+ITT Cohort (N=50)
+
+PP Cohort (N=42)
+
+Median Progression-Free Survival (95% CI)
+
+9.3 months (5.9, 12.2)
+
+9.3 months (7.2, 12.2)
+
+One-year PFS Rate, % (95% CI)
+
+32.8% (21.3%, 50.6%)
+
+32.3% (20.4%, 51.3%)
+
+Median Overall Survival (95% CI)
+
+15.5 months (11.3, nc)
+
+16.0 months (11.1, nc)
+
+One-year Survival Rate, % (95% CI)
+
+63.4% (47.8%, 75.4%)
+
+64.0% (47.5%, 76.5%)
+
+100
+
+ITT Cohort
+
+80
+60
+40
+20
+0
+
+Tumour Volume (by Central Imaging Analysis) (see Table 7/Figure 3)
+
+-50
+
+PP Cohort (N=42)
+
+PP Cohort
+
+80
+60
+40
+20
+
+95% CI
+Censored
+
+Table 6: Best Response in Evaluable Participants
+
+-25
+
+ITT Cohort (N=50)
+
+Overall Survival
+
+Best Response (by Central Imaging Analysis) (see Table 6)
+
+Partial Response [PR]
+14 (29.8%)
+Stable Disease [SD]
+31 (65.6%)
+Progressive Disease [PD]
+2 (4.0%)
+Overall Response Rate [ORR]
+14 (29.8%)
+Disease Control Rate [DCR] 45 (95.7%; 95% CI: 85.5–99.5%)
+
+-67^ -68†
+
+-76
+
+p-values for Fisher’s Exact test, comparing the binomial proportion to the null hypothesis proportion of 0.55
+
+100
+
+Tumour Response
+
+Complete Response [CR]
+
+-68 -70 -70
+
+Table 10: Surgical Resection with Curative Intent
+
+p-values for Fisher’s Exact test, comparing the binomial proportion to the null hypothesis proportion of 0.55
+
+11*
+
+-37 -37 -40 -40 -40
+-42 -43 -47 -47
+-48 -50
+-54 -57
+-60 -60
+
+-100 -100-100-100 -100
+
+At median follow-up: 16.1 months
+
+Local Disease Control at 16 weeks, n (%)
+LDCR 16 weeks (95% CI)
+p-value for LDCR 16 weeks
+Local Disease Control at 24 weeks, n (%)
+LDCR 24 weeks (95% CI)
+
+-96 -97
+-100 -100-100-100 -100
+
+Maximum Standardized Uptake Value (SUV Max)
+
+Study Participants with Surgical Resection, n (%)
+41
+17.1%
+12.2%
+4.9%
+12.2%
+4.9%
+
+-89 -90 -90
+
+Abbreviations: SUV Max, maximum standardized uptake value; TLG, total lesion glycolysis.
+P-values as a one-sample Wilcoxon test of % change from baseline. *Graph capped at 100%
+increase (values included); **Implanted participants with evaluable PET scan assessments at
+Baseline and at Week 12.
+
+480
+
+Cycle 1 Cycle 2 Cycle 3 Cycle 4 Cycle 5 Cycle 6
+42
+33.3%
+19.0%
+16.7%
+19.0%
+9.5%
+
+-77 -77 -80 -82 -82 -82
+-83
+
+-100
+
+Local Disease Control Rate (see Table 5)
+Table 5: Local Disease Control
+
+Tumour Volume, PP Cohort (N=42)
+
+-36 -40
+-41 -41 -45
+-54 -55 -58 -60
+-61
+
+Efficacy
+
+Best Response
+
+-29
+
+-50
+
+Chemo Cycle, Adjusted to OncoSil™ Implant = Day 0
+
+42
+28.6%
+14.3%
+7.1%
+21.4%
+9.5%
+
+Key: Other outcomes
+PR (by RECIST), not resected
+Resected, SD (by RECIST)
+Resected, PR (by RECIST)
+SD (by RECIST), not resected
+
+-100
+
+360
+
+-72^ -72† -73† -74† -75#
+
+-98 -99 -100 -100
+
+76
+
+Table 4: Grade ≥3 AE Incidence per Cycle, of Specific Categories
+
+Number at Risk
+All AEs, Grade ≥3
+Haematological AEs
+Neutropenia
+Non-Haematological AEs
+Gastrointestinal AEs
+
+-96 -97 -98 -98
+
+Median
+
+100
+
+Time to event (days)
+
+Grade ≥3 AEs, as %
+Preof PP Participants Alive Implant
+
+-89 -90 -91
+-93 -95 -96
+
+N**
+
+609 Chemotherapy
+
+-60
+
+-86
+
+39/42
+
+OncosilTM device or implantation procedure
+(of which 27 were also attributed to chemotherapy)
+
+270
+
+-79 -79 -82
+
+TLG Change, %
+
+Number of AEs possibly or probably related to:
+
+Time to event adjusted to day of OncosilTM implantation = Day 0
+
+-78
+
+Table 9/Figure 5: % change in FDG-PET from Baseline to
+Week 12* by Outcome (PP Cohort Prior to Resection)
+
+100
+
+25
+
+Table 2: Chemotherapy Delivered
+
+Key: Other outcomes
+PR (by RECIST), not resected
+Resected, SD (by RECIST)
+Resected, PR (by RECIST)
+SD (by RECIST), not resected
+
+50
+
+-100
+
+Figure. 2: Incidence of AEs over Time by Causality (PP Cohort)
+
+Maximal Change, %
+
+• Relatively low chemo intensity (dose delays ≥1 week, dose reductions and/or early
+termination), which was seen prior to OncoSil™ implantation (median 1 cycle) and
+in a similar proportion of study participants who did not receive OncoSil™ (Table 2).
+
+50
+
+Abbreviations: implant., implantation; PP, per protocol (enrolled and implanted pts); Pts, Participants. Notes: Multiple
+records from same subject only counted once within same category. *, Combined records: Neutropenia includes
+neutropenia, febrile neutropenia, neutropenic sepsis and/or neutrophil count decreased; †, Causality = Possible or
+Probable; Abdominal pain includes abdominal pain irrespective of abdominal site of pain (lower, upper or not otherwise
+specified); Thrombocytopenia includes thrombocytopenia and/or platelet count decreased; Peripheral neuropathy
+includes peripheral neuropathy and/or peripheral sensory neuropathy; Anaemia includes AEs reported as anaemia
+and/or haemoglobin decreased; Peripheral oedema includes AEs reported as oedema peripheral and/or peripheral
+swelling.
+
+Chemotherapy Intensity
+
+N, (%) unless stated
+
+CA 19-9, PP Cohort
+
+Change from baseline (%)
+
+42 (100%) 34 (81.0%)
+
+Chemotherapy
+All-Grade
+Grade ≥3
+
+Week 5 onwards
+
+Results
+
+Age, years
+
+Pts with ≥1 AE/SAE
+
+OncoSil™ device/implant.
+All-Grade
+Grade ≥3
+
+Proportion of OS (%)
+
+• The study objective is to further investigate the safety, efficacy, feasibility and
+performance of the OncoSilTM device when implanted intratumourally using EUS in
+a patient population undergoing standard chemotherapy for unresectable LAPC.
+
+Grade ≥3
+
+Change from baseline (%)
+
+Objective
+
+All-Grade
+
+Frequency of AE/SAE events
+
+For personal use only
+
+• Locally advanced pancreatic cancer (LAPC) accounts for 30% to 40% of all
+pancreatic cancer presentations.1 Unresectable LAPC has a poor prognosis with
+a median survival of <12 months.2 Current Standard-of-Care (SoC) remains limited
+to chemotherapy or chemo-radiotherapy.
+• Phosphorous-32 (32P) Microparticles (OncoSilTM; OncoSil Medical) is a
+brachytherapy device that implants a predetermined 100 Gy dose of betaradiation-emitting 32P into pancreatic tumours via endoscopic ultrasound (EUS)
+guidance.
+– 32P Microparticles investigated in combination with gemcitabine monotherapy in
+23 patients with LAPC and metastatic disease in 2 studies, demonstrating
+acceptable tolerability and safety.
+– CE Marking approval for EU and US FDA ‘Breakthrough’ Designation have
+recently been granted for OncoSil™.
+• This analysis reports updated results of the ‘PanCO’ pilot study of
+32
+P Microparticles in combination with SoC chemotherapy in patients
+with unresectable LAPC
+
+Incidence by Causality† (N=42)
+
+PP Cohort
+(N=42)
+
+Change from baseline (%)
+
+AE Category, n (%)
+
+Table 8/Figure 4: Maximum Change in CA 19-9 from Baseline by
+Outcome (PP Cohort in Participants with Baseline ≥35 U/mL Prior
+to Resection)
+
+Proportion of OS (%)
+
+Introduction
+
+-76‡ -79† -80^
+
+-81^ -84‡
+
+0
+
+2
+
+4
+
+95% CI
+Censored
+
+6
+
+8
+
+10 12
+Month
+
+14
+
+16
+
+Number in the Risk set:
+50 49 48 47 46 45 43 43 40 37 36 32 26 22 19 14 11 8
+
+18
+6
+
+20
+6
+
+6
+
+0
+
+0
+
+2
+
+4
+
+6
+
+8
+
+10 12
+Month
+
+14
+
+16
+
+Number in the Risk set:
+42 42 42 41 41 40 39 39 36 33 32 29 25 21 18 14 11 8
+
+18
+6
+
+Surgical Resection with Curative Intent
+• Ten implanted patients underwent surgical resection by Whipple procedure
+(see Table 10), 9 received gemcitabine + nab-paclitaxel; 1 received FOLFIRINOX.
+Resections took place from 70 to 267 days post-implantation.
+• At least 4 further patients were sufficiently downstaged to be technically
+considered for surgical resection but could not undergo surgery due to
+concomitant co-morbidities and/or other considerations (advanced age,
+patient choice).
+• HPB surgeons noted reduction in the fibrosis of the tumours along blood vessels
+and favourable tissue planes.
+
+6
+
+6
+
+Abbreviations: ITT, intention-to-treat; nc, not calculable; PP, per protocol (enrolled and implanted participants);
+95% CI, 95% confidence interval.
+
+Conclusions
+• Use of EUS-guided 32P implantation is feasible, with an acceptable safety
+profile in combination with first-line SoC chemotherapy for LAPC over a
+prolonged study timeframe
+– Relatively few AEs were attributed to the OncoSil™ device and/or
+implantation procedure compared to chemotherapy
+• At a relatively mature follow-up (median 16.1 months), the PanCO study
+results provide a consistent set of outcomes that suggest clinically
+relevant benefits for patients with unresectable LAPC treated using the
+OncoSil™ device in combination with systemic chemotherapy
+• Encouraging clinical efficacy outcomes were observed, particularly
+tumour response (LDCR, ORR, Tumour Volume, CA19-9 and FDG-PET),
+surgical resection with curative intent (including a high proportion with
+R0 margins), PFS and overall survival
+• Further clinical studies on OncoSil™ are in development
+
+-90^
+
+CA 19-9 Response (PP Cohort; in Participants with Baseline ≥35 U/mL Prior to
+Resection)
+• ≥50% reduction in CA 19-9 was reported in 81.3% of patients; ≥70% reduction
+in 65.6%; and ≥90% reduction in 37.5% (see Table 8/Figure 4).
+FDG-PET Response (PP Cohort; Baseline vs. Week 12 Prior to Resection)
+• Metabolic resolution (100% reduction in TLG and SUV Max) and absence of
+defined viable neoplastic disease for 5 study participants at Week 12
+(see Table 9/Figure 5).
+
+20
+
+References
+1. Ariake K et al. Surg Case Rep 2017;3:15.
+2. Ducreux M et al. Ann Oncol 2015;26 (Suppl 5):v56-v68.
+
+Acknowledgements
+• The study is supported by Oncosil Medical Ltd.
+• Nab-paclitaxel was supported by Specialised Therapeutics Australia Pty Ltd.
+
+Disclosures
+• P Ross, A Hendlisz, T Ajithkumar, C Iwuji, M Harris, D Croagh, M Aghmesheh,
+A Nagrial, N Nguyen, M Nikfarjam, HS Wasan are participating investigators in
+the study.
+• N Wilson & D Kenny are employees of and D Turner is a consultant to Oncosil
+Medical Ltd.
+• ClinicalTrials.gov Identifier: NCT03003078
+• Contact: Paul.Ross@gstt.nhs.uk
+
+

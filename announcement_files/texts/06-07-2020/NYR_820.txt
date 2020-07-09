@@ -1,0 +1,255 @@
+For personal use only
+
+6 July 2020
+
+Sydney, Australia
+
+Nyrada Cholesterol-Lowering Drug Study Results
+•
+
+Nyrada PCSK9 inhibitor (NYX-PCSK9i) demonstrates equivalency to the two FDA approved
+monoclonal PCSK9 antibodies, Repatha® and Praluent®, in healthy human white blood cells
+
+•
+
+Results confirmed both with, and without, the presence of a statin (Mevastatin), opening up the
+potential for NYX-PCSK9i to be used alone, or in combination with statin
+
+•
+
+Nyrada has met significant scientific milestone in efforts to replace expensive ongoing injections
+with the first ever oral pill
+
+•
+
+Combined sales for Amgen Repatha® and Rengeneron/Sanofi Praluent® PCSK9 inhibitor
+injectables is in excess of US$900 million in FY2019
+
+Sydney, 6 July 2020: Nyrada Inc (ASX: NYR) is pleased to report encouraging preclinical results from
+its cholesterol-lowering program to develop a drug to treat hypercholesterolemia.
+A study using healthy donor human white blood cells (lymphocytes) treated with Nyrada’s PCSK9
+inhibitor NYX-PCSK9i showed an increase in LDL receptor (LDLR) levels and demonstrated equivalency
+to marketed monoclonal PCSK9 antibody drugs evolocumab (Repatha®, Amgen) and alirocumab
+(Praluent®, Sanofi/Regeneron). Importantly, the results were confirmed both with and without the
+addition of a statin (Mevastatin), indicating the potential to develop a combined PCSK9-statin singlepill treatment for high LDL cholesterol.
+Both Repatha® and Praluent® are used to treat patients with hypercholesterolemia and are delivered
+via subcutaneous injection. Repatha® generated sales of US$661 million in FY2019 for Amgen,
+representing 20% growth from FY20181. Praluent® reached sales of US$288 million in FY20192 for
+Regeneron/Sanofi.
+Prof. Gilles Lambert, Nyrada Scientific Advisory Board Member commented: “Nyrada plans to
+develop an oral medication PCSK9 inhibitor for patients with high cholesterol giving them a more
+convenient option than regular injections. Today’s results demonstrate that our PCSK9 inhibitor works
+just as well as the FDA approved injectable medications, Repatha® and Praluent® in this cell model,
+marking the achievement of an exciting scientific milestone for the Company. What is also exciting is
+that results occur both with and without a statin being present, opening up the potential for Nyrada’s
+drug to be given on its own, or in combination with statin therapy.”
+James Bonnar, Nyrada CEO commented: “Having a drug candidate that works as well as the two
+market-leading monoclonal PSCK9 antibodies in a human cell model is a huge achievement. It
+represents a big step forward in our mission to develop the first-ever small molecule PCSK9 inhibitor
+to treat high cholesterol and provide a compelling cost-competitive and convenient treatment
+alternative to Repatha® and Praluent®. This advance will also be welcomed by the 70% of patients at
+risk of cardiovascular disease who take a statin but are still unable to reach their target LDL cholesterol
+level, and those patients who are statin-intolerant.”
+
+1
+2
+
+https://www.prnewswire.com/news-releases/amgen-2019-financial-results
+https://www.prnewswire.com/news-releases/regeneron-2019-financial-results
+
+Nyrada Inc. Suite 3, Level 4, 828 Pacific Highway GORDON, NSW 2072
+
+Nyrada Inc. ARBN 625 401 818
+
+For personal use only
+
+Why is LDL Important to Health and what is the Role of PCSK9?
+When the body has too much LDL (bad) cholesterol, it can accumulate on artery walls, restricting blood
+flow which can lead to heart attack and stroke.
+LDL cholesterol is cleared from circulation by binding to LDL receptors (LDLR) on the surface of liver
+cells. PCSK9 is a naturally produced protein that plays a counter role in this regulation process. It does
+this by degrading the LDLR, lowering the number of receptors available to remove LDL cholesterol.
+This leads to increased levels of LDL cholesterol in the bloodstream.
+Inhibition of PCSK9 function causes a beneficial increase in LDLR on the surface of cells, improving the
+body’s ability to clear LDL cholesterol from the bloodstream.
+
+Nyrada Drug NYX-PCSK9i Increases Cellular Levels of LDLR
+In the presence of PCSK9, preservation of lymphocyte LDLR was observed in a dose-dependent
+manner by NYX-PCSK9i. This confirms NYX-PCSK9i inhibits the function of PCSK9 in degrading LDLR, as
+shown in the table below.
+An 89% retention of LDLR from PCSK9–induced degradation was observed with NYX-PCSK9i at 4 M,
+and when NYX-PCSK9i was combined with Mevastatin, which increased LDLR levels, a 90% retention
+of that enhanced LDLR level was achieved.
+- Mevastatin
+% LDLR retention
+(with PCSK9 present)
+
++ Mevastatin
+p-value
+
+% LDLR retention
+(with PCSK9 present)
+
+p-value
+
+No drug
+
+51%
+
+n/a
+
+64%
+
+n/a
+
+NYX-PCSK9i (1 M)
+
+53%
+
+0.74
+
+78%
+
+0.13
+
+NYX-PCSK9i (2 M)
+
+64%
+
+0.01
+
+77%
+
+0.06
+
+NYX-PCSK9i (4 M)
+
+89%
+
+0.001
+
+90%
+
+0.003
+
+alirocumab (Praluent®)
+
+78%
+
+0.002
+
+88%
+
+0.04
+
+evolocumab (Repatha®)
+
+84%
+
+0.0009
+
+89%
+
+0.0001
+
+bold = statistically significant
+
+The statistical significance of the effect of NYX-PCSK9i at each dose versus vehicle (no drug) is shown
+as p-values.
+
+Nyrada Inc. Suite 3, Level 4, 828 Pacific Highway GORDON, NSW 2072
+
+Nyrada Inc. ARBN 625 401 818
+
+For personal use only
+
+Limitations of the reported testing include:
+Additional testing as part of a development program would be required before NYX-PCSK9i would be
+proposed for human trials.
+Glossary
+LDL
+
+Low-density lipoprotein cholesterol often referred to as “bad” cholesterol.
+
+LDLR
+
+Low-density lipoprotein receptor. This receptor binds to particles called low-density
+lipoproteins (LDLs), which are the primary carriers of cholesterol in the blood.
+
+NYX-PCSK9i
+
+NYX-PCSK9i is the Nyrada small molecule PCSK9 inhibitor, developed to bind to PCSK9,
+to increase LDLR levels and therefore reduce LDL cholesterol.
+
+PCSK9
+
+Proprotein convertase subtilisin/kexin type 9 (PCSK9), an enzyme predominantly
+produced in the liver. PCSK9 is a key player in plasma cholesterol metabolism.
+
+Statistical
+significance
+
+Statistical significance is a measure of how likely a test result is likely to be due to
+chance e.g. a p-value of 0.05 means there is a 5% likelihood that the result is a false
+positive and a 95% likelihood that it is real. A p-value of 0.0001 means there is a .01%
+likelihood that the result is a false positive and a 99.99% likelihood that the result is
+real. In general, the larger the study size, or the larger the effect, the lower the
+p-value.
+
+General
+Nyrada has a solid cash position having $6.1 million in the bank on 31 March 2020. Also, the Company
+is actively pursuing a variety of non-dilutive funding and collaboration opportunities for the
+development of its product candidates. The Company also confirms that its operations and supply
+chains currently remain unaffected by the COVID-19 situation, although the Company is taking
+precautionary steps to help quarantine its business from any global fallout.
+About Nyrada Inc
+Nyrada is a preclinical stage, drug discovery, and development company, specialising in novel small
+molecule drugs to treat cardiovascular, neurological, and inflammatory diseases. The Company has
+two main programs, each targeting market sectors of significant size and considerable unmet clinical
+need. These are a cholesterol-lowering drug and a drug to treat brain injury, specifically traumatic
+brain injury and stroke. Nyrada Inc. ARBN 625 401 818 is a company incorporated in the state of
+Delaware, USA, and the liability of its stockholders is limited.
+
+-ENDSAuthorised by Mr. John Moore, Non-Executive Chairman, on behalf of the Board
+
+Nyrada Inc. Suite 3, Level 4, 828 Pacific Highway GORDON, NSW 2072
+
+Nyrada Inc. ARBN 625 401 818
+
+For personal use only
+
+Investor & Corporate Enquiries:
+
+Company Secretary:
+
+Prue Kelly
+T: 0459 022 445
+E: info@nyrada.com
+
+David Franks
+T: 02 8072 1400
+E: David.Franks@automicgroup.com.au
+
+Media Enquiries:
+Catherine Strong
+Citadel-MAGNUS
+T: 02 8234 0111
+E: cstrong@citadelmagnus.com
+Website : www.nyrada.com
+Forward-looking Statements
+This announcement may contain forward-looking statements. You can identify these statements by
+the fact they use words such as “aim”, “anticipate”, “assume”, “believe”, “continue”, “could”,
+“estimate”, “expect”, “intend”, “may”, “plan”, “predict”, “project”, “plan”, “should”, “target”, “will”
+or “would” or the negative of such terms or other similar expressions. Forward-looking statements
+are based on estimates, projections, and assumptions made by Nyrada about circumstances and
+events that have not yet taken place. Although Nyrada believes the forward-looking statements to be
+reasonable, they are not certain. Forward-looking statements involve known and unknown risks,
+uncertainties and other factors that are in some cases beyond the Company’s control that could cause
+the actual results, performance or achievements to differ materially from those expressed or implied
+by the forward-looking statement.
+
+Nyrada Inc. Suite 3, Level 4, 828 Pacific Highway GORDON, NSW 2072
+
+Nyrada Inc. ARBN 625 401 818
+
+

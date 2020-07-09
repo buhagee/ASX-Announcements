@@ -1,0 +1,302 @@
+For personal use only
+
+Level 2, 66 Hunter Street
+Sydney NSW 2000
+Tel: (61-2) 9300 3344
+Fax: (61-2) 9221 6333
+E-mail: pnightingale@biotron.com.au
+Website: www.biotron.com.au
+
+6 July 2020
+The Manager Companies
+ASX Limited
+20 Bridge Street
+SYDNEY NSW 2000
+
+(3 pages by email)
+
+Dear Madam,
+BIT225 REVERSES HIV-INDUCED IMMUNE EVASION
+
+The Directors of Biotron Limited (‘Biotron’) are pleased to advise that the Company is presenting new data on its
+lead HIV-1 drug, BIT225, this week at the 23rd International AIDS Conference (AIDS 2020). The data indicate
+that via its inhibition of the HIV-1 viral protein Vpu, BIT225 enhances the immune response to HIV.
+BIT225 is unique in its ability to both directly inhibit the virus and augment the immune responses against it.
+The Company has previously reported that its BIT225-009 Phase 2 HIV-1 clinical trial demonstrated safety and
+tolerability, as well as the expected viral suppression in those treated with standard anti-HIV drugs (ART) alone or
+with ART plus BIT225. The BIT225 group also showed statistically significant changes in key immune cell
+populations. The new data being presented this week at the conference explain the mechanisms by which BIT225
+induces these changes.
+“The latest results provide key information on how BIT225 directly modifies immune responses to HIV-1
+infection. It helps explain the immune changes that we saw in the Phase 2 clinical trial and gives us even more
+confidence in our product”, said Dr Michelle Miller, Biotron’s Managing Director.
+During HIV-1 infection, in order to attenuate host immune responses against the virus, specific cell surface markers
+that normally signal the immune system to attack the virus are downregulated. This downregulation enables the
+virus to evade the immune response and persist. These cells constitute a reservoir for the virus that enables it to
+persist despite ART.
+The new data show that BIT225 restores these cell surface markers to normal. In addition, the new data also
+indicate that BIT225 increases a key marker linked to functionality, meaning that T cells are able to move around
+the body and restore immune function.
+The Vpu protein of HIV-1 is largely responsible for downregulation of cell surface markers that attenuate immune
+responses. This new study used wild-type virus as well as virus that had Vpu removed to show that BIT225’s
+effects on the immune system are mediated directly through its inhibition of Vpu. These effects are additional to
+the known antiviral effect of BIT225.
+The new data support and further extend Biotron’s previous report that BIT225 “unmasks” HIV-infected cells and
+promotes immune recognition of the virus. Immune system recognition initiates the host defence processes
+including the clearance of virus.
+In combination with results from the Phase 2 clinical trial, the results reported here support further clinical study of
+the potential anti-viral and immunological benefits of BIT225 therapy in combination with ART.
+
+A copy of the poster presentation, entitled “Vpu inhibitor BIT225 alters T cell activation and homing plasma
+membrane receptor expression on CD4+ T cells (CD28 and CCR7) and monocyte-derived macrophages (CD80 and
+CD86)”, is attached.
+
+For personal use only
+
+Yours sincerely
+
+Peter J. Nightingale
+Company Secretary
+pjn10398
+
+Enquiries
+Dr Michelle Miller
+Managing Director
+Biotron Limited
++61-(0)412313329
+
+Rudi Michelson
+Monsoon Communications
++61-3 9620 3333
+
+2
+
+Title:
+
+Vpu inhibitor BIT225 alters T cell activation and homing plasma membrane receptor expression on
+(CD28 and CCR7) and monocyte-derived macrophages (CD80 and CD86)
+
++
+CD4 T
+
+LBPEA03
+
+cells
+
+Carolyn A. Luscombe1, Gary D. Ewart1, Michelle Miller1, Michael Bobardt2, Philippe Gallay2.
+1Biotron Limited, North Ryde, NSW, Australia; 2The Scripps Institute, Immunology and Microbiology, La Jolla, CA USA.
+2. T CELL HOMING and DIFFERENTIATION FUNCTION: CD4+/ CCR7
+
+For personal use only
+
+BACKGROUND
+Chronic HIV-1 infection occurs in-part because the virus encodes
+accessory proteins to misdirect the host immune system so that HIV-1infected cells can survive and propagate virus. In a recent Phase 2 clinical
+trial (BIT225-009) the addition of BIT225 to Atripla ® therapy resulted in a
+delayed decline in CD4+ T cell activation. This in vitro study investigated if
+there was a Vpu-dependent mechanism that could result in better
+activation and function of CD4+ T cells during ART. The costimulatory
+receptor of T cell activation is CD28 and its counterparts are CD80 and
+CD86 on macrophages, dendritic cells and B cells. Experiments were
+designed to identify the role of accessory proteins Vpu and Nef expression
+on CD4+ T cell activation and homing plasma membrane (PM) receptor
+expression on CD4+ T cells (CD28, CCR7 respectively) and monocytederived macrophages (MDM)(CD80, CD86).
+
+BIT225, a Vpu inhibitor, is able to counteract the HIV-1
+induced downregulation of key cellular receptors
+essential for T cell activation and response
+METHODS
+CD4+ T cells and monocytes were extracted from the blood of three donors. MDM were grown in culture from monocytes
+isolated from PBMCs. The MDM or CD4+ T cells were infected with VSVG-pseudotyped wildtype, Vpu-, Nef- and Vpu-/NefHIV-1NL4-3. The expression of PM receptors CD28, CCR7, CD80 and CD86 was measured by flow cytometry. Statistical analysis of
+the data was performed by ANOVA.
+
+RESULTS
+HIV-1NL4-3 infection of CD4+ T cells results in downmodulation of PM expression of CD28 and CCR7. Downregulation of CD28 and
+CCR7 is induced by Vpu expression. CD28 and CCR7 are expression also impacted by Nef. BIT225 treatment increases the
+expression of CD28 and CCR7 in a Vpu-dependent manner. Infection of MDM with VSVG-pseudotyped HIV-1NL4-3 resulted in
+decreased expression of CD80 and CD86. BIT225 treatment of MDM infected with VSVG-pseudotyped HIV-1NL4-3 resulted in a
+partial reversal of downmodulation of CD86 which was partially Vpu-independent. BIT225 treatment partially restores CD80
+expression. The effect on CD80 expression is Vpu-dependent. BIT225 had no observable effect on Vpu-/Nef- HIV-1NL4-3 mutants,
+primarily because double deletion of Vpu and Nef returns receptors to uninfected levels.
+
+BIT225 increases CD28, CD80/86
+plasma membrane expression in
+HIV-1 infected cells
+
+HIV-1 infection down regulates plasma
+membrane expression of CD28 and
+CD80/CD86 predominantly by Vpu and
+Nef.
+
+CD4+/CD28+ T cells
+
+1. CD4+ T CELL RECEPTOR FUNCTION
+Two steps are required for T cell activation:
+A. The binding of the PM TCR(CD3) on the T cell with its partner
+MHC/antigen complex on PM of APC. Binding of the CD4+ coreceptor.
+B. The costimulatory binding of T cell PM CD28 with its partner receptor,
+either CD80 or CD86, on PM of APC.
+
+HIV-1 utilizes 2 accessory proteins, Vpu and Nef , to reduce the efficacy of
+the costimulatory TCR recognition step by decreasing the PM expression the
+key receptors on both CD4+ T cells and MDM (Ramirez et al., 2019). This
+redundancy implies it is an important mechanism for HIV-1 to hide from
+the immune system. This is the first report of therapeutic intervention
+(BIT225) of this process that may have important implications for future
+treatment strategies. The data is consistent with the sustained increased
+plasma CD4+ T cell numbers observed in vivo during 12 weeks of Atripla®
+and 200 mg QD of BIT225 (Avihingsanon et al., 2018, Avihingsanon et al.,
+2020).
+
+CD4+ / CCR7+ T cells
+
+n/s
+**
+
+Statistical methods: Data were converted to “fold-change”
+by division with Donor- and Time- matched values from the
+untreated WT.NL4.3 dataset. Two-way ANOVA was used to
+statistically assess the within-virus difference between
+BIT225 treated and untreated means. The linear model:
+Fold-Change = β0 + β1*Time+ β2*IBIT225 was fitted to the
+dataset (N=18) for each virus which included measurements
+from three donors at three time-points (24h, 48h & 72h);
+either treated with BIT225 (3 mM) or not (DMSO control).
+The P-values for whether the estimate of β2 was significantly
+non-zero are summarised by the asterisks in Figures 1 to 3:
+*** P<0.001; ** P<0.01; * P<0.05; n/s P>0.05
+HIV-1 BIT225
+
+Dysfunction of Signal 2 promotes T cell
+anergy
+(inactive/hyporesponsive)
+or
+apoptosis.
+
+This study investigates the potential modulation of B7 family molecules
+(CD28, CD80 and CD86) that are essential for the co-stimulatory signaling of
+the TCR. Approximately 95% of plasma CD4+ T cells express CD28 and they
+are abundant on both resting and activated T cells. The two step TCR
+signaling combination has 3 outcomes. If the TCR and CD28 are engaged, it
+results in IL-2 production and IL-2 receptor expression which drives T cell
+proliferation and differentiation to become a limited number of subtypes. If
+the TCR is ligated alone then the T cell enters a state of anergy or apoptosis.
+If only the CD28 is ligated, there is no effect.
+
+Figure 3. Plasma Membrane expression of CCR7 on CD4+ T cells treated
+with 3 mM of BIT225 at 72 hours post-infection with HIV-1NL4-3 or mutants
+deficient in Vpu, Nef or both Vpu and Nef.
+
+*
+
+Modified Schematic of T cell receptor activation adapted from
+Sharma et al., 2018.
+
+HIV-1 down regulates MHC
+class I expression important
+for CD4+ T cell recognition of
+viral antigen. This MHC class-1
+is modulated by Vpu (HLA-C)
+and Nef (HLA-A/B).
+
+T cell function/differentiation is affected by the environment and education
+the cell is exposed to during its circulation through the blood and immune
+tissues/organs. A critical homing signal is the expression of PM Chemokine
+receptor 7 (CCR7). This study determined that PM CCR7 expression on CD4+
+T cells was decreased by HIV-1 infection. The PM expression of CCR7 was
+reduced when Vpu was expressed. This Vpu dependence on CCR7
+expression was eliminated by treatment with BIT225. This data suggest that
+CD4+ T cell function may be improved when BIT225 is added to ART .
+
+***
+
+n/s
+***
+
+MDM /CD80
+A
+**
+
+**
+
+**
+
+MDM /CD86
+B
+
+***
+***
+
+***
+
+HIV-1 infection downregulates PM expression
+of CCR7 on CD4+ T cells.
+
+Figure 1. Plasma Membrane expression of CD28 on CD4+ T cells treated with 3 mM of
+BIT225 at 72 hours post-infection with HIV-1NL4-3 or mutants deficient in Vpu, Nef or
+both Vpu and Nef.
+Plasma membrane expression of CD28 on CD4+ T cells was decreased by infection with
+wildtype (WT) HIV-1NL4-3 over the 72 hour experiment. The expression of CD28 was downmodulated by the expression of Vpu and Nef. BIT225 treatment of WT infected cells resulted
+in a partial restoration of CD28 expression that was dependent on Vpu expression only. The
+double deletion of Vpu and Nef resulted in restoration of CD28 expression to levels
+comparable to unifected cells. BIT225 reduces Vpu-related PM CD28 downregulation as a
+result of HIV-1 infection.
+Figure 2. Plasma Membrane expression of CD80 or CD86 on MDM treated with 3 mM of
+BIT225 at 72 hours post-infection with HIV-1NL4-3 or mutants deficient in Vpu, Nef or both
+Vpu and Nef.
+A. Plasma membrane expression of CD80 on MDM was decreased by infection with WT
+HIV-1NL4-3 over the 72 hour experiment. The PM expression of CD80 was modulated by the
+expression of Vpu and Nef. BIT225 treatment of WT infected cells resulted in a partial
+restoration of PM CD80 expression. The double deletion of Vpu and Nef resulted in
+restoration of CD80 expression to levels comparable to uninfected cells. The BIT225
+treatment response was dependent on Vpu expression.
+B. Plasma membrane expression of CD86 on MDM was decreased by infection with WT
+HIV-1NL4-3 over the 72 hour experiment. The PM expression of CD86 was modulated by the
+expression of Vpu and Nef. BIT225 treatment of WT infected cells resulted in a partial
+restoration of PM CD86 expression. The double deletion of Vpu and Nef resulted in
+restoration of CD86 expression to levels comparable to uninfected cells. Unlike for the other
+receptors, the CD86 BIT225 treatment response was similar in the viruses with Vpu or Nef
+single deletions, implying a novel mechanism that is largely independent of Vpu expression.
+
+BIT225 treatment increases PM expression of
+CCR7. This may in part reestablish the
+appropriate migration and homing to
+anatomical sites in the body of the
+CCR7+/CD4+T cells. This may result in more
+efficient recognition and elimination of HIV-1
+infected cells.
+
+Modified schematic from British Society of
+Immunology: T lymphocyte migration occurs via a
+multistep pathway.
+https://www.immunology.org/public-information/bitesizedimmunology/systems-and-processes/t-lymphocyte-transmigration
+
+CONCLUSIONS
+BIT225 is a clinical stage Vpu inhibitor, the first in class. A phase II study demonstrated safety and
+tolerability, as well as the expected viral suppression in those treated with ART alone or ART plus
+BIT225. Those in the BIT225 arm had a persistent elevation of activated CD4 cells, which has
+prompted further study, including the data presented here. These data suggest that BIT225 treatment
+can counteract Vpu-mediated downregulation of membrane expressed CD28 & CCR7 on CD4+ T cells,
+as well as CD80 & CD86 on monocyte derived macrophages (MDM) infected with HIV-1. The
+mechanism of action of BIT225 requires the presence of Vpu for modulation, and restoration of CD28
+& CCR7 on CD4+ T cells, and CD80 on MDM. BIT225 treatment-related enhancement of CD86
+expression on MDMs infected with the Vpu- mutant virus indicates that an additional mechanism of
+BIT225 action operates in MDM. BIT225 thus appears to enhance the costimulatory, signal 2, of TCR
+activation by increasing expression of both the receptor, and ligand on CD4+ T cells and MDM,
+respectively. These findings, and those of enhanced homing indicate novel attributes of BIT225 Vpu
+inhibition that suggest enhanced host immune surveillance of HIV. In the clinical trial enhanced CD4
+activation, seen only in the BIT225 treated group, was persistent, even in the setting of rapidly falling
+HIV RNA. Further studies will explore the hypothesis that Vpu inhibition permits the detection
+of virus-infected cells that were neither eradicated by suppressive ART, nor readily identified by the
+host immune system.
+BIT225 treatment may be a valuable addition to future
+antiretroviral treatment, and in consideration of eradication strategies.
+REFERENCES
+Avihingsanon et al., 2018 HepDART Abstract 15
+Avihingsanon et al., 2020 CROI Abstract 00506
+Ramirez et al., 2019 Cells 8:1020 doi: 10.3390/cells8091020
+Sharma et al., 2018 Clin Immunol doi:10.1016/B978-0-7020-6896-6.00077-6
+
+Author Contact Information: mmiller@biotron.com.au
+
+

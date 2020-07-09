@@ -1,0 +1,886 @@
+ACN 009 253 187
+
+For personal use only
+
+AUSTRALIAN SECURITIES EXCHANGE ANNOUNCEMENT
+3 JUNE 2020
+Pernatty IOCG* Project – Drilling Programme
+Drilling of up to 8 targets arranged for August 2020
+Possible New Priority Targets Identified
+(* IOCG – Iron/Oxide-Copper-Gold)
+
+Drilling at Tasman’s 100% owned Pernatty IOCG project, located on the Gawler Craton approx.
+20km south east of the Carrapateena deposit in South Australia (refer Figure 1), is scheduled to
+commence in August 2020. Up to eight targets identified from geophysical surveys are proposed to
+be drilled.
+
+Tasman
+Target
+Areas
+
+Figure 1: Pernatty Project Location Plan (grid GDA 94, Z53).
+EM surveying over priority gravity and magnetic targets (refer TAS:ASX announcement 7 January
+2019) identified within the Pernatty IOCG project, was completed, including follow up surveys, in
+December last year. A total of 54.7 line km were surveyed over the two target areas (refer Figure 2
+and TAS:ASX announcement 20 January 2020). The aim of the survey was to locate anomalous
+areas of electrical conductivity in the basement that could be due to sulphide mineralisation, as well
+as give information about depth to basement.
+Level 15, 197 St George’s Terrace, Perth, Western Australia 6000
+Telephone: (08) 9282 5889
+Website: www.tasmanresources.com.au
+
+ASX Announcement: 3 June 2020
+
+For personal use only
+
+New EM Data Analysis and Modelling
+Previous geophysical modelling of the EM data in the northern area (refer Figure 2) in conjunction
+with the available gravity and magnetic data has recently been reviewed by Tasman’s consultant
+geophysicist after analysis of what was previously thought to be spurious EM data along one of the
+surveyed lines.
+
+Line 6524000N
+
+Figure 2: EL 6137. Residual gravity image showing EM survey lines (white) and location of
+modelled TEM conductor in southern area (yellow hatch). Yellow circles in north area are
+approx. locations of modelled steeply dipping conductive plates. White circles are locations of
+small coincident gravity-magnetic-TEM anomalies. Green circles are the three additional
+targets the subject of this announcement. Overall dimensions of EM anomalies in north area
+unknown. Grid GDA 94 Z53.
+2
+
+For personal use only
+
+ASX Announcement: 3 June 2020
+
+An anomalous segment of EM survey line 6524000N (refer Figure 2) between 751100E and 751600E was
+resurveyed by the contractor in December, 2019, only to find, that the anomalous effects were no longer
+obvious and normal polarization-free readings were observed. The geophysical report was written assuming
+that the second data set was correct and the earlier one was spurious; however, a question remained regarding
+the veracity of the data. Logically, one or the other, or both surveys seemingly had to be wrong and after a
+thorough analysis Tasman’s consultant geophysicist believes that both may have been correct but subject to
+different conditions.
+The geophysicist now believes that the anomalous readings on the first survey were most likely due to
+polarisation effects due to a higher current in a two turn transmitter loop which was not detected by the second
+survey which may have used only a one turn loop and hence a lower transmitter current (AMIRA TEM format
+does not include provision for recording the number of turns in a transmitter loop).
+As a result the questionable segment of line is to be re-surveyed, within the next few weeks, with one reading
+being taken with a single turn loop and a second reading to be taken when feeding the same current into a twoturn loop.
+Modelling of the EM results from the first survey on Line 6524000N (Figures 3&4) has recently been
+completed and three additional high priority drilling targets have been delineated, assuming of course that the
+data from the anomalous segment of the first EM survey is reliable.
+
+Figure 3: Line 6524000N, TEM results from first EM survey using a 2 turn transmitter loop.
+
+3
+
+For personal use only
+
+ASX Announcement: 3 June 2020
+
+Figure 4: Line 6524000N, best model fit of EM data shown in Figure 3, showing modelled
+conductive plates .
+
+Tasman’s geophysicist has concluded that the modelled flat lying polarizable Plate_01 (refer Figure
+4) may represent sulphides in relatively shallow porous rocks of the Adelaidean cover sequence such
+as the Whyalla Sandstone if present, and possibly of similar style to the copper sulphides at Mt
+Gunson, 40km to the west. The deeper rocks represented by Plate_02 and Plate_04 may represent a
+deeper source for any base metal sulphide accumulations here.
+Modelled Plates_02 and Plate_04 coincide laterally as well as depth-wise, with dense and magnetic
+bodies recognised in the density-magnetic susceptibility model for the area and are priority targets
+for IOCG copper sulphide mineralisation (refer Figure 4 and gravity and magnetic profiles in Figure
+3).
+Drilling Program
+Subject to a successful capital raising Tasman is proposing to drill some or all of the eight EM ±
+gravity-magnetic targets (refer Figure 2) in the September quarter. Should the earlier EM data from
+Line 6524000N prove to be reliable Tasman would view the targets on this line as of the highest
+priority.
+
+Greg Solomon
+Executive Chairman
+This announcement was authorised by the above signatory.
+For any queries regarding this announcement please contact Aaron Gates on +618 9282 5889.
+
+4
+
+ASX Announcement: 3 June 2020
+
+Disclaimer
+
+For personal use only
+
+The interpretations and conclusions reached in this report are based on current geological theory and the best evidence available to
+the authors at the time of writing. It is the nature of all scientific conclusions that they are founded on an assessment of probabilities
+and, however high these probabilities might be, they make no claim for complete certainty. Any economic decisions that might be
+taken on the basis of interpretations or conclusions contained in this report will therefore carry an element of risk.
+It should not be assumed that the reported Exploration Results will result, with further exploration, in the definition of a Mineral
+Resource.
+Competent Persons Statement
+The information in this announcement that relates to Exploration Results is based on and fairly represents information compiled by
+Michael J. Glasson, a Competent Person who is a member of the Australian Institute of Geoscientists.
+Mr Glasson is an employee of the company. Mr Glasson is a share and option holder.
+Mr Glasson has sufficient experience that is relevant to the style of mineralisation and type of deposit under consideration and to the
+activity being undertaken to qualify as a Competent Person as defined in the 2012 Edition of the ‘Australasian Code for Reporting of
+Exploration Results, Mineral Resources and Ore Reserves’. Mr Glasson consents to the inclusion in the report of the matters based
+on their information in the form and context in which it appears.
+
+5
+
+ASX Announcement: 3 June 2020
+
+For personal use only
+
+THE FOLLOWING TABLES ARE PROVIDED TO ENSURE COMPLIANCE WITH THE
+JORC CODE (2012 EDITION) FOR THE REPORTING OF EXPLORATION RESULTS.
+PERNATTY PROJECT
+Section 1 Sampling techniques and data
+(criteria in this group apply to all succeeding groups)
+
+Criteria
+Sampling
+techniques.
+
+JORC Code explanation
+
+
+Nature and quality of sampling (EG cut
+channels, random chips or specific specialised
+industry standard measurement tools
+appropriate to the minerals under investigation,
+such as down hole gamma sondes, or handheld
+XRF instruments, etc). These examples should
+not be taken as limiting the broad meaning of
+sampling.
+
+
+
+Include reference to measures taken to ensure
+sample representivity and the appropriate
+calibration of any measurement tools or systems
+used.
+
+
+
+Aspects of the determination of mineralisation
+that are Material to the Public Report. In cases
+where “industry standard” work has been done
+this would be relatively simple (eg “reverse
+circulation drilling was used to obtain 1m
+samples from which 3 kg was pulverised to
+produce a 30g charge for fire assay”). In other
+cases more explanation may be required, such as
+where there is coarse gold that has inherent
+sampling problems. Unusual commodities or
+mineralisation types (eg submarine nodules) may
+warrant disclosure of detailed information.
+Drill type (eg. core, reverse circulation, openhole hammer, rotary air blast, auger, Bangka
+etc.) and details (eg. core diameter, triple or
+standard tube, depth of diamond tails, facesampling bit or other type, whether core is
+oriented and if so, by what method, etc.).
+Whether core and chip sample recoveries have
+been properly recorded and results assessed.
+
+Drilling techniques.
+
+
+
+Drill sample
+recovery.
+
+
+
+Logging.
+
+
+
+Measures taken to maximise sample recovery
+and ensure representative nature of the samples.
+
+
+
+Whether a relationship exists between sample
+recovery and grade and whether sample bias
+may have occurred due to preferential loss/gain
+of fine/coarse material.
+Whether core and chip samples have been
+logged to a level of detail to support appropriate
+Mineral Resource estimation, mining studies and
+metallurgical studies.
+
+
+
+Commentary
+
+
+No drilling or sampling is reported. A
+moving loop ground EM survey was
+carried out. An EMIT SMARTem 24
+receiver was used to take all of the EM
+data. Data were sensed using a 3component RVR coil. Transmitted fields
+were generated with a Zonge GGT30
+geophysical transmitter powered by
+aZMG-30 genset. MLEM output
+current/ramp times were around
+38A/640μs at 1Hz for most of the
+survey. An EMIT transmitter controller
+was used to control transmitter wave
+form and was synchronised via GPS.
+The double-turn, 200x200m transmitter
+loop was constructed using insulated
+4mm2 multistrand copper wire.
+
+
+
+For each station at least three blocks or
+stacks of data were acquired (more
+blocks or stacks if there was a noisy
+decay) to allow editing and assessment
+of data repeatability.
+
+
+
+Not Applicable (NA) – no drilling or
+sampling is reported.
+
+
+
+Not Applicable (NA) – no drilling or
+sampling is reported.
+
+
+
+Not Applicable (NA) – no drilling or
+sampling is reported.
+
+
+
+Not Applicable (NA) – no drilling or
+sampling is reported.
+
+
+
+Not Applicable (NA) – no drilling or
+sampling is reported.
+
+
+
+Not Applicable (NA) – no drilling or
+sampling is reported.
+
+
+
+Whether logging is qualitative or quantitative in
+nature. Core (or costean, channel etc.)
+photography.
+
+
+
+Not Applicable (NA) – no drilling or
+sampling is reported.
+
+
+
+The total length and percentage of the relevant
+intersections logged.
+
+
+
+Not Applicable (NA) – no drilling or
+sampling is reported.
+
+6
+
+ASX Announcement: 3 June 2020
+
+For personal use only
+
+Sub-sampling
+techniques and
+sample preparation.
+
+Quality of assay data
+and laboratory tests.
+
+Verification of
+sampling and
+assaying.
+
+Location of data
+points.
+
+
+
+If core, whether cut or sawn and whether
+quarter, half or all core taken.
+
+
+
+If non-core, whether riffled, tube sampled, rotary
+split etc. and whether sampled wet or dry.
+
+
+
+For all sample types, the nature, quality and
+appropriateness of the sample preparation
+technique.
+
+
+
+Quality control procedures adopted for all subsampling stages to maximise representivity of
+samples.
+
+
+
+Measures taken to ensure that the sampling is
+representative of the in situ material collected.
+
+
+
+Whether sample sizes are appropriate to the
+grainsize of the material being sampled.
+The nature, quality and appropriateness of the
+assaying and laboratory procedures used and
+whether the technique is considered partial or
+total.
+
+
+
+
+
+For geophysical tools, spectrometer, handheld
+XRF instruments, etc, the parameters used in
+determining the analysis including instrument
+make and model, reading times, calibrations
+factors applied and their derivation etc.
+
+
+
+Nature of quality control procedures adopted (eg.
+standards, blanks, duplicates, external laboratory
+checks) and whether acceptable levels of accuracy
+(ie. lack of bias) and precision have been
+established.
+The verification of significant intersections by
+either independent or alternative company
+personnel.
+
+
+
+
+
+Not Applicable (NA) – no drilling or
+sampling is reported.
+
+
+
+Not Applicable (NA) – no drilling or
+sampling is reported.
+
+
+
+Not Applicable (NA) – no drilling or
+sampling is reported.
+
+
+
+Not Applicable (NA) – no drilling or
+sampling is reported.
+
+
+
+Not Applicable (NA) – no drilling or
+sampling is reported.
+
+
+
+Not Applicable (NA) – no drilling or
+sampling is reported.
+
+
+
+Not Applicable (NA) – no drilling or
+sampling is reported.
+
+
+
+Not Applicable (NA) – no drilling or
+sampling is reported.
+
+
+
+Not Applicable (NA) – no drilling or
+sampling is reported.
+
+
+
+Not Applicable (NA) – no drilling or
+sampling is reported.
+
+
+
+Not Applicable (NA) – no drilling or
+sampling is reported.
+
+
+
+Not Applicable (NA) – no drilling or
+sampling is reported.
+
+
+
+Not Applicable (NA) – no drilling or
+sampling is reported.
+
+
+
+Not Applicable (NA) – no drilling or
+sampling is reported.
+
+
+
+The use of twinned holes.
+
+
+
+Documentation of primary data, data entry
+procedures, data verification, data storage
+(physical and electronic) protocols.
+
+
+
+Discuss any adjustment to assay data.
+
+
+
+Accuracy and quality of surveys used to locate
+drill holes (collar and down-hole surveys),
+trenches, mine workings and other locations used
+in Mineral Resource estimation.
+
+
+
+Specification of the grid system used.
+
+
+
+The grid system used is Geodetic
+Datum of Australia 1994; MGA Zone
+53.
+
+
+
+Quality and adequacy of topographic control.
+
+
+
+Topography based on good quality
+data from previous gravity survey
+
+7
+
+ASX Announcement: 3 June 2020
+Data spacing and
+distribution.
+
+
+
+Data spacing for reporting of Exploration Results.
+
+
+
+
+
+For personal use only
+
+
+
+Orientation of data
+in relation to
+geological structure.
+
+Whether the data spacing and distribution is
+sufficient to establish the degree of geological and
+grade continuity appropriate for the Mineral
+Resource and Ore Reserve estimation procedure(s)
+and classifications applied.
+
+EM surveying was conducted on 250m
+line spacings in the southern area and
+250 to 1000m spacings in the norhern
+area.
+Station spacing along the lines was
+100m.
+
+
+
+Not Applicable (NA) – no drilling or
+sampling is reported.
+
+
+
+Not Applicable (NA) – no drilling or
+sampling is reported.
+
+
+
+Whether sample compositing has been applied.
+
+
+
+Whether the orientation of sampling achieves
+unbiased sampling of possible structures and the
+extent to which this is known, considering the
+deposit type.
+
+
+
+Not Applicable (NA) – no drilling or
+sampling is reported.
+
+If the relationship between the drilling orientation
+and the orientation of key mineralised structures is
+considered to have introduced a sampling bias, this
+should be assessed and reported if material.
+The measures taken to ensure sample security.
+
+
+
+Not Applicable (NA) – no drilling or
+sampling is reported.
+
+
+
+Not Applicable (NA) – no drilling or
+sampling is reported.
+
+The results of any audits or reviews of sampling
+techniques and data.
+
+
+
+Not Applicable (NA) – no drilling or
+sampling is reported.
+
+
+
+Sample security
+
+
+
+Audits or reviews.
+
+
+
+8
+
+ASX Announcement: 3 June 2020
+
+Section 2 Reporting of Exploration Results
+(criteria listed in the preceding group apply also to this group)
+
+For personal use only
+
+Criteria
+Mineral tenement
+and land tenure
+status.
+
+JORC Code explanation
+
+
+
+
+Exploration done
+by other parties.
+
+
+
+Geology.
+
+
+
+Drill hole
+informa
+tion.
+
+
+
+Type, reference name/number, location and
+ownership including agreements or material
+issues with third parties such as joint
+ventures, partnerships, overriding royalties,
+native title interests, historical sites,
+wilderness or national park and
+environmental settings.
+
+The security of the tenure held at the time of
+reporting along with any known impediments
+to obtaining a licence to operate in the area.
+Acknowledgment and appraisal of
+exploration by other parties.
+
+Deposit type, geological setting and style of
+mineralisation.
+
+A summary of all information material to the
+understanding of the exploration results
+including a tabulation of the following
+information for all Material drill holes:
+
+
+Easting and northing of the drill hole
+collar
+
+
+
+Elevation or RL (Reduced Levelelevation above sea level in metres) of
+the drill hole collar
+
+
+
+Dip and azimuth of the hole
+
+
+
+Down hole length and interception depth
+
+
+
+Hole length
+
+9
+
+Commentary
+
+
+Exploration Licence No 6137 is located
+approximately 80km ESE of Woomera in
+South Australia and is owned 100% by
+Tasman Resources Ltd.
+There are no joint ventures, partnerships or
+royalties involved. The EL is covered by the
+Kokatha Native Title Claim Settlement ILUA
+S12014/011 and agreements between the
+claimants and Tasman designed to protect
+Aboriginal heritage sites. There are no
+historical or wilderness sites or national
+parks or known environmental settings.
+
+
+
+Tasman has secure tenure over the EL at
+the time of reporting and there are no known
+impediments to obtaining a licence to
+operate in the area.
+
+
+
+Very little previous exploration has been
+carried out within the tenement area. This
+work appears to have been confined to
+government gravity and magnetic surveys
+and some limited infill gravity surveying by a
+previous explorer.
+The type of deposit sought is an iron-oxide,
+copper gold type system (IOCG), similar to
+the Carrapateena deposit, about 20km to the
+NW. Carrapateena occurs within basement
+rocks beneath approximately 400m of
+younger, flat-lying sedimentary cover rocks.
+
+
+
+
+
+No drilling has been completed within
+Tasman’s EL6137 and hence subsurface
+geology and depth to older basement in the
+tenement are uncertain at this stage.
+Not Applicable (NA) – no drilling or sampling
+is reported.
+
+
+
+Not Applicable (NA) – no drilling or sampling
+is reported.
+
+
+
+Not Applicable (NA) – no drilling or sampling
+is reported.
+
+
+
+Not Applicable (NA) – no drilling or sampling
+is reported.
+
+
+
+Not Applicable (NA) – no drilling or sampling
+is reported.
+
+
+
+Not Applicable (NA) – no drilling or sampling
+is reported.
+
+ASX Announcement: 3 June 2020
+
+For personal use only
+
+Data aggregation
+methods.
+
+Relationship
+between
+mineralisation
+widths and
+intercept lengths.
+
+
+
+In reporting Exploration Results, weighting
+averaging techniques, maximum and/or
+minimum grade truncations (eg. cutting of
+high grades) and cut-off grades are usually
+material and should be stated.
+
+
+
+Not Applicable (NA) – no drilling or sampling
+is reported.
+
+
+
+Where aggregate intercepts incorporate
+short lengths of high grade results and longer
+lengths of low grade results, the procedure
+used for such aggregation should be stated
+and some typical examples of such
+aggregations should be shown in detail.
+
+
+
+Not Applicable (NA) – no drilling or sampling
+is reported.
+
+
+
+The assumptions used for any reporting of
+metal equivalent values should be clearly
+stated.
+These relationships are particularly
+important in the reporting of Exploration
+Results.
+
+
+
+Not Applicable (NA) – no drilling or sampling
+is reported.
+
+
+
+Not Applicable (NA) – no drilling or sampling
+is reported.
+
+
+
+Not Applicable (NA) – no drilling or sampling
+is reported.
+
+
+
+Not Applicable (NA) – no drilling or sampling
+is reported.
+
+
+
+Appropriate geophysical maps are included
+in the report.
+
+
+
+Not Applicable (NA) – no drilling or sampling
+is reported.
+
+
+
+
+
+If the geometry of the mineralisation with
+respect to the drill hole angle is known, its
+nature should be reported.
+
+
+
+If it is not known and only the down-hole
+lengths are reported, there should be a clear
+statement to this effect (eg. ‘downhole length,
+true width not known’).
+Where possible, maps and sections (with
+scales) and tabulations of intercepts should
+be included for any material discovery being
+reported if such diagrams significantly
+clarify the report.
+Where comprehensive reporting of all
+Exploration Results is not practicable,
+representative reporting of both low and high
+grades and/or widths should be practiced to
+avoid misleading reporting of Exploration
+Results.
+Other exploration data, if meaningful and
+material, should be reported including (but
+not limited to): geological observations;
+geophysical survey results; geochemical
+survey results; bulk samples - size and method
+of treatment; metallurgical test results; bulk
+density, groundwater, geotechnical and rock
+characteristics; potential deleterious or
+contaminating substances.
+The nature and scale of planned further
+work (eg. tests for lateral extensions or depth
+extensions or large-scale step-out drilling).
+Diagrams clearly highlighting the areas of
+possible extensions, including the main
+geological interpretations and future drilling
+areas, provided this information is not
+commercially sensitive
+
+Diagrams.
+
+
+
+Balanced
+reporting.
+
+
+
+Other substantive
+exploration data.
+
+
+
+Further work.
+
+
+
+
+10
+
+
+
+Geophysical results are reported in the
+report.
+No other substantive exploration data is
+reported.
+
+
+
+The nature of planned further work is
+included in the report.
+
+
+
+Please refer to information in the report.
+
+

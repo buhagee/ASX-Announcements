@@ -1,5 +1,9 @@
 #!/bin/sh
 
+# Title: Announcement Analysis
+# Name: Justin Buhagiar
+# Last edited: 9/7/20
+
 date="$1"
 pdfToTxt="true"
 
@@ -8,7 +12,7 @@ texts="announcement_files/texts"
 reports="announcement_files/reports"
 
 # If no argument todays date is used
-if test $# != 1 >/dev/null
+if [ "$#" -lt 1 ] 
 then
 	date="$(date +'%d-%m-%Y')"
 fi
@@ -20,7 +24,7 @@ then
 	then 
 		pdfToTxt="false"
 	else
-	echo "Directory '$pdfs/$date' DOES NOT exists."
+	echo "Directory '$pdfs/$date' DOES NOT exist."
 	echo "Usage: ./seachAnn.sh <dd-mm-yyyy>"
 	exit 1
 	fi
@@ -30,7 +34,7 @@ fi
 # Doesn't overite txt file if it already exists
 if "$pdfToTxt" = "true"
 then
-	echo "Converting pdf files to txt..."
+	echo "Converting pdf files to txt. This may take some time..."
 
 	if [ ! -d "$texts/$date" ]
 	then
@@ -43,14 +47,14 @@ then
 		fileName=`echo "$file" | cut -d'/' -f4 | cut -d'.' -f1`
 		if [ ! -f "$texts/$date/$fileName.txt" ]
 		then
-			pdftotext "$file" "$texts/$date/$fileName.txt"
+			pdftotext "$file" "$texts/$date/$fileName.txt" > /dev/null 2>&1
 		fi
 	done
 
 	# Removes directory containing pdf's
 	rm -r "$pdfs/$date"
 
-	echo "Conversion Completed and deleted pdf files.\nTxt files are located in the following dir: $texts/$date"
+	echo "Conversion completed and deleted pdf files.\nTxt files are located in the following dir: $texts/$date"
 
 fi
 
@@ -58,15 +62,14 @@ reportNames="gold_drill_results"
 
 
 # Creates directory for todays reports
-if [ ! -d "announcements/reports/$date" ]
+if [ ! -d "$reports/$date" ]
 then 
-	mkdir "announcements/reports/$date"
+	mkdir "$reports/$date"
 fi
 
 # Deletes today's reports if they already exists
 for name in "$reportNames"
 do  
-	echo "$name"
 	if [ -f "$reports/$date/$name.txt" ]
 	then
 		rm "$reports/$date/$name.txt"
@@ -90,7 +93,6 @@ do
 		echo "$fileName\n" >>"$reports/$date/$reportName.txt"
 		egrep -i "$goldDrillResults" "$file" >>"$reports/$date/$reportName.txt"
 		echo "\n" >>"$reports/$date/$reportName.txt"
-		count=`expr $count + 1`	
 	fi
 
 
@@ -102,9 +104,9 @@ count=0
 # Prints location of report
 for name in "$reportNames"
 do
-	if [ -f "announcements/reports/$date/$name.txt" ]
+	if [ -f "$reports/$date/$name.txt" ]
 	then
-		count=`expr $count + 1`
+		count=$((count + 1))
 	fi
 done
 

@@ -1,0 +1,263 @@
+For personal use only
+
+7 July 2020
+Company Announcements Office
+ASX Limited
+Exchange Centre
+20 Bridge Street
+SYDNEY NSW 2001
+Dear Sir/Madam
+IMDEX enhances real-time rock knowledge offering with strategic acquisition of AusSpec
+Please find attached an announcement in relation to the above mentioned subject for release to the
+market.
+
+Authorised by
+
+Paul Evans
+Company Secretary
+Imdex Limited
+
+CONFIDENTIAL – © Imdex Limited July 2020
+
+For personal use only
+
+7 July 2020
+
+IMDEX enhances real-time rock knowledge offering with strategic
+acquisition of AusSpec
+Leading global Mining-Tech company, Imdex Limited (IMDEX or the Company), is pleased to announce
+it has acquired AusSpec International Limited (AusSpec) for A$8.5m (A$3m in cash and A$5.5m in IMDEX
+shares).
+AusSpec was founded in 2013 and is the leading provider of spectral mineralogy through its unique
+aiSIRIS platform – Artificial Intelligence (AI) Spectral InfraRed Interpretation System. AusSpec has a fouryear consistent and profitable growth profile and generates revenue 1 via a SaaS consumption model.
+The acquisition is immediately cashflow positive, will provide an additional recurring revenue stream
+for IMDEX and is expected to be earnings accretive from years 2-3. Further growth is anticipated through
+IMDEX’s existing global network and integration with adjacent IMDEX solutions.
+Key Acquisition Benefits for IMDEX
+•
+•
+•
+•
+
+•
+•
+•
+•
+
+aiSIRIS is a unique industry leading low-touch SaaS product with high barriers to entry;
+As a SaaS product, aiSIRIS delivers premium gross margins consistent with IMDEX’s strategy;
+aiSIRIS is a proven product ready to be scaled via IMDEX’s global distribution network;
+AusSpec co-founder Dr Sasha Pontual is the world-leading spectral mineralogy expert who has built
+an extensive spectral library over the past five years. Dr Pontual and other AusSpec personnel will
+join the IMDEX team;
+AusSpec enhances IMDEX’s rock knowledge offering with spectral mineralogy and AI technologies;
+aiSIRIS complements IMDEX’s existing In-Field GeoAnalysis solution and integrates with IMDEX
+geochemistry analysis software (IMDEX ioGAS™);
+AusSpec has well-established relationships with major resource companies; and
+Acquisition terms provide appropriate technology advancement and delivery requirements.
+
+Commenting on the acquisition IMDEX Chief Executive Officer, Mr Paul House, said:
+“AusSpec is a strong strategic fit for IMDEX that is consistent with IMDEX’s acquisition and development
+strategies. The acquisition provides a compelling opportunity to build on our total rock knowledge
+offering for clients – from the rig to the core farm and the mill.
+“Every mine in the world makes decisions on the four components of rock knowledge – location, texture,
+grade and mineralogy. Our technology stack currently addresses three of these components and aiSIRIS
+satisfies the fourth – mineralogy.
+1
+
+Unaudited revenue A$1.5 million for financial year ended 31 March 2020
+
+1
+
+For personal use only
+
+“In line with our value proposition, aiSIRIS also enables the timely delivery of critical data. This allows
+real-time decisions to be made, rather than having to wait weeks or months.
+“We anticipate a seamless integration and are looking forward to building on our existing relationship
+with AusSpec and its highly-knowledgeable team.”
+IMDEX Chairman, Mr Anthony Wooles added:
+“The acquisition aligns with IMDEX’s growth strategy and enhances the Company’s world-leading
+product development capabilities.
+“The prudent structure of the transaction shares the risk of future technology development and
+importantly, does not place any pressure on the strength of the Company’s balance sheet.
+“IMDEX’s Board and Executive Leadership Team are committed to a sustainable dividend policy, while
+continuing to invest in new technologies such as aiSIRIS, which have the potential to deliver substantial
+long-term earnings growth for shareholders.”
+Transaction Overview
+The consideration for the acquisition of 100% of AusSpec shares will be satisfied by three cash payments
+of A$1.0m (commencing on completion and payable annually thereafter), together with A$5.5m in
+IMDEX shares. A$5.0m IMDEX shares will be issued on completion and the balance in July 2022. Shares
+will be issued at the volume weighed average price of each ordinary IMDEX share, as traded on the ASX
+ten days prior to the date of calculation.
+Cash considerations will be funded from IMDEX’s existing cash flows. Components of the cash and
+equity considerations are conditional on the delivery of the next generation aiSIRIS-X and successfully
+contracting sites with new or existing clients.
+Completion is subject to satisfaction of certain conditions precedent and is expected to be effective in
+late July 2020.
+Additional background information regarding AusSpec, aiSIRIS, mineralogy and rock knowledge follows
+this release.
+-ENDS-
+
+2
+
+For personal use only
+
+ADDITIONAL BACKGROUND AND BENEFITS FOR CLIENTS
+AusSpec and aiSIRIS
+AusSpec is the industry leader in automated mineralogy from infrared scanners and hand-held
+spectrometers in the field.
+The New Zealand-based company was co-founded by Dr Sasha Pontual – the world-leading spectral
+mineralogy expert – who has built an extensive spectral library over the past five years. Dr Pontual holds
+a PhD in Geology and Remote Sensing. She has more than 30 years’ experience in the application of
+spectral data to mining and exploration and her vision ‘has always been to make spectral geology
+available to all geologists.’
+Dr Pontual and her team commenced development of aiSIRIS – Artificial Intelligence Spectral InfraRed
+Interpretation System – in 2013. Since then, the third-generation SaaS product has processed over 2
+million spectra on some 1000 projects with major resource companies and early technology adopters.
+It is now ready to be scaled via IMDEX’s global distribution network.
+www.ausspec.com
+How aiSIRIS Works
+Spectrometers emit and then measure the reflectance of near infrared light on a rock surface, these
+are called spectra. From these spectra, minerals and their properties can be determined.
+aiSIRIS allows the spectra captured by spectrometers to be uploaded to identify minerals using cloudbased machine algorithms. Results are then validated by spectral mineralogy experts before being
+downloaded for critical decision making. The process is considerably faster, more economical and has
+less risk than human led interpretation. As a result, mineralogy can become a routine part of the rock
+characterisation process and allows a full understanding of the mineralogy of an ore system. This
+understanding enhances the discovery phase and critically, informs how to optimally process ore once
+mining has commenced.
+
+3
+
+For personal use only
+
+IMDEX will work with Dr Pontual and the AusSpec team to develop and commercialise the next
+generation aiSIRIS-X, which removes the need for expert validation and enables mineralogy results to
+be securely accessed in real-time, anywhere and at any time.
+Why Mineralogy and Rock Knowledge are Important
+The economic viability of all orebodies is assessed on data relating to minerals, location, texture and
+grade – the four key components of total rock knowledge. Rock knowledge is understanding the rock
+as it exists in the drill or blasthole – in exploration it answers the question ‘where next’ and in production
+it answers ‘how can processing be optimised’.
+
+The minerals within an orebody influence its physical properties such as strength and breakability.
+Typically, understanding the mineralogy of a sample involves laboratory testing and expert analysis
+based on limited samples. The process is time consuming, costly and inefficient.
+The Four
+Components
+of Rock
+Knowledge
+
+IMDEXHUBIQ™ connected
+IMDEX
+Solutions
+
+•
+
+•
+•
+•
+Location
+Grade
+Texture
+Mineralogy
+
+Downhole
+Navigation™
+In-Field
+GeoAnalysis™
+Structural
+Geology™
+aiSIRIS
+
+Time Saving
+Provides actionable
+data or information in
+real-time via digital
+workflow
+Driller operable
+instrumentation
+Removes reliance on
+third-party service
+providers
+Streamlines inefficient
+workflows
+
+•
+•
+•
+•
+
+Quality
+Best in class
+sensors
+QA/QC at point of
+data collection
+Digital workflows
+remove risk of
+human error
+AI removes human
+subjectivity
+
+•
+
+•
+
+Representivity
+Lower cost than
+traditional
+methods allowing
+data to be collected
+for every metre
+drilled
+Timely information
+for critical decision
+making
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4
+
+For personal use only
+
+Drilling data is the primary source of information used to inform the major investment decisions made
+by resource companies. On average, the volume of material drilled, sampled and studied compared to
+the volume of material mined is approximately 0.0001%. Obtaining quality data and having confidence
+in the results is vital.
+IMDEX’s vision as a leading global Mining-Tech company is to provide clients with real-time access to
+quality rock knowledge to enhance decision making across the mining value chain. aiSIRIS provides
+another important component in IMDEX’s technology stack to achieve this.
+
+ABOUT IMDEX
+IMDEX is a leading Mining-Tech company, which enables successful and cost-effective operations from
+exploration to production. The Company develops cloud-connected sensors and drilling optimisation
+products to improve the process of identifying and extracting mineral resources for drilling contractors
+and resource companies globally. www.imdexlimited.com
+FURTHER INFORMATION
+Kym Clements – IMDEX Investor Relations Officer
+Mobile: 0415 181 172 Email: Kym.clements@imdexlimited.com
+
+5
+
+
